@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-29 15:10:05",
+  "updated_at": "2026-04-29T10:32:03",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -98,13 +98,17 @@
       "name": "保祿六世書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [],
+      "data_gap_reason": "image_only_no_text_content",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "24": {
       "name": "寶血會上智英文書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "27": {
       "name": "庇理羅士女子中學",
@@ -330,25 +334,33 @@
       "name": "德信中學",
       "school_type": "直資",
       "banding_tier": "",
-      "events": []
+      "events": [],
+      "data_gap_reason": "spa_js_rendered_no_extractable_dates",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "56": {
       "name": "地利亞修女紀念學校（百老匯）",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "57": {
       "name": "地利亞修女紀念學校（吉利徑）",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "58": {
       "name": "地利亞修女紀念學校（協和二中）",
       "school_type": "直資",
       "banding_tier": "",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "61": {
       "name": "東華三院陳兆民中學",
@@ -385,7 +397,56 @@
       "name": "東華三院盧幹庭紀念中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "Application period: 02/01/2026 - 16/01/2026",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1dCNai0tt8X6dgXG6eP9h-NdR1zgbFM46",
+          "confidence": "high",
+          "event_id": "evt_5e344763",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-01-24",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "Interviews will be held on 24 January 2026 (Saturday) at School Hall.",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1dCNai0tt8X6dgXG6eP9h-NdR1zgbFM46",
+          "confidence": "high",
+          "event_id": "evt_689809f7",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "本校會於二零二六年三月三十一日書面及電話通知正取學生的家長",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1dCNai0tt8X6dgXG6eP9h-NdR1zgbFM46",
+          "confidence": "high",
+          "event_id": "evt_1cd92798",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "派位結果公布",
+          "source_text": "申請結果將在二零二六年七月七日（星期二）與統一派位結果一併公佈",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1dCNai0tt8X6dgXG6eP9h-NdR1zgbFM46",
+          "confidence": "high",
+          "event_id": "evt_205ceb1d",
+          "extracted_at": "2026-04-29T10:20:28"
+        }
+      ]
     },
     "93": {
       "name": "佛教筏可紀念中學",
@@ -422,7 +483,9 @@
       "name": "高主教書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "120": {
       "name": "觀塘瑪利諾書院",
@@ -495,7 +558,32 @@
       "name": "漢華中學",
       "school_type": "直資",
       "banding_tier": "",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2024-25",
+          "type": "result",
+          "date": "2024-03-27",
+          "date_end": null,
+          "label": "中一自行分配學位取錄結果通知",
+          "source_text": "獲正取學生將於2024年3月27日（星期三）收到本校書面及電話通知。",
+          "evidence_url": "https://www.honwah.edu.hk/admission/g7/",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T16:36:21"
+        },
+        {
+          "academic_year": "2024-25",
+          "type": "result",
+          "date": "2024-07-09",
+          "date_end": null,
+          "label": "中一統一派位結果公布",
+          "source_text": "適用於循途徑一及二申請者：於2024年7月9日由教育局公布。",
+          "evidence_url": "https://www.honwah.edu.hk/admission/g7/",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T16:36:21"
+        }
+      ]
     },
     "125": {
       "name": "華仁書院（九龍）",
@@ -532,7 +620,9 @@
       "name": "萬鈞匯知中學",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "133": {
       "name": "基督教崇真中學",
@@ -775,13 +865,135 @@
       "name": "嘉諾撒聖瑪利書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2025-12-01",
+          "date_end": "2026-01-16",
+          "label": "下載申請表格",
+          "source_text": "Download the Application Form during the period from 1st December 2025 to 16th January 2026.",
+          "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
+          "confidence": "high",
+          "event_id": "evt_47b4ebb9",
+          "extracted_at": "2026-04-29T09:59:33"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_close",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "截止遞交申請表格",
+          "source_text": "Submission dates of application forms and related documents: 2nd to 16th January 2026.",
+          "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
+          "confidence": "high",
+          "event_id": "evt_cbeeb522",
+          "extracted_at": "2026-04-29T09:59:33"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "面試日期",
+          "source_text": "The interview is scheduled for 14th March 2026.",
+          "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
+          "confidence": "high",
+          "event_id": "evt_da74cc9d",
+          "extracted_at": "2026-04-29T09:59:33"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "the school will notify parents of successful applicants of their children's inclusion in the Successful Lists for Discretionary Places by letter and phone on 31st March 2026.",
+          "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
+          "confidence": "high",
+          "event_id": "evt_7c13227d",
+          "extracted_at": "2026-04-29T09:59:33"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "派位結果公布",
+          "source_text": "Results will be released on 7th July 2026 through the Education Bureau.",
+          "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
+          "confidence": "high",
+          "event_id": "evt_a3371bc0",
+          "extracted_at": "2026-04-29T09:59:33"
+        }
+      ]
     },
     "154": {
       "name": "嘉諾撒聖心書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "申請開放",
+          "source_text": "於2026年1月2日至1月16日期間…遞交已填妥的申請表及所需文件",
+          "evidence_url": "https://shcc.edu.hk/Admission/s1application2627/",
+          "confidence": "high",
+          "event_id": "evt_6c500160",
+          "extracted_at": "2026-04-29T10:00:14"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-02-28",
+          "date_end": null,
+          "label": "專項才能面試",
+          "source_text": "專項才能面試於2026年2月28日（星期六）進行，經甄選的申請人將會獲邀出席。",
+          "evidence_url": "https://shcc.edu.hk/Admission/s1application2627/",
+          "confidence": "high",
+          "event_id": "evt_fe978cd9",
+          "extracted_at": "2026-04-29T10:00:14"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "中一自行分配學位面試將於2026年3月7日（星期六）舉行。",
+          "evidence_url": "https://shcc.edu.hk/Admission/s1application2627/",
+          "confidence": "high",
+          "event_id": "evt_a763dca4",
+          "extracted_at": "2026-04-29T10:00:14"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "公佈收生結果",
+          "source_text": "將於2026年3月31日以郵件及電話通知正取學生家長自行分配學位結果。",
+          "evidence_url": "https://shcc.edu.hk/Admission/s1application2627/",
+          "confidence": "high",
+          "event_id": "evt_0f54fccc",
+          "extracted_at": "2026-04-29T10:00:14"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-04-02",
+          "date_end": null,
+          "label": "查詢截止",
+          "source_text": "可於2026年4月2日（星期四）中午十二時前向本校提出查詢。",
+          "evidence_url": "https://shcc.edu.hk/Admission/s1application2627/",
+          "confidence": "high",
+          "event_id": "evt_f519a4f6",
+          "extracted_at": "2026-04-29T10:00:14"
+        }
+      ]
     },
     "157": {
       "name": "將軍澳香島中學",
@@ -806,7 +1018,9 @@
       "name": "九龍三育中學",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [],
+      "data_gap_reason": "application_form_only_no_schedule",
+      "data_gap_confirmed": "2026-04-29T10:30:21"
     },
     "167": {
       "name": "九龍真光中學",
@@ -867,25 +1081,57 @@
       "name": "可風中學（嗇色園主辦）",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "174": {
       "name": "孔聖堂禮仁書院",
       "school_type": "直資",
       "banding_tier": "",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "178": {
       "name": "藍田聖保祿中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "中一資訊日",
+          "source_text": "Date: 6 December 2025 (Saturday). Time: 上午9:00 a.m. - 中午12:00 noon. 九龍藍田安田街10號",
+          "evidence_url": "https://docs.google.com/forms/d/e/1FAIpQLSd2XTIfynnZqIev44ftpUUMsdnu8BT8_jjnQKBShfQ_Fhm_3A/viewform",
+          "confidence": "high",
+          "event_id": "evt_26220aeb",
+          "extracted_at": "2026-04-29T10:31:33"
+        }
+      ],
+      "data_gap_reason": "info_day_only_no_full_schedule",
+      "data_gap_confirmed": "2026-04-29T10:31:15"
     },
     "205": {
       "name": "旅港開平商會中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "info_day",
+          "date": "2025-08-26",
+          "date_end": "2025-08-29",
+          "label": "中一入學銜接課程",
+          "source_text": "To support our S1 students as they transition into secondary school and foster connections with teachers and classmates, the school organized an S1 Bridging Programme from August 26 to 29, 2025.",
+          "evidence_url": "https://www.hpccss.edu.hk/en/activity/s1-bridging-programme",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T16:53:25"
+        }
+      ]
     },
     "211": {
       "name": "瑪利曼中學",
@@ -953,7 +1199,9 @@
       "name": "寧波公學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "236": {
       "name": "培僑書院",
@@ -1026,25 +1274,151 @@
       "name": "培僑中學",
       "school_type": "直資",
       "banding_tier": "Band 2",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "239": {
       "name": "啓思中學",
       "school_type": "直資",
       "banding_tier": "Band 2",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "250": {
       "name": "仁愛堂田家炳中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "升中資訊日暨SSPA講座",
+          "source_text": "6 Dec 2025 (Sat) 1pm & 3pm SSPA info day and seminar",
+          "evidence_url": "https://www.yottkp.edu.hk/CustomPage/8/2627_%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E9%9D%A2%E8%A9%A6%E6%97%A5%E7%A8%8B%E5%8F%8A%E7%94%84%E9%81%B8%E6%BA%96%E5%89%87_Part2.pdf",
+          "confidence": "high",
+          "event_id": "evt_9f3f378d",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "Application period: 2 Jan (Fri) to 16 Jan 2026 (Fri)",
+          "evidence_url": "https://www.yottkp.edu.hk/CustomPage/8/2627_%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E9%9D%A2%E8%A9%A6%E6%97%A5%E7%A8%8B%E5%8F%8A%E7%94%84%E9%81%B8%E6%BA%96%E5%89%87_Part2.pdf",
+          "confidence": "high",
+          "event_id": "evt_f367567e",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "14 Mar 2026 (Sat) 8:30am-5:00pm Interview (Group)",
+          "evidence_url": "https://www.yottkp.edu.hk/CustomPage/8/2627_%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E9%9D%A2%E8%A9%A6%E6%97%A5%E7%A8%8B%E5%8F%8A%E7%94%84%E9%81%B8%E6%BA%96%E5%89%87_Part2.pdf",
+          "confidence": "high",
+          "event_id": "evt_6b97f615",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "Successful applicants will be notified on 31 Mar 2026 by phone and by mail.",
+          "evidence_url": "https://www.yottkp.edu.hk/CustomPage/8/2627_%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E9%9D%A2%E8%A9%A6%E6%97%A5%E7%A8%8B%E5%8F%8A%E7%94%84%E9%81%B8%E6%BA%96%E5%89%87_Part2.pdf",
+          "confidence": "high",
+          "event_id": "evt_55b74dfc",
+          "extracted_at": "2026-04-29T10:25:36"
+        }
+      ]
     },
     "262": {
       "name": "沙田崇真中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "Application for S1 Discretionary Places 2/1/2026 – 16/1/2026",
+          "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+          "confidence": "high",
+          "event_id": "evt_be9bcbda",
+          "extracted_at": "2026-04-29T10:01:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "S1 Discretionary Place Interview 14/3/2026 (SAT) An interview will be arranged for each applicant.",
+          "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+          "confidence": "high",
+          "event_id": "evt_47e13c06",
+          "extracted_at": "2026-04-29T10:01:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "Notifying Parents of Successful Applicants 31/3/2026 (TUE) In addition to a written notice, the School will contact the parents concerned by phone that day.",
+          "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+          "confidence": "high",
+          "event_id": "evt_12e3ab77",
+          "extracted_at": "2026-04-29T10:01:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "派位結果公布",
+          "source_text": "Release of Allocation Results 7/7/2026 (TUE)",
+          "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+          "confidence": "high",
+          "event_id": "evt_08158eda",
+          "extracted_at": "2026-04-29T10:01:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "registration",
+          "date": "2026-07-09",
+          "date_end": "2026-07-10",
+          "label": "中一註冊",
+          "source_text": "S1 Registration 9/7/2026(THU) - 10/7/2026",
+          "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+          "confidence": "high",
+          "event_id": "evt_4e89efb0",
+          "extracted_at": "2026-04-29T10:01:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "orientation",
+          "date": "2026-08-22",
+          "date_end": null,
+          "label": "中一迎新日",
+          "source_text": "S1 Orientation Day 22/8/2026(SAT)",
+          "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+          "confidence": "high",
+          "event_id": "evt_dd9225d3",
+          "extracted_at": "2026-04-29T10:01:28"
+        }
+      ]
     },
     "264": {
       "name": "沙田培英中學",
@@ -1141,7 +1515,9 @@
       "name": "沙田蘇浙公學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "273": {
       "name": "聖保祿學校",
@@ -1178,13 +1554,99 @@
       "name": "聖公會莫壽增會督中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "Application period: 2 January 2026 (Friday) to 16 January 2026 (Friday)",
+          "evidence_url": "https://www.mst.edu.hk/attachment/upload/files/sspa-dp-appform_admmsion2026_notice.pdf",
+          "confidence": "high",
+          "event_id": "evt_12d15d11",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-02-28",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "All applicants will be invited to attend an interview, which is scheduled tentatively on 28 February 2026 (Saturday).",
+          "evidence_url": "https://www.mst.edu.hk/attachment/upload/files/sspa-dp-appform_admmsion2026_notice.pdf",
+          "confidence": "high",
+          "event_id": "evt_f2c6afb0",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "Parents of successful applicants will be notified by phone call and mail on 31 March 2026 (Tuesday).",
+          "evidence_url": "https://www.mst.edu.hk/attachment/upload/files/sspa-dp-appform_admmsion2026_notice.pdf",
+          "confidence": "high",
+          "event_id": "evt_db5b1fa2",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "派位結果公布",
+          "source_text": "The results of Discretionary Places and Central Allocation will be released at the same time on 7 July 2026 (Tuesday).",
+          "evidence_url": "https://www.mst.edu.hk/attachment/upload/files/sspa-dp-appform_admmsion2026_notice.pdf",
+          "confidence": "high",
+          "event_id": "evt_b6298e2d",
+          "extracted_at": "2026-04-29T10:20:28"
+        }
+      ]
     },
     "300": {
       "name": "聖傑靈女子中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "Submission Period: From 2nd January, 2026 to 16th January, 2026",
+          "evidence_url": "https://www.scsg.edu.hk/sites/default/files/files/application_procedures_eng_0.pdf",
+          "confidence": "high",
+          "event_id": "evt_a2e2381f",
+          "extracted_at": "2026-04-29T10:19:07"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "Interviews will be conducted on 14 March, 2026 (Sat.).",
+          "evidence_url": "https://www.scsg.edu.hk/sites/default/files/files/application_procedures_eng_0.pdf",
+          "confidence": "high",
+          "event_id": "evt_04392464",
+          "extracted_at": "2026-04-29T10:19:07"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "Notification of successful applicants on 31st March, 2026.",
+          "evidence_url": "https://www.scsg.edu.hk/sites/default/files/files/application_procedures_eng_0.pdf",
+          "confidence": "high",
+          "event_id": "evt_b81add46",
+          "extracted_at": "2026-04-29T10:19:07"
+        }
+      ]
     },
     "303": {
       "name": "聖馬可中學",
@@ -1324,7 +1786,44 @@
       "name": "蘇浙公學",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "申請人於2026年1月2日(星期五)至2026年1月16日(星期五)交回本校辦事處",
+          "evidence_url": "docs/蘇浙公學.pdf",
+          "confidence": "high",
+          "event_id": "evt_f58970a8",
+          "extracted_at": "2026-04-29T10:30:21"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-01-31",
+          "date_end": null,
+          "label": "中一自行分配學位面試（暫定）",
+          "source_text": "面試暫定於二零二六年一月三十一日舉行，本校會另行通知所有申請人參加面試。",
+          "evidence_url": "docs/蘇浙公學.pdf",
+          "confidence": "high",
+          "event_id": "evt_69d8d22c",
+          "extracted_at": "2026-04-29T10:30:21"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "本校將於二零二六年三月三十一日透過書面及電話通知正取學生的家長",
+          "evidence_url": "docs/蘇浙公學.pdf",
+          "confidence": "high",
+          "event_id": "evt_d845a16e",
+          "extracted_at": "2026-04-29T10:30:21"
+        }
+      ]
     },
     "332": {
       "name": "天水圍香島中學",
@@ -1380,7 +1879,80 @@
       "name": "田家炳中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "升中資訊日",
+          "source_text": "TKPSS Information Day 本校升中資訊日 | 6/12/2025 (Sat)",
+          "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
+          "confidence": "high",
+          "event_id": "evt_6952c6fb",
+          "extracted_at": "2026-04-29T10:02:47"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "Application for S.1 Discretionary Places 接受中一自行分配學位申請 | 2/1/2026 (Fri) – 16/1/2026 (Fri)",
+          "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
+          "confidence": "high",
+          "event_id": "evt_76a13e25",
+          "extracted_at": "2026-04-29T10:02:47"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "TKPSS S.1 Discretionary Places Interviews 本校中一自行分配學位面試 | 14/3/2026 (Sat)",
+          "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
+          "confidence": "high",
+          "event_id": "evt_7417ea9f",
+          "extracted_at": "2026-04-29T10:02:47"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "Notification of Successful applicants (S.1 Discretionary Places) | 31/3/2026 (Tue)",
+          "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
+          "confidence": "high",
+          "event_id": "evt_aa9e6b10",
+          "extracted_at": "2026-04-29T10:02:47"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "派位結果公布",
+          "source_text": "Release of allocation results 中學學位分配結果公佈 | 7/7/2026 (Tue)",
+          "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
+          "confidence": "high",
+          "event_id": "evt_8796630f",
+          "extracted_at": "2026-04-29T10:02:47"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "registration",
+          "date": "2026-07-09",
+          "date_end": "2026-07-10",
+          "label": "中一註冊日",
+          "source_text": "Registration Day 中學註冊日 | 9/7/2026 (Thu) – 10/7/2026 (Fri)",
+          "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
+          "confidence": "high",
+          "event_id": "evt_f390286a",
+          "extracted_at": "2026-04-29T10:02:47"
+        }
+      ]
     },
     "347": {
       "name": "王肇枝中學",
@@ -1563,13 +2135,159 @@
       "name": "香港四邑商工總會黃棣珊紀念中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "Applications should be submitted between 2 January 2026 and 16 January 2026",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=10jxZctQFMRIN4ygeg80l6UtqG1r2FVdA",
+          "confidence": "high",
+          "event_id": "evt_3c8e0fcf",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "面試定於 2026 年 3 月 7 日(星期六)舉行",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=10jxZctQFMRIN4ygeg80l6UtqG1r2FVdA",
+          "confidence": "high",
+          "event_id": "evt_d0092b47",
+          "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "本校將於 2026 年 3 月 31 日透過書面及電話通知正取學生家長",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=10jxZctQFMRIN4ygeg80l6UtqG1r2FVdA",
+          "confidence": "high",
+          "event_id": "evt_cb18b8a2",
+          "extracted_at": "2026-04-29T10:20:28"
+        }
+      ]
     },
     "387": {
       "name": "香港兆基創意書院 (李兆基基金會贊助、香港當代文化中心主辦)",
       "school_type": "直資",
       "banding_tier": "",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-10-18",
+          "date_end": null,
+          "label": "課程簡介會（第1場）",
+          "source_text": "課程簡介會(1) | 2025-10-18 (六) 1330-1530",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_56a6f455",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_close",
+          "date": "2025-12-01",
+          "date_end": null,
+          "label": "第一輪入學申請截止",
+          "source_text": "入學申請截止 第一輪面試 | 2025-12-01 (一)",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_3bc3c3bd",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-01-10",
+          "date_end": null,
+          "label": "第一輪面試",
+          "source_text": "面試日 第一輪面試 | 2026-01-10 (六)",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_7333fc08",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-01-23",
+          "date_end": null,
+          "label": "第一輪面試結果發放",
+          "source_text": "發放面試結果 第一輪面試 | 2026-01-23 (五)",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_b773ce20",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_close",
+          "date": "2026-01-12",
+          "date_end": null,
+          "label": "第二輪入學申請截止",
+          "source_text": "入學申請截止 第二輪面試 | 2026-01-12 (一)",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_bb15598b",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-02-07",
+          "date_end": null,
+          "label": "第二輪面試",
+          "source_text": "面試日 第二輪面試 | 2026-02-07 (六)",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_7f29b374",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-04",
+          "date_end": null,
+          "label": "第二輪面試結果發放",
+          "source_text": "發放面試結果 第二輪面試 | 2026-03-04 (三)",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_c2100d4c",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "registration",
+          "date": "2026-07-10",
+          "date_end": null,
+          "label": "中一註冊日及講座",
+          "source_text": "註冊日及講座 | 2026-07-10 (五) 0900-1400",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_ba6010be",
+          "extracted_at": "2026-04-29T10:05:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "orientation",
+          "date": "2026-08-24",
+          "date_end": "2026-08-26",
+          "label": "中一迎新活動",
+          "source_text": "迎新活動 | 2026-08-24 (一) ～ 2026-08-26 (三)",
+          "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/edit",
+          "confidence": "high",
+          "event_id": "evt_fa13534a",
+          "extracted_at": "2026-04-29T10:05:36"
+        }
+      ]
     },
     "389": {
       "name": "香港真光中學",
@@ -1606,7 +2324,92 @@
       "name": "新界鄉議局元朗區中學",
       "school_type": "官立",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-11-29",
+          "date_end": null,
+          "label": "尖子分享會",
+          "source_text": "尖子分享會 High-flyer Sharing Session 29.11.2025 (Saturday)",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "high",
+          "event_id": "evt_dfca8e7b",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "遞交中一自行分配學位申請表格 02.01.2026 (Friday) to 16.01.2026 (Friday)",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "high",
+          "event_id": "evt_4395f2ae",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": "2026-03-14",
+          "label": "中一自行分配學位面試",
+          "source_text": "自行分配學位面試 Interview of DP Application 07.03.2026 (Saturday) & 14.03.2026 (Saturday)",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "high",
+          "event_id": "evt_18c5999e",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "通知中一自行分配學位正取學生 Notification of Successful Discretionary Places Applicants 31.03.2026 (Tuesday)",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "high",
+          "event_id": "evt_15b8ba38",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "派位結果公布",
+          "source_text": "公布自行分配學位及統一派位結果 Release of DP and CA results 07.07.2026 (Tuesday)",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "high",
+          "event_id": "evt_22f8e434",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "registration",
+          "date": "2026-07-09",
+          "date_end": "2026-07-10",
+          "label": "中一註冊",
+          "source_text": "中一証冊 S.1 Registration 09.07.2026 (Thursday) to 10.07.2026 (Friday)",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "high",
+          "event_id": "evt_4ee12548",
+          "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "orientation",
+          "date": "2026-08-10",
+          "date_end": "2026-08-14",
+          "label": "中一迎新週",
+          "source_text": "中一迎新周 Pre-S.1 Orientation Week 10.08.2026 (Monday) to 14.08.2026 (Friday) P.M. 暫定",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "high",
+          "event_id": "evt_28b2d8de",
+          "extracted_at": "2026-04-29T10:25:36"
+        }
+      ]
     },
     "413": {
       "name": "伊利沙伯中學",
@@ -1717,13 +2520,52 @@
       "name": "真光女書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [],
+      "data_gap_reason": "no_public_admission_info",
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "447": {
       "name": "中華基督教會蒙民偉書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "請於 2026-01-02（星期五）至 2026-01-16（星期五）將申請表連同以下文件影印本交回本校。",
+          "evidence_url": "https://www.cccmmwc.edu.hk/attachment/upload/files/Admission/2026-2027_S1_Discretionary_Place_-_Application_Form.pdf",
+          "confidence": "high",
+          "event_id": "evt_11de1fcb",
+          "extracted_at": "2026-04-29T10:19:07"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-21",
+          "date_end": null,
+          "label": "面試通知發出",
+          "source_text": "所有申請人將獲通知於 2026-03-21 參加面試，面試通知將以所提供的回郵信封寄出。",
+          "evidence_url": "https://www.cccmmwc.edu.hk/attachment/upload/files/Admission/2026-2027_S1_Discretionary_Place_-_Application_Form.pdf",
+          "confidence": "high",
+          "event_id": "evt_edf4ed58",
+          "extracted_at": "2026-04-29T10:19:07"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "成功申請者將於 2026-03-31（星期二）透過郵件及電話通知。",
+          "evidence_url": "https://www.cccmmwc.edu.hk/attachment/upload/files/Admission/2026-2027_S1_Discretionary_Place_-_Application_Form.pdf",
+          "confidence": "high",
+          "event_id": "evt_d6c1d16f",
+          "extracted_at": "2026-04-29T10:19:07"
+        }
+      ]
     },
     "454": {
       "name": "中華基督教青年會中學",
@@ -1767,7 +2609,9 @@
       "name": "中聖書院",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [],
+      "data_gap_reason": "2025-26_form_only_no_2627_dates",
+      "data_gap_confirmed": "2026-04-29T10:30:21"
     },
     "4": {
       "name": "保良局羅傑承（一九八三）中學",
