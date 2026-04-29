@@ -267,7 +267,20 @@
       "name": "陳瑞祺（喇沙）書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-15",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "41-2025-26-interview-2025-03-15",
+          "evidence_url": "https://www.stheadline.com/local-school/3407995/",
+          "source_text": "面試日期：15/3/25（校方揀選合適的申請者）面試內容：評估申請學生之英語水平、溝通能力及社會觸覺",
+          "confidence": "medium",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "47": {
       "name": "大埔三育中學",
@@ -328,7 +341,32 @@
       "name": "東華三院陳兆民中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-01",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "61-2025-26-interview-2025-03-01",
+          "evidence_url": "https://www.twghczm.edu.hk/en/node/521",
+          "source_text": "All eligible applicants will be invited for the interview on 1 March 2025.",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "result",
+          "date": "2025-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取結果公佈",
+          "event_id": "61-2025-26-result-2025-03-31",
+          "evidence_url": "https://www.twghczm.edu.hk/en/node/521",
+          "source_text": "Successful applicants of the SSPA DP of our school will receive notifications by phone and by mail on 31 March 2025.",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "70": {
       "name": "東華三院盧幹庭紀念中學",
@@ -340,7 +378,32 @@
       "name": "佛教筏可紀念中學",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2024-11-01",
+          "date_end": null,
+          "label": "中一入學申請開始",
+          "event_id": "93-2025-26-application_open-2024-11-01",
+          "evidence_url": "https://topschool.hket.com/secondary-school/86",
+          "source_text": "中一入學申請將於二零二四年十一月一日開始，申請人可於佛教筏可紀念中學網頁下載有關申請表格",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2025-11-03",
+          "date_end": null,
+          "label": "中一入學申請開始",
+          "event_id": "93-2026-27-application_open-2025-11-03",
+          "evidence_url": "https://preview.chsc.hk/pdf/ssp2025/district_3sc.pdf",
+          "source_text": "中一入學申請將於二零二五年十一月三日開始，申請人可於本校網頁下載有關申請表格",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "116": {
       "name": "高主教書院",
@@ -425,7 +488,32 @@
       "name": "華仁書院（九龍）",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2024-25",
+          "type": "application_open",
+          "date": "2024-01-02",
+          "date_end": "2024-01-16",
+          "label": "中一自行分配學位申請期",
+          "event_id": "125-2024-25-application_open-2024-01-02",
+          "evidence_url": "https://wyk.edu.hk/wp-content/uploads/2023/11/S1_DP_2024-2025_AppGuidelines_FINAL_rev_.pdf",
+          "source_text": "2024/2025 派位年度中一自行分配學位申請日期定為2024 年1 月2 日（星期二）至2024 年1 月16 日（星期二）",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-15",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "125-2025-26-interview-2025-03-15",
+          "evidence_url": "https://www.speaktraining.com/interview-wah-yan-college-kowloon/",
+          "source_text": "面試日期將於2025年3月15日進行，面試只設一輪面試，以英語進行，內容包括時事新聞，數學邏輯以及多角度思維",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "132": {
       "name": "萬鈞匯知中學",
@@ -729,13 +817,63 @@
       "name": "瑪利曼中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2024-25",
+          "type": "interview",
+          "date": "2024-03-02",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "211-2024-25-interview-2024-03-02",
+          "evidence_url": "https://topick.hket.com/article/3661004/",
+          "source_text": "2024/25年度中一面試於2024年3月2日進行",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "info_day",
+          "date": "2024-11-30",
+          "date_end": null,
+          "label": "中一入學簡介會",
+          "event_id": "211-2025-26-info_day-2024-11-30",
+          "evidence_url": "https://topick.hket.com/article/3856487/",
+          "source_text": "瑪利曼中學（Marymount Secondary School）於2024年11月30日舉行中一入學簡介會",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2025-01-02",
+          "date_end": "2025-01-16",
+          "label": "中一自行分配學位申請期",
+          "event_id": "211-2025-26-application_open-2025-01-02",
+          "evidence_url": "https://topick.hket.com/article/3856487/",
+          "source_text": "並於2025年1月2日至16日接受2025/26年度中一入學申請",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "232": {
       "name": "南亞路德會沐恩中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2024-25",
+          "type": "interview",
+          "date": "2024-03-09",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "232-2024-25-interview-2024-03-09",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "source_text": "申請中一自行分配學位面試通知(二零二四年九月入學) 面試日期：2024 年3 月9 日(星期六)",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "234": {
       "name": "寧波公學",
@@ -747,7 +885,68 @@
       "name": "培僑書院",
       "school_type": "直資",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2024-25",
+          "type": "application_open",
+          "date": "2023-11-20",
+          "date_end": "2024-01-18",
+          "label": "中一入學申請期",
+          "event_id": "236-2024-25-application_open-2023-11-20",
+          "evidence_url": "https://application.puikiucollege.edu.hk/event/tc/3038?lang=zh",
+          "source_text": "申請日期由 2023 年 11 月 20 日起至 2024 年 1 月 18 日止，家長須在網上填妥報名表",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2024-25",
+          "type": "interview",
+          "date": "2024-03-02",
+          "date_end": null,
+          "label": "中一入學評估",
+          "event_id": "236-2024-25-interview-2024-03-02",
+          "evidence_url": "https://application.puikiucollege.edu.hk/event/tc/3038?lang=zh",
+          "source_text": "本校將邀請合適的申請人參加 2024 年 3 月 2 日舉行的入學評估",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "info_day",
+          "date": "2024-12-14",
+          "date_end": null,
+          "label": "中一入學簡介會",
+          "event_id": "236-2025-26-info_day-2024-12-14",
+          "evidence_url": "https://application.puikiucollege.edu.hk/event/tc/3046?lang=zh",
+          "source_text": "本校將於 2024 年 12 月 14 日舉行入學簡介會，簡介會將於 2024 年 11 月 21 日起接受報名",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2024-11-21",
+          "date_end": "2025-01-03",
+          "label": "中一入學申請期",
+          "event_id": "236-2025-26-application_open-2024-11-21",
+          "evidence_url": "https://application.puikiucollege.edu.hk/event/tc/3046?lang=zh",
+          "source_text": "申請日期由 2024 年 11 月 21 日起至 2025 年 1 月 3 日止，家長須在網上填妥報名表",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-01",
+          "date_end": null,
+          "label": "中一入學評估",
+          "event_id": "236-2025-26-interview-2025-03-01",
+          "evidence_url": "https://application.puikiucollege.edu.hk/event/tc/3046?lang=zh",
+          "source_text": "本校將邀請合適的申請人參加 2025 年 3 月 1 日舉行的入學評估",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "237": {
       "name": "培僑中學",
@@ -874,7 +1073,32 @@
       "name": "聖保祿學校",
       "school_type": "直資",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "application_deadline",
+          "date": "2024-11-30",
+          "date_end": null,
+          "label": "中一入學申請截止",
+          "event_id": "273-2025-26-application_deadline-2024-11-30",
+          "evidence_url": "https://www.ieduglobe.com/xuexiao/spcshk/admissions.html",
+          "source_text": "申請的截止日期為 2024 年 11 月 30 日（下午 1:00）",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2024-12-21",
+          "date_end": null,
+          "label": "中一入學面試",
+          "event_id": "273-2025-26-interview-2024-12-21",
+          "evidence_url": "https://www.ieduglobe.com/xuexiao/spcshk/admissions.html",
+          "source_text": "申請人將於 2024 年 12 月 17 日前收到具有本校校印的面試証，並須於 2024 年 12 月 21 日參加面試",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "291": {
       "name": "聖公會莫壽增會督中學",
@@ -1032,13 +1256,51 @@
       "name": "天水圍香島中學",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-01-17",
+          "date_end": null,
+          "label": "中一入學第一次面試",
+          "event_id": "332-2026-27-interview-2026-01-17",
+          "evidence_url": "https://admission.heungto.edu.hk/",
+          "source_text": "面試日期：2026年1月17日（星期六），學校於兩星期前經電郵發出面試證",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-02-07",
+          "date_end": "2026-03-28",
+          "label": "中一入學第二次面試期",
+          "event_id": "332-2026-27-interview-2026-02-07",
+          "evidence_url": "https://admission.heungto.edu.hk/",
+          "source_text": "面試日期：2026年2月7日（星期六）至3月28日（星期六），凡獲邀參加第二次面試的學生，將於一星期前收到學校的電郵通知",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "334": {
       "name": "天主教崇德英文書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-01",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "334-2025-26-interview-2025-03-01",
+          "evidence_url": "https://www.stc.edu.hk/wp-content/uploads/%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5-2025-26.pdf",
+          "source_text": "申請者必須出席本校之面試，面試日期為2025 年3 月1 日（星期六），時間將稍後通知",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "344": {
       "name": "田家炳中學",
@@ -1153,13 +1415,75 @@
       "name": "香港華仁書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2025-01-02",
+          "date_end": "2025-01-16",
+          "label": "中一自行分配學位申請期",
+          "event_id": "372-2025-26-application_open-2025-01-02",
+          "evidence_url": "https://topick.hket.com/article/3860434/",
+          "source_text": "家長可透過學校網頁下載自行收生報名表格，由明年1月2號至16號交回表格",
+          "confidence": "medium",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-15",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "372-2025-26-interview-2025-03-15",
+          "evidence_url": "https://topick.hket.com/article/3860434/",
+          "source_text": "面試將於3月15日進行，香港華仁每年收到400多份自行收生申請",
+          "confidence": "medium",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "375": {
       "name": "香港浸會大學附屬學校王錦輝中小學",
       "school_type": "直資",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2024-11-23",
+          "date_end": "2024-12-27",
+          "label": "中一入學申請期",
+          "event_id": "375-2025-26-application_open-2024-11-23",
+          "evidence_url": "https://www.sundaykiss.com/education/%E5%8E%8B%E9%8C%A6%E8%BC%9D%E4%B8%AD%E5%B0%8F%E5%AD%B8-%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8-band1%E6%94%BB%E7%95%A5-sk02-1956829/",
+          "source_text": "家長可於2024年11月23日中午12時至2024年12月27日中午12時期間，通過本校的網上平台遞交申請表及相關文件",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-01-11",
+          "date_end": null,
+          "label": "中一入學首輪面試",
+          "event_id": "375-2025-26-interview-2025-01-11",
+          "evidence_url": "https://www.sundaykiss.com/education/%E5%8E%8B%E9%8C%A6%E8%BC%9D%E4%B8%AD%E5%B0%8F%E5%AD%B8-%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8-band1%E6%94%BB%E7%95%A5-sk02-1956829/",
+          "source_text": "首輪面試： 2025年1月11日（星期六）",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-02-22",
+          "date_end": null,
+          "label": "中一入學次輪面試",
+          "event_id": "375-2025-26-interview-2025-02-22",
+          "evidence_url": "https://www.sundaykiss.com/education/%E5%8E%8B%E9%8C%A6%E8%BC%9D%E4%B8%AD%E5%B0%8F%E5%AD%B8-%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8-band1%E6%94%BB%E7%95%A5-sk02-1956829/",
+          "source_text": "次輪面試： 2025年2月22日（星期六）",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "386": {
       "name": "香港四邑商工總會黃棣珊紀念中學",
@@ -1177,7 +1501,32 @@
       "name": "香港真光中學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-08",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "389-2025-26-interview-2025-03-08",
+          "evidence_url": "https://tlmshk.edu.hk/wp-content/uploads/2024/11/2025-26-Application-for-Admission-to-Secondary-One-%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8.pdf",
+          "source_text": "面試日期：二零二五年三月八日（星期六）每位申請學生皆獲面試機會",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "result",
+          "date": "2025-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取結果公佈",
+          "event_id": "389-2025-26-result-2025-03-31",
+          "evidence_url": "https://tlmshk.edu.hk/wp-content/uploads/2024/11/2025-26-Application-for-Admission-to-Secondary-One-%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8.pdf",
+          "source_text": "Successful applicants will be notified by mail and phone by 31 March 2025 (Monday).",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "405": {
       "name": "新界鄉議局元朗區中學",
@@ -1189,13 +1538,51 @@
       "name": "伊利沙伯中學",
       "school_type": "官立",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-08",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "event_id": "413-2025-26-interview-2025-03-08",
+          "evidence_url": "https://www.speaktraining.com/interview-queen-elizabeth-school/",
+          "source_text": "伊利沙伯中學只設一輪面試，面試將於2025年3月8日進行，學校每年收到約500份申請表",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "418": {
       "name": "英華書院",
       "school_type": "直資",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2024-11-16",
+          "date_end": "2024-11-30",
+          "label": "中一入學申請期",
+          "event_id": "418-2025-26-application_open-2024-11-16",
+          "evidence_url": "https://www.wenweipo.com/a/202411/18/AP673aeffce4b04ea24b5d6dcf.html",
+          "source_text": "英華書院2025/26年度中一入學申請日期為11月16日至30日",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-01-18",
+          "date_end": null,
+          "label": "中一入學面試",
+          "event_id": "418-2025-26-interview-2025-01-18",
+          "evidence_url": "https://admission.yingwa.edu.hk/event/3060?lang=zh",
+          "source_text": "面試日期 2025年1月18日星期六 (後備日期: 2025年1月19日星期日)",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "419": {
       "name": "英皇書院",
@@ -1268,7 +1655,20 @@
       "name": "中華基督教青年會中學",
       "school_type": "直資",
       "banding_tier": "Band 2",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-11-15",
+          "date_end": null,
+          "label": "中一入學資訊日",
+          "event_id": "454-2026-27-info_day-2025-11-15",
+          "evidence_url": "https://www.cymcass.edu.hk/index.php/en/s1-admission-seminar-2025-15112025",
+          "source_text": "On November 15, 2025, the S1 Admission Seminar was held. More than a thousand visitors attended the Principal's sharing session and the campus tour.",
+          "confidence": "high",
+          "extracted_at": "2026-04-29T00:00:00"
+        }
+      ]
     },
     "455": {
       "name": "中華基金中學",
