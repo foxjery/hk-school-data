@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-28",
+  "updated_at": "2026-04-29 15:10:05",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -12,7 +12,20 @@
       "name": "港島民生書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2024-25",
+          "type": "info_day",
+          "date": "2023-11-01",
+          "date_end": null,
+          "label": "中一入學資訊日",
+          "source_text": "升中資訊日 (Information Day 2023)\\n*升中講座於11月1日上午10時起接受報名\\n*Registration for the Admission Talk is open from 10:00 a.m. on 1 Nov.",
+          "evidence_url": "http://www.imsc.edu.hk/",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T15:10:05"
+        }
+      ]
     },
     "3": {
       "name": "拔萃女書院",
@@ -695,7 +708,68 @@
       "name": "嘉諾撒聖方濟各書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "中一入學資訊日",
+          "source_text": "本校將於12月6日（星期六）舉行中一入學資訊日，讓家長及同學對本校有更深認識。有關詳情如下：日期： 2025年12月6日（星期六）",
+          "evidence_url": "https://www.sfcc.edu.hk/template?series=26&article=695",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T14:21:19"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2025-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "source_text": "申請日期：2025年1月2日（星期四） 至 2025年1月16日（星期四）",
+          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T14:21:19"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "application_deadline",
+          "date": "2025-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "source_text": "申請日期：2025年1月2日（星期四） 至 2025年1月16日（星期四）",
+          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T14:21:19"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-01",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "面試日期：2025年3月1日（星期六）",
+          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T14:21:19"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "result",
+          "date": "2025-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位結果通知",
+          "source_text": "如學生已成功獲納入《自行分配學位正取名單》，校方將於2025年3月31日（星期一）以郵寄及電話方式通知家長。",
+          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T14:21:19"
+        }
+      ]
     },
     "153": {
       "name": "嘉諾撒聖瑪利書院",
@@ -1674,7 +1748,20 @@
       "name": "中華基金中學",
       "school_type": "直資",
       "banding_tier": "Band 1",
-      "events": []
+      "events": [
+        {
+          "academic_year": "2024-25",
+          "type": "info_day",
+          "date": "2023-11-04",
+          "date_end": null,
+          "label": "中一入學資訊日（家長學生校園參觀）",
+          "source_text": "Our General Office will be closed on 4 November, 2023 due to a special event being organised onsite by the Federation of Parent Teacher Associations of Hong Kong Eastern District that involves visits from prospective Secondary 1 students and their parents.",
+          "evidence_url": "https://web.archive.org/web/20231103074138/https://www.cfss.edu.hk/en/",
+          "confidence": "medium",
+          "event_id": null,
+          "extracted_at": "2026-04-29T13:54:36"
+        }
+      ]
     },
     "457": {
       "name": "中聖書院",
