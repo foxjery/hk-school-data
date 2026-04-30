@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-04-29T10:32:03",
+  "updated_at": "2026-04-30T15:46:20",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -3099,7 +3099,32 @@
           "date_end": "2026-01-16",
           "label": "中一自行分配學位申請期",
           "confidence": "unknown",
-          "event_id": "148-2026-27-application_open-001"
+          "event_id": "148-2026-27-application_open-001",
+          "extracted_at": "2026-04-30T15:34:30"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "4. 接受申請日期： 二零二六年一月二日至一月十六日",
+          "evidence_url": "https://www.carmelss.edu.hk/site/about-school/s1admission_eng/",
+          "confidence": "medium",
+          "event_id": "148-2026_27-application_deadline-001",
+          "extracted_at": "2026-04-30T15:34:30"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-06",
+          "date_end": null,
+          "label": "面試通知書寄出（面試日期依通知為準）",
+          "academic_year": "2026-27",
+          "source_text": "1. 面試通知書(面試信) 將於3月6日前寄出。",
+          "evidence_url": "https://www.carmelss.edu.hk/site/about-school/s1admission_eng/",
+          "confidence": "high",
+          "event_id": "148-2026_27-interview-001",
+          "extracted_at": "2026-04-30T15:34:30"
         },
         {
           "academic_year": "2026-27",
@@ -3560,6 +3585,18 @@
           "label": "中一入學資訊日",
           "confidence": "unknown",
           "event_id": "452-2024-25-info_day-001"
+        },
+        {
+          "type": "application_open",
+          "date": "2025-12-01",
+          "date_end": null,
+          "label": "中一自行分配學位申請 2026-2027",
+          "academic_year": "2026-27",
+          "source_text": "01/12/2025\n\nSecondary One Discretionary Places Admission 2026-2027 中一自行分配學位申請 2026-2027",
+          "evidence_url": "https://www.ccchwc.edu.hk/en/latest_news",
+          "confidence": "high",
+          "event_id": "452-2026_27-application_open-001",
+          "extracted_at": "2026-04-30T15:38:12"
         }
       ]
     },
@@ -3661,6 +3698,18 @@
       "school_type": "資助",
       "banding_tier": "Band 1",
       "events": [
+        {
+          "type": "info_day",
+          "date": "2025-03-15",
+          "date_end": null,
+          "label": "2526 P6 Information Day cum Open Day",
+          "academic_year": "2025-26",
+          "source_text": "- [2526 P6 Information Day cum Open Day](https://www.valtorta.edu.hk/CustomPage/paragraphGroup.aspx?ct=customPage&webPageId=86&pageId=193&cpmId=101&nnnid=99)",
+          "evidence_url": "https://www.valtorta.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=86&amp;pageId=193&amp;nnnid=99",
+          "confidence": "medium",
+          "event_id": "82-2025_26-info_day-001",
+          "extracted_at": "2026-04-30T15:35:32"
+        },
         {
           "academic_year": "2025-26",
           "type": "info_day",
@@ -4632,7 +4681,8 @@
           "date_end": null,
           "label": "中一自行分配學位申請開始",
           "confidence": "unknown",
-          "event_id": "66-2026-27-application_open-001"
+          "event_id": "66-2026-27-application_open-001",
+          "extracted_at": "2026-04-30T15:33:52"
         },
         {
           "academic_year": "2026-27",
@@ -4641,7 +4691,8 @@
           "date_end": null,
           "label": "中一自行分配學位申請截止",
           "confidence": "unknown",
-          "event_id": "66-2026-27-application_deadline-001"
+          "event_id": "66-2026-27-application_deadline-001",
+          "extracted_at": "2026-04-30T15:33:52"
         },
         {
           "academic_year": "2026-27",
@@ -5475,6 +5526,66 @@
           "label": "中一新生註冊",
           "confidence": "unknown",
           "event_id": "179-2025-26-application_open-002"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-30",
+          "date_end": null,
+          "label": "中一入學資訊講座",
+          "academic_year": "2026-27",
+          "source_text": "本校將於2025年11月30日（星期日）上午十時至中午十二時舉行2026-2027年度學校中一入學資訊講座。",
+          "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
+          "confidence": "high",
+          "event_id": "179-2026_27-info_day-001",
+          "extracted_at": "2026-04-30T15:34:55"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "申請日期：2026年1月2日至1月16日",
+          "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
+          "confidence": "high",
+          "event_id": "179-2026_27-application_open-001",
+          "extracted_at": "2026-04-30T15:34:55"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "申請日期：2026年1月2日至1月16日",
+          "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
+          "confidence": "high",
+          "event_id": "179-2026_27-application_deadline-001",
+          "extracted_at": "2026-04-30T15:34:55"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "自行分配學位面試日",
+          "academic_year": "2026-27",
+          "source_text": "面試將於2026年3月7日（星期六）進行，家長及學生均需出席。",
+          "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
+          "confidence": "high",
+          "event_id": "179-2026_27-interview-001",
+          "extracted_at": "2026-04-30T15:34:55"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "公布自行分配學位正取學生名單",
+          "academic_year": "2026-27",
+          "source_text": "有關結果將於2026年3月31日以電話及信件通知所有正取學生家長其子女獲學校納入其自行分配學位正取學生名單。",
+          "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
+          "confidence": "high",
+          "event_id": "179-2026_27-result-001",
+          "extracted_at": "2026-04-30T15:34:55"
         }
       ]
     },
