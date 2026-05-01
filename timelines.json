@@ -3619,6 +3619,54 @@
       "banding_tier": "Band 1",
       "events": [
         {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "Date of submitting application：2 Jan - 16 Jan 2026",
+          "extracted_at": "2026-05-01T19:52:21",
+          "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
+          "event_id": "161-2026-27-application_open-001",
+          "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-01-03",
+          "date_end": null,
+          "label": "資訊日（BLMCSS Info Day）",
+          "academic_year": "2026-27",
+          "source_text": "BLMCSS Info Day Date: 3 January , 2026 (Saturday) Opening hours: 12:00 nn - 5:00 pm",
+          "extracted_at": "2026-05-01T19:52:21",
+          "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
+          "event_id": "161-2026-27-info_day-002",
+          "confidence": "high"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "Date of submitting application：2 Jan - 16 Jan 2026",
+          "extracted_at": "2026-05-01T19:52:21",
+          "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
+          "event_id": "161-2026-27-application_deadline-001",
+          "confidence": "high"
+        },
+        {
+          "type": "interview",
+          "date": "2026-02-28",
+          "date_end": null,
+          "label": "第一輪面試",
+          "academic_year": "2026-27",
+          "source_text": "First Round Interview Date: February 28, 2026 (Saturday)",
+          "extracted_at": "2026-05-01T19:52:21",
+          "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
+          "event_id": "161-2026-27-interview-001",
+          "confidence": "high"
+        },
+        {
           "type": "info_day",
           "date": "2026-03-14",
           "date_end": null,
@@ -3628,6 +3676,18 @@
           "extracted_at": "2026-04-28T14:41:11",
           "evidence_url": "http://www.blmcss.edu.hk",
           "event_id": "161-2026-27-info_day-001",
+          "confidence": "high"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-21",
+          "date_end": null,
+          "label": "第二輪面試",
+          "academic_year": "2026-27",
+          "source_text": "Second Round Interview Date: March 21, 2026 (Saturday)",
+          "extracted_at": "2026-05-01T19:52:21",
+          "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
+          "event_id": "161-2026-27-interview-002",
           "confidence": "high"
         }
       ]
