@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-05-01T18:52:33",
+  "updated_at": "2026-05-07T19:16:42",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -25,7 +25,8 @@
           "event_id": null,
           "extracted_at": "2026-04-29T15:10:05"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "3": {
       "name": "拔萃女書院",
@@ -33,16 +34,28 @@
       "banding_tier": "Band 1",
       "events": [
         {
+          "type": "info_day",
+          "date": "2025-09-27",
+          "date_end": null,
+          "label": "中一入學簡介會",
+          "academic_year": "2026-27",
+          "source_text": "請點擊 **[此處](https://www.dgs.edu.hk/api/file?id=1759113026726)** 下載 2025年9月27日「中一入學簡介會」的簡報。",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "3-2026_27-info_day-001",
+          "extracted_at": "2026-05-07T17:26:08"
+        },
+        {
           "type": "application_open",
           "date": "2025-09-29",
           "date_end": "2025-10-08",
           "label": "中一入學申請期",
           "academic_year": "2026-27",
           "source_text": "申請日期：2025年9月29日 至 2025年10月8日",
-          "extracted_at": "2026-04-28T14:21:39",
+          "extracted_at": "2026-05-07T17:26:08",
           "evidence_url": "https://www.dgs.edu.hk/admissions",
           "event_id": "3-2026-27-application_open-001",
-          "confidence": "high"
+          "confidence": "verified"
         },
         {
           "type": "application_deadline",
@@ -51,7 +64,7 @@
           "label": "中一入學申請截止",
           "academic_year": "2026-27",
           "source_text": "申請日期：2025年9月29日 至 2025年10月8日",
-          "extracted_at": "2026-04-28T14:21:39",
+          "extracted_at": "2026-05-07T17:26:08",
           "evidence_url": "https://www.dgs.edu.hk/admissions",
           "event_id": "3-2026-27-application_deadline-001",
           "confidence": "high"
@@ -63,10 +76,11 @@
           "label": "體育技能測試",
           "academic_year": "2026-27",
           "source_text": "校方會個別邀請在音樂或體育方面有傑出表現的申請者，於 2025年11月15日 參與體育技能測試",
-          "extracted_at": "2026-04-28T14:21:39",
+          "extracted_at": "2026-05-07T17:26:08",
           "evidence_url": "https://www.dgs.edu.hk/admissions",
           "event_id": "3-2026-27-interview-001",
-          "confidence": "high"
+          "confidence": "single_source",
+          "confidence_flags": []
         },
         {
           "type": "interview",
@@ -75,7 +89,7 @@
           "label": "面見老師",
           "academic_year": "2026-27",
           "source_text": "申請者面見老師的日期為 2025年11月22日。（如遇停課，則改於2025年11月29日舉行。）",
-          "extracted_at": "2026-04-28T14:21:39",
+          "extracted_at": "2026-05-07T17:26:08",
           "evidence_url": "https://www.dgs.edu.hk/admissions",
           "event_id": "3-2026-27-interview-002",
           "confidence": "high"
@@ -87,10 +101,25 @@
           "label": "音樂技能試演",
           "academic_year": "2026-27",
           "source_text": "及於 2025年12月6日參與音樂技能試演。",
-          "extracted_at": "2026-04-28T14:21:39",
+          "extracted_at": "2026-05-07T17:26:08",
           "evidence_url": "https://www.dgs.edu.hk/admissions",
           "event_id": "3-2026-27-interview-003",
-          "confidence": "high"
+          "confidence": "anomaly",
+          "confidence_flags": [
+            "anomaly_month_drift"
+          ]
+        },
+        {
+          "type": "interview",
+          "date": "2026-01-01",
+          "date_end": "2026-02-28",
+          "label": "面見校長（第三階段）",
+          "academic_year": "2026-27",
+          "source_text": "學校將於2026年1月上旬或以前通知成功進入第三階段遴選的申請者有關於2026年1月份或2月份面見校長的安排。",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "3-2026_27-interview-001",
+          "extracted_at": "2026-05-07T17:26:08"
         }
       ]
     },
@@ -259,7 +288,8 @@
           "event_id": "27-2026-27-result-004",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "28": {
       "name": "播道書院",
@@ -278,7 +308,8 @@
           "event_id": "28-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "41": {
       "name": "陳瑞祺（喇沙）書院",
@@ -297,7 +328,8 @@
           "confidence": "medium",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "47": {
       "name": "大埔三育中學",
@@ -328,7 +360,8 @@
           "event_id": "47-2025-26-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "51": {
       "name": "德信中學",
@@ -401,7 +434,7 @@
           "evidence_url": "https://www.twghczm.edu.hk/sites/default/files/web_resources/important%20message/S1_admission_form_2026-27%20(pdf)%E5%A1%AB%E5%AF%AB%E7%89%88.pdf",
           "confidence": "high",
           "event_id": "61-2026_27-application_open-001",
-          "extracted_at": "2026-05-01T18:42:15"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "application_deadline",
@@ -425,7 +458,7 @@
           "evidence_url": "https://www.twghczm.edu.hk/sites/default/files/web_resources/important%20message/S1_admission_form_2026-27%20(pdf)%E5%A1%AB%E5%AF%AB%E7%89%88.pdf",
           "confidence": "high",
           "event_id": "61-2026_27-interview-001",
-          "extracted_at": "2026-05-01T18:42:15"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "result",
@@ -437,9 +470,10 @@
           "evidence_url": "https://www.twghczm.edu.hk/sites/default/files/web_resources/important%20message/S1_admission_form_2026-27%20(pdf)%E5%A1%AB%E5%AF%AB%E7%89%88.pdf",
           "confidence": "high",
           "event_id": "61-2026_27-result-001",
-          "extracted_at": "2026-05-01T18:42:15"
+          "extracted_at": "2026-05-07T19:02:21"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "70": {
       "name": "東華三院盧幹庭紀念中學",
@@ -494,7 +528,8 @@
           "event_id": "evt_205ceb1d",
           "extracted_at": "2026-04-29T10:20:28"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "93": {
       "name": "佛教筏可紀念中學",
@@ -600,7 +635,8 @@
           "event_id": "120-2026-27-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "121": {
       "name": "漢華中學",
@@ -631,7 +667,8 @@
           "event_id": null,
           "extracted_at": "2026-04-29T16:36:21"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "125": {
       "name": "華仁書院（九龍）",
@@ -672,7 +709,7 @@
           "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
           "confidence": "high",
           "event_id": "125-2026_27-info_day-001",
-          "extracted_at": "2026-05-01T10:46:20"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "application_open",
@@ -684,7 +721,7 @@
           "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
           "confidence": "high",
           "event_id": "125-2026_27-application_open-001",
-          "extracted_at": "2026-05-01T10:46:20"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "interview",
@@ -696,7 +733,19 @@
           "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
           "confidence": "high",
           "event_id": "125-2026_27-interview-001",
-          "extracted_at": "2026-05-01T10:46:20"
+          "extracted_at": "2026-05-07T19:02:21"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-21",
+          "date_end": null,
+          "label": "Second interview",
+          "academic_year": "2026-27",
+          "source_text": "The first interview is tentatively scheduled for 14 March 2026 (Sat), and the second interview is tentatively scheduled for 21 March 2026 (Sat).",
+          "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/#1611712452516-9b227559-085d",
+          "confidence": "single_source",
+          "event_id": "125-2026_27-interview-003",
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "result",
@@ -708,7 +757,7 @@
           "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
           "confidence": "high",
           "event_id": "125-2026_27-result-001",
-          "extracted_at": "2026-05-01T10:46:20"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "interview",
@@ -720,7 +769,7 @@
           "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
           "confidence": "high",
           "event_id": "125-2026_27-interview-002",
-          "extracted_at": "2026-05-01T10:46:20"
+          "extracted_at": "2026-05-07T19:02:21"
         }
       ]
     },
@@ -833,7 +882,8 @@
           "event_id": "133-2026-27-interview-004",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "139": {
       "name": "基督教香港信義會元朗信義中學",
@@ -900,7 +950,8 @@
           "event_id": "139-2026-27-info_day-003",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "151": {
       "name": "嘉諾撒聖方濟各書院",
@@ -967,7 +1018,8 @@
           "event_id": null,
           "extracted_at": "2026-04-29T14:21:19"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "153": {
       "name": "嘉諾撒聖瑪利書院",
@@ -1034,7 +1086,8 @@
           "event_id": "evt_a3371bc0",
           "extracted_at": "2026-04-29T09:59:33"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "154": {
       "name": "嘉諾撒聖心書院",
@@ -1101,7 +1154,8 @@
           "event_id": "evt_f519a4f6",
           "extracted_at": "2026-04-29T10:00:14"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "157": {
       "name": "將軍澳香島中學",
@@ -1120,7 +1174,8 @@
           "event_id": "157-2026-27-application_open-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "165": {
       "name": "九龍三育中學",
@@ -1183,7 +1238,8 @@
           "event_id": "167-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "171": {
       "name": "可風中學（嗇色園主辦）",
@@ -1239,7 +1295,8 @@
           "event_id": null,
           "extracted_at": "2026-04-29T16:53:25"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "211": {
       "name": "瑪利曼中學",
@@ -1282,7 +1339,8 @@
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "232": {
       "name": "南亞路德會沐恩中學",
@@ -1301,7 +1359,8 @@
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "234": {
       "name": "寧波公學",
@@ -1376,7 +1435,8 @@
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "237": {
       "name": "培僑中學",
@@ -1447,7 +1507,8 @@
           "event_id": "evt_55b74dfc",
           "extracted_at": "2026-04-29T10:25:36"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "262": {
       "name": "沙田崇真中學",
@@ -1526,7 +1587,8 @@
           "event_id": "evt_dd9225d3",
           "extracted_at": "2026-04-29T10:01:28"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "264": {
       "name": "沙田培英中學",
@@ -1617,7 +1679,8 @@
           "event_id": "264-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "265": {
       "name": "沙田蘇浙公學",
@@ -1661,7 +1724,7 @@
           "date": "2024-11-30",
           "date_end": null,
           "label": "中一學位（2024-2025年）現已截止申請",
-          "academic_year": "2024-25",
+          "academic_year": "2025-26",
           "source_text": "中一(2025-2026年)學位申請 中一學位（2024-2025年）現已截止申請。",
           "evidence_url": "https://spcs.edu.hk/w/category/admissions/",
           "confidence": "medium",
@@ -1685,7 +1748,7 @@
           "date": "2025-03-04",
           "date_end": null,
           "label": "中一學位（2024-2025年）現已截止申請",
-          "academic_year": "2024-25",
+          "academic_year": "2025-26",
           "source_text": "中一(2025-2026年)學位申請 中一學位（2024-2025年）現已截止申請。",
           "evidence_url": "https://spcs.edu.hk/w/category/admissions/",
           "confidence": "medium",
@@ -1704,7 +1767,8 @@
           "event_id": "273-2026_27-application_deadline-001",
           "extracted_at": "2026-05-01T11:29:39"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "291": {
       "name": "聖公會莫壽增會督中學",
@@ -1759,7 +1823,8 @@
           "event_id": "evt_b6298e2d",
           "extracted_at": "2026-04-29T10:20:28"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "300": {
       "name": "聖傑靈女子中學",
@@ -1802,7 +1867,8 @@
           "event_id": "evt_b81add46",
           "extracted_at": "2026-04-29T10:19:07"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "303": {
       "name": "聖馬可中學",
@@ -1869,7 +1935,8 @@
           "event_id": "303-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "305": {
       "name": "聖母玫瑰書院",
@@ -1936,7 +2003,8 @@
           "event_id": "305-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "329": {
       "name": "蘇浙公學",
@@ -1979,7 +2047,8 @@
           "event_id": "evt_d845a16e",
           "extracted_at": "2026-04-29T10:30:21"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "332": {
       "name": "天水圍香島中學",
@@ -2094,7 +2163,8 @@
           "event_id": "332-2026_27-result-002",
           "extracted_at": "2026-05-01T11:27:08"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "334": {
       "name": "天主教崇德英文書院",
@@ -2113,7 +2183,8 @@
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "344": {
       "name": "田家炳中學",
@@ -2130,7 +2201,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_6952c6fb",
-          "extracted_at": "2026-05-01T18:28:07"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "academic_year": "2026-27",
@@ -2142,7 +2213,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_76a13e25",
-          "extracted_at": "2026-05-01T18:28:07"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "application_deadline",
@@ -2154,7 +2225,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "344-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-01T18:28:07"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "interview",
@@ -2178,7 +2249,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_7417ea9f",
-          "extracted_at": "2026-05-01T18:28:07"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "academic_year": "2026-27",
@@ -2190,7 +2261,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_aa9e6b10",
-          "extracted_at": "2026-05-01T18:28:07"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "academic_year": "2026-27",
@@ -2216,7 +2287,8 @@
           "event_id": "evt_f390286a",
           "extracted_at": "2026-04-29T10:02:47"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "347": {
       "name": "王肇枝中學",
@@ -2228,7 +2300,7 @@
           "date": "2025-12-06",
           "date_end": null,
           "label": "S.1 Admission Talk",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "S.1 Admission Talk\n6 December 2025 (Saturday) : from 2:00 pm to 3:30 pm in the school Hall",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
@@ -2240,7 +2312,7 @@
           "date": "2025-12-22",
           "date_end": null,
           "label": "Distribution of Application Form",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Distribution of Application Form\n22 December 2025 (Monday) - 16 January 2026 (Friday)",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
@@ -2252,7 +2324,7 @@
           "date": "2026-01-02",
           "date_end": null,
           "label": "Submission of Application Form",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Submission of Application Form\n2 January 2026 (Friday) - 16 January 2026 (Friday)",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
@@ -2264,7 +2336,7 @@
           "date": "2026-01-16",
           "date_end": null,
           "label": "Distribution of Application Form",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Distribution of Application Form\n22 December 2025 (Monday) - 16 January 2026 (Friday)",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
@@ -2276,7 +2348,7 @@
           "date": "2026-01-16",
           "date_end": null,
           "label": "Submission of Application Form",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Submission of Application Form\n2 January 2026 (Friday) - 16 January 2026 (Friday)",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
@@ -2288,7 +2360,7 @@
           "date": "2026-03-14",
           "date_end": null,
           "label": "Interview",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Interview\nDate of Interview: 14 March 2026 (Saturday)",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
@@ -2300,7 +2372,7 @@
           "date": "2026-03-31",
           "date_end": null,
           "label": "Announcement of inclusion in the Successful List",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Announcement of inclusion in the Successful List\n31 March 2026 (Tuesday)",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
@@ -2312,14 +2384,15 @@
           "date": "2026-07-07",
           "date_end": null,
           "label": "Release of SSPA Results",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Release of SSPA Results\n7 July 2026 (Tuesday)",
           "extracted_at": "2026-04-28T14:56:55",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
           "event_id": "347-2025-26-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "372": {
       "name": "香港華仁書院",
@@ -2374,7 +2447,8 @@
           "event_id": "372-2026_27-application_deadline-001",
           "extracted_at": "2026-05-01T11:27:54"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "375": {
       "name": "香港浸會大學附屬學校王錦輝中小學",
@@ -2477,7 +2551,8 @@
           "event_id": "375-2026_27-result-001",
           "extracted_at": "2026-05-01T11:34:11"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "386": {
       "name": "香港四邑商工總會黃棣珊紀念中學",
@@ -2520,7 +2595,8 @@
           "event_id": "evt_cb18b8a2",
           "extracted_at": "2026-04-29T10:20:28"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "387": {
       "name": "香港兆基創意書院 (李兆基基金會贊助、香港當代文化中心主辦)",
@@ -2635,7 +2711,8 @@
           "event_id": "evt_fa13534a",
           "extracted_at": "2026-04-29T10:05:36"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "389": {
       "name": "香港真光中學",
@@ -2666,7 +2743,8 @@
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "405": {
       "name": "新界鄉議局元朗區中學",
@@ -2757,7 +2835,8 @@
           "event_id": "evt_28b2d8de",
           "extracted_at": "2026-04-29T10:25:36"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "413": {
       "name": "伊利沙伯中學",
@@ -2776,7 +2855,8 @@
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "418": {
       "name": "英華書院",
@@ -2807,7 +2887,8 @@
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "419": {
       "name": "英皇書院",
@@ -2862,7 +2943,8 @@
           "event_id": "419-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "431": {
       "name": "真光女書院",
@@ -2913,7 +2995,8 @@
           "event_id": "evt_d6c1d16f",
           "extracted_at": "2026-04-29T10:19:07"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "454": {
       "name": "中華基督教青年會中學",
@@ -2987,7 +3070,8 @@
           "event_id": null,
           "extracted_at": "2026-04-29T13:54:36"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "457": {
       "name": "中聖書院",
@@ -3050,7 +3134,8 @@
           "event_id": "4-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "22": {
       "name": "寶安商會王少清中學",
@@ -3105,7 +3190,8 @@
           "event_id": "22-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "50": {
       "name": "德望學校",
@@ -3160,7 +3246,8 @@
           "event_id": "50-2026-27-interview-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "52": {
       "name": "德雅中學",
@@ -3215,7 +3302,8 @@
           "event_id": "52-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "68": {
       "name": "東華三院李嘉誠中學",
@@ -3258,7 +3346,8 @@
           "event_id": "68-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "109": {
       "name": "港大同學會書院",
@@ -3325,7 +3414,8 @@
           "event_id": "109-2026-27-info_day-005",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "126": {
       "name": "華英中學",
@@ -3344,7 +3434,8 @@
           "event_id": "126-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "128": {
       "name": "皇仁書院",
@@ -3399,13 +3490,26 @@
           "event_id": "128-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "131": {
       "name": "滙基書院（東九龍）",
       "school_type": "直資",
       "banding_tier": "Band 1",
       "events": [
+        {
+          "type": "info_day",
+          "date": null,
+          "date_end": null,
+          "label": "入學簡介會",
+          "academic_year": "2026-27",
+          "source_text": "| **Admission Briefing Session** | No upcoming event |",
+          "evidence_url": "https://www.uccke.edu.hk/admission/admission-s-1/#content",
+          "confidence": "verified",
+          "event_id": "131-2026_27-info_day-001",
+          "extracted_at": "2026-05-07T19:02:21"
+        },
         {
           "type": "application_open",
           "date": "2025-09-29",
@@ -3416,7 +3520,7 @@
           "evidence_url": "https://www.uccke.edu.hk/admission-s-1/",
           "confidence": "high",
           "event_id": "131-2026_27-application_open-001",
-          "extracted_at": "2026-05-01T10:45:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "application_deadline",
@@ -3428,7 +3532,7 @@
           "evidence_url": "https://www.uccke.edu.hk/admission-s-1/",
           "confidence": "high",
           "event_id": "131-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-01T10:45:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "interview",
@@ -3440,7 +3544,7 @@
           "evidence_url": "https://www.uccke.edu.hk/admission-s-1/",
           "confidence": "high",
           "event_id": "131-2026_27-interview-001",
-          "extracted_at": "2026-05-01T10:45:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "interview",
@@ -3452,7 +3556,7 @@
           "evidence_url": "https://www.uccke.edu.hk/admission-s-1/",
           "confidence": "high",
           "event_id": "131-2026_27-interview-002",
-          "extracted_at": "2026-05-01T10:45:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "academic_year": "2026-27",
@@ -3462,7 +3566,7 @@
           "label": "中一入學申請結果公佈",
           "confidence": "unknown",
           "event_id": "131-2026-27-result-001",
-          "extracted_at": "2026-05-01T10:45:40"
+          "extracted_at": "2026-05-07T19:02:21"
         }
       ]
     },
@@ -3476,7 +3580,7 @@
           "date": "2025-11-30",
           "date_end": null,
           "label": "升中導航：北區中學聯校展覽（2025/2026）",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "日 期:2025年11月30日 (星期日)",
           "extracted_at": "2026-04-28T14:37:47",
           "evidence_url": "https://www.flss.edu.hk/%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b/%e5%8c%97%e5%8d%80%e4%b8%ad%e5%ad%b8%e8%81%af%e5%b1%95%e8%b3%87%e8%a8%8a/#",
@@ -3507,7 +3611,8 @@
           "event_id": "137-2026_27-interview-002",
           "extracted_at": "2026-05-01T18:47:48"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "140": {
       "name": "基督教宣道會宣基中學",
@@ -3526,7 +3631,8 @@
           "event_id": "140-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "145": {
       "name": "迦密柏雨中學",
@@ -3542,7 +3648,8 @@
           "confidence": "unknown",
           "event_id": "145-2026-27-info_day-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "148": {
       "name": "迦密中學",
@@ -3592,7 +3699,8 @@
           "confidence": "unknown",
           "event_id": "148-2026-27-application_deadline-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "149": {
       "name": "迦密主恩中學",
@@ -3611,7 +3719,8 @@
           "event_id": "149-2026-27-application_open-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "161": {
       "name": "浸信會呂明才中學",
@@ -3622,37 +3731,37 @@
           "type": "application_open",
           "date": "2026-01-02",
           "date_end": null,
-          "label": "中一自行分配學位申請開始",
+          "label": "申請開始",
           "academic_year": "2026-27",
-          "source_text": "Date of submitting application：2 Jan - 16 Jan 2026",
-          "extracted_at": "2026-05-01T19:52:21",
+          "source_text": "Date of submitting application： 2 Jan - 16 Jan 2026",
           "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
-          "event_id": "161-2026-27-application_open-001",
-          "confidence": "high"
+          "confidence": "verified",
+          "event_id": "161-2026_27-application_open-001",
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "info_day",
           "date": "2026-01-03",
           "date_end": null,
-          "label": "資訊日（BLMCSS Info Day）",
+          "label": "資訊日",
           "academic_year": "2026-27",
-          "source_text": "BLMCSS Info Day Date: 3 January , 2026 (Saturday) Opening hours: 12:00 nn - 5:00 pm",
-          "extracted_at": "2026-05-01T19:52:21",
+          "source_text": "BLMCSS Info Day\nDate: 3 January , 2026 (Saturday)\nOpening hours: 12:00 nn - 5:00 pm",
           "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
-          "event_id": "161-2026-27-info_day-002",
-          "confidence": "high"
+          "confidence": "verified",
+          "event_id": "161-2026_27-info_day-001",
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "application_deadline",
           "date": "2026-01-16",
           "date_end": null,
-          "label": "中一自行分配學位申請截止",
+          "label": "申請截止",
           "academic_year": "2026-27",
-          "source_text": "Date of submitting application：2 Jan - 16 Jan 2026",
-          "extracted_at": "2026-05-01T19:52:21",
+          "source_text": "Date of submitting application： 2 Jan - 16 Jan 2026",
           "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
-          "event_id": "161-2026-27-application_deadline-001",
-          "confidence": "high"
+          "confidence": "single_source",
+          "event_id": "161-2026_27-application_deadline-001",
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "interview",
@@ -3660,11 +3769,11 @@
           "date_end": null,
           "label": "第一輪面試",
           "academic_year": "2026-27",
-          "source_text": "First Round Interview Date: February 28, 2026 (Saturday)",
-          "extracted_at": "2026-05-01T19:52:21",
+          "source_text": "First Round Interview Arrangement\nDate: February 28, 2026 (Saturday)",
           "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
-          "event_id": "161-2026-27-interview-001",
-          "confidence": "high"
+          "confidence": "single_source",
+          "event_id": "161-2026_27-interview-001",
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "info_day",
@@ -3684,11 +3793,11 @@
           "date_end": null,
           "label": "第二輪面試",
           "academic_year": "2026-27",
-          "source_text": "Second Round Interview Date: March 21, 2026 (Saturday)",
-          "extracted_at": "2026-05-01T19:52:21",
+          "source_text": "Second Round Interview Arrangement\nDate: March 21, 2026 (Saturday)",
           "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
-          "event_id": "161-2026-27-interview-002",
-          "confidence": "high"
+          "confidence": "single_source",
+          "event_id": "161-2026_27-interview-002",
+          "extracted_at": "2026-05-07T19:02:21"
         }
       ]
     },
@@ -3706,7 +3815,8 @@
           "confidence": "unknown",
           "event_id": "172-2025-26-application_open-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "210": {
       "name": "馬錦明慈善基金馬可賓紀念中學",
@@ -3725,7 +3835,8 @@
           "event_id": "210-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "246": {
       "name": "荃灣公立何傳耀紀念中學",
@@ -3741,7 +3852,8 @@
           "confidence": "unknown",
           "event_id": "246-2026-27-info_day-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "247": {
       "name": "荃灣官立中學",
@@ -3749,7 +3861,7 @@
       "banding_tier": "Band 1",
       "events": [
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "interview",
           "date": "2026-02-06",
           "date_end": null,
@@ -3757,7 +3869,8 @@
           "confidence": "unknown",
           "event_id": "247-2024-26-interview-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "269": {
       "name": "筲箕灣官立中學",
@@ -3765,7 +3878,7 @@
       "banding_tier": "Band 1",
       "events": [
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "info_day",
           "date": "2025-11-14",
           "date_end": null,
@@ -3821,7 +3934,8 @@
           "event_id": "269-2026_27-result-004",
           "extracted_at": "2026-05-01T18:52:33"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "276": {
       "name": "聖保羅書院",
@@ -3840,7 +3954,8 @@
           "event_id": "276-2026-27-application_open-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "279": {
       "name": "聖芳濟書院",
@@ -3904,7 +4019,8 @@
           "event_id": "279-2026_27-result-002",
           "extracted_at": "2026-05-01T11:06:41"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "283": {
       "name": "聖公會鄧肇堅中學",
@@ -3933,7 +4049,7 @@
           "evidence_url": "https://www.tsk.edu.hk/f1-application",
           "confidence": "medium",
           "event_id": "283-2026_27-application_open-001",
-          "extracted_at": "2026-05-01T18:30:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "application_deadline",
@@ -3945,7 +4061,7 @@
           "evidence_url": "https://www.tsk.edu.hk/f1-application",
           "confidence": "medium",
           "event_id": "283-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-01T18:30:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "interview",
@@ -3957,7 +4073,7 @@
           "evidence_url": "https://www.tsk.edu.hk/f1-application",
           "confidence": "medium",
           "event_id": "283-2026_27-interview-001",
-          "extracted_at": "2026-05-01T18:30:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "result",
@@ -3969,7 +4085,7 @@
           "evidence_url": "https://www.tsk.edu.hk/f1-application",
           "confidence": "medium",
           "event_id": "283-2026_27-result-001",
-          "extracted_at": "2026-05-01T18:30:40"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "result",
@@ -3981,9 +4097,10 @@
           "evidence_url": "https://www.tsk.edu.hk/f1-application",
           "confidence": "medium",
           "event_id": "283-2026_27-result-002",
-          "extracted_at": "2026-05-01T18:30:40"
+          "extracted_at": "2026-05-07T19:02:21"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "289": {
       "name": "聖公會林裘謀中學",
@@ -4050,7 +4167,8 @@
           "event_id": "289-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "301": {
       "name": "聖類斯中學",
@@ -4117,7 +4235,8 @@
           "event_id": "301-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "338": {
       "name": "天主教母佑會蕭明中學",
@@ -4125,7 +4244,7 @@
       "banding_tier": "Band 1",
       "events": [
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "info_day",
           "date": "2025-11-29",
           "date_end": null,
@@ -4134,7 +4253,8 @@
           "event_id": "338-2025-26-info_day-001",
           "extracted_at": "2026-05-01T09:23:38"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "391": {
       "name": "香港中國婦女會中學",
@@ -4153,7 +4273,8 @@
           "event_id": "391-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "406": {
       "name": "新生命教育協會呂郭碧鳳中學",
@@ -4172,7 +4293,8 @@
           "event_id": "406-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "430": {
       "name": "趙聿修紀念中學",
@@ -4180,7 +4302,7 @@
       "banding_tier": "Band 1",
       "events": [
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "info_day",
           "date": "2025-12-13",
           "date_end": null,
@@ -4188,7 +4310,8 @@
           "confidence": "unknown",
           "event_id": "430-2025-26-info_day-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "438": {
       "name": "中華基督教會公理書院",
@@ -4213,7 +4336,8 @@
           "confidence": "unknown",
           "event_id": "438-2026-27-info_day-002"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "445": {
       "name": "中華基督教會基元中學",
@@ -4244,7 +4368,8 @@
           "event_id": "445-2025-26-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "452": {
       "name": "中華基督教會協和書院",
@@ -4252,7 +4377,7 @@
       "banding_tier": "Band 1",
       "events": [
         {
-          "academic_year": "2024-25",
+          "academic_year": "2025-26",
           "type": "info_day",
           "date": "2024-11-30",
           "date_end": null,
@@ -4272,7 +4397,8 @@
           "event_id": "452-2026_27-application_open-001",
           "extracted_at": "2026-05-01T18:29:26"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "2": {
       "name": "拔萃男書院",
@@ -4289,9 +4415,11 @@
           "extracted_at": "2026-04-28T14:20:51",
           "evidence_url": "https://www.dbs.edu.hk/index.php?s=admission&m=g7app",
           "event_id": "2-2026-27-application_open-001",
-          "confidence": "high"
+          "confidence": "cross_verified",
+          "confidence_flags": []
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "7": {
       "name": "保良局第一張永慶中學",
@@ -4334,7 +4462,8 @@
           "event_id": "7-2026-27-application_deadline-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "36": {
       "name": "長沙灣天主教英文中學",
@@ -4365,7 +4494,8 @@
           "event_id": "36-2026-27-application_deadline-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "82": {
       "name": "恩主教書院",
@@ -4385,7 +4515,7 @@
           "extracted_at": "2026-04-30T15:35:32"
         },
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "info_day",
           "date": "2025-11-22",
           "date_end": null,
@@ -4393,7 +4523,8 @@
           "confidence": "unknown",
           "event_id": "82-2025-26-info_day-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "129": {
       "name": "惠僑英文中學",
@@ -4424,7 +4555,8 @@
           "event_id": "129-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "152": {
       "name": "嘉諾撒聖家書院",
@@ -4436,7 +4568,7 @@
           "date": "2025-09-06",
           "date_end": null,
           "label": "S1 Orientation Day",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "6.9.2025\nThe S1 Orientation Day was successfully held on 6 September 2025, creating a memorable experience for all participants.",
           "extracted_at": "2026-04-28T14:40:07",
           "evidence_url": "https://www.hfcc.edu.hk/events/latest_events/S1_Orientation_Day_2526",
@@ -4448,7 +4580,7 @@
           "date": "2025-12-06",
           "date_end": null,
           "label": "S1 Information Session",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "The S1 Information Session will be held on 6 December 2025. We welcome all Primary 5 and 6 students and parents to attend the admission talk alongside a campus tour. | Date: | 6 December 2025 (Saturday)",
           "extracted_at": "2026-04-28T14:40:07",
           "evidence_url": "https://www.hfcc.edu.hk/admission/",
@@ -4467,7 +4599,8 @@
           "event_id": "152-2026-27-application_open-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "163": {
       "name": "景嶺書院",
@@ -4498,7 +4631,8 @@
           "event_id": "163-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "194": {
       "name": "林大輝中學",
@@ -4541,7 +4675,8 @@
           "event_id": "194-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "275": {
       "name": "聖保羅男女中學",
@@ -4620,7 +4755,8 @@
           "event_id": "275-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "298": {
       "name": "聖嘉勒女書院",
@@ -4654,7 +4790,8 @@
           "confidence": "unknown",
           "event_id": "298-2026-27-application_deadline-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "304": {
       "name": "聖瑪加利男女英文中小學",
@@ -4685,7 +4822,8 @@
           "event_id": "304-2026-27-application_deadline-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "315": {
       "name": "聖言中學",
@@ -4752,7 +4890,8 @@
           "event_id": "315-2026-27-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "361": {
       "name": "香港道教聯合會鄧顯紀念中學",
@@ -4783,7 +4922,8 @@
           "event_id": "361-2026-27-info_day-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "399": {
       "name": "協恩中學",
@@ -4838,7 +4978,8 @@
           "event_id": "399-2026-27-application_deadline-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "429": {
       "name": "張祝珊英文中學",
@@ -4852,7 +4993,8 @@
           "date_end": null,
           "label": "東區升中巡禮",
           "confidence": "unknown",
-          "event_id": "429-2026-27-info_day-001"
+          "event_id": "429-2026-27-info_day-001",
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "academic_year": "2026-27",
@@ -4882,7 +5024,7 @@
           "evidence_url": "https://www.ccsc.edu.hk/attachment/upload/files/1.1%20Notice%20on%20Application%20for%20S1%20DP%20for%202026-27.pdf",
           "confidence": "high",
           "event_id": "429-2026_27-application_open-001",
-          "extracted_at": "2026-05-01T18:49:39"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "application_deadline",
@@ -4906,7 +5048,7 @@
           "evidence_url": "https://www.ccsc.edu.hk/attachment/upload/files/1.1%20Notice%20on%20Application%20for%20S1%20DP%20for%202026-27.pdf",
           "confidence": "high",
           "event_id": "429-2026_27-interview-003",
-          "extracted_at": "2026-05-01T18:49:39"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "result",
@@ -4918,7 +5060,7 @@
           "evidence_url": "https://www.ccsc.edu.hk/attachment/upload/files/1.1%20Notice%20on%20Application%20for%20S1%20DP%20for%202026-27.pdf",
           "confidence": "high",
           "event_id": "429-2026_27-result-004",
-          "extracted_at": "2026-05-01T18:49:39"
+          "extracted_at": "2026-05-07T19:02:21"
         },
         {
           "type": "result",
@@ -4930,9 +5072,10 @@
           "evidence_url": "https://www.ccsc.edu.hk/attachment/upload/files/1.1%20Notice%20on%20Application%20for%20S1%20DP%20for%202026-27.pdf",
           "confidence": "high",
           "event_id": "429-2026_27-result-005",
-          "extracted_at": "2026-05-01T18:49:39"
+          "extracted_at": "2026-05-07T19:02:21"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "5": {
       "name": "保良局百周年李兆忠紀念中學",
@@ -4975,7 +5118,8 @@
           "event_id": "5-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "8": {
       "name": "保良局董玉娣中學",
@@ -5030,7 +5174,8 @@
           "event_id": "8-2026_27-application_deadline-001",
           "extracted_at": "2026-05-01T11:31:11"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "9": {
       "name": "保良局何蔭棠中學",
@@ -5097,7 +5242,8 @@
           "event_id": "9-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "14": {
       "name": "保良局羅氏基金中學",
@@ -5164,7 +5310,8 @@
           "event_id": "14-2026-27-interview-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "18": {
       "name": "保良局顏寶鈴書院",
@@ -5207,7 +5354,8 @@
           "event_id": "18-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "29": {
       "name": "萬鈞伯裘書院",
@@ -5286,7 +5434,8 @@
           "event_id": "29-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "432": {
       "name": "中華傳道會安柱中學",
@@ -5317,7 +5466,8 @@
           "event_id": "432-2026-27-info_day-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "48": {
       "name": "德愛中學",
@@ -5325,7 +5475,7 @@
       "banding_tier": "Band 1",
       "events": [
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "application_open",
           "date": "2026-01-19",
           "date_end": "2026-01-24",
@@ -5334,7 +5484,7 @@
           "event_id": "48-2025-26-application_open-001"
         },
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "application_deadline",
           "date": "2026-01-24",
           "date_end": null,
@@ -5343,7 +5493,7 @@
           "event_id": "48-2025-26-application_deadline-001"
         },
         {
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "type": "interview",
           "date": "2026-02-12",
           "date_end": "2026-02-13",
@@ -5351,7 +5501,8 @@
           "confidence": "unknown",
           "event_id": "48-2025-26-interview-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "59": {
       "name": "地利亞修女紀念學校（協和）",
@@ -5382,7 +5533,8 @@
           "event_id": "59-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "65": {
       "name": "東華三院黃笏南中學",
@@ -5413,7 +5565,8 @@
           "event_id": "65-2026-27-info_day-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "66": {
       "name": "東華三院甲寅年總理中學",
@@ -5449,7 +5602,8 @@
           "confidence": "unknown",
           "event_id": "66-2026-27-interview-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "87": {
       "name": "風采中學（教育評議會主辦）",
@@ -5492,7 +5646,8 @@
           "event_id": "87-2026-27-info_day-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "102": {
       "name": "佛教善德英文中學",
@@ -5544,7 +5699,8 @@
           "confidence": "unknown",
           "event_id": "102-2026-27-result-002"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "106": {
       "name": "福建中學",
@@ -5740,7 +5896,8 @@
           "confidence": "unknown",
           "event_id": "106-2026-27-interview-009"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "114": {
       "name": "港青基信書院",
@@ -5752,7 +5909,7 @@
           "date": "2025-01-02",
           "date_end": null,
           "label": "Online application open (early round)",
-          "academic_year": "2026-27",
+          "academic_year": "2025-26",
           "source_text": "Please complete an online application form in English on or before 11:59 p.m. on Friday 2nd January, 2025",
           "extracted_at": "2026-04-28T16:19:44",
           "evidence_url": "https://yhkcc.edu.hk/admission/admission-information-procedures/",
@@ -5795,7 +5952,8 @@
           "event_id": "114-2026-27-interview-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "123": {
       "name": "何明華會督銀禧中學",
@@ -5829,7 +5987,8 @@
           "confidence": "unknown",
           "event_id": "123-2025-26-interview-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "134": {
       "name": "基督教女青年會丘佐榮中學",
@@ -5872,7 +6031,8 @@
           "confidence": "unknown",
           "event_id": "134-2026-27-result-002"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "136": {
       "name": "基督教香港信義會宏信書院",
@@ -5884,7 +6044,7 @@
           "date": "2025-07-02",
           "date_end": null,
           "label": "Year 1 Admissions Application Open",
-          "academic_year": "2026-27",
+          "academic_year": "2025-26",
           "source_text": "The Year 1 Admissions will start from 2 July 2025 (Wednesday) until 8 September 2025 (Monday), 4pm.",
           "extracted_at": "2026-04-28T16:21:27",
           "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/07/Notes-on-Year-1-Admissions-2026-2027-2.pdf",
@@ -6011,7 +6171,8 @@
           "event_id": "136-2026-27-interview-004",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "141": {
       "name": "基督教中國佈道會聖道迦南書院",
@@ -6150,7 +6311,8 @@
           "event_id": "141-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "155": {
       "name": "嘉諾撒書院",
@@ -6169,7 +6331,8 @@
           "event_id": "155-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "177": {
       "name": "喇沙書院",
@@ -6212,7 +6375,8 @@
           "event_id": "177-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "179": {
       "name": "創知中學",
@@ -6333,7 +6497,8 @@
           "event_id": "179-2026_27-result-001",
           "extracted_at": "2026-04-30T15:34:55"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "206": {
       "name": "羅定邦中學",
@@ -6472,7 +6637,8 @@
           "event_id": "206-2026-27-interview-003",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "213": {
       "name": "瑪利諾修院學校（中學部）",
@@ -6527,7 +6693,8 @@
           "event_id": "213-2026-27-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "219": {
       "name": "民生書院",
@@ -6582,7 +6749,8 @@
           "event_id": "219-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "230": {
       "name": "慕光英文書院",
@@ -6697,7 +6865,8 @@
           "event_id": "230-2026-27-result-004",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "258": {
       "name": "賽馬會體藝中學",
@@ -6752,7 +6921,8 @@
           "event_id": "258-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "263": {
       "name": "沙田官立中學",
@@ -6831,7 +7001,8 @@
           "event_id": "263-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "266": {
       "name": "沙田循道衞理中學",
@@ -6883,7 +7054,8 @@
           "confidence": "unknown",
           "event_id": "266-2025-26-result-002"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "274": {
       "name": "聖保祿中學",
@@ -6950,7 +7122,8 @@
           "event_id": "274-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "282": {
       "name": "聖公會陳融中學",
@@ -6993,7 +7166,8 @@
           "event_id": "282-2026-27-application_deadline-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "288": {
       "name": "聖公會林護紀念中學",
@@ -7036,7 +7210,8 @@
           "event_id": "288-2026_27-result-001",
           "extracted_at": "2026-05-01T11:27:32"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "296": {
       "name": "聖公會曾肇添中學",
@@ -7091,7 +7266,8 @@
           "event_id": "296-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "302": {
       "name": "聖羅撒書院",
@@ -7110,7 +7286,8 @@
           "event_id": "302-2025-26-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "309": {
       "name": "聖若瑟書院",
@@ -7122,7 +7299,7 @@
           "date": "2025-07-09",
           "date_end": null,
           "label": "Application for Secondary One Places",
-          "academic_year": "2026-27",
+          "academic_year": "2025-26",
           "source_text": "Date: 9 July 2025 (Wednesday)\nTime: 9:00 a.m. – 12:00 noon\nFor details, please click here.\nApplication for Secondary One Places",
           "extracted_at": "2026-04-28T16:32:29",
           "evidence_url": "https://www.sjc.edu.hk/2025/06/application-for-secondary-one-places-2/",
@@ -7141,7 +7318,8 @@
           "event_id": "309-2026-27-info_day-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "311": {
       "name": "聖士提反女子中學",
@@ -7196,7 +7374,8 @@
           "event_id": "311-2026-27-application_open-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "312": {
       "name": "聖士提反書院",
@@ -7239,7 +7418,8 @@
           "event_id": "312-2026-27-info_day-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "314": {
       "name": "聖文德書院",
@@ -7294,7 +7474,8 @@
           "event_id": "314-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "323": {
       "name": "順德聯誼總會李兆基中學",
@@ -7346,7 +7527,8 @@
           "confidence": "unknown",
           "event_id": "323-2026-27-result-002"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "324": {
       "name": "順德聯誼總會梁銶琚中學",
@@ -7401,7 +7583,8 @@
           "event_id": "324-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "325": {
       "name": "順德聯誼總會譚伯羽中學",
@@ -7420,7 +7603,8 @@
           "event_id": "325-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "328": {
       "name": "順利天主教中學",
@@ -7535,7 +7719,8 @@
           "event_id": "328-2026-27-application_deadline-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "336": {
       "name": "天主教郭得勝中學",
@@ -7614,7 +7799,8 @@
           "event_id": "336-2026-27-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "345": {
       "name": "屯門官立中學",
@@ -7633,7 +7819,8 @@
           "event_id": "345-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "352": {
       "name": "五旬節林漢光中學",
@@ -7657,7 +7844,7 @@
           "date": "2025-10-28",
           "date_end": null,
           "label": "Registration for Open Day opens",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Parents can register to attend the Open Day event through the following website starting from 28 October 2025:",
           "evidence_url": "https://www.plhks.edu.hk/en/plan_detail.php?cid=19&id=625",
           "confidence": "high",
@@ -7669,14 +7856,15 @@
           "date": "2025-11-22",
           "date_end": null,
           "label": "Primary Six Parents Talk cum School Open Day",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Primary Six Parents Talk cum School Open Day\nDate: 22 November 2025 (Saturday)",
           "evidence_url": "https://www.plhks.edu.hk/en/plan_detail.php?cid=19&id=625",
           "confidence": "high",
           "event_id": "352-2025_26-info_day-001",
           "extracted_at": "2026-05-01T11:30:19"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "359": {
       "name": "香島中學",
@@ -7755,7 +7943,8 @@
           "event_id": "359-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "367": {
       "name": "香港管理專業協會李國寶中學",
@@ -7786,7 +7975,8 @@
           "event_id": "367-2026-27-application_deadline-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "368": {
       "name": "香港管理專業協會羅桂祥中學",
@@ -7798,7 +7988,7 @@
           "date": "2025-11-29",
           "date_end": null,
           "label": "資訊日",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "Information Day 2025\nDate: 29 Nov 2025 (Sat)",
           "extracted_at": "2026-04-28T16:42:15",
           "evidence_url": "https://www.hkmakslo.edu.hk/s-1-discretionary-places/%e5%8d%87%e4%b8%ad%e5%b0%8f%e5%86%8a%e5%ad%90%e4%b8%8b%e8%bc%89/",
@@ -7810,7 +8000,7 @@
           "date": "2026-01-02",
           "date_end": null,
           "label": "中一自行分配學位接受申請開始",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "接受申請日期︰ 2026年1月2日至2026年1月16日",
           "extracted_at": "2026-04-28T16:42:15",
           "evidence_url": "https://www.hkmakslo.edu.hk/s-1-discretionary-places/%e8%87%aa%e8%a1%8c%e6%94%b6%e7%94%9f%e9%9d%a2%e8%a9%a6%e8%a1%a8%e6%a0%bc%e4%b8%8b%e8%bc%89/",
@@ -7822,7 +8012,7 @@
           "date": "2026-01-04",
           "date_end": null,
           "label": "中一自行分配學位簡報會（含面試說明）",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "本校將於 2026 年 1 月 4 日(星期日)下午二時至四時舉行「中一自行分配學位簡報會」",
           "extracted_at": "2026-04-28T16:42:15",
           "evidence_url": "http://www.hkmakslo.edu.hk/wp-content/uploads/2025/11/2024-2026-Instructions-for-Application-for-Secondary-One-Discretionary-Places.pdf",
@@ -7834,7 +8024,7 @@
           "date": "2026-01-16",
           "date_end": null,
           "label": "中一自行分配學位接受申請截止",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "接受申請日期︰ 2026年1月2日至2026年1月16日",
           "extracted_at": "2026-04-28T16:42:15",
           "evidence_url": "https://www.hkmakslo.edu.hk/s-1-discretionary-places/%e8%87%aa%e8%a1%8c%e6%94%b6%e7%94%9f%e9%9d%a2%e8%a9%a6%e8%a1%a8%e6%a0%bc%e4%b8%8b%e8%bc%89/",
@@ -7846,14 +8036,15 @@
           "date": "2026-03-31",
           "date_end": null,
           "label": "中一自行分配學位結果公布",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "校方會於 2026 年 3 月 31 日透過書面（信件或電郵）及電話通知所有正取學生家長，其子女已獲本校納入自行分配學位正取學生名單。",
           "extracted_at": "2026-04-28T16:42:15",
           "evidence_url": "http://www.hkmakslo.edu.hk/wp-content/uploads/2025/11/2024-2026-Instructions-for-Application-for-Secondary-One-Discretionary-Places.pdf",
           "event_id": "368-2025-26-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "371": {
       "name": "香港華人基督教聯會真道書院",
@@ -7896,7 +8087,8 @@
           "event_id": "371-2026-27-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "376": {
       "name": "香港九龍塘基督教中華宣道會陳瑞芝紀念中學",
@@ -7927,7 +8119,8 @@
           "event_id": "376-2026-27-interview-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "378": {
       "name": "香港培道中學",
@@ -7994,7 +8187,8 @@
           "event_id": "378-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "379": {
       "name": "香港培正中學",
@@ -8037,7 +8231,8 @@
           "event_id": "379-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "380": {
       "name": "香港青年協會李兆基書院",
@@ -8080,7 +8275,8 @@
           "event_id": "380-2026-27-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "382": {
       "name": "香港神託會培基書院",
@@ -8123,7 +8319,8 @@
           "event_id": "382-2026-27-application_deadline-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "412": {
       "name": "循道中學",
@@ -8202,7 +8399,8 @@
           "event_id": "412-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "417": {
       "name": "英華女學校",
@@ -8281,7 +8479,8 @@
           "event_id": "417-2026-27-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "420": {
       "name": "優才（楊殷有娣）書院",
@@ -8295,7 +8494,7 @@
           "label": "Accept G7 (2026-2027) Application",
           "academic_year": "2026-27",
           "source_text": "22 September (Mon) to 17 November 2025 (Mon) | Accept G7 (2026-2027) Application",
-          "extracted_at": "2026-05-01T18:28:40",
+          "extracted_at": "2026-05-07T19:02:21",
           "evidence_url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
           "event_id": "420-2026-27-application_open-001",
           "confidence": "high"
@@ -8307,7 +8506,7 @@
           "label": "Admission Briefing",
           "academic_year": "2026-27",
           "source_text": "18 October 2025 (Sat) | Admission Briefing",
-          "extracted_at": "2026-05-01T18:28:40",
+          "extracted_at": "2026-05-07T19:02:21",
           "evidence_url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
           "event_id": "420-2026-27-info_day-001",
           "confidence": "high"
@@ -8319,7 +8518,7 @@
           "label": "Application Due Day",
           "academic_year": "2026-27",
           "source_text": "17 November 2025 (Mon) | Application Due Day",
-          "extracted_at": "2026-05-01T18:28:40",
+          "extracted_at": "2026-05-07T19:02:21",
           "evidence_url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
           "event_id": "420-2026-27-application_deadline-001",
           "confidence": "high"
@@ -8331,7 +8530,7 @@
           "label": "First Admission Interview",
           "academic_year": "2026-27",
           "source_text": "6 December (Sat) to 7 December 2025 (Sun) | First Admission Interview",
-          "extracted_at": "2026-05-01T18:28:40",
+          "extracted_at": "2026-05-07T19:02:21",
           "evidence_url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
           "event_id": "420-2026-27-interview-001",
           "confidence": "high"
@@ -8343,7 +8542,7 @@
           "label": "Second Admission Interview",
           "academic_year": "2026-27",
           "source_text": "20 December 2025 (Sat) | Second Admission Interview",
-          "extracted_at": "2026-05-01T18:28:40",
+          "extracted_at": "2026-05-07T19:02:21",
           "evidence_url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
           "event_id": "420-2026-27-interview-002",
           "confidence": "high"
@@ -8355,12 +8554,13 @@
           "label": "Notification of Admission Result",
           "academic_year": "2026-27",
           "source_text": "After 2 January 2026 | Notification of Admission Result",
-          "extracted_at": "2026-05-01T18:28:40",
+          "extracted_at": "2026-05-07T19:02:21",
           "evidence_url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
           "event_id": "420-2026-27-result-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "425": {
       "name": "元朗商會中學",
@@ -8439,7 +8639,8 @@
           "event_id": "425-2026-27-result-002",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "448": {
       "name": "中華基督教會銘基書院",
@@ -8451,7 +8652,7 @@
           "date": "2025-12-06",
           "date_end": null,
           "label": "S.1 Admission Information Day",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "S.1 Admission Information Day | Date: 6th December 2025 (Saturday)",
           "extracted_at": "2026-04-28T16:48:44",
           "evidence_url": "https://www.cccmkc.edu.hk/en/%E5%8D%87%E4%B8%AD%E7%B0%A1%E4%BB%8B%E6%9C%83-0",
@@ -8463,14 +8664,15 @@
           "date": "2026-03-21",
           "date_end": null,
           "label": "S.1 Discretionary Places Admission Second Interview",
-          "academic_year": "2025-26",
+          "academic_year": "2026-27",
           "source_text": "The following applicants have been selected for the second interview, which is scheduled for the morning of 21 March 2026 (Saturday).",
           "extracted_at": "2026-04-28T16:48:44",
           "evidence_url": "https://www.cccmkc.edu.hk/en/latest_new/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%AC%AC%E4%BA%8C%E8%BC%AA%E9%9D%A2%E8%A9%A6-1",
           "event_id": "448-2025-26-interview-001",
           "confidence": "high"
         }
-      ]
+      ],
+      "self_healing_active": true
     },
     "449": {
       "name": "中華基督教會銘賢書院",
@@ -8513,7 +8715,8 @@
           "confidence": "unknown",
           "event_id": "449-2026-27-interview-001"
         }
-      ]
+      ],
+      "self_healing_active": true
     }
   }
 }
