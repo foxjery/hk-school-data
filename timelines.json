@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-06-01T09:56:47",
+  "updated_at": "2026-07-07T10:01:52",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -418,7 +418,7 @@
           "evidence_url": "",
           "confidence": "verified",
           "event_id": "47-2026_27-application_open-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:11:23"
         },
         {
           "type": "application_deadline",
@@ -430,7 +430,7 @@
           "evidence_url": "",
           "confidence": "single_source",
           "event_id": "47-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:11:23"
         },
         {
           "type": "interview",
@@ -442,7 +442,7 @@
           "evidence_url": "",
           "confidence": "single_source",
           "event_id": "47-2026_27-interview-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:11:23"
         },
         {
           "type": "result",
@@ -454,7 +454,7 @@
           "evidence_url": "",
           "confidence": "verified",
           "event_id": "47-2026_27-result-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:11:23"
         }
       ],
       "self_healing_active": false
@@ -610,7 +610,7 @@
           "evidence_url": "https://drive.google.com/uc?export=download&id=1dCNai0tt8X6dgXG6eP9h-NdR1zgbFM46",
           "confidence": "high",
           "event_id": "evt_689809f7",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:12:23"
         },
         {
           "academic_year": "2026-27",
@@ -622,7 +622,7 @@
           "evidence_url": "https://drive.google.com/uc?export=download&id=1dCNai0tt8X6dgXG6eP9h-NdR1zgbFM46",
           "confidence": "high",
           "event_id": "evt_1cd92798",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:12:23"
         },
         {
           "academic_year": "2026-27",
@@ -634,7 +634,7 @@
           "evidence_url": "https://drive.google.com/uc?export=download&id=1dCNai0tt8X6dgXG6eP9h-NdR1zgbFM46",
           "confidence": "high",
           "event_id": "evt_205ceb1d",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:12:23"
         }
       ],
       "self_healing_active": false
@@ -961,7 +961,7 @@
           "label": "第一輪中一入學申請",
           "academic_year": "2026-27",
           "source_text": "Application Period: 1 November, 2025 to 9 January, 2026 (at 5:00 pm)",
-          "extracted_at": "2026-05-09T16:42:30",
+          "extracted_at": "2026-07-01T10:14:17",
           "evidence_url": "https://www.ttca.edu.hk/s1-admissions",
           "event_id": "133-2026-27-application_open-002",
           "confidence": "high"
@@ -976,7 +976,7 @@
           "evidence_url": "",
           "confidence": "single_source",
           "event_id": "133-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:14:17"
         },
         {
           "type": "interview",
@@ -985,7 +985,7 @@
           "label": "第一輪中一面試",
           "academic_year": "2026-27",
           "source_text": "Interview Dates: 31 January, 7 February, or 14 February, 2026",
-          "extracted_at": "2026-05-09T16:42:30",
+          "extracted_at": "2026-07-01T10:14:17",
           "evidence_url": "https://www.ttca.edu.hk/s1-admissions",
           "event_id": "133-2026-27-interview-002",
           "confidence": "high"
@@ -997,7 +997,7 @@
           "label": "第一輪中一面試",
           "academic_year": "2026-27",
           "source_text": "Interview Dates: 31 January, 7 February, or 14 February, 2026",
-          "extracted_at": "2026-05-09T16:42:30",
+          "extracted_at": "2026-07-01T10:14:17",
           "evidence_url": "https://www.ttca.edu.hk/s1-admissions",
           "event_id": "133-2026-27-interview-003",
           "confidence": "high"
@@ -1009,7 +1009,7 @@
           "label": "第一輪中一面試",
           "academic_year": "2026-27",
           "source_text": "Interview Dates: 31 January, 7 February, or 14 February, 2026",
-          "extracted_at": "2026-05-09T16:42:30",
+          "extracted_at": "2026-07-01T10:14:17",
           "evidence_url": "https://www.ttca.edu.hk/s1-admissions",
           "event_id": "133-2026-27-interview-004",
           "confidence": "high"
@@ -1168,7 +1168,7 @@
           "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
           "confidence": "high",
           "event_id": "evt_47b4ebb9",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:15:36"
         },
         {
           "academic_year": "2026-27",
@@ -1192,7 +1192,7 @@
           "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
           "confidence": "single_source",
           "event_id": "153-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:15:36"
         },
         {
           "academic_year": "2026-27",
@@ -1204,7 +1204,7 @@
           "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
           "confidence": "high",
           "event_id": "evt_da74cc9d",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:15:36"
         },
         {
           "academic_year": "2026-27",
@@ -1216,7 +1216,7 @@
           "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
           "confidence": "high",
           "event_id": "evt_7c13227d",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:15:36"
         },
         {
           "academic_year": "2026-27",
@@ -1228,7 +1228,7 @@
           "evidence_url": "https://www.smcc.hk/template?series=14&article=1070",
           "confidence": "high",
           "event_id": "evt_a3371bc0",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:15:36"
         }
       ],
       "self_healing_active": false
@@ -1801,7 +1801,7 @@
           "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
           "confidence": "high",
           "event_id": "evt_be9bcbda",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:16:36"
         },
         {
           "type": "application_deadline",
@@ -1813,7 +1813,7 @@
           "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
           "confidence": "single_source",
           "event_id": "262-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:16:36"
         },
         {
           "academic_year": "2026-27",
@@ -1825,7 +1825,7 @@
           "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
           "confidence": "high",
           "event_id": "evt_47e13c06",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:16:36"
         },
         {
           "academic_year": "2026-27",
@@ -1837,7 +1837,7 @@
           "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
           "confidence": "high",
           "event_id": "evt_12e3ab77",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:16:36"
         },
         {
           "academic_year": "2026-27",
@@ -1849,7 +1849,7 @@
           "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
           "confidence": "high",
           "event_id": "evt_08158eda",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:16:36"
         },
         {
           "academic_year": "2026-27",
@@ -6181,7 +6181,7 @@
           "label": "中一自行分配學位申請開始",
           "confidence": "single_source",
           "event_id": "66-2026-27-application_open-001",
-          "extracted_at": "2026-04-30T15:33:52",
+          "extracted_at": "2026-07-01T10:20:31",
           "confidence_flags": [
             "legacy_seeded"
           ]
@@ -6194,7 +6194,7 @@
           "label": "中一自行分配學位申請截止",
           "confidence": "single_source",
           "event_id": "66-2026-27-application_deadline-001",
-          "extracted_at": "2026-04-30T15:33:52",
+          "extracted_at": "2026-07-01T10:20:31",
           "confidence_flags": [
             "legacy_seeded"
           ]
@@ -7841,7 +7841,7 @@
           "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1%20Admission/AAC_2526_2627_F.1_Discretionary_Places_F.1_Application_Form_Guidelines.pdf",
           "confidence": "single_source",
           "event_id": "266-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-08T13:56:15"
+          "extracted_at": "2026-07-01T10:17:19"
         },
         {
           "type": "application_deadline",
@@ -7865,7 +7865,7 @@
           "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1%20Admission/AAC_2526_2627_F.1_Discretionary_Places_F.1_Application_Form_Guidelines.pdf",
           "confidence": "single_source",
           "event_id": "266-2026_27-interview-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:17:19"
         },
         {
           "type": "interview",
@@ -7889,7 +7889,7 @@
           "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1%20Admission/AAC_2526_2627_F.1_Discretionary_Places_F.1_Application_Form_Guidelines.pdf",
           "confidence": "verified",
           "event_id": "266-2026_27-result-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:17:19"
         },
         {
           "type": "result",
@@ -7901,7 +7901,7 @@
           "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1%20Admission/AAC_2526_2627_F.1_Discretionary_Places_F.1_Application_Form_Guidelines.pdf",
           "confidence": "verified",
           "event_id": "266-2026_27-result-002",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-07-01T10:17:19"
         }
       ],
       "self_healing_active": false
@@ -8181,7 +8181,7 @@
           "evidence_url": "https://www.hksrl.edu.hk/en/content.php?wid=89",
           "confidence": "verified",
           "event_id": "302-2026_27-application_open-001",
-          "extracted_at": "2026-05-08T13:50:02"
+          "extracted_at": "2026-07-01T10:18:00"
         },
         {
           "type": "application_deadline",
@@ -8193,7 +8193,7 @@
           "evidence_url": "https://www.hksrl.edu.hk/en/content.php?wid=89",
           "confidence": "single_source",
           "event_id": "302-2026_27-application_deadline-001",
-          "extracted_at": "2026-05-08T13:50:02"
+          "extracted_at": "2026-07-01T10:18:00"
         },
         {
           "type": "interview",
@@ -8205,7 +8205,7 @@
           "evidence_url": "https://www.hksrl.edu.hk/en/content.php?wid=89",
           "confidence": "single_source",
           "event_id": "302-2026_27-interview-001",
-          "extracted_at": "2026-05-08T13:50:02"
+          "extracted_at": "2026-07-01T10:18:00"
         },
         {
           "type": "interview",
@@ -8217,7 +8217,7 @@
           "evidence_url": "https://www.hksrl.edu.hk/en/content.php?wid=89",
           "confidence": "single_source",
           "event_id": "302-2026_27-interview-002",
-          "extracted_at": "2026-05-08T13:50:02"
+          "extracted_at": "2026-07-01T10:18:00"
         },
         {
           "type": "result",
@@ -9102,7 +9102,7 @@
           "label": "中一入學申請開始",
           "academic_year": "2026-27",
           "source_text": "The online application form will be accessible from 10:00a.m. 4 May 2026.",
-          "extracted_at": "2026-05-08T10:04:13",
+          "extracted_at": "2026-07-01T10:19:06",
           "evidence_url": "https://www.logos.edu.hk/en/admission_information",
           "event_id": "371-2026-27-application_open-001",
           "confidence": "high"
@@ -9114,7 +9114,7 @@
           "label": "中一入學申請截止",
           "academic_year": "2026-27",
           "source_text": "APPLICATION PERIOD | 2627 S1 (DS4) new students | 1 Sep 2026 | 10:00 a.m.<br>4 May 2026<br>to  <br>9:00 a.m.<br>29 May 2026",
-          "extracted_at": "2026-05-08T10:04:13",
+          "extracted_at": "2026-07-01T10:19:06",
           "evidence_url": "https://www.logos.edu.hk/en/admission_information",
           "event_id": "371-2026-27-application_deadline-001",
           "confidence": "high"
@@ -9126,7 +9126,7 @@
           "label": "中一入學面試（如獲甄選）",
           "academic_year": "2026-27",
           "source_text": "Interview (If shortlisted) | 7 or 8 Jul 2026",
-          "extracted_at": "2026-05-08T10:04:13",
+          "extracted_at": "2026-07-01T10:19:06",
           "evidence_url": "https://www.logos.edu.hk/en/secondary-1-ds4",
           "event_id": "371-2026-27-interview-001",
           "confidence": "high"
@@ -9797,6 +9797,23 @@
         }
       ],
       "self_healing_active": false
+    },
+    "383": {
+      "name": "香港聖公會何明華會督中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": "2026-07-10",
+          "label": "候補學位申請提交期",
+          "academic_year": "2026-27",
+          "source_text": "1. 交表時間：7月7日至7月10日，每日上午9:00至11:30，下午1:30至3:30。",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "383-2026_27-application_open-001",
+          "extracted_at": "2026-07-07T10:01:16"
+        }
+      ]
     }
   }
 }
