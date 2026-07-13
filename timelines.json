@@ -886,8 +886,8 @@
       "school_type": "直資",
       "banding_tier": "Band 3",
       "events": [],
-      "data_gap_reason": "no_public_admission_info",
-      "data_gap_confirmed": "2026-04-29T10:32:03"
+      "data_gap_reason": "rolling_admission_no_dated_events",
+      "data_gap_confirmed": "2026-07-13"
     },
     "133": {
       "name": "基督教崇真中學",
