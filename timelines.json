@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-07T10:01:52",
+  "updated_at": "2026-07-13T20:14:16",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -1726,7 +1726,20 @@
       "name": "啓思中學",
       "school_type": "直資",
       "banding_tier": "Band 2",
-      "events": [],
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-11-15",
+          "date_end": null,
+          "label": "CSS Open Day 2025",
+          "academic_year": "2026-27",
+          "source_text": "This year, our community is uniting under the theme of sustainability. We warmly invite friends and families to our vibrant CSS Open Day 2025 at Creative Secondary School on Saturday, 15 November 2025, from 11:00 a.m. to 3:30 p.m.",
+          "evidence_url": "https://www.css.edu.hk/about-css",
+          "confidence": "verified",
+          "event_id": "239-2026_27-info_day-001",
+          "extracted_at": "2026-07-13T20:13:48"
+        }
+      ],
       "data_gap_reason": "no_public_admission_info",
       "data_gap_confirmed": "2026-04-29T10:32:03"
     },
