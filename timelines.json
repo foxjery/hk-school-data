@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-18T22:22:09",
+  "updated_at": "2026-07-18T22:39:31",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -12971,6 +12971,35 @@
           "confidence": "verified",
           "event_id": "187-2026_27-info_day-001",
           "extracted_at": "2026-07-18T22:21:41"
+        }
+      ]
+    },
+    "392": {
+      "name": "香港中文大學校友會聯會陳震夏中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "申請日期：2026 年 1 月 2 日(星期五)至 2026 年 1 月 16 日(星期五)",
+          "evidence_url": "https://cchwww.b-cdn.net/wp-content/uploads/2025/11/2026-2027中一入學申請須知_Chinese.pdf",
+          "confidence": "high",
+          "event_id": "392-2026_27-application_open-001",
+          "extracted_at": "2026-07-18"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "申請日期：2026 年 1 月 2 日(星期五)至 2026 年 1 月 16 日(星期五)",
+          "evidence_url": "https://cchwww.b-cdn.net/wp-content/uploads/2025/11/2026-2027中一入學申請須知_Chinese.pdf",
+          "confidence": "high",
+          "event_id": "392-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-18"
         }
       ]
     }
