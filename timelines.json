@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-18T21:09:47",
+  "updated_at": "2026-07-18T22:22:09",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -12831,6 +12831,146 @@
           "confidence": "verified",
           "event_id": "450-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
+        }
+      ]
+    },
+    "162": {
+      "name": "浸信會永隆中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "1. 申請日期：2026年1月2日至2026年1月16日",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "162-2026_27-application_open-001",
+          "extracted_at": "2026-07-18T22:21:41"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "1. 申請日期：2026年1月2日至2026年1月16日",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "162-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-18T22:21:41"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一面試",
+          "academic_year": "2026-27",
+          "source_text": "2. 面試將於2026年3月14日（六）上午舉行。",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "162-2026_27-interview-001",
+          "extracted_at": "2026-07-18T22:21:41"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "正取學生取錄通知",
+          "academic_year": "2026-27",
+          "source_text": "本校將透過郵寄及電話於2026年3月31日(星期二)，通知所有正取學生家長",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "162-2026_27-result-001",
+          "extracted_at": "2026-07-18T22:21:41"
+        }
+      ]
+    },
+    "166": {
+      "name": "九龍塘學校（中學部）",
+      "events": [
+        {
+          "type": "interview",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "升中模擬面試（中文考核）",
+          "academic_year": "2026-27",
+          "source_text": "22/11/2025 升中模擬面試（中文考核）只限學生參加",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "166-2026_27-interview-001",
+          "extracted_at": "2026-07-18T22:21:41"
+        },
+        {
+          "type": "interview",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "升中模擬面試（英文考核）",
+          "academic_year": "2026-27",
+          "source_text": "6/12/2025 升中模擬面試（英文考核）只限學生參加",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "166-2026_27-interview-002",
+          "extracted_at": "2026-07-18T22:21:41"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "新生入學資訊日",
+          "academic_year": "2026-27",
+          "source_text": "6/12/2025 新生入學資訊日",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "166-2026_27-info_day-001",
+          "extracted_at": "2026-07-18T22:21:41"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-04-19",
+          "date_end": null,
+          "label": "開放日",
+          "academic_year": "2026-27",
+          "source_text": "19/4/2026 開放日",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "166-2026_27-info_day-002",
+          "extracted_at": "2026-07-18T22:21:41"
+        }
+      ]
+    },
+    "62": {
+      "name": "東華三院馮黃鳳亭中學",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-11-08",
+          "date_end": null,
+          "label": "升中選校策略及本校簡介講座",
+          "academic_year": "2026-27",
+          "source_text": "本校將於2025年11月8日(星期六)為小六學生及家長舉辦升中選校策略及本校簡介講座，詳情如下：",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "62-2026_27-info_day-001",
+          "extracted_at": "2026-07-18T22:21:41"
+        }
+      ]
+    },
+    "187": {
+      "name": "李求恩紀念中學",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-12-14",
+          "date_end": null,
+          "label": "學校資訊日2025",
+          "academic_year": "2026-27",
+          "source_text": "## 網頁內容\n# 學校資訊日2025\n\n# 學校資訊日2025\n\n14/12/2025",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "187-2026_27-info_day-001",
+          "extracted_at": "2026-07-18T22:21:41"
         }
       ]
     }
