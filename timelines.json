@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-18T22:43:38",
+  "updated_at": "2026-07-19T17:07:14",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -13029,6 +13029,1195 @@
           "confidence": "high",
           "event_id": "16-2026_27-info_day-002",
           "extracted_at": "2026-07-18"
+        }
+      ]
+    },
+    "192": {
+      "name": "梁文燕紀念中學（沙田）",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-11-15",
+          "date_end": null,
+          "label": "中一入學資訊日",
+          "academic_year": "2026-27",
+          "source_text": "本校謹訂於2025年11月15日（星期六）舉辦「中一入學資訊日」，誠邀小六學生及家長出席本校資訊日。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "192-2026_27-info_day-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-07",
+          "date_end": "2026-07-09",
+          "label": "中一自行分配學位候補學位申請",
+          "academic_year": "2026-27",
+          "source_text": "本校由2026年7月7日至7月9日開始接受中一自行分配學位候補申請，申請人可於辦公時間親身到本校校務處遞交申請表。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "192-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "196": {
+      "name": "靈糧堂怡文中學",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "遞交日期：由 2026 年 1 月 2 日(星期五) 至 2026 年 1 月 16 日(星期五)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "196-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "面試日期：2026 年 3 月 14 日",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "196-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取學生名單公佈",
+          "academic_year": "2026-27",
+          "source_text": "學校會於 2026 年 3 月 31 日(星期二)透過書面及電話通知所有正取生的家長其子女已獲學校納入自行分配學位正取學生名單。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "196-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "17": {
+      "name": "保良局唐乃勤初中書院",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一候補學位申請表開始接受",
+          "academic_year": "2026-27",
+          "source_text": "學生可於 2026 年 7 月 7 日(二)起，自行於本校網頁下載中一候補學位申請表(2026-27 年度)。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "17-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "34": {
+      "name": "博愛醫院歷屆總理聯誼會梁省德中學",
+      "events": [
+        {
+          "type": "interview",
+          "date": "2026-07-07",
+          "date_end": "2026-07-10",
+          "label": "中一入學甄選面試",
+          "academic_year": "2026-27",
+          "source_text": "面試日期及時間為二零二六年七月七日至十日，獲面試的同學，校方將以電話通知面試的日期、時間及地點。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "34-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-10",
+          "date_end": null,
+          "label": "中一入學申請（叩門）文件遞交截止",
+          "academic_year": "2026-27",
+          "source_text": "Applicants are required to submit the following documents by 12:00 nn on 10th July, 2026 (Friday). | 申請人必須將以下文件於二零二六年七月十日(星期五)中午十二時正前交回本校。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "34-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "35": {
+      "name": "彩虹邨天主教英文中學",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-07-10",
+          "date_end": null,
+          "label": "中一候補新生申請",
+          "academic_year": "2026-27",
+          "source_text": "本校將於2026年7月7日（星期二）至7月10日（星期五） 期間接受2026-2027年度中一候補新生之入學申請。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "35-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "75": {
+      "name": "東華三院吳祥川紀念中學",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "2026年1月2日（星期五）至2026年1月16日（星期五）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "75-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-19",
+          "date_end": "2026-03-20",
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "2026年3月19日（星期四）及20日（星期五）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "75-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取名單公布",
+          "academic_year": "2026-27",
+          "source_text": "2026年3月31日（星期二）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "75-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "registration",
+          "date": "2026-07-09",
+          "date_end": "2026-07-10",
+          "label": "中一註冊",
+          "academic_year": "2026-27",
+          "source_text": "2026年7月9日（星期四）及2026年7月10日（星期五）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "75-2026_27-registration-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "orientation",
+          "date": "2026-07-14",
+          "date_end": null,
+          "label": "入學前測驗",
+          "academic_year": "2026-27",
+          "source_text": "2026年7月14日（星期二）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "75-2026_27-orientation-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "130": {
+      "name": "滙基書院",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "中一入學簡介會",
+          "academic_year": "2026-27",
+          "source_text": "2025.12.6 星期六 下午2時30分",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "130-2026_27-info_day-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-01-10",
+          "date_end": null,
+          "label": "中一入學簡介會／學校開放日",
+          "academic_year": "2026-27",
+          "source_text": "2026.1.10 星期六 上午10時30分 下午2時正 *1月10日為學校開放日，時間是上午9時至下午4時30分，歡迎蒞臨參觀",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "130-2026_27-info_day-002",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一後補生(叩門學位)文件遞交",
+          "academic_year": "2026-27",
+          "source_text": "7 月 7 日〈星期二〉 上午 9 時正至下午 3 時 30 分 / 7 月 8 日〈星期三〉 上午 9 時正分至正午 12 時正前",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "130-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一後補生面試",
+          "academic_year": "2026-27",
+          "source_text": "獲甄選之同學將於 2026 年 7 月 8 日(星期三) 正午 12 時 15 分前獲電話通知，請於同日下午 2 時至 4 時到校面試。",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "130-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "183": {
+      "name": "樂善堂梁植偉紀念中學",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-11-29",
+          "date_end": null,
+          "label": "中一升學簡介會",
+          "academic_year": "2026-27",
+          "source_text": "升中一簡介會舉辦日期:2025年11月29日(10:00)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "183-2026_27-info_day-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-13",
+          "date_end": null,
+          "label": "中一升學簡介會（第二場）",
+          "academic_year": "2026-27",
+          "source_text": "升中一簡介會舉辦日期:2025年12月13日(14:30)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "183-2026_27-info_day-002",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "遞交申請表日期：2026年1月2日－ 2026年1月16日，8:30－17:00 (星期一至五) 或 9:00－12:30 (星期六)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "183-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "所有申請學生將獲邀參與面試，日期為 2026 年 3 月 7 日",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "183-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取學生名單公佈",
+          "academic_year": "2026-27",
+          "source_text": "2026年3月31日透過書面及電話通知正取學生家長其子女已獲學校納入自行分配學位",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "183-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "115": {
+      "name": "高雷中學",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "於2026年1月2日(星期五)至1月16日(星期五)期間",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "115-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-02-28",
+          "date_end": null,
+          "label": "中一自行分配面試",
+          "academic_year": "2026-27",
+          "source_text": "本校中一自行分配面試將於2026年2月28日(星期六)舉行",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "115-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位取錄結果通知",
+          "academic_year": "2026-27",
+          "source_text": "學校將於2026年3月31日(星期二)，透過電話及書面通知所有正取生取錄結果",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "115-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "124": {
+      "name": "何文田官立中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2025-12-03",
+          "date_end": null,
+          "label": "報名表格開放下載",
+          "academic_year": "2026-27",
+          "source_text": "2025年12月3日 家長可於網上下載報名表格 (或親臨本校索取)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "124-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "2026年1月2日至1月16日",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "124-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "135": {
+      "name": "基督教聖約教會堅樂中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2025-11-17",
+          "date_end": null,
+          "label": "申請表格開始派發",
+          "academic_year": "2026-27",
+          "source_text": "2025年11月17日 (星期一) 開始可於下列時間往學校校務處索取申請表格。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "135-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "2026年1月2日 (星期五)至1月16日 (星期五)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "135-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "面試將於2026年3月7日 (星期六) 舉行",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "135-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取結果通知",
+          "academic_year": "2026-27",
+          "source_text": "學校將於2026年3月31日，以電話及書面通知獲取錄入讀本校的正取生。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "135-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "142": {
+      "name": "基督書院",
+      "events": [
+        {
+          "type": "result",
+          "date": "2025-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取結果通知",
+          "academic_year": "2025-26",
+          "source_text": "學校將按教育局的最新指引，於3月31日致電及發信函通知家長「中一自行分配學位」的正取結果，此通知並不一定等同中一派位（7月７日）的最終派位結果；",
+          "evidence_url": "https://www.ccst.edu.hk/%e3%80%8c%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e3%80%8d%e6%ad%a3%e5%8f%96%e5%ad%b8%e7%94%9f%e9%80%9a%e7%9f%a5%e5%ae%89%e6%8e%92-2/",
+          "confidence": "high",
+          "event_id": "142-2025_26-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "272": {
+      "name": "聖安當女書院",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一候補學位申請",
+          "academic_year": "2026-27",
+          "source_text": "申请本校中一候补学位(2026年9月入讀中一)。請將填妥之申請表連同以下文件於2026年7月7日至7月8日交回本校，逾期恕不受理。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "272-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "349": {
+      "name": "衞理中學",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一候補生報名",
+          "academic_year": "2026-27",
+          "source_text": "報名日期︰2026年7月7日，報名時間︰上午九時至中午十二時、下午兩時至三時(每三十分鐘為一時段)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "349-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-08",
+          "date_end": "2026-07-09",
+          "label": "中一候補生面試",
+          "academic_year": "2026-27",
+          "source_text": "7月7日下午4:30後 – 7月8日將電聯合適的申請者進行面試；7月8日 – 7月9日進行面試",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "349-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "397": {
+      "name": "香海正覺蓮社佛教馬錦燦紀念英文中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位報名開始",
+          "academic_year": "2026-27",
+          "source_text": "並於 2026 年 1 月 2 日(星期五)至 2026 年 1 月 16 日(星期五) 辦公時間內，交到本校接待處。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "397-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位報名截止",
+          "academic_year": "2026-27",
+          "source_text": "並於 2026 年 1 月 2 日(星期五)至 2026 年 1 月 16 日(星期五) 辦公時間內，交到本校接待處。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "397-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試（後備日期3月14日）",
+          "academic_year": "2026-27",
+          "source_text": "面試日期為 2026 年 3 月 7 日或 2026 年 3 月 14 日(學校後備日期)。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "397-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "在 3 月 31 日本校會透過書面及電話通知所有已獲本校納入自行分配學位正取學生名單的家長",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "397-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "415": {
+      "name": "伊利沙伯中學舊生會中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "申請日期： 2026 年 1 月 2 日（星期五）至 2026 年 1 月 16 日（星期五）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "415-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "申請日期： 2026 年 1 月 2 日（星期五）至 2026 年 1 月 16 日（星期五）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "415-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "面試日期為 2026 年 3 月 14 日（星期六）。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "415-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位取錄通知",
+          "academic_year": "2026-27",
+          "source_text": "若申請人獲取錄，本校職員將於 2026 年 3 月 31 日（星期二）以電話及書面通知。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "415-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "422": {
+      "name": "余振強紀念中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "一、申請日期 2026年1月2日(星期五) 至2026年1月16日(星期五)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "422-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "一、申請日期 2026年1月2日(星期五) 至2026年1月16日(星期五)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "422-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "所有申請學生須於 2026年3月7日 (星期六)上午到校參加面試，面試會以面談形式進行。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "422-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "自行分配學位申請結果將於 2026年3月31日(星期二) 透過書面及電話通知家長，其子女已獲本校納入正取學生名單",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "422-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "434": {
+      "name": "中華傳道會劉永生中學",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "資訊日暨中學體驗日",
+          "academic_year": "2026-27",
+          "source_text": "The Information Day and Secondary School Experience Day on 6th December, 2025 (Saturday) ended successfully.",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "434-2026_27-info_day-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "Application Period for S1 2026/2027 Discretionary Places : 2 January to 16 January 2026.",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "434-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "Application Period for S1 2026/2027 Discretionary Places : 2 January to 16 January 2026.",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "434-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一叩門（第二輪）申請表遞交截止",
+          "academic_year": "2026-27",
+          "source_text": "Completed Application Forms should be submitted in person by 4:00 p.m. on 7th July, 2026.",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "434-2026_27-application_deadline-002",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-09",
+          "date_end": "2026-07-10",
+          "label": "中一叩門（第二輪）面試",
+          "academic_year": "2026-27",
+          "source_text": "Selected applicants will be informed by phone for an interview on 9th or 10th July, 2026.",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "434-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "85": {
+      "name": "粉嶺救恩書院",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行收生申請開始",
+          "academic_year": "2026-27",
+          "source_text": "2026年1月2日至16日 開始接受中一自行收生申請",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "85-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行收生截止申請",
+          "academic_year": "2026-27",
+          "source_text": "2026年1月16日 中一自行收生截止申請",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "85-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-02-28",
+          "date_end": null,
+          "label": "中一自行收生面試",
+          "academic_year": "2026-27",
+          "source_text": "2026年2月28日 面試",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "85-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "自行分配學位正取名單通知",
+          "academic_year": "2026-27",
+          "source_text": "2026年3月31日 通知正取學生之申請已納入《自行分配學位正取名單》",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "85-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "registration",
+          "date": "2026-07-09",
+          "date_end": "2026-07-10",
+          "label": "到獲派中學註冊",
+          "academic_year": "2026-27",
+          "source_text": "2026年7月9-10日 到獲派中學註冊",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "85-2026_27-registration-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "orientation",
+          "date": "2026-07-11",
+          "date_end": null,
+          "label": "中一迎新活動及家長會",
+          "academic_year": "2026-27",
+          "source_text": "2026年7月11日 中一迎新活動及家長會",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "85-2026_27-orientation-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "318": {
+      "name": "十八鄉鄉事委員會公益社中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位遞交申請開始",
+          "academic_year": "2026-27",
+          "source_text": "遞交申請表之安排 日期 2026 年 1 月 2 日（星期五） 至 2026 年 1 月 16 日（星期五）辦公時間內",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "318-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "遞交申請表之安排 日期 2026 年 1 月 2 日（星期五） 至 2026 年 1 月 16 日（星期五）辦公時間內",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "318-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試（順延日3月14日）",
+          "academic_year": "2026-27",
+          "source_text": "面試日期 2026 年 3 月 7 日（星期六）",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "318-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "自行分配學位正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "本校將於 2026 年 3 月 31 日（星期二）透過電郵及電話，通知所有正取學生的家長。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "318-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "414": {
+      "name": "伊利沙伯中學舊生會湯國華中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位遞交申請開始",
+          "academic_year": "2026-27",
+          "source_text": "遞交表格日期及時間： 日期：2026 年 1 月 2 日至 1 月 16 日",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "414-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "遞交表格日期及時間： 日期：2026 年 1 月 2 日至 1 月 16 日",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "414-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "本校將於 2026 年 2 月 27 日或之前發信邀請申請人參加面試。面試日期為 2026 年 3 月 7 日星期六。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "414-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "自行分配學位正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "學校將於 2026 年 3 月 31 日透過書面及電話通知正取學生家長其子女已獲學校納入其自行分配學位正取學生名單。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "414-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "189": {
+      "name": "荔景天主教中學",
+      "events": [
+        {
+          "type": "orientation",
+          "date": "2026-07-14",
+          "date_end": null,
+          "label": "中一入學前香港學科測驗（編班試）",
+          "academic_year": "2026-27",
+          "source_text": "中一入學前香港學科測驗 對 象 中一級全體同學 日 期 2026年7月14日 (星期二)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "189-2026_27-orientation-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "orientation",
+          "date": "2026-08-17",
+          "date_end": "2026-08-21",
+          "label": "中一新生銜接課程",
+          "academic_year": "2026-27",
+          "source_text": "中一新生銜接課程 日 期 2026 年 8 月 17 日至 21 日 (星期一至五)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "189-2026_27-orientation-002",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "424": {
+      "name": "元朗公立中學校友會鄧兆棠中學",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一叩門學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "有參與統一派位： 2026年7月7日(二) 至7月8日(三) 中午12:00",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "424-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一叩門入學筆試",
+          "academic_year": "2026-27",
+          "source_text": "入學筆試將於2026年7月8日下午舉行",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "424-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "441": {
+      "name": "中華基督教會基道中學",
+      "events": [
+        {
+          "type": "application_deadline",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一新生轉校（叩門）申請",
+          "academic_year": "2026-27",
+          "source_text": "中一新生轉校申請 日期：7 月 7 日-8 日 時間：09:00 – 12:00 及 14:00 – 16:00",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "441-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "86": {
+      "name": "粉嶺禮賢會中學",
+      "events": [
+        {
+          "type": "interview",
+          "date": "2026-07-09",
+          "date_end": null,
+          "label": "中一叩門面試通知（截止）",
+          "academic_year": "2026-27",
+          "source_text": "The school will contact applicants who meet the requirements by phone on or before 9 July, 2026",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "86-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "346": {
+      "name": "屯門天主教中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位遞交申請開始",
+          "academic_year": "2026-27",
+          "source_text": "Submission of Application Date: 2nd January, 2026 - 16th January, 2026",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "346-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "Submission of Application Date: 2nd January, 2026 - 16th January, 2026",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "346-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-02-28",
+          "date_end": null,
+          "label": "中一自行分配第一輪面試",
+          "academic_year": "2026-27",
+          "source_text": "First interview: 28th February, 2026 (Saturday)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "346-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-22",
+          "date_end": null,
+          "label": "中一自行分配第二輪面試",
+          "academic_year": "2026-27",
+          "source_text": "Second interview: 22nd March, 2026 (Sunday)",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "346-2026_27-interview-002",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "parents of successful applicants of their children's inclusion in the Successful Lists for Discretionary Places will be notified by email and phone on 31st March, 2026.",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "346-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "407": {
+      "name": "新生命教育協會平安福音中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位遞交申請開始",
+          "academic_year": "2026-27",
+          "source_text": "2026 年 1 月 2 日 (星期五) 至 2026 年 1 月 16 日 (星期五) 申請人可透過：「中一派位電子平台」遞交申請 或 親身把填妥之報名表交到本校",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "407-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "2026 年 1 月 2 日 (星期五) 至 2026 年 1 月 16 日 (星期五) 申請人可透過：「中一派位電子平台」遞交申請 或 親身把填妥之報名表交到本校",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "407-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "2026 年 3 月 7 日 (星期六) 申請人進行面試，不設筆試",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "407-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "2026 年 3 月 31 日 (星期二) 學校透過書面及電話通知正取生家長",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "407-2026_27-result-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "409": {
+      "name": "宣道會陳朱素華紀念中學",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-12-05",
+          "date_end": null,
+          "label": "升中家長講座",
+          "academic_year": "2026-27",
+          "source_text": "05/12/2025 2025 升中家長講座",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "409-2026_27-info_day-001",
+          "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "358": {
+      "name": "顯理中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位接受申請開始",
+          "academic_year": "2026-27",
+          "source_text": "接受申請日期： 2026 年 1 月 2 日至 2026 年 1 月 16 日",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "358-2026_27-application_open-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "接受申請日期： 2026 年 1 月 2 日至 2026 年 1 月 16 日",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "358-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試（或3月14日）",
+          "academic_year": "2026-27",
+          "source_text": "本校會安排全部申請學生於 2026 年 3 月 7 日或 3 月 14 日進行面試。面試通知信會於三月初寄出。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "358-2026_27-interview-001",
+          "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "學校將於 2026 年 3 月 31 日郵寄及電話通知正取學生獲納入自行分配學位正取學生名單。",
+          "evidence_url": "",
+          "confidence": "high",
+          "event_id": "358-2026_27-result-001",
+          "extracted_at": "2026-07-19"
         }
       ]
     }
