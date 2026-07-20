@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-19T17:07:14",
+  "updated_at": "2026-07-20T09:11:41",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -337,7 +337,7 @@
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "28": {
       "name": "播道書院",
@@ -457,7 +457,7 @@
           "extracted_at": "2026-07-01T10:11:23"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "51": {
       "name": "德信中學",
@@ -637,7 +637,7 @@
           "extracted_at": "2026-07-01T10:12:23"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "93": {
       "name": "佛教筏可紀念中學",
@@ -744,7 +744,7 @@
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "121": {
       "name": "漢華中學",
@@ -1231,7 +1231,7 @@
           "extracted_at": "2026-07-01T10:15:36"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "154": {
       "name": "嘉諾撒聖心書院",
@@ -1889,7 +1889,7 @@
           "extracted_at": "2026-04-29T10:01:28"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "264": {
       "name": "沙田培英中學",
@@ -1987,7 +1987,44 @@
       "name": "沙田蘇浙公學",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": [],
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2025-07-08",
+          "date_end": null,
+          "label": "申請表遞交開始",
+          "academic_year": "2025-26",
+          "source_text": "遞交入學申請表日期為二○二五年七月八日上午九時至七月九日下午五時。",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "265-2025_26-application_open-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2025-07-09",
+          "date_end": null,
+          "label": "申請截止",
+          "academic_year": "2025-26",
+          "source_text": "遞交入學申請表日期為二○二五年七月八日上午九時至七月九日下午五時。",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "265-2025_26-application_deadline-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
+          "type": "interview",
+          "date": "2025-07-12",
+          "date_end": null,
+          "label": "面試通知截止時間",
+          "academic_year": "2025-26",
+          "source_text": "學校可能邀請申請人到校面試，相關安排將於二○二五年七月十二日下午一時前以電話通知。",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "265-2025_26-interview-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        }
+      ],
       "data_gap_reason": "no_public_admission_info",
       "data_gap_confirmed": "2026-04-29T10:32:03"
     },
@@ -2125,7 +2162,7 @@
           "extracted_at": "2026-04-29T10:20:28"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "300": {
       "name": "聖傑靈女子中學",
@@ -2502,7 +2539,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_6952c6fb",
-          "extracted_at": "2026-05-07T19:02:21"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "academic_year": "2026-27",
@@ -2514,7 +2551,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_76a13e25",
-          "extracted_at": "2026-05-07T19:02:21"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "application_deadline",
@@ -2538,7 +2575,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "344-2025_26-interview-001",
-          "extracted_at": "2026-05-01T10:44:42"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "academic_year": "2026-27",
@@ -2550,7 +2587,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_7417ea9f",
-          "extracted_at": "2026-05-07T19:02:21"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "academic_year": "2026-27",
@@ -2562,7 +2599,7 @@
           "evidence_url": "https://web.tkpss.edu.hk/v3/00_about/s1.htm",
           "confidence": "high",
           "event_id": "evt_aa9e6b10",
-          "extracted_at": "2026-05-07T19:02:21"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "academic_year": "2026-27",
@@ -2589,7 +2626,7 @@
           "extracted_at": "2026-04-29T10:02:47"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "347": {
       "name": "王肇枝中學",
@@ -2603,7 +2640,7 @@
           "label": "S.1 Admission Talk",
           "academic_year": "2026-27",
           "source_text": "S.1 Admission Talk\n6 December 2025 (Saturday) : from 2:00 pm to 3:30 pm in the school Hall",
-          "extracted_at": "2026-06-01T09:38:07",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
           "event_id": "347-2025-26-info_day-001",
           "confidence": "high"
@@ -2615,7 +2652,7 @@
           "label": "Distribution of Application Form",
           "academic_year": "2026-27",
           "source_text": "Distribution of Application Form\n22 December 2025 (Monday) - 16 January 2026 (Friday)",
-          "extracted_at": "2026-06-01T09:38:07",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
           "event_id": "347-2025-26-application_open-001",
           "confidence": "high"
@@ -2639,7 +2676,7 @@
           "label": "Distribution of Application Form",
           "academic_year": "2026-27",
           "source_text": "Distribution of Application Form\n22 December 2025 (Monday) - 16 January 2026 (Friday)",
-          "extracted_at": "2026-06-01T09:38:07",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
           "event_id": "347-2025-26-application_deadline-001",
           "confidence": "high"
@@ -2663,7 +2700,7 @@
           "label": "Interview",
           "academic_year": "2026-27",
           "source_text": "Interview\nDate of Interview: 14 March 2026 (Saturday)",
-          "extracted_at": "2026-06-01T09:38:07",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
           "event_id": "347-2025-26-interview-001",
           "confidence": "high"
@@ -2675,7 +2712,7 @@
           "label": "Announcement of inclusion in the Successful List",
           "academic_year": "2026-27",
           "source_text": "Announcement of inclusion in the Successful List\n31 March 2026 (Tuesday)",
-          "extracted_at": "2026-06-01T09:38:07",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
           "event_id": "347-2025-26-result-001",
           "confidence": "high"
@@ -2687,13 +2724,13 @@
           "label": "Release of SSPA Results",
           "academic_year": "2026-27",
           "source_text": "Release of SSPA Results\n7 July 2026 (Tuesday)",
-          "extracted_at": "2026-06-01T09:38:07",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "http://www.wscss.edu.hk/en/s1admission.htm",
           "event_id": "347-2025-26-result-002",
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "372": {
       "name": "香港華仁書院",
@@ -3013,7 +3050,7 @@
           "extracted_at": "2026-04-29T10:05:36"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "389": {
       "name": "香港真光中學",
@@ -3149,7 +3186,7 @@
           "extracted_at": "2026-04-29T10:25:36"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "413": {
       "name": "伊利沙伯中學",
@@ -3768,7 +3805,7 @@
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "109": {
       "name": "港大同學會書院",
@@ -3930,10 +3967,22 @@
           "label": "中一自行分配學位結果公佈",
           "academic_year": "2026-27",
           "source_text": "自行分配學位的結果將於二零二六年七月八日與統一分配學位結果同時由教育局公佈，本校不再另行通知。",
-          "extracted_at": "2026-06-01T09:27:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.qc.edu.hk/uploads/files/Admission/S1%20Admission%202026%20Intake/5.%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8%202026%20intake.pdf",
           "event_id": "128-2026-27-result-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-07-09",
+          "date_end": null,
+          "label": "中一新生註冊日（第一日）",
+          "academic_year": "2026-27",
+          "source_text": "中一新生註冊須知(2026-2027)\n日期： 2026 年 7 月 9 日 (星期四)\n 2026 年 7 月 10 日 (星期五)",
+          "evidence_url": "https://www.qc.edu.hk/uploads/files/Admission/S1_Admission_Information/2026-2027_Notice_for_S.1_registration.pdf",
+          "confidence": "verified",
+          "event_id": "128-2026_27-info_day-001",
+          "extracted_at": "2026-07-20T09:03:44"
         }
       ],
       "self_healing_active": false
@@ -4853,7 +4902,7 @@
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "452": {
       "name": "中華基督教會協和書院",
@@ -4976,10 +5025,34 @@
           "label": "中一自行分配學位申請截止",
           "academic_year": "2026-27",
           "source_text": "The application for F.1 Discretionary Place (2026-27) concluded on 16 January 2026.",
-          "extracted_at": "2026-06-01T09:23:51",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://cswcss.edu.hk/admissions",
           "event_id": "36-2026-27-application_deadline-002",
           "confidence": "high"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一統一派位後補錄取名額申請開始",
+          "academic_year": "2026-27",
+          "source_text": "A. Application Period\nStarting from 7th July, 2026 (9:00 am – 12:30 pm, 1:30 pm – 4:00 pm).",
+          "evidence_url": "https://cswcss.edu.hk/admissions/#main",
+          "confidence": "verified",
+          "event_id": "36-2026_27-application_open-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
+          "type": "result",
+          "date": "2026-07-09",
+          "date_end": null,
+          "label": "中一統一派位後補錄取結果通知（電話通知）及註冊日（首日）",
+          "academic_year": "2026-27",
+          "source_text": "F. Point of Note\nPrior to the announcement of results, applicants must complete the registration procedure at the allocated secondary school shown on the Admission Slip on S1 Registration Day (9th & 10th July, 2026).",
+          "evidence_url": "https://cswcss.edu.hk/admissions/#main",
+          "confidence": "verified",
+          "event_id": "36-2026_27-result-001",
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "application_open",
@@ -5204,7 +5277,7 @@
           "label": "F1 Application Opens",
           "academic_year": "2026-27",
           "source_text": "Application through our eAdmissions system starts on 27 October 2025 (9:00am).",
-          "extracted_at": "2026-06-01T09:32:46",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.spcc.edu.hk/admissions/local-admissions/secondary/f1",
           "event_id": "275-2026-27-application_open-001",
           "confidence": "high"
@@ -5216,7 +5289,7 @@
           "label": "Admissions Briefing",
           "academic_year": "2026-27",
           "source_text": "Date: Saturday, 1 November 2025 | Time: 10:00am – 11:00am",
-          "extracted_at": "2026-04-28T14:49:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.spcc.edu.hk/admissions/local-admissions/secondary/f1",
           "event_id": "275-2026-27-info_day-001",
           "confidence": "high"
@@ -5228,7 +5301,7 @@
           "label": "F1 Application Deadline",
           "academic_year": "2026-27",
           "source_text": "Deadline for submission is 14 November 2025 (4:00pm).",
-          "extracted_at": "2026-06-01T09:32:46",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.spcc.edu.hk/admissions/local-admissions/secondary/f1",
           "event_id": "275-2026-27-application_deadline-001",
           "confidence": "high"
@@ -5270,7 +5343,7 @@
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "298": {
       "name": "聖嘉勒女書院",
@@ -5372,7 +5445,7 @@
           "label": "中一入學資訊日",
           "academic_year": "2026-27",
           "source_text": "聖言中學中一入學資訊日將於2025年12月6日（星期六）下午2時至5時舉行（1時正開始入場）",
-          "extracted_at": "2026-06-01T09:36:01",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.singyin.edu.hk/zh/入學申請/中一",
           "event_id": "315-2026-27-info_day-001",
           "confidence": "high"
@@ -5411,7 +5484,7 @@
           "evidence_url": "https://www.singyin.edu.hk/zh/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B/%E4%B8%AD%E4%B8%80",
           "confidence": "high",
           "event_id": "315-2026_27-interview-001",
-          "extracted_at": "2026-06-01T09:36:01"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "result",
@@ -5420,7 +5493,7 @@
           "label": "自行分配學位正取結果通知",
           "academic_year": "2026-27",
           "source_text": "Parents of successful applicants will be notified of their children’s inclusion in the Successful Lists for Discretionary Places by letter and phone on 31 March 2026.",
-          "extracted_at": "2026-04-28T14:55:23",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.singyin.edu.hk/images/files/forms/SSPA_application_form_26-27.pdf",
           "event_id": "315-2026-27-result-001",
           "confidence": "high"
@@ -5448,6 +5521,30 @@
           "evidence_url": "https://www.singyin.edu.hk/images/files/forms/SSPA_application_form_26-27.pdf",
           "event_id": "315-2026-27-result-002",
           "confidence": "high"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一剩餘學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "有興趣的申請人請於7 月 7 日統一派位結果發佈當天上午 9 時至下午 5 時親自前往本校查詢。",
+          "evidence_url": "https://www.singyin.edu.hk/zh/component/tags/tag/47-admission",
+          "confidence": "single_source",
+          "event_id": "315-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一剩餘學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "有興趣的申請人請於7 月 7 日統一派位結果發佈當天上午 9 時至下午 5 時親自前往本校查詢。",
+          "evidence_url": "https://www.singyin.edu.hk/zh/component/tags/tag/47-admission",
+          "confidence": "verified",
+          "event_id": "315-2026_27-application_open-001",
+          "extracted_at": "2026-07-20T09:03:44"
         }
       ],
       "self_healing_active": false
@@ -6129,10 +6226,22 @@
           "label": "2026/27 S.1 Application Open",
           "academic_year": "2026-27",
           "source_text": "Starting from 1 September 2025\nAccept 2026/27 S.1 Applications",
-          "extracted_at": "2026-06-01T09:24:20",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.deliahw.edu.hk/index.php/en/admissions/admissions-to-s1",
           "event_id": "59-2026-27-application_open-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-09-01",
+          "date_end": null,
+          "label": "2026/27 中一資訊日（與申請開通同日啟動）",
+          "academic_year": "2026-27",
+          "source_text": "2026/27 中一級入學申請\n### 申請時序\n### 2026/27 中一級入學申請程序\n由2025年9月1日開始\n接受 2026/27 中一級申請",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "59-2026_27-info_day-001",
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "result",
@@ -6141,7 +6250,7 @@
           "label": "S.1 Admission Registration (notification of result implied)",
           "academic_year": "2026-27",
           "source_text": "7 July 2026\nS.1 Admission Registration\nSuccessful applicants will complete the registration procedure.",
-          "extracted_at": "2026-06-01T09:24:20",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.deliahw.edu.hk/index.php/en/admissions/admissions-to-s1",
           "event_id": "59-2026-27-result-001",
           "confidence": "high"
@@ -6337,7 +6446,7 @@
           ]
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "106": {
       "name": "福建中學",
@@ -6597,7 +6706,7 @@
           ]
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "114": {
       "name": "港青基信書院",
@@ -6697,7 +6806,7 @@
           ]
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "134": {
       "name": "基督教女青年會丘佐榮中學",
@@ -6753,7 +6862,7 @@
           ]
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "136": {
       "name": "基督教香港信義會宏信書院",
@@ -6903,6 +7012,42 @@
           "confidence": "high",
           "event_id": "136-2027_28-info_day-001",
           "extracted_at": "2026-06-01T09:28:16"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-06-22",
+          "date_end": null,
+          "label": "Year 1 Admissions (2027/2028) application open",
+          "academic_year": "2027-28",
+          "source_text": "The application for Year 1 Admissions (2027/2028) is now open.\n\nThe application period is from 22 June 2026 (Monday) to 11 September 2026 (Friday, 4 pm)",
+          "evidence_url": "https://www.luac.edu.hk/admissions/#NewsUpdate",
+          "confidence": "verified",
+          "event_id": "136-2027_28-application_open-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-08-22",
+          "date_end": null,
+          "label": "2027-2028 Year 1 Admissions Seminar",
+          "academic_year": "2027-28",
+          "source_text": "#### 2027-2028 Year 1 Admissions Seminar\n\n|     |     |\n| --- | --- |\n| **Date** | **Time** |\n| 22 August 2026 (Saturday) | 10:30 am |",
+          "evidence_url": "https://www.luac.edu.hk/admissions/#NewsUpdate",
+          "confidence": "verified",
+          "event_id": "136-2027_28-info_day-002",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-09-11",
+          "date_end": null,
+          "label": "Year 1 Admissions (2027/2028) application deadline",
+          "academic_year": "2027-28",
+          "source_text": "The application period is from 22 June 2026 (Monday) to 11 September 2026 (Friday, 4 pm)",
+          "evidence_url": "https://www.luac.edu.hk/admissions/#NewsUpdate",
+          "confidence": "single_source",
+          "event_id": "136-2027_28-application_deadline-001",
+          "extracted_at": "2026-07-20T09:03:44"
         }
       ],
       "self_healing_active": false
@@ -7045,7 +7190,7 @@
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "155": {
       "name": "嘉諾撒書院",
@@ -7198,7 +7343,7 @@
           "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
           "confidence": "high",
           "event_id": "179-2026_27-info_day-001",
-          "extracted_at": "2026-06-01T09:30:05"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "application_open",
@@ -7210,7 +7355,7 @@
           "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
           "confidence": "high",
           "event_id": "179-2026_27-application_open-001",
-          "extracted_at": "2026-06-01T09:30:05"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "application_deadline",
@@ -7222,7 +7367,7 @@
           "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
           "confidence": "high",
           "event_id": "179-2026_27-application_deadline-001",
-          "extracted_at": "2026-04-30T15:34:55"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "interview",
@@ -7234,7 +7379,7 @@
           "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
           "confidence": "high",
           "event_id": "179-2026_27-interview-001",
-          "extracted_at": "2026-06-01T09:30:05"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "result",
@@ -7246,10 +7391,10 @@
           "evidence_url": "https://www.scientia.edu.hk/show_page.php?ID=29",
           "confidence": "high",
           "event_id": "179-2026_27-result-001",
-          "extracted_at": "2026-06-01T09:30:05"
+          "extracted_at": "2026-07-20T09:03:44"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "206": {
       "name": "羅定邦中學",
@@ -7287,7 +7432,7 @@
           "label": "第一輪申請開始",
           "academic_year": "2026-27",
           "source_text": "申請日期 | 2025年10月20日至12月5日",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-application_open-002",
           "confidence": "high"
@@ -7299,7 +7444,7 @@
           "label": "資訊日",
           "academic_year": "2026-27",
           "source_text": "Date 日期 | 15/11/2025 (Saturday), 16/11/2025 (Sunday)",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-info_day-001",
           "confidence": "high"
@@ -7323,7 +7468,7 @@
           "label": "第一輪申請截止",
           "academic_year": "2026-27",
           "source_text": "申請日期 | 2025年10月20日至12月5日",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-application_deadline-001",
           "confidence": "high"
@@ -7335,7 +7480,7 @@
           "label": "第二輪申請開始",
           "academic_year": "2026-27",
           "source_text": "申請日期 | 2025年12月9日至2026年1月16日",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-application_open-003",
           "confidence": "high"
@@ -7347,7 +7492,7 @@
           "label": "第一輪面試",
           "academic_year": "2026-27",
           "source_text": "面試日 | 2025年12月13日 (六)、2025年12月20日 (六)",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-interview-001",
           "confidence": "high"
@@ -7359,7 +7504,7 @@
           "label": "第一輪面試",
           "academic_year": "2026-27",
           "source_text": "面試日 | 2025年12月13日 (六)、2025年12月20日 (六)",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-interview-002",
           "confidence": "high"
@@ -7371,7 +7516,7 @@
           "label": "第二輪申請截止",
           "academic_year": "2026-27",
           "source_text": "申請日期 | 2025年12月9日至2026年1月16日",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-application_deadline-002",
           "confidence": "high"
@@ -7383,13 +7528,13 @@
           "label": "第二輪面試",
           "academic_year": "2026-27",
           "source_text": "面試日 | 2026年2月28日 (六)",
-          "extracted_at": "2026-06-01T09:30:47",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ltpss.edu.hk/schoolweb/s1-admission-2/",
           "event_id": "206-2026-27-interview-003",
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "213": {
       "name": "瑪利諾修院學校（中學部）",
@@ -7403,7 +7548,7 @@
           "label": "中一自行分配學位申請截止",
           "academic_year": "2026-27",
           "source_text": "入學申請已於2026年1月16日截止。感謝各位的申請。",
-          "extracted_at": "2026-06-01T09:31:14",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.mcs.edu.hk/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "213-2026-27-application_deadline-001",
           "confidence": "high"
@@ -7415,7 +7560,7 @@
           "label": "面試安排發送",
           "academic_year": "2026-27",
           "source_text": "面試安排已於2026年2月2日通過電郵發送予申請人，請於電子郵箱檢視相關信息。",
-          "extracted_at": "2026-06-01T09:31:14",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.mcs.edu.hk/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "213-2026-27-interview-001",
           "confidence": "high"
@@ -7427,7 +7572,7 @@
           "label": "中一自行分配學位正取通知",
           "academic_year": "2026-27",
           "source_text": "本校已透過電話和電郵於2026年3月31日（星期二）通知已獲納入自行分配學位的正取學生的家長/監護人。",
-          "extracted_at": "2026-06-01T09:31:14",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.mcs.edu.hk/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "213-2026-27-result-001",
           "confidence": "high"
@@ -7439,10 +7584,34 @@
           "label": "中一統一派位結果公布",
           "academic_year": "2026-27",
           "source_text": "學生最終獲派的學校將於2026年7月7日與統一派位結果一併公布。",
-          "extracted_at": "2026-06-01T09:31:14",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.mcs.edu.hk/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "213-2026-27-result-002",
           "confidence": "high"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "申請截止（額外學位）",
+          "academic_year": "2026-27",
+          "source_text": "The completed application form and supporting documents MUST be returned to our school between 8:00 a.m. and 3:00 p.m. on 7 July 2026 (Tuesday). No application will be accepted before or after the specified period.",
+          "evidence_url": "https://www.mcs.edu.hk/form-one-admission",
+          "confidence": "single_source",
+          "event_id": "213-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "入學考試（原文明確稱為「entrance examination」，屬招生評核環節；香港中學招生中，此類考試常與面試並列或替代面試，且具同等篩選功能；依嚴謹定義，「entrance examination」在本校語境下即為核心評核環節，等同於面試類事件）",
+          "academic_year": "2026-27",
+          "source_text": "Applicants are required to attend an entrance examination in the afternoon (1:30-4:00 p.m.) on 8 July 2026 (Wednesday). No make-up examination will be arranged for applicants who fail to attend the entrance examination.",
+          "evidence_url": "https://www.mcs.edu.hk/form-one-admission",
+          "confidence": "single_source",
+          "event_id": "213-2026_27-interview-001",
+          "extracted_at": "2026-07-20T09:03:44"
         }
       ],
       "self_healing_active": false
@@ -7603,6 +7772,18 @@
           "evidence_url": "http://www.mukuang.edu.hk/wp-content/uploads/2025/10/2026-2027-%E5%B9%B4%E5%BA%A6%E3%80%8C%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E3%80%8D%E7%94%B3%E8%AB%8B-2026-2027-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B-1.pdf",
           "event_id": "230-2026-27-result-002",
           "confidence": "high"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-05-05",
+          "date_end": null,
+          "label": "Applications for local students open",
+          "academic_year": "2026-27",
+          "source_text": "International Programme Admission (for School Year 2026-2027). Applications for local students open on 5 May 2026.",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "230-2026_27-application_open-001",
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "result",
@@ -7917,7 +8098,7 @@
           "extracted_at": "2026-07-01T10:17:19"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "274": {
       "name": "聖保祿中學",
@@ -8005,13 +8186,25 @@
           "extracted_at": "2026-06-01T09:33:19"
         },
         {
+          "type": "info_day",
+          "date": "2025-12-01",
+          "date_end": null,
+          "label": "Admission Information Talk (registration opens)",
+          "academic_year": "2026-27",
+          "source_text": "The application forms and guidelines can be obtained from the school office or downloaded through the link below starting from Monday, 1 December 2025.",
+          "evidence_url": "https://www.skhcyss.edu.hk/en/site/view?name=Admission+to+S.1",
+          "confidence": "verified",
+          "event_id": "282-2026_27-info_day-001",
+          "extracted_at": "2026-07-20T09:03:44"
+        },
+        {
           "type": "application_open",
           "date": "2026-01-02",
           "date_end": "2026-01-16",
           "label": "Discretionary Place Application period",
           "academic_year": "2026-27",
           "source_text": "Our school will accept applications for S.1 discretionary places for 2026/27 from 2-16 January 2026.",
-          "extracted_at": "2026-06-01T09:33:19",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.skhcyss.edu.hk/en/site/view?name=Admission+to+S.1",
           "event_id": "282-2026-27-application_open-001",
           "confidence": "high"
@@ -8026,7 +8219,7 @@
           "evidence_url": "https://www.skhcyss.edu.hk/en/site/view?name=Admission+to+S.1",
           "confidence": "high",
           "event_id": "282-2026_27-application_deadline-001",
-          "extracted_at": "2026-06-01T09:33:19"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "interview",
@@ -8035,7 +8228,7 @@
           "label": "Admission interviews",
           "academic_year": "2026-27",
           "source_text": "Admission interviews will be held on the morning of Saturday, 14 March 2026.",
-          "extracted_at": "2026-06-01T09:33:19",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.skhcyss.edu.hk/en/site/view?name=Admission+to+S.1",
           "event_id": "282-2026-27-interview-001",
           "confidence": "high"
@@ -8050,7 +8243,7 @@
           "evidence_url": "https://www.skhcyss.edu.hk/en/site/view?name=Admission+to+S.1",
           "confidence": "high",
           "event_id": "282-2026_27-application_open-002",
-          "extracted_at": "2026-06-01T09:33:19"
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "application_deadline",
@@ -8059,7 +8252,7 @@
           "label": "Application for Remaining Secondary One Places",
           "academic_year": "2026-27",
           "source_text": "submit the application form from 09:00 to 17:00 on 7-9 July 2026 (Tuesday - Thursday)",
-          "extracted_at": "2026-04-28T16:30:03",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.skhcyss.edu.hk/en/site/view?name=Admission+to+S.1",
           "event_id": "282-2026-27-application_deadline-001",
           "confidence": "high"
@@ -8245,7 +8438,7 @@
           "extracted_at": "2026-05-08T13:50:02"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "309": {
       "name": "聖若瑟書院",
@@ -8271,13 +8464,13 @@
           "label": "Secondary 1 Admission Talk (2026-2027)",
           "academic_year": "2026-27",
           "source_text": "Secondary 1 Admission Talk (2026-2027)\nDate: Saturday, 22 November 2025",
-          "extracted_at": "2026-04-28T16:32:29",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.sjc.edu.hk/s1-admission-talk/",
           "event_id": "309-2026-27-info_day-001",
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "311": {
       "name": "聖士提反女子中學",
@@ -8501,7 +8694,7 @@
           ]
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "324": {
       "name": "順德聯誼總會梁銶琚中學",
@@ -8591,7 +8784,7 @@
           "label": "Distribution of application form, available from school website and school office",
           "academic_year": "2026-27",
           "source_text": "2025/11/15 (Saturday) to 2026/01/16 (Friday) | Distribution of application form, available from school website and school office",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-application_open-001",
           "confidence": "high"
@@ -8603,7 +8796,7 @@
           "label": "Submission of application form",
           "academic_year": "2026-27",
           "source_text": "2026/01/02 (Friday) to 2026/01/16 (Friday) | Submission of application form",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-application_open-002",
           "confidence": "high"
@@ -8639,7 +8832,7 @@
           "label": "Releasing shortlisted candidates",
           "academic_year": "2026-27",
           "source_text": "2026/03/06 (Friday) | Releasing  shortlisted candidates",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-result-001",
           "confidence": "high"
@@ -8651,7 +8844,7 @@
           "label": "SSPA Interview Day",
           "academic_year": "2026-27",
           "source_text": "2026/03/14 (Saturday) | SSPA Interview Day",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-interview-001",
           "confidence": "high"
@@ -8663,7 +8856,7 @@
           "label": "Notifying successful applicants of their inclusion in the Successful List for Discretionary Places",
           "academic_year": "2026-27",
           "source_text": "2026/03/31 (Tuesday) | Notifying successful applicants of their inclusion in the Successful List for Discretionary Places",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-result-002",
           "confidence": "high"
@@ -8675,7 +8868,7 @@
           "label": "Application for S1 Places (2026-2027) after the Release of SSPA Results",
           "academic_year": "2026-27",
           "source_text": "2026/07/07 (Tuesday) 09:00 - 12:00 | Application for S1 Places (2026-2027) after the Release of SSPA Results",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-application_open-004",
           "confidence": "high"
@@ -8687,7 +8880,7 @@
           "label": "Releasing allocation results",
           "academic_year": "2026-27",
           "source_text": "2026/07/07 (Tuesday) | Releasing allocation results",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-result-003",
           "confidence": "high"
@@ -8711,13 +8904,13 @@
           "label": "S1 Registration Day",
           "academic_year": "2026-27",
           "source_text": "2026/07/09 (Thursday) to 2026/07/10 (Friday) | S1 Registration Day",
-          "extracted_at": "2026-06-01T09:36:52",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.slcss.edu.hk/en/%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
           "event_id": "328-2026-27-application_deadline-001",
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "336": {
       "name": "天主教郭得勝中學",
@@ -8731,7 +8924,7 @@
           "label": "升中家長簡介會",
           "academic_year": "2026-27",
           "source_text": "Two Secondary One Admission talks will be held on 22 November 2025 (Saturday).",
-          "extracted_at": "2026-06-01T09:37:36",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2024-2026",
           "event_id": "336-2026-27-info_day-001",
           "confidence": "high"
@@ -8743,7 +8936,7 @@
           "label": "中一自行分配學位申請開始",
           "academic_year": "2026-27",
           "source_text": "Application period: 2 January 2026 (Friday)  – 16 January 2026 (Friday), 9:00 a.m. – 4:30 p.m.",
-          "extracted_at": "2026-06-01T09:37:36",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2024-2026",
           "event_id": "336-2026-27-application_open-001",
           "confidence": "high"
@@ -8755,7 +8948,7 @@
           "label": "中一自行分配學位申請截止",
           "academic_year": "2026-27",
           "source_text": "The duly completed application form should be returned to our General Office or submit the application via the SSPA e-Platform on or before 4:30 p.m. on 16 January 2026 (Friday)",
-          "extracted_at": "2026-06-01T09:37:36",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2024-2026",
           "event_id": "336-2026-27-application_deadline-001",
           "confidence": "high"
@@ -8767,7 +8960,7 @@
           "label": "中一自行分配學位面試",
           "academic_year": "2026-27",
           "source_text": "The tentative date for the interview will be 7 March 2026 (Saturday).",
-          "extracted_at": "2026-06-01T09:37:36",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2024-2026",
           "event_id": "336-2026-27-interview-001",
           "confidence": "high"
@@ -8779,7 +8972,7 @@
           "label": "中一自行分配學位正取名單通知",
           "academic_year": "2026-27",
           "source_text": "Parents of successful applicants will be notified by letter and phone on 31 March 2026 (Tuesday).",
-          "extracted_at": "2026-06-01T09:37:36",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2024-2026",
           "event_id": "336-2026-27-result-001",
           "confidence": "high"
@@ -8791,13 +8984,13 @@
           "label": "中一自行分配學位及統一派位結果公布",
           "academic_year": "2026-27",
           "source_text": "The results of Discretionary Places and Central Allocation will be released at the same time on 7 July 2026 (Tuesday).",
-          "extracted_at": "2026-06-01T09:37:36",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2024-2026",
           "event_id": "336-2026-27-result-002",
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "345": {
       "name": "屯門官立中學",
@@ -9403,7 +9596,7 @@
           "label": "中一入學資訊日",
           "academic_year": "2026-27",
           "source_text": "13/12/2025 | S1 Information Day 中一入學資訊日",
-          "extracted_at": "2026-06-01T09:40:34",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.mckln.edu.hk/school-admission.php",
           "event_id": "412-2026-27-info_day-001",
           "confidence": "high"
@@ -9415,7 +9608,7 @@
           "label": "中一自行分配學位申請",
           "academic_year": "2026-27",
           "source_text": "2-16/1/2026 | Discretionary Places for S1 Admission 中一自行分配學位申請",
-          "extracted_at": "2026-06-01T09:40:34",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.mckln.edu.hk/school-admission.php",
           "event_id": "412-2026-27-application_open-001",
           "confidence": "high"
@@ -9479,6 +9672,18 @@
           "confidence": "high",
           "event_id": "412-2026_27-result-001",
           "extracted_at": "2026-06-01T09:40:34"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "S1 Post Central Allocation Application 「統一派位」後之中一學位申請 (2026-2027)",
+          "academic_year": "2026-27",
+          "source_text": "| **7/7/2026** | **S1 Post Central Allocation Application**<br>**「統一派位」後之中一學位申請 (2026-2027)** |",
+          "evidence_url": "https://www.mckln.edu.hk/school-admission.php",
+          "confidence": "single_source",
+          "event_id": "412-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-20T09:03:44"
         }
       ],
       "self_healing_active": false
@@ -9495,7 +9700,7 @@
           "label": "School Information Session on S1 Admission",
           "academic_year": "2026-27",
           "source_text": "We therefore will hold **School Information Session on S1 Admission** on 6 December 2025 (Saturday)",
-          "extracted_at": "2026-06-01T09:41:03",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
           "event_id": "417-2026-27-info_day-001",
           "confidence": "high"
@@ -9507,7 +9712,7 @@
           "label": "Collection of Application Form",
           "academic_year": "2026-27",
           "source_text": "Period : | 9 December 2025 - 16 January 2026",
-          "extracted_at": "2026-04-28T16:46:32",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
           "event_id": "417-2026-27-application_open-001",
           "confidence": "high"
@@ -9519,7 +9724,7 @@
           "label": "Submission of Application Form",
           "academic_year": "2026-27",
           "source_text": "Period : | 2 - 16 January 2026<br>(except Sundays and Public Holidays)",
-          "extracted_at": "2026-04-28T16:46:32",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
           "event_id": "417-2026-27-application_deadline-001",
           "confidence": "high"
@@ -9531,7 +9736,7 @@
           "label": "Interview",
           "academic_year": "2026-27",
           "source_text": "All applicants will be invited for an interview, the date of which is 7 March 2026 (Saturday).",
-          "extracted_at": "2026-06-01T09:41:03",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
           "event_id": "417-2026-27-interview-001",
           "confidence": "high"
@@ -9543,7 +9748,7 @@
           "label": "Notification of successful S1 DP applicants",
           "academic_year": "2026-27",
           "source_text": "Parents of successful S1 DP applicants will receive notification from school by letter and phone on 31 March 2026.",
-          "extracted_at": "2026-06-01T09:41:03",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
           "event_id": "417-2026-27-result-001",
           "confidence": "high"
@@ -9555,13 +9760,13 @@
           "label": "Formal admission result",
           "academic_year": "2026-27",
           "source_text": "The formal admission result will be announced on 7 July 2026 concurrently with the release of the Central Allocation results.",
-          "extracted_at": "2026-06-01T09:41:03",
+          "extracted_at": "2026-07-20T09:03:44",
           "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
           "event_id": "417-2026-27-result-002",
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "420": {
       "name": "優才（楊殷有娣）書院",
@@ -9721,7 +9926,7 @@
           "confidence": "high"
         }
       ],
-      "self_healing_active": false
+      "self_healing_active": true
     },
     "448": {
       "name": "中華基督教會銘基書院",
@@ -9794,7 +9999,8 @@
           "event_id": "449-2026-27-info_day-003",
           "confidence_flags": [
             "legacy_seeded"
-          ]
+          ],
+          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "academic_year": "2026-27",
@@ -9807,6 +10013,18 @@
           "confidence_flags": [
             "legacy_seeded"
           ]
+        },
+        {
+          "type": "result",
+          "date": "2026-02-23",
+          "date_end": null,
+          "label": "Interview Notification sent out",
+          "academic_year": "2026-27",
+          "source_text": "Our school has sent out the “Interview Notification” via email on February 23, 2026. For enquiries, please call us at 2778-4512",
+          "evidence_url": "https://www.cccmyc.edu.hk/index.php?s=6_146",
+          "confidence": "verified",
+          "event_id": "449-2026_27-result-001",
+          "extracted_at": "2026-07-20T09:03:44"
         }
       ],
       "self_healing_active": false
