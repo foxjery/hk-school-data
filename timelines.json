@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-20T09:11:41",
+  "updated_at": "2026-07-25T09:41:54",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -1361,7 +1361,20 @@
       "name": "九龍三育中學",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": [],
+      "events": [
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "自行分配學位取錄通知",
+          "academic_year": "2026-27",
+          "source_text": "2026年 3月 31日通知獲取錄的學生",
+          "evidence_url": "https://ksyss.edu.hk/CustomPage/11/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E7%B0%A1%E4%BB%8B.pdf",
+          "confidence": "verified",
+          "event_id": "165-2026_27-result-001",
+          "extracted_at": "2026-07-25T09:41:29"
+        }
+      ],
       "data_gap_reason": "application_form_only_no_schedule",
       "data_gap_confirmed": "2026-04-29T10:30:21"
     },
