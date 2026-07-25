@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-25T09:41:54",
+  "updated_at": "2026-07-25T11:48:41",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -14449,6 +14449,35 @@
           "confidence": "high",
           "event_id": "358-2026_27-result-001",
           "extracted_at": "2026-07-19"
+        }
+      ]
+    },
+    "369": {
+      "name": "香港航海學校",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "academic_year": "2026-27",
+          "source_text": "派發及遞交申請表日期：由 2026年1月2日（星期五）至2026年1月16日（星期五），「中一自行收生學位申請表」可於本校網頁下載",
+          "evidence_url": "https://www.hkss.edu.hk/page/357/?m=7553615263876&s=7361887295512",
+          "confidence": "verified",
+          "event_id": "369-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T12:00:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一候補生申請（額滿即止）",
+          "academic_year": "2026-27",
+          "source_text": "中一候補生申請程序（於 2026年 9 月入讀中一）申請及交表日期：2026年7月7日起，至學額已滿為止，請把申請表及證明文件親身交回本校辦事處",
+          "evidence_url": "https://www.hkss.edu.hk/page/357/?m=7553615263876&s=7361887295512",
+          "confidence": "single_source",
+          "event_id": "369-2026_27-application_open-002",
+          "extracted_at": "2026-07-25T12:00:00"
         }
       ]
     }
