@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-07-25T11:48:41",
+  "updated_at": "2026-07-25T13:41:39",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -36,6 +36,30 @@
           "confidence": "verified",
           "event_id": "110-2026_27-application_open-001",
           "extracted_at": "2026-05-09T16:42:30"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-11",
+          "date_end": null,
+          "label": "中一自行分配學位申請表派發（正門）",
+          "academic_year": "2026-27",
+          "source_text": "1. 申請表將於 2025 年 11 月 11 日 7:30 a.m. 起在本校正門派發。家長亦可於本校網頁 www.imsc.edu.hk 下載申請表。",
+          "evidence_url": "https://www2.imsc.edu.hk/gallery/webcontent/s1dp/S1DP_Shortlisted_app_2026.pdf",
+          "confidence": "verified",
+          "event_id": "110-2026_27-info_day-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "2. 報名日期：2026 年 1 月 2 日至 2026 年 1 月 16 日（逾期申請恕不受理）",
+          "evidence_url": "https://www2.imsc.edu.hk/gallery/webcontent/s1dp/S1DP_Shortlisted_app_2026.pdf",
+          "confidence": "verified",
+          "event_id": "110-2026_27-application_open-002",
+          "extracted_at": "2026-07-25T13:00:00"
         },
         {
           "type": "application_deadline",
@@ -666,7 +690,67 @@
           "evidence_url": "https://preview.chsc.hk/pdf/ssp2025/district_3sc.pdf",
           "source_text": "中一入學申請將於二零二五年十一月三日開始，申請人可於本校網頁下載有關申請表格",
           "confidence": "high",
-          "extracted_at": "2026-04-29T00:00:00"
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-22",
+          "date_end": null,
+          "label": "Round 1 application deadline",
+          "academic_year": "2026-27",
+          "source_text": "Applications for S.1 admission will be accepted in the following three periods:\nRound 1 : 1/11/2025 - 22/1/2026",
+          "evidence_url": "https://preview.chsc.hk/pdf/ssp2025/district_3sc.pdf",
+          "confidence": "verified",
+          "event_id": "93-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-02-02",
+          "date_end": null,
+          "label": "Round 2 application period starts",
+          "academic_year": "2026-27",
+          "source_text": "Applications for S.1 admission will be accepted in the following three periods:\nRound 2 : 2/2/2026 - 27/3/2026",
+          "evidence_url": "https://preview.chsc.hk/pdf/ssp2025/district_3sc.pdf",
+          "confidence": "verified",
+          "event_id": "93-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-03-27",
+          "date_end": null,
+          "label": "Round 2 application deadline",
+          "academic_year": "2026-27",
+          "source_text": "Applications for S.1 admission will be accepted in the following three periods:\nRound 2 : 2/2/2026 - 27/3/2026",
+          "evidence_url": "https://preview.chsc.hk/pdf/ssp2025/district_3sc.pdf",
+          "confidence": "verified",
+          "event_id": "93-2026_27-application_deadline-002",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-04-14",
+          "date_end": null,
+          "label": "Round 3 application period starts",
+          "academic_year": "2026-27",
+          "source_text": "Applications for S.1 admission will be accepted in the following three periods:\nRound 3 : 14/4/2026 - 28/8/2026",
+          "evidence_url": "https://preview.chsc.hk/pdf/ssp2025/district_3sc.pdf",
+          "confidence": "verified",
+          "event_id": "93-2026_27-application_open-002",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-08-28",
+          "date_end": null,
+          "label": "Round 3 application deadline",
+          "academic_year": "2026-27",
+          "source_text": "Applications for S.1 admission will be accepted in the following three periods:\nRound 3 : 14/4/2026 - 28/8/2026",
+          "evidence_url": "https://preview.chsc.hk/pdf/ssp2025/district_3sc.pdf",
+          "confidence": "verified",
+          "event_id": "93-2026_27-application_deadline-003",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ]
     },
@@ -796,6 +880,18 @@
           "extracted_at": "2026-04-29T00:00:00"
         },
         {
+          "type": "interview",
+          "date": "2024-03-16",
+          "date_end": null,
+          "label": "interviews (conducted in English)",
+          "academic_year": "2024-25",
+          "source_text": "The tentative date for interviews (conducted in English) is Saturday, 16 March 2024.",
+          "evidence_url": "https://wyk.edu.hk/wp-content/uploads/2023/11/S1_DP_2024-2025_AppGuidelines_FINAL_rev_.pdf",
+          "confidence": "verified",
+          "event_id": "125-2024_25-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "academic_year": "2025-26",
           "type": "interview",
           "date": "2025-03-15",
@@ -877,7 +973,7 @@
           "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
           "confidence": "high",
           "event_id": "125-2026_27-interview-002",
-          "extracted_at": "2026-05-07T19:02:21"
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ]
     },
@@ -1623,6 +1719,90 @@
           "confidence": "single_source",
           "event_id": "232-2024_25-interview-001",
           "extracted_at": "2026-05-09T16:42:30"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "中一自行分配學位資訊講座（2026年9月入學）",
+          "academic_year": "2026-27",
+          "source_text": "自行分配學位報名表將於二零二五年十二月六日之資訊講座派發。",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "confidence": "verified",
+          "event_id": "232-2026_27-info_day-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始（2026年9月入學）",
+          "academic_year": "2026-27",
+          "source_text": "申請日期：二零二六年一月二日(星期五)至二零二六年一月十六日(星期五)",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "confidence": "verified",
+          "event_id": "232-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止（2026年9月入學）",
+          "academic_year": "2026-27",
+          "source_text": "申請日期：二零二六年一月二日(星期五)至二零二六年一月十六日(星期五)",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "confidence": "verified",
+          "event_id": "232-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-02-28",
+          "date_end": null,
+          "label": "中一自行分配學位面試（2026年9月入學）",
+          "academic_year": "2026-27",
+          "source_text": "面試日期為二零二六年二月二十八日（星期六）",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "confidence": "verified",
+          "event_id": "232-2026_27-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試（惡劣天氣備用日期，2026年9月入學）",
+          "academic_year": "2026-27",
+          "source_text": "如遇惡劣天氣，學校須停課，面試日期將改為二零二六年三月七日（星期六）",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "confidence": "verified",
+          "event_id": "232-2026_27-interview-002",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "正取學生通知（自行分配學位結果初步通知，2026年9月入學）",
+          "academic_year": "2026-27",
+          "source_text": "本校會根據教育局的指定日期二零二六年三月三十一日（星期二），透過書面及電話通知所有正取學生的家長，其子女已獲納入本校自行分配學位正取學生名單。",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "confidence": "verified",
+          "event_id": "232-2026_27-result-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中央派位暨自行分配學位最終結果公布（2026年9月入學）",
+          "academic_year": "2026-27",
+          "source_text": "取錄結果須於二零二六年七月七日（星期二）中央派位一併公布，屆時，家長可到 貴子弟就讀小學查閱，本校將不另行通知。",
+          "evidence_url": "http://www.ilc.edu.hk/document/AAC/admission/S1_interviewnotice2425.pdf",
+          "confidence": "verified",
+          "event_id": "232-2026_27-result-002",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -1784,6 +1964,18 @@
           "confidence": "high",
           "event_id": "evt_f367567e",
           "extracted_at": "2026-04-29T10:25:36"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "Application period end",
+          "academic_year": "2026-27",
+          "source_text": " Application period: 2 Jan (Fri) to 16 Jan 2026 (Fri)",
+          "evidence_url": "https://www.yottkp.edu.hk/CustomPage/8/2627_%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E9%9D%A2%E8%A9%A6%E6%97%A5%E7%A8%8B%E5%8F%8A%E7%94%84%E9%81%B8%E6%BA%96%E5%89%87_Part2.pdf",
+          "confidence": "verified",
+          "event_id": "250-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
         },
         {
           "academic_year": "2026-27",
@@ -1992,6 +2184,30 @@
           "evidence_url": "https://www.pyc.edu.hk/publications/application_forms/251122_Admission%20Guide.pdf",
           "event_id": "264-2026-27-result-001",
           "confidence": "high"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "S1殘餘學額申請開始",
+          "academic_year": "2026-27",
+          "source_text": "Please click the link below between 9:00am 7 July 2026 and 12:00noon 8 July 2026 to complete the electronic application ",
+          "evidence_url": "https://www.pyc.edu.hk/publications/application_forms/251122_Admission%20Guide.pdf",
+          "confidence": "verified",
+          "event_id": "264-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "S1殘餘學額申請截止",
+          "academic_year": "2026-27",
+          "source_text": "Please click the link below between 9:00am 7 July 2026 and 12:00noon 8 July 2026 to complete the electronic application ",
+          "evidence_url": "https://www.pyc.edu.hk/publications/application_forms/251122_Admission%20Guide.pdf",
+          "confidence": "verified",
+          "event_id": "264-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -2139,6 +2355,18 @@
           "extracted_at": "2026-04-29T10:20:28"
         },
         {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "申請日期為 2026 年 1 月 2 日（星期五）至 2026 年 1 月 16 日（星期五）。申請人可於本校 網頁（網址：www.mst.edu.hk ）下載或親臨本校索取申請表。",
+          "evidence_url": "https://www.mst.edu.hk/attachment/upload/files/sspa-dp-appform_admmsion2026_notice.pdf",
+          "confidence": "verified",
+          "event_id": "291-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "academic_year": "2026-27",
           "type": "interview",
           "date": "2026-02-28",
@@ -2193,6 +2421,18 @@
           "confidence": "high",
           "event_id": "evt_a2e2381f",
           "extracted_at": "2026-04-29T10:19:07"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "申請截止",
+          "academic_year": "2026-27",
+          "source_text": "Submission Period         From 2nd January, 2026 to 16th January, 2026 (Except Sundays and Public Holidays)",
+          "evidence_url": "https://www.scsg.edu.hk/sites/default/files/files/application_procedures_eng_0.pdf",
+          "confidence": "verified",
+          "event_id": "300-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
         },
         {
           "academic_year": "2026-27",
@@ -2523,6 +2763,18 @@
       "banding_tier": "Band 1",
       "events": [
         {
+          "type": "application_open",
+          "date": "2025-01-02",
+          "date_end": "2025-01-16",
+          "label": "中一自行分配學位申請日期",
+          "academic_year": "2025-26",
+          "source_text": "申請日期： 2025 年 1 月 2 日（星期四）至 2025 年 1 月 16 日（星期四）\n      （包括首尾兩日）",
+          "evidence_url": "https://www.stc.edu.hk/wp-content/uploads/%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5-2025-26.pdf",
+          "confidence": "verified",
+          "event_id": "334-2025_26-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "academic_year": "2025-26",
           "type": "interview",
           "date": "2025-03-01",
@@ -2533,6 +2785,30 @@
           "source_text": "申請者必須出席本校之面試，面試日期為2025 年3 月1 日（星期六），時間將稍後通知",
           "confidence": "high",
           "extracted_at": "2026-04-29T00:00:00"
+        },
+        {
+          "type": "interview",
+          "date": "2025-03-15",
+          "date_end": null,
+          "label": "第二輪面試",
+          "academic_year": "2025-26",
+          "source_text": "第二輪面試日期：2025 年 3 月 15 日（星期六）\n       （被揀選進入第二輪面試的學生將會收到個別通知。）",
+          "evidence_url": "https://www.stc.edu.hk/wp-content/uploads/%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5-2025-26.pdf",
+          "confidence": "verified",
+          "event_id": "334-2025_26-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "result",
+          "date": "2025-03-31",
+          "date_end": null,
+          "label": "取錄結果通知",
+          "academic_year": "2025-26",
+          "source_text": "根據教育局指引，本校將於 2025 年 3 月 31 日以書面及電話形式通知所有正取學生。",
+          "evidence_url": "https://www.stc.edu.hk/wp-content/uploads/%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5-2025-26.pdf",
+          "confidence": "verified",
+          "event_id": "334-2025_26-result-001",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ],
       "self_healing_active": true
@@ -3071,6 +3347,30 @@
       "banding_tier": "Band 1",
       "events": [
         {
+          "type": "application_open",
+          "date": "2025-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2025-26",
+          "source_text": "Submission Date: 2/1/2025 - 16/1/2025 (Sunday and public holidays excluded) Monday to Friday : 9 am - 5:00 pm Saturday :",
+          "evidence_url": "https://tlmshk.edu.hk/wp-content/uploads/2024/11/2025-26-Application-for-Admission-to-Secondary-One-%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8.pdf",
+          "confidence": "verified",
+          "event_id": "389-2025_26-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2025-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2025-26",
+          "source_text": "Submission Date: 2/1/2025 - 16/1/2025 (Sunday and public holidays excluded) Monday to Friday : 9 am - 5:00 pm Saturday :",
+          "evidence_url": "https://tlmshk.edu.hk/wp-content/uploads/2024/11/2025-26-Application-for-Admission-to-Secondary-One-%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8.pdf",
+          "confidence": "verified",
+          "event_id": "389-2025_26-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "academic_year": "2025-26",
           "type": "interview",
           "date": "2025-03-08",
@@ -3115,6 +3415,18 @@
           "extracted_at": "2026-04-29T10:25:36"
         },
         {
+          "type": "application_open",
+          "date": "2025-11-29",
+          "date_end": null,
+          "label": "派發中一自行分配學位申請表格",
+          "academic_year": "2026-27",
+          "source_text": "派發中一自行分配學位申請表格\n2.                                                                       29.11.2025 (Saturday) to 16.01.2",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "verified",
+          "event_id": "405-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "academic_year": "2026-27",
           "type": "application_open",
           "date": "2026-01-02",
@@ -3151,6 +3463,18 @@
           "extracted_at": "2026-04-29T10:25:36"
         },
         {
+          "type": "info_day",
+          "date": "2026-03-27",
+          "date_end": null,
+          "label": "開放日",
+          "academic_year": "2026-27",
+          "source_text": "開放日\n5.                                                                                   27.03.2026 (Friday)\n      Open ",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "verified",
+          "event_id": "405-2026_27-info_day-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "academic_year": "2026-27",
           "type": "result",
           "date": "2026-03-31",
@@ -3173,6 +3497,30 @@
           "confidence": "high",
           "event_id": "evt_22f8e434",
           "extracted_at": "2026-06-01T09:39:54"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一候補學位申請",
+          "academic_year": "2026-27",
+          "source_text": "中一候補學位申請\n9.                                                                                  07.07.2026 (Tuesday)\n      ",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "verified",
+          "event_id": "405-2026_27-application_open-002",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一候補學位面試日（被挑選申請同學）",
+          "academic_year": "2026-27",
+          "source_text": "中一候補學位面試日(被挑選申請同學)\n10.   Interview of S.1 Places after the Release of SSPA Results                   08.07.2026 (Wednesd",
+          "evidence_url": "https://www.nthykyldss.edu.hk/attachment/upload/files/Doc/S1%20admission/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E6%97%A5%E7%A8%8B-2627_202500916_1545.pdf",
+          "confidence": "verified",
+          "event_id": "405-2026_27-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
         },
         {
           "academic_year": "2026-27",
@@ -3341,6 +3689,42 @@
           "evidence_url": "https://www.kings.edu.hk/sites/default/files/download/Application%20Guidelines.pdf",
           "event_id": "419-2026-27-result-001",
           "confidence": "high"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一候補生申請開始",
+          "academic_year": "2026-27",
+          "source_text": "申請及交表日期:    7/7/2026 起，至學額已滿為止。請把申請表及證明文件親身交回本校辦事處。",
+          "evidence_url": "https://www.kings.edu.hk/sites/default/files/download/Application%20Guidelines.pdf",
+          "confidence": "verified",
+          "event_id": "419-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一候補生筆試及面試（第一場）",
+          "academic_year": "2026-27",
+          "source_text": "5.筆試及面試日期：    7/7/2026 下午或 8/7/2026 上午 (本校將以電話通知合符本校要求的申請人)",
+          "evidence_url": "https://www.kings.edu.hk/sites/default/files/download/Application%20Guidelines.pdf",
+          "confidence": "verified",
+          "event_id": "419-2026_27-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "result",
+          "date": "2026-07-09",
+          "date_end": null,
+          "label": "中一候補生取錄通知（起始日）",
+          "academic_year": "2026-27",
+          "source_text": "8.取錄通知：       本校將於 9/7/2026 起以電話聯絡獲取錄之學生(不被取錄之學生將不獲任何通知)",
+          "evidence_url": "https://www.kings.edu.hk/sites/default/files/download/Application%20Guidelines.pdf",
+          "confidence": "verified",
+          "event_id": "419-2026_27-result-001",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -3369,6 +3753,18 @@
           "confidence": "high",
           "event_id": "evt_11de1fcb",
           "extracted_at": "2026-04-29T10:19:07"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止日",
+          "academic_year": "2026-27",
+          "source_text": "請於 2026-01-02（星期五）至 2026-01-16（星期五）將申請表連同以下文件影印本交回本校。",
+          "evidence_url": "https://www.cccmmwc.edu.hk/attachment/upload/files/Admission/2026-2027_S1_Discretionary_Place_-_Application_Form.pdf",
+          "confidence": "verified",
+          "event_id": "447-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
         },
         {
           "academic_year": "2026-27",
@@ -3660,6 +4056,18 @@
           "evidence_url": "https://www.pocawsc.edu.hk/wp-content/uploads/2025/12/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%85%A5%E5%AD%B8%E5%A0%B1%E5%90%8D%E8%A1%A8.pdf",
           "event_id": "22-2026-27-interview-001",
           "confidence": "high"
+        },
+        {
+          "type": "interview",
+          "date": "2025-12-19",
+          "date_end": null,
+          "label": "面試結果通知截止日（未獲邀即視為落選）",
+          "academic_year": "2026-27",
+          "source_text": "If you do not receive any notification by 19 December 2025, please assume that the applicant has not been selected for a",
+          "evidence_url": "https://www.pocawsc.edu.hk/wp-content/uploads/2025/12/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%85%A5%E5%AD%B8%E5%A0%B1%E5%90%8D%E8%A1%A8.pdf",
+          "confidence": "verified",
+          "event_id": "22-2026_27-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -3980,7 +4388,7 @@
           "label": "中一自行分配學位結果公佈",
           "academic_year": "2026-27",
           "source_text": "自行分配學位的結果將於二零二六年七月八日與統一分配學位結果同時由教育局公佈，本校不再另行通知。",
-          "extracted_at": "2026-07-20T09:03:44",
+          "extracted_at": "2026-07-25T13:00:00",
           "evidence_url": "https://www.qc.edu.hk/uploads/files/Admission/S1%20Admission%202026%20Intake/5.%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8%202026%20intake.pdf",
           "event_id": "128-2026-27-result-001",
           "confidence": "high"
@@ -4734,6 +5142,18 @@
           "confidence": "high"
         },
         {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "Application period begins",
+          "academic_year": "2026-27",
+          "source_text": "The application period is between 2 January to 16 January 2026, both dates inclusive.",
+          "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2627_s1_dp_application_schedule.pdf",
+          "confidence": "verified",
+          "event_id": "301-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "type": "application_deadline",
           "date": "2026-01-16",
           "date_end": null,
@@ -5430,6 +5850,18 @@
           "evidence_url": "https://www.smcesps.edu.hk/en/file/doc/2526_251104_S1_Admission_2627_Notice_chi.pdf",
           "event_id": "304-2026-27-application_deadline-001",
           "confidence": "high"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "面試",
+          "academic_year": "2026-27",
+          "source_text": "(7) Interview for Candidates and Meeting with Parents\nStarting from 7 July 2026 (Tuesday), candidates who meet the requi",
+          "evidence_url": "https://www.smcesps.edu.hk/en/file/doc/2526_251104_S1_Admission_2627_Notice_chi.pdf",
+          "confidence": "verified",
+          "event_id": "304-2026_27-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -6377,6 +6809,42 @@
           "evidence_url": "https://www.elegantia.edu.hk/sites/default/files/files/notes_on_the_enrolment_of_the_second_s1_information_day.pdf",
           "event_id": "87-2026-27-info_day-001",
           "confidence": "high"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-03-05",
+          "date_end": null,
+          "label": "第二次升中資訊日網上預約登記開始",
+          "academic_year": "2026-27",
+          "source_text": "本校於 5/3/2026（三）10:00 am 開始接受網上預約登記，請家長屆時留意本校網頁（https://www.elegantia.edu.hk），截止日期為 10/4/2026（五）。",
+          "evidence_url": "https://www.elegantia.edu.hk/sites/default/files/files/notes_on_the_enrolment_of_the_second_s1_information_day.pdf",
+          "confidence": "verified",
+          "event_id": "87-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-04-10",
+          "date_end": null,
+          "label": "第二次升中資訊日網上預約登記截止",
+          "academic_year": "2026-27",
+          "source_text": "本校於 5/3/2026（三）10:00 am 開始接受網上預約登記，請家長屆時留意本校網頁（https://www.elegantia.edu.hk），截止日期為 10/4/2026（五）。",
+          "evidence_url": "https://www.elegantia.edu.hk/sites/default/files/files/notes_on_the_enrolment_of_the_second_s1_information_day.pdf",
+          "confidence": "verified",
+          "event_id": "87-2026_27-application_deadline-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "result",
+          "date": "2026-04-14",
+          "date_end": null,
+          "label": "第二次升中資訊日報名確認通知發出截止日",
+          "academic_year": "2026-27",
+          "source_text": "已成功報名的家長將於 14/4/2026（二）中午 12:00 前收到本校電郵或以 SMS 發出的確認通知。若此日期後仍未收到確認通知，請聯絡本校。",
+          "evidence_url": "https://www.elegantia.edu.hk/sites/default/files/files/notes_on_the_enrolment_of_the_second_s1_information_day.pdf",
+          "confidence": "verified",
+          "event_id": "87-2026_27-result-001",
+          "extracted_at": "2026-07-25T13:00:00"
         },
         {
           "type": "info_day",
@@ -7821,6 +8289,30 @@
           "evidence_url": "http://www.mukuang.edu.hk/wp-content/uploads/2025/10/2026-2027-%E5%B9%B4%E5%BA%A6%E3%80%8C%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E3%80%8D%E7%94%B3%E8%AB%8B-2026-2027-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B-1.pdf",
           "event_id": "230-2026-27-result-004",
           "confidence": "high"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一學位叩門申請",
+          "academic_year": "2026-27",
+          "source_text": "07/07/2026 (二) - 10/07/2026 (五) | 中一學位叩門申請",
+          "evidence_url": "http://www.mukuang.edu.hk/wp-content/uploads/2025/10/2026-2027-%E5%B9%B4%E5%BA%A6%E3%80%8C%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E3%80%8D%E7%94%B3%E8%AB%8B-2026-2027-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B-1.pdf",
+          "confidence": "verified",
+          "event_id": "230-2026_27-application_open-002",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-10",
+          "date_end": null,
+          "label": "中一學位叩門申請",
+          "academic_year": "2026-27",
+          "source_text": "07/07/2026 (二) - 10/07/2026 (五) | 中一學位叩門申請",
+          "evidence_url": "http://www.mukuang.edu.hk/wp-content/uploads/2025/10/2026-2027-%E5%B9%B4%E5%BA%A6%E3%80%8C%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E3%80%8D%E7%94%B3%E8%AB%8B-2026-2027-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B-1.pdf",
+          "confidence": "verified",
+          "event_id": "230-2026_27-application_deadline-002",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -9281,6 +9773,18 @@
           "evidence_url": "http://www.hkmakslo.edu.hk/wp-content/uploads/2025/11/2024-2026-Instructions-for-Application-for-Secondary-One-Discretionary-Places.pdf",
           "event_id": "368-2025-26-interview-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-01-04",
+          "date_end": null,
+          "label": "中一自行分配學位簡報會",
+          "academic_year": "2026-27",
+          "source_text": "本校將於 2026 年 1 月 4 日(星期日)下午二時至四時舉行「中一自行分配學位簡報會」，以便家長進一步瞭解本",
+          "evidence_url": "http://www.hkmakslo.edu.hk/wp-content/uploads/2025/11/2024-2026-Instructions-for-Application-for-Secondary-One-Discretionary-Places.pdf",
+          "confidence": "verified",
+          "event_id": "368-2026_27-info_day-001",
+          "extracted_at": "2026-07-25T13:00:00"
         },
         {
           "type": "application_deadline",
@@ -12430,6 +12934,30 @@
       "name": "博愛醫院鄧佩瓊紀念中學",
       "events": [
         {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "遞交中一自行分配學位申請表(親身/電子平台)",
+          "academic_year": "2026-27",
+          "source_text": "遞交中一自行分配學位申請表(親身/電子平台) | 2026年1月2日(五)至1月16日(五)",
+          "evidence_url": "https://www.tpk.edu.hk/attachment/upload/files/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/Schedule_SSDP_2627.pdf",
+          "confidence": "verified",
+          "event_id": "33-2026_27-application_open-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "自行分配學位面試$\\cdot$ | 2026年3月7日(六)面试時間另行郵寄通知",
+          "evidence_url": "https://www.tpk.edu.hk/attachment/upload/files/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/Schedule_SSDP_2627.pdf",
+          "confidence": "verified",
+          "event_id": "33-2026_27-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "type": "result",
           "date": "2026-03-31",
           "date_end": null,
@@ -12485,7 +13013,7 @@
           "evidence_url": "https://www.ccpass.edu.hk/admission/26EN-017_2026-2027.pdf",
           "confidence": "verified",
           "event_id": "112-2026_27-result-001",
-          "extracted_at": "2026-07-18T20:33:26"
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ]
     },
@@ -13209,6 +13737,18 @@
       "name": "香港中文大學校友會聯會陳震夏中學",
       "events": [
         {
+          "type": "info_day",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "校務處索取申請表首日（視為資訊日/簡介會替代活動）",
+          "academic_year": "2026-27",
+          "source_text": "2. 於 2025 年 11 月 22 日（星期六）起到本校校務處索取",
+          "evidence_url": "https://cchwww.b-cdn.net/wp-content/uploads/2025/11/2026-2027中一入學申請須知_Chinese.pdf",
+          "confidence": "verified",
+          "event_id": "392-2026_27-info_day-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
           "type": "application_open",
           "date": "2026-01-02",
           "date_end": null,
@@ -13231,6 +13771,30 @@
           "confidence": "high",
           "event_id": "392-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "academic_year": "2026-27",
+          "source_text": "面試將於 2026 年 3 月 7 日(星期六)在本校舉行。",
+          "evidence_url": "https://cchwww.b-cdn.net/wp-content/uploads/2025/11/2026-2027中一入學申請須知_Chinese.pdf",
+          "confidence": "verified",
+          "event_id": "392-2026_27-interview-001",
+          "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "中一自行分配學位結果通知",
+          "academic_year": "2026-27",
+          "source_text": "中一自行學位分配結果將於 2026 年 3 月 31 日（星期二）由學校以書面及電話通知正取學生。",
+          "evidence_url": "https://cchwww.b-cdn.net/wp-content/uploads/2025/11/2026-2027中一入學申請須知_Chinese.pdf",
+          "confidence": "verified",
+          "event_id": "392-2026_27-result-001",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ]
     },
@@ -14478,6 +15042,23 @@
           "confidence": "single_source",
           "event_id": "369-2026_27-application_open-002",
           "extracted_at": "2026-07-25T12:00:00"
+        }
+      ]
+    },
+    "363": {
+      "name": "香港道教聯合會圓玄學院第二中學",
+      "events": [
+        {
+          "type": "result",
+          "date": "2026-07-18",
+          "date_end": null,
+          "label": "2026-2027年度中一新生分班名單",
+          "academic_year": "2026-27",
+          "source_text": "[2026-07-18] 2026-2027年度中一新生分班名單",
+          "evidence_url": "https://www.yy2.edu.hk/School_calendar_2526_FINAL.pdf",
+          "confidence": "verified",
+          "event_id": "363-2026_27-result-001",
+          "extracted_at": "2026-07-25T13:00:00"
         }
       ]
     }
