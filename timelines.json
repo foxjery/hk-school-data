@@ -360,8 +360,7 @@
           "event_id": "27-2026-27-result-004",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "28": {
       "name": "播道書院",
@@ -412,8 +411,7 @@
           "event_id": "41-2026_27-application_open-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "47": {
       "name": "大埔三育中學",
@@ -492,8 +490,7 @@
           "event_id": "47-2026_27-result-001",
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "51": {
       "name": "德信中學",
@@ -672,8 +669,7 @@
           "event_id": "evt_205ceb1d",
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "93": {
       "name": "佛教筏可紀念中學",
@@ -839,8 +835,7 @@
           "event_id": "120-2026-27-result-002",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "121": {
       "name": "漢華中學",
@@ -1270,8 +1265,7 @@
           "event_id": null,
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "153": {
       "name": "嘉諾撒聖瑪利書院",
@@ -1350,8 +1344,7 @@
           "event_id": "evt_a3371bc0",
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "154": {
       "name": "嘉諾撒聖心書院",
@@ -2078,8 +2071,7 @@
         }
       ],
       "data_gap_reason": "no_public_admission_info",
-      "data_gap_confirmed": "2026-04-29T10:32:03",
-      "self_healing_active": true
+      "data_gap_confirmed": "2026-04-29T10:32:03"
     },
     "250": {
       "name": "仁愛堂田家炳中學",
@@ -2238,8 +2230,7 @@
           "event_id": "evt_dd9225d3",
           "extracted_at": "2026-04-29T10:01:28"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "264": {
       "name": "沙田培英中學",
@@ -2400,7 +2391,8 @@
         }
       ],
       "data_gap_reason": "no_public_admission_info",
-      "data_gap_confirmed": "2026-04-29T10:32:03"
+      "data_gap_confirmed": "2026-04-29T10:32:03",
+      "self_healing_active": true
     },
     "273": {
       "name": "聖保祿學校",
@@ -2547,8 +2539,7 @@
           "event_id": "evt_b6298e2d",
           "extracted_at": "2026-04-29T10:20:28"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "300": {
       "name": "聖傑靈女子中學",
@@ -3083,8 +3074,7 @@
           "event_id": "evt_f390286a",
           "extracted_at": "2026-04-29T10:02:47"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "347": {
       "name": "王肇枝中學",
@@ -3211,8 +3201,7 @@
           "event_id": "347-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "372": {
       "name": "香港華仁書院",
@@ -3555,8 +3544,7 @@
           "event_id": "evt_fa13534a",
           "extracted_at": "2026-04-29T10:05:36"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "389": {
       "name": "香港真光中學",
@@ -3763,8 +3751,7 @@
           "event_id": "evt_28b2d8de",
           "extracted_at": "2026-04-29T10:25:36"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "413": {
       "name": "伊利沙伯中學",
@@ -4514,8 +4501,7 @@
           "event_id": "68-2026-27-result-001",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "109": {
       "name": "港大同學會書院",
@@ -6132,8 +6118,7 @@
             "legacy_seeded"
           ]
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "129": {
       "name": "惠僑英文中學",
@@ -6424,8 +6409,7 @@
           "event_id": "275-2026-27-interview-001",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "298": {
       "name": "聖嘉勒女書院",
@@ -7783,8 +7767,7 @@
             "legacy_seeded"
           ]
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "106": {
       "name": "福建中學",
@@ -8050,8 +8033,7 @@
           ],
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "114": {
       "name": "港青基信書院",
@@ -8174,8 +8156,7 @@
           "event_id": "123-2026_27-application_open-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "134": {
       "name": "基督教女青年會丘佐榮中學",
@@ -8254,8 +8235,7 @@
           "event_id": "134-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "136": {
       "name": "基督教香港信義會宏信書院",
@@ -8582,8 +8562,7 @@
           "event_id": "141-2026-27-result-001",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "155": {
       "name": "嘉諾撒書院",
@@ -8810,8 +8789,7 @@
           "event_id": "179-2026_27-result-001",
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "206": {
       "name": "羅定邦中學",
@@ -8950,8 +8928,7 @@
           "event_id": "206-2026-27-interview-003",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "213": {
       "name": "瑪利諾修院學校（中學部）",
@@ -9586,8 +9563,7 @@
           "event_id": "266-2026_27-result-002",
           "extracted_at": "2026-07-01T10:17:19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "274": {
       "name": "聖保祿中學",
@@ -9998,8 +9974,7 @@
           "event_id": "302-2026_27-result-001",
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "309": {
       "name": "聖若瑟書院",
@@ -10030,8 +10005,7 @@
           "event_id": "309-2026-27-info_day-001",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "311": {
       "name": "聖士提反女子中學",
@@ -10338,8 +10312,7 @@
           "event_id": "323-2027_28-result-001",
           "extracted_at": "2026-08-28T09:52:02"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "324": {
       "name": "順德聯誼總會梁銶琚中學",
@@ -10554,8 +10527,7 @@
           "event_id": "328-2026-27-application_deadline-001",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "336": {
       "name": "天主教郭得勝中學",
@@ -10634,8 +10606,7 @@
           "event_id": "336-2026-27-result-002",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "345": {
       "name": "屯門官立中學",
@@ -11638,8 +11609,7 @@
           "event_id": "417-2026-27-result-002",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "420": {
       "name": "優才（楊殷有娣）書院",
@@ -11798,8 +11768,7 @@
           "event_id": "425-2026-27-result-002",
           "confidence": "high"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "448": {
       "name": "中華基督教會銘基書院",
@@ -11953,8 +11922,7 @@
           "event_id": "383-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "10": {
       "name": "保良局胡忠中學",
@@ -12031,8 +11999,7 @@
           "event_id": "10-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "44": {
       "name": "崇真書院",
@@ -12073,8 +12040,7 @@
           "event_id": "44-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "45": {
       "name": "慈幼英文學校",
@@ -12115,8 +12081,7 @@
           "event_id": "45-2026_27-application_deadline-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "54": {
       "name": "鄧鏡波學校",
@@ -12145,8 +12110,7 @@
           "event_id": "54-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "71": {
       "name": "東華三院呂潤財紀念中學",
@@ -12211,8 +12175,7 @@
           "event_id": "71-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "77": {
       "name": "東華三院辛亥年總理中學",
@@ -12265,8 +12228,7 @@
           "event_id": "77-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "88": {
       "name": "鳳溪第一中學",
@@ -12307,8 +12269,7 @@
           "event_id": "88-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "89": {
       "name": "鳳溪廖萬石堂中學",
@@ -12349,8 +12310,7 @@
           "event_id": "89-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "94": {
       "name": "佛教何南金中學",
@@ -12403,8 +12363,7 @@
           "event_id": "94-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "99": {
       "name": "佛教覺光法師中學",
@@ -12445,8 +12404,7 @@
           "event_id": "99-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "100": {
       "name": "佛教孔仙洲紀念中學",
@@ -12463,8 +12421,7 @@
           "event_id": "100-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "107": {
       "name": "福建中學（小西灣）",
@@ -12517,8 +12474,7 @@
           "event_id": "107-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "108": {
       "name": "港澳信義會慕德中學",
@@ -12595,8 +12551,7 @@
           "event_id": "108-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "144": {
       "name": "迦密愛禮信中學",
@@ -12661,8 +12616,7 @@
           "event_id": "144-2026_27-application_deadline-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "156": {
       "name": "將軍澳官立中學",
@@ -12691,8 +12645,7 @@
           "event_id": "156-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "159": {
       "name": "金巴崙長老會耀道中學",
@@ -12757,8 +12710,7 @@
           "event_id": "159-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "160": {
       "name": "金文泰中學",
@@ -12811,8 +12763,7 @@
           "event_id": "160-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "173": {
       "name": "孔教學院大成何郭佩珍中學",
@@ -12841,8 +12792,7 @@
           "event_id": "173-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "175": {
       "name": "葵涌蘇浙公學",
@@ -12931,8 +12881,7 @@
           "event_id": "175-2026_27-interview-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "181": {
       "name": "樂善堂顧超文中學",
@@ -12985,8 +12934,7 @@
           "event_id": "181-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "188": {
       "name": "禮賢會彭學高紀念中學",
@@ -13039,8 +12987,7 @@
           "event_id": "188-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "197": {
       "name": "嶺南衡怡紀念中學",
@@ -13081,8 +13028,7 @@
           "event_id": "197-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "202": {
       "name": "路德會呂祥光中學",
@@ -13159,8 +13105,7 @@
           "event_id": "202-2026_27-result-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "203": {
       "name": "路德會西門英才中學",
@@ -13225,8 +13170,7 @@
           "event_id": "203-2026_27-result-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "204": {
       "name": "路德會協同中學",
@@ -13279,8 +13223,7 @@
           "event_id": "204-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "208": {
       "name": "馬鞍山聖若瑟中學",
@@ -13321,8 +13264,7 @@
           "event_id": "208-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "233": {
       "name": "寧波第二中學",
@@ -13363,8 +13305,7 @@
           "event_id": "233-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "238": {
       "name": "培英中學",
@@ -13417,8 +13358,7 @@
           "event_id": "238-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "245": {
       "name": "裘錦秋中學（元朗）",
@@ -13483,8 +13423,7 @@
           "event_id": "245-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "248": {
       "name": "荃灣聖芳濟中學",
@@ -13573,8 +13512,7 @@
           "event_id": "248-2026_27-result-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "277": {
       "name": "聖伯多祿中學",
@@ -13627,8 +13565,7 @@
           "event_id": "277-2026_27-application_open-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "280": {
       "name": "聖公會白約翰會督中學",
@@ -13657,8 +13594,7 @@
           "event_id": "280-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "284": {
       "name": "聖公會基孝中學",
@@ -13687,8 +13623,7 @@
           "event_id": "284-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "294": {
       "name": "聖公會聖三一堂中學",
@@ -13741,8 +13676,7 @@
           "event_id": "294-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "297": {
       "name": "聖公會諸聖中學",
@@ -13783,8 +13717,7 @@
           "event_id": "297-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "307": {
       "name": "聖母無玷聖心書院",
@@ -13825,8 +13758,7 @@
           "event_id": "307-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "320": {
       "name": "世界龍岡學校劉皇發中學",
@@ -13867,8 +13799,7 @@
           "event_id": "320-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "326": {
       "name": "順德聯誼總會翁祐中學",
@@ -13933,8 +13864,7 @@
           "event_id": "326-2026_27-result-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "331": {
       "name": "天水圍官立中學",
@@ -13975,8 +13905,7 @@
           "event_id": "331-unknown-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "354": {
       "name": "五旬節中學",
@@ -14017,8 +13946,7 @@
           "event_id": "354-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "355": {
       "name": "五邑司徒浩中學",
@@ -14083,8 +14011,7 @@
           "event_id": "355-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "377": {
       "name": "香港九龍塘基督教中華宣道會鄭榮之中學",
@@ -14161,8 +14088,7 @@
           "event_id": "377-2026_27-result-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "393": {
       "name": "香港中文大學校友會聯會張煊昌中學",
@@ -14203,8 +14129,7 @@
           "event_id": "393-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "396": {
       "name": "香海正覺蓮社佛教梁植偉中學",
@@ -14257,8 +14182,7 @@
           "event_id": "396-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "410": {
       "name": "宣道中學",
@@ -14335,8 +14259,7 @@
           "event_id": "410-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "416": {
       "name": "伊斯蘭脫維善紀念中學",
@@ -14377,8 +14300,7 @@
           "event_id": "416-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "442": {
       "name": "中華基督教會基朗中學",
@@ -14455,8 +14377,7 @@
           "event_id": "442-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "12": {
       "name": "保良局甲子何玉清中學",
@@ -14473,8 +14394,7 @@
           "event_id": "12-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "13": {
       "name": "保良局李城璧中學",
@@ -14539,8 +14459,7 @@
           "event_id": "13-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "15": {
       "name": "保良局馬錦明夫人章馥仙中學",
@@ -14575,8 +14494,7 @@
           "event_id": "25-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "33": {
       "name": "博愛醫院鄧佩瓊紀念中學",
@@ -14617,8 +14535,7 @@
           "event_id": "33-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "92": {
       "name": "佛教大雄中學",
@@ -14659,8 +14576,7 @@
           "event_id": "92-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "112": {
       "name": "港九潮州公會中學",
@@ -14677,8 +14593,7 @@
           "event_id": "112-2026_27-result-001",
           "extracted_at": "2026-07-25T13:00:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "119": {
       "name": "觀塘官立中學",
@@ -14695,8 +14610,7 @@
           "event_id": "119-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "127": {
       "name": "皇仁舊生會中學",
@@ -14713,8 +14627,7 @@
           "event_id": "127-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "138": {
       "name": "基督教香港信義會信義中學",
@@ -14743,8 +14656,7 @@
           "event_id": "138-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "147": {
       "name": "迦密唐賓南紀念中學",
@@ -14785,8 +14697,7 @@
           "event_id": "147-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "168": {
       "name": "救恩書院",
@@ -14803,8 +14714,7 @@
           "event_id": "168-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "185": {
       "name": "樂善堂楊葛小琳中學",
@@ -14833,8 +14743,7 @@
           "event_id": "185-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "193": {
       "name": "廖寶珊紀念書院",
@@ -14851,8 +14760,7 @@
           "event_id": "193-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "207": {
       "name": "馬鞍山崇真中學",
@@ -14869,8 +14777,7 @@
           "event_id": "207-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "212": {
       "name": "瑪利諾神父教會學校",
@@ -14887,8 +14794,7 @@
           "event_id": "212-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "231": {
       "name": "南屯門官立中學",
@@ -14905,8 +14811,7 @@
           "event_id": "231-2026_27-info_day-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "255": {
       "name": "仁濟醫院羅陳楚思中學",
@@ -14923,8 +14828,7 @@
           "event_id": "255-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "256": {
       "name": "仁濟醫院王華湘中學",
@@ -14965,8 +14869,7 @@
           "event_id": "256-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "290": {
       "name": "聖公會呂明才中學",
@@ -14983,8 +14886,7 @@
           "event_id": "290-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "306": {
       "name": "聖母書院",
@@ -15025,8 +14927,7 @@
           "event_id": "306-2026_27-application_open-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "310": {
       "name": "聖若瑟英文中學",
@@ -15115,8 +15016,7 @@
           "event_id": "310-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "319": {
       "name": "石籬天主教中學",
@@ -15193,8 +15093,7 @@
           "event_id": "319-2026_27-result-002",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "322": {
       "name": "順德聯誼總會胡兆熾中學",
@@ -15211,8 +15110,7 @@
           "event_id": "322-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "333": {
       "name": "天水圍循道衞理中學",
@@ -15229,8 +15127,7 @@
           "event_id": "333-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "366": {
       "name": "香港鄧鏡波書院",
@@ -15295,8 +15192,7 @@
           "event_id": "366-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "388": {
       "name": "香港真光書院",
@@ -15325,8 +15221,7 @@
           "event_id": "388-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "390": {
       "name": "香港中國婦女會馮堯敬紀念中學",
@@ -15355,8 +15250,7 @@
           "event_id": "390-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "423": {
       "name": "元朗公立中學",
@@ -15433,8 +15327,7 @@
           "event_id": "423-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "446": {
       "name": "中華基督教會基智中學",
@@ -15463,8 +15356,7 @@
           "event_id": "446-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "450": {
       "name": "中華基督教會全完中學",
@@ -15493,8 +15385,7 @@
           "event_id": "450-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "162": {
       "name": "浸信會永隆中學",
@@ -15547,8 +15438,7 @@
           "event_id": "162-2026_27-result-001",
           "extracted_at": "2026-07-18T22:21:41"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "166": {
       "name": "九龍塘學校（中學部）",
@@ -15613,8 +15503,7 @@
           "event_id": "166-2026_27-info_day-002",
           "extracted_at": "2026-07-18T22:21:41"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "62": {
       "name": "東華三院馮黃鳳亭中學",
@@ -15631,8 +15520,7 @@
           "event_id": "62-2026_27-info_day-001",
           "extracted_at": "2026-07-18T22:21:41"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "187": {
       "name": "李求恩紀念中學",
@@ -15649,8 +15537,7 @@
           "event_id": "187-2026_27-info_day-001",
           "extracted_at": "2026-07-18T22:21:41"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "392": {
       "name": "香港中文大學校友會聯會陳震夏中學",
@@ -15715,8 +15602,7 @@
           "event_id": "392-2026_27-result-001",
           "extracted_at": "2026-07-25T13:00:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "16": {
       "name": "保良局馬錦明中學",
@@ -15745,8 +15631,7 @@
           "event_id": "16-2026_27-info_day-002",
           "extracted_at": "2026-07-18"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "192": {
       "name": "梁文燕紀念中學（沙田）",
@@ -15775,8 +15660,7 @@
           "event_id": "192-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "196": {
       "name": "靈糧堂怡文中學",
@@ -15829,8 +15713,7 @@
           "event_id": "196-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "17": {
       "name": "保良局唐乃勤初中書院",
@@ -15859,8 +15742,7 @@
           "event_id": "17-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "34": {
       "name": "博愛醫院歷屆總理聯誼會梁省德中學",
@@ -15889,8 +15771,7 @@
           "event_id": "34-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "35": {
       "name": "彩虹邨天主教英文中學",
@@ -15919,8 +15800,7 @@
           "event_id": "35-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "75": {
       "name": "東華三院吳祥川紀念中學",
@@ -15997,8 +15877,7 @@
           "event_id": "75-2026_27-orientation-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "130": {
       "name": "滙基書院",
@@ -16051,8 +15930,7 @@
           "event_id": "130-2026_27-interview-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "183": {
       "name": "樂善堂梁植偉紀念中學",
@@ -16129,8 +16007,7 @@
           "event_id": "183-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "115": {
       "name": "高雷中學",
@@ -16183,8 +16060,7 @@
           "event_id": "115-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "124": {
       "name": "何文田官立中學",
@@ -16273,8 +16149,7 @@
           "event_id": "124-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "135": {
       "name": "基督教聖約教會堅樂中學",
@@ -16327,8 +16202,7 @@
           "event_id": "135-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "142": {
       "name": "基督書院",
@@ -16375,8 +16249,7 @@
           "event_id": "272-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "349": {
       "name": "衞理中學",
@@ -16417,8 +16290,7 @@
           "event_id": "349-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "397": {
       "name": "香海正覺蓮社佛教馬錦燦紀念英文中學",
@@ -16471,8 +16343,7 @@
           "event_id": "397-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "415": {
       "name": "伊利沙伯中學舊生會中學",
@@ -16525,8 +16396,7 @@
           "event_id": "415-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "422": {
       "name": "余振強紀念中學",
@@ -16579,8 +16449,7 @@
           "event_id": "422-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "434": {
       "name": "中華傳道會劉永生中學",
@@ -16645,8 +16514,7 @@
           "event_id": "434-2026_27-interview-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "85": {
       "name": "粉嶺救恩書院",
@@ -16723,8 +16591,7 @@
           "event_id": "85-2026_27-orientation-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "318": {
       "name": "十八鄉鄉事委員會公益社中學",
@@ -16801,8 +16668,7 @@
           "event_id": "318-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "414": {
       "name": "伊利沙伯中學舊生會湯國華中學",
@@ -16855,8 +16721,7 @@
           "event_id": "414-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "189": {
       "name": "荔景天主教中學",
@@ -16926,8 +16791,7 @@
           "event_id": "424-2026_27-interview-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "441": {
       "name": "中華基督教會基道中學",
@@ -16944,8 +16808,7 @@
           "event_id": "441-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "86": {
       "name": "粉嶺禮賢會中學",
@@ -16962,8 +16825,7 @@
           "event_id": "86-2026_27-interview-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "346": {
       "name": "屯門天主教中學",
@@ -17028,8 +16890,7 @@
           "event_id": "346-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "407": {
       "name": "新生命教育協會平安福音中學",
@@ -17082,8 +16943,7 @@
           "event_id": "407-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "409": {
       "name": "宣道會陳朱素華紀念中學",
@@ -17100,8 +16960,7 @@
           "event_id": "409-2026_27-info_day-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "358": {
       "name": "顯理中學",
@@ -17154,8 +17013,7 @@
           "event_id": "358-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ],
-      "self_healing_active": true
+      ]
     },
     "369": {
       "name": "香港航海學校",
@@ -17213,8 +17071,7 @@
           "event_id": "363-2026_27-result-001",
           "extracted_at": "2026-07-25T13:00:00"
         }
-      ],
-      "self_healing_active": true
+      ]
     }
   }
 }
