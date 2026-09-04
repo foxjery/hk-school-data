@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-08-28T09:53:52",
+  "updated_at": "2026-09-04T08:01:03",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -2048,9 +2048,56 @@
       "name": "培僑中學",
       "school_type": "直資",
       "banding_tier": "Band 2",
-      "events": [],
-      "data_gap_reason": "no_public_admission_info",
-      "data_gap_confirmed": "2026-04-29T10:32:03"
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-07-18",
+          "date_end": null,
+          "label": "中一入學申請開始",
+          "academic_year": "2026-27",
+          "source_text": "申請期： **2026年7月18日至8月2日**，期內申請者只可以申請一次；合適的申請人將獲邀出席入學評估。",
+          "evidence_url": "https://admission.pkms.edu.hk/event/1212",
+          "confidence": "verified",
+          "event_id": "237-2026_27-application_open-001",
+          "extracted_at": "2026-09-04T07:55:19"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-08-02",
+          "date_end": null,
+          "label": "中一入學申請截止",
+          "academic_year": "2026-27",
+          "source_text": "申請期： **2026年7月18日至8月2日**，期內申請者只可以申請一次；合適的申請人將獲邀出席入學評估。",
+          "evidence_url": "https://admission.pkms.edu.hk/event/1212",
+          "confidence": "single_source",
+          "event_id": "237-2026_27-application_deadline-001",
+          "extracted_at": "2026-09-04T07:55:19"
+        },
+        {
+          "type": "result",
+          "date": "2026-08-07",
+          "date_end": null,
+          "label": "錄取結果通知（電郵邀請入學評估）",
+          "academic_year": "2026-27",
+          "source_text": "家長須在網上填妥報名表，本校將於 **2026年8月7日** 或之前通過電郵邀請合適的申請人出席入學評估。",
+          "evidence_url": "https://admission.pkms.edu.hk/event/1212",
+          "confidence": "verified",
+          "event_id": "237-2026_27-result-001",
+          "extracted_at": "2026-09-04T07:55:19"
+        },
+        {
+          "type": "result",
+          "date": "2026-08-18",
+          "date_end": null,
+          "label": "落選通知（未獲邀即視作落選）",
+          "academic_year": "2026-27",
+          "source_text": " **2026年8月18日** 後未獲邀請參加考試的申請人，則可視作落選，有關申請資料將被銷毀；",
+          "evidence_url": "https://admission.pkms.edu.hk/event/1212",
+          "confidence": "verified",
+          "event_id": "237-2026_27-result-002",
+          "extracted_at": "2026-09-04T07:55:19"
+        }
+      ]
     },
     "239": {
       "name": "啓思中學",
@@ -17070,6 +17117,35 @@
           "confidence": "verified",
           "event_id": "363-2026_27-result-001",
           "extracted_at": "2026-07-25T13:00:00"
+        }
+      ]
+    },
+    "403": {
+      "name": "新界西貢坑口區鄭植之中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-07-06",
+          "date_end": null,
+          "label": "中一入學申請表遞交開始",
+          "academic_year": "2026-27",
+          "source_text": "請於 2026 年 7 月 6 日至 2026 年 7 月 10 日把申請表親身交回校務處，並務必附上以下文件：",
+          "evidence_url": "https://www.cccss.edu.hk/uploads/pages/3/files/2026-2027_JUL/2026-2027%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8_%E5%A1%AB%E8%A1%A8%E9%A0%88%E7%9F%A52026JUL.pdf",
+          "confidence": "verified",
+          "event_id": "403-2026_27-application_open-001",
+          "extracted_at": "2026-09-04T00:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-10",
+          "date_end": null,
+          "label": "中一入學申請表遞交截止",
+          "academic_year": "2026-27",
+          "source_text": "請於 2026 年 7 月 6 日至 2026 年 7 月 10 日把申請表親身交回校務處，並務必附上以下文件：",
+          "evidence_url": "https://www.cccss.edu.hk/uploads/pages/3/files/2026-2027_JUL/2026-2027%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8_%E5%A1%AB%E8%A1%A8%E9%A0%88%E7%9F%A52026JUL.pdf",
+          "confidence": "verified",
+          "event_id": "403-2026_27-application_deadline-001",
+          "extracted_at": "2026-09-04T00:00:00"
         }
       ]
     }
