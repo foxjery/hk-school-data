@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-05T03:00:00",
+  "updated_at": "2026-09-05T04:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -5871,6 +5871,18 @@
           "confidence": "verified",
           "event_id": "406-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2026-11-14",
+          "date_end": null,
+          "label": "Information Talk（資訊講座）",
+          "source_text": "14 Information Talk（2026-27 校曆十一月格，圖像版校曆人工讀取；「21 Information Talk Reserve Day」為後備日。校曆未明寫升中，按週六舉辦+設後備日+11月時點判定為招生資訊講座）",
+          "evidence_url": "https://www.lkpfc.edu.hk/tc/calendar",
+          "confidence": "medium",
+          "event_id": "evt_d59d9e28",
+          "extracted_at": "2026-09-05T04:00:00"
         }
       ],
       "self_healing_active": false
