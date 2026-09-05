@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-05T04:00:00",
+  "updated_at": "2026-09-05T05:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -775,6 +775,18 @@
       "school_type": "資助",
       "banding_tier": "Band 1",
       "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-11-30",
+          "date_end": null,
+          "label": "觀塘瑪利諾資訊日（升中講座）",
+          "source_text": "30 November 2025 (Sunday) 2025年11月30日（星期日）1:00 p.m. - 2:00 p.m. 地點: 學校禮堂；報名將於11月3日開始，名額有限先到先得（FULL 名額已滿）",
+          "evidence_url": "https://en.ktmc.edu.hk/OpenDay/",
+          "confidence": "high",
+          "event_id": "evt_6e7bdfc7",
+          "extracted_at": "2026-09-05T05:00:00"
+        },
         {
           "type": "application_open",
           "date": "2026-01-02",
@@ -2642,7 +2654,7 @@
           "extracted_at": "2026-04-29T10:19:07"
         },
         {
-          "academic_year": "2026-27",
+          "academic_year": "2027-28",
           "type": "info_day",
           "date": "2026-11-14",
           "date_end": null,
@@ -5873,7 +5885,7 @@
           "extracted_at": "2026-07-25T19:34:00"
         },
         {
-          "academic_year": "2026-27",
+          "academic_year": "2027-28",
           "type": "info_day",
           "date": "2026-11-14",
           "date_end": null,
