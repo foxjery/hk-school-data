@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-04T08:01:03",
+  "updated_at": "2026-09-05T03:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -2640,6 +2640,18 @@
           "confidence": "high",
           "event_id": "evt_b81add46",
           "extracted_at": "2026-04-29T10:19:07"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2026-11-14",
+          "date_end": null,
+          "label": "開放日",
+          "source_text": "14: 開放日（聖傑靈女子中學 2026-2027 校曆表，十一月格；「16: 開放日後假期[DH]」佐證）",
+          "evidence_url": "https://www.scsg.edu.hk/sites/default/source/administration/school-calendar/Calendar_Chi.pdf",
+          "confidence": "high",
+          "event_id": "evt_1aee3839",
+          "extracted_at": "2026-09-05T03:00:00"
         }
       ],
       "self_healing_active": false
