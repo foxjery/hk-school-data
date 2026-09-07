@@ -524,7 +524,20 @@
       "name": "地利亞修女紀念學校（吉利徑）",
       "school_type": "直資",
       "banding_tier": "Band 3",
-      "events": [],
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-11-16",
+          "date_end": null,
+          "label": "GP Open Day（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "16/11 GP Open Day",
+          "evidence_url": "https://www.deliagp.edu.hk/school-calendar",
+          "confidence": "medium",
+          "event_id": "57-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T20:00:00"
+        }
+      ],
       "data_gap_reason": "no_public_admission_info",
       "data_gap_confirmed": "2026-04-29T10:32:03"
     },
@@ -771,6 +784,18 @@
           "confidence": "verified",
           "event_id": "93-2026_27-application_deadline-003",
           "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-03",
+          "date_end": null,
+          "label": "School Information Day（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "(3/12) School Information Day",
+          "evidence_url": "http://www.bfhmc.edu.hk/album/web/2627_cal_e.pdf",
+          "confidence": "medium",
+          "event_id": "93-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T20:00:00"
         }
       ]
     },
@@ -14308,6 +14333,18 @@
           "confidence": "single_source",
           "event_id": "354-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "中一入學資訊簡介會（據校網公告）",
+          "academic_year": "2026-27",
+          "source_text": "本校資訊日將於2025年11月22日(星期六)舉行,當日將設有豐富活動,包括中一入學資訊簡介會、校園遊覽、學習體驗活動及攤位遊戲",
+          "evidence_url": "https://www.pentecostalschool.edu.hk/latest_new/202526%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E8%B3%87%E8%A8%8A%E7%B0%A1%E4%BB%8B%E6%9C%83%E5%8F%8A%E5%AD%B8%E7%BF%92%E9%AB%94%E9%A9%97%E6%B4%BB%E5%8B%95%E6%97%A5-%E7%8F%BE%E6%AD%A3%E6%8E%A5%E5%8F%97%E5%A0%B1%E5%90%8D",
+          "confidence": "high",
+          "event_id": "354-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T20:00:00"
         }
       ]
     },
