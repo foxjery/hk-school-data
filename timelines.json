@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-07T15:30:00",
+  "updated_at": "2026-09-07T16:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -1674,7 +1674,20 @@
       "name": "可風中學（嗇色園主辦）",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": [],
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "中一入學資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "11-28 School Information Day（Owner 於 2026-2027 校曆確認）",
+          "evidence_url": "https://www.hofung.edu.hk/Content/03_school_info/03_school_calendar/index.aspx?ct=calendar&styleId=1&nnnid=170",
+          "confidence": "medium",
+          "event_id": "171-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T16:00:00"
+        }
+      ],
       "data_gap_reason": "no_public_admission_info",
       "data_gap_confirmed": "2026-04-29T10:32:03"
     },
@@ -13264,6 +13277,18 @@
           "confidence": "verified",
           "event_id": "188-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-07",
+          "date_end": null,
+          "label": "中一新生入學簡介會（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "(7) 資訊日 [1]( 中一新生入學簡介會 )；(6) 資訊日準備(下午)、(9) 資訊日補假 佐證",
+          "evidence_url": "https://www.rcphkmc.edu.hk/sites/default/files/sites/default/files/%E7%A6%AE%E8%B3%A2%E6%9C%83%E5%BD%AD%E5%AD%B8%E9%AB%98%E7%B4%80%E5%BF%B5%E4%B8%AD%E5%AD%B8-Calendar-%282627%29v4.pdf",
+          "confidence": "medium",
+          "event_id": "188-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T16:00:00"
         }
       ]
     },
@@ -14182,53 +14207,7 @@
     },
     "331": {
       "name": "天水圍官立中學",
-      "events": [
-        {
-          "type": "application_open",
-          "date": "2026-03-16",
-          "date_end": null,
-          "label": "中二、中三及中四級插班生學位申請開始",
-          "academic_year": "2026-27",
-          "source_text": "申請日期： 2026年3月16日至2026年5月15日。（所有逾期遞交之申請表格，恕不接受。)",
-          "evidence_url": "https://www.tswgss.edu.hk/",
-          "confidence": "verified",
-          "event_id": "331-unknown-application_open-001",
-          "extracted_at": "2026-07-18T20:33:26",
-          "confidence_flags": [
-            "academic_year_inferred_2026_09_07"
-          ]
-        },
-        {
-          "type": "application_deadline",
-          "date": "2026-05-15",
-          "date_end": null,
-          "label": "中二、中三及中四級插班生學位申請截止",
-          "academic_year": "2026-27",
-          "source_text": "申請日期： 2026年3月16日至2026年5月15日。（所有逾期遞交之申請表格，恕不接受。)",
-          "evidence_url": "https://www.tswgss.edu.hk/",
-          "confidence": "single_source",
-          "event_id": "331-unknown-application_deadline-001",
-          "extracted_at": "2026-07-18T20:33:26",
-          "confidence_flags": [
-            "academic_year_inferred_2026_09_07"
-          ]
-        },
-        {
-          "type": "interview",
-          "date": "2026-05-22",
-          "date_end": null,
-          "label": "插班生筆試及面試通知發出（含面試安排）",
-          "academic_year": "2026-27",
-          "source_text": "本校將於2026年5月22日（星期五）或之前致電或透過電郵通知個別合適的學生筆試及面試的日期和時間。",
-          "evidence_url": "https://www.tswgss.edu.hk/",
-          "confidence": "single_source",
-          "event_id": "331-unknown-interview-001",
-          "extracted_at": "2026-07-18T20:33:26",
-          "confidence_flags": [
-            "academic_year_inferred_2026_09_07"
-          ]
-        }
-      ]
+      "events": []
     },
     "354": {
       "name": "五旬節中學",
