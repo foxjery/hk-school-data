@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-07T13:00:00",
+  "updated_at": "2026-09-07T14:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -12341,6 +12341,30 @@
           "confidence": "verified",
           "event_id": "71-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-18",
+          "date_end": null,
+          "label": "資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "18/11 王余呂中資訊日",
+          "evidence_url": "https://www.dropbox.com/scl/fi/tjwgdb6p8bb4kvxa6lhc1/25-26-v4.pdf?rlkey=t5vh6r4xc44fu0co7nbjen0xn&dl=1",
+          "confidence": "medium",
+          "event_id": "71-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T14:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-29",
+          "date_end": null,
+          "label": "資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "29/11 呂中資訊日, 歡樂滿東華",
+          "evidence_url": "https://www.dropbox.com/scl/fi/tjwgdb6p8bb4kvxa6lhc1/25-26-v4.pdf?rlkey=t5vh6r4xc44fu0co7nbjen0xn&dl=1",
+          "confidence": "medium",
+          "event_id": "71-2026_27-info_day-002",
+          "extracted_at": "2026-09-07T14:00:00"
         }
       ]
     },
