@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-07T12:00:00",
+  "updated_at": "2026-09-07T13:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -1434,6 +1434,18 @@
           "confidence": "high",
           "event_id": "evt_f519a4f6",
           "extracted_at": "2026-04-29T10:00:14"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "中一入學資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "28 School Information Day（NOV 欄）",
+          "evidence_url": "https://shcc.edu.hk/attachment/calendarPdf/1787642995Gn1i4.pdf",
+          "confidence": "medium",
+          "event_id": "154-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -11259,6 +11271,18 @@
           "evidence_url": "https://www.scc.edu.hk/202627-f1-admission-information",
           "event_id": "376-2026-27-interview-002",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "中一資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "28/11 Information Day 中一資訊日",
+          "evidence_url": "https://www.scc.edu.hk/school-calendar",
+          "confidence": "medium",
+          "event_id": "376-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T13:00:00"
         }
       ],
       "self_healing_active": false
@@ -12452,6 +12476,18 @@
           "confidence": "verified",
           "event_id": "89-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-04",
+          "date_end": "2026-12-06",
+          "label": "開放日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "4-6/12 Open day（另有 7/12 The day after Open day）",
+          "evidence_url": "https://www.fklmstss.edu.hk/subject_website/school/2627cal.pdf",
+          "confidence": "medium",
+          "event_id": "89-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T13:00:00"
         }
       ]
     },
@@ -13271,6 +13307,18 @@
           "confidence": "verified",
           "event_id": "202-2026_27-result-002",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "小六升中資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "28/11 P.6 Information Day 升中資訊日",
+          "evidence_url": "https://www.lck.edu.hk/content.php?cnt=283",
+          "confidence": "medium",
+          "event_id": "202-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T13:00:00"
         }
       ]
     },
@@ -17039,6 +17087,18 @@
           "confidence": "high",
           "event_id": "86-2026_27-interview-001",
           "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-29",
+          "date_end": null,
+          "label": "校園開放日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "29/11 校園開放日（另有 30/11 校園開放日後補假）",
+          "evidence_url": "https://www.frcss.edu.hk/?page_id=3771",
+          "confidence": "medium",
+          "event_id": "86-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T13:00:00"
         }
       ]
     },
