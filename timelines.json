@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-05T05:00:00",
+  "updated_at": "2026-09-07T12:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -1627,6 +1627,18 @@
           "confidence": "verified",
           "event_id": "167-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-07",
+          "date_end": null,
+          "label": "中一入學資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "7/12 Information Day",
+          "evidence_url": "https://www.ktls.edu.hk/wp-content/uploads/2025/09/School-Calendar-2025-2026.pdf",
+          "confidence": "medium",
+          "event_id": "167-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ],
       "self_healing_active": false
@@ -3852,6 +3864,18 @@
           "confidence": "single_source",
           "event_id": "413-2026_27-interview-001",
           "extracted_at": "2026-08-28T09:52:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "中一入學資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "(5/12) S.1 Information Day",
+          "evidence_url": "https://www.qes.edu.hk/Menu/sch_info/sch_calendar/sch_calendar_26-27.pdf",
+          "confidence": "medium",
+          "event_id": "413-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ],
       "self_healing_active": false
@@ -5234,6 +5258,18 @@
           "confidence_flags": [
             "legacy_seeded"
           ]
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "開放日暨學校資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "*28/11 Open Day/School Information Day",
+          "evidence_url": "https://www.holap.edu.hk/sites/default/files/download/2026-27%20School_Calendar_0.pdf",
+          "confidence": "medium",
+          "event_id": "172-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ],
       "self_healing_active": true
@@ -6168,6 +6204,18 @@
           "confidence": "high",
           "event_id": "36-2027_28-application_open-001",
           "extracted_at": "2026-06-01T09:23:51"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": null,
+          "label": "中一資訊日暨入學講座（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "21/11 | Information Day cum Admission Talk",
+          "evidence_url": "https://cswcss.edu.hk/school-calendar/",
+          "confidence": "medium",
+          "event_id": "36-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ],
       "self_healing_active": false
@@ -10963,6 +11011,18 @@
           "confidence": "single_source",
           "event_id": "359-2026_27-application_deadline-001",
           "extracted_at": "2026-08-28T09:52:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-14",
+          "date_end": null,
+          "label": "中一入學資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "14/11 2027–2028 S1 Admission Information Day",
+          "evidence_url": "https://www.heungto.edu.hk/archive/others/School-Calendar.pdf",
+          "confidence": "medium",
+          "event_id": "359-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ],
       "self_healing_active": false
@@ -12845,6 +12905,18 @@
           "confidence": "verified",
           "event_id": "160-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "中一收生資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "22/11 中一收生資訊日",
+          "evidence_url": "https://www.clementi.edu.hk/attachment/calendar/1769654582kPV7j.pdf",
+          "confidence": "medium",
+          "event_id": "160-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -13016,6 +13088,18 @@
           "confidence": "verified",
           "event_id": "181-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "中一資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "28/11 Info Day",
+          "evidence_url": "https://www.lstkcmss.edu.hk/attachment/upload/files/2026/SchoolCalendar2627.pdf",
+          "confidence": "medium",
+          "event_id": "181-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -13705,6 +13789,18 @@
           "confidence": "single_source",
           "event_id": "284-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "中一入學資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "22/11 Pre-S1 Information Day",
+          "evidence_url": "http://www.keihau.edu.hk/sites/default/files/download/2025-2026%20School%20Calendar.pdf",
+          "confidence": "medium",
+          "event_id": "284-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -13881,6 +13977,18 @@
           "confidence": "single_source",
           "event_id": "320-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-12",
+          "date_end": null,
+          "label": "學校開放日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "全校開放日(12/12)",
+          "evidence_url": "https://www.lwfss.edu.hk/en/%E6%A0%A1%E6%9B%86%E8%A1%A8",
+          "confidence": "medium",
+          "event_id": "320-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -15467,6 +15575,18 @@
           "confidence": "verified",
           "event_id": "450-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": null,
+          "label": "小六升中資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "P6 Information Day.................. 21/11",
+          "evidence_url": "https://www.chuenyuen.edu.hk/upload/2026/09/cc106646ab936b7cdce0b3cb5e3b6b9a.pdf",
+          "confidence": "medium",
+          "event_id": "450-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -16832,6 +16952,18 @@
           "confidence": "high",
           "event_id": "189-2026_27-orientation-002",
           "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-30",
+          "date_end": null,
+          "label": "開放日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "30/11 開放日",
+          "evidence_url": "https://www.lkcss.edu.hk/uploads/files/calendar_25-26.pdf",
+          "confidence": "medium",
+          "event_id": "189-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -16972,6 +17104,18 @@
           "confidence": "high",
           "event_id": "346-2026_27-result-001",
           "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-28",
+          "date_end": "2025-11-29",
+          "label": "資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "27/11 資訊日準備, 28-29/11 資訊日",
+          "evidence_url": "https://www.tmcss.edu.hk/tmcss/wp-content/uploads/2025/08/2526-school_calendar_CHI.pdf",
+          "confidence": "medium",
+          "event_id": "346-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -17025,6 +17169,30 @@
           "confidence": "high",
           "event_id": "407-2026_27-result-001",
           "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-29",
+          "date_end": null,
+          "label": "資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "29/11 平中資訊日",
+          "evidence_url": "https://www.nlsipess.edu.hk/it-school/php/webcms/files/upload/tinymce//year_2025_2026/_202526_250828__1761875692.pdf",
+          "confidence": "medium",
+          "event_id": "407-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-05",
+          "date_end": null,
+          "label": "資訊日（晚間場，據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "5/12平中資訊日(晚)",
+          "evidence_url": "https://www.nlsipess.edu.hk/it-school/php/webcms/files/upload/tinymce//year_2025_2026/_202526_250828__1761875692.pdf",
+          "confidence": "medium",
+          "event_id": "407-2026_27-info_day-002",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -17153,6 +17321,18 @@
           "confidence": "verified",
           "event_id": "363-2026_27-result-001",
           "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-14",
+          "date_end": null,
+          "label": "中一入學簡介會（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "14/12 中一入學簡介會",
+          "evidence_url": "https://www.yy2.edu.hk/School_calendar_2526_FINAL.pdf",
+          "confidence": "medium",
+          "event_id": "363-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
