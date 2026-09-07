@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-07T16:00:00",
+  "updated_at": "2026-09-07T18:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -778,7 +778,20 @@
       "name": "高主教書院",
       "school_type": "資助",
       "banding_tier": "Band 1",
-      "events": [],
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "S.1 Information Day（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "S.1 Information Day (28/11)",
+          "evidence_url": "https://www.raimondi.edu.hk/sites/default/files/files/3_year_calendar_2026-2027_18-8-26_v7.pdf",
+          "confidence": "medium",
+          "event_id": "116-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T18:00:00"
+        }
+      ],
       "data_gap_reason": "no_public_admission_info",
       "data_gap_confirmed": "2026-04-29T10:32:03"
     },
@@ -889,6 +902,18 @@
           "confidence": "medium",
           "event_id": null,
           "extracted_at": "2026-04-29T16:36:21"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "5（六）資訊日",
+          "evidence_url": "https://www.honwah.edu.hk/ewywhypt/2026/09/26-27_校曆_中文.jpg",
+          "confidence": "medium",
+          "event_id": "121-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ],
       "self_healing_active": true
@@ -2649,6 +2674,18 @@
           "confidence": "high",
           "event_id": "evt_b6298e2d",
           "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": null,
+          "label": "中一入學資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "21 Pre-S1 Information Day",
+          "evidence_url": "https://www.mst.edu.hk/attachment/upload/files/2526summer_webupdate/A7_Calendar2627_00.pdf",
+          "confidence": "medium",
+          "event_id": "291-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -6200,6 +6237,18 @@
           "evidence_url": "https://www.plkno1.edu.hk/en/applications-f1-discretionary-places",
           "event_id": "7-2026-27-application_deadline-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "5: Information Day",
+          "evidence_url": "https://www.plkno1.edu.hk/sites/default/files/files/2026-09-01/2026-27%20school%20calendar%20(student).pdf",
+          "confidence": "medium",
+          "event_id": "7-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T18:00:00"
         }
       ],
       "self_healing_active": false
@@ -10168,6 +10217,18 @@
           "confidence": "verified",
           "event_id": "302-2026_27-result-001",
           "extracted_at": "2026-08-28T09:52:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "中一入學資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "Information Day for Form 1 Admission",
+          "evidence_url": "https://www.hksrl.edu.hk/en/calendar.php?wid=105",
+          "confidence": "medium",
+          "event_id": "302-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -14877,6 +14938,18 @@
           "confidence": "verified",
           "event_id": "92-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "中一資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "15th/22nd/24th Anniversary of HKBA/S1 Information Day/Winter Uniform Enforced",
+          "evidence_url": "https://www.bthc.edu.hk/CustomPage/98/Student_Calendar(202526)v3.pdf?v=2026090716",
+          "confidence": "medium",
+          "event_id": "92-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T12:00:00"
         }
       ]
     },
@@ -15394,6 +15467,18 @@
           "confidence": "verified",
           "event_id": "319-2026_27-result-002",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-18",
+          "date_end": "2026-12-20",
+          "label": "校慶典禮及開放日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "18-20/12 校慶典禮及開放日（OCR 掃描件辨識，數字有模糊，建議人工覆核）",
+          "evidence_url": "https://www.slc.edu.hk/uploads/files/2627校厝.pdf",
+          "confidence": "medium",
+          "event_id": "319-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T18:00:00"
         }
       ]
     },
