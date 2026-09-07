@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-07T14:00:00",
+  "updated_at": "2026-09-07T15:30:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -489,6 +489,18 @@
           "confidence": "verified",
           "event_id": "47-2026_27-result-001",
           "extracted_at": "2026-08-28T09:52:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-29",
+          "date_end": null,
+          "label": "校慶嘉年華暨開放日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "29 School 70th Anniversary Carnival / Open Day & Essay Writing Competition",
+          "evidence_url": "https://www.tpsy.edu.hk/StudentLife/calpcalpdf.pdf",
+          "confidence": "medium",
+          "event_id": "47-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T15:00:00"
         }
       ]
     },
@@ -1014,12 +1026,15 @@
           "date": "2025-01-01",
           "date_end": null,
           "label": "資訊日2025",
-          "academic_year": "unknown",
+          "academic_year": "2025-26",
           "source_text": "[Info Day 2025 資訊日2025](https://www.ttca.edu.hk/infoday)",
           "evidence_url": "",
           "confidence": "verified",
           "event_id": "133-unknown-info_day-001",
-          "extracted_at": "2026-05-09T16:42:30"
+          "extracted_at": "2026-05-09T16:42:30",
+          "confidence_flags": [
+            "academic_year_inferred_2026_09_07"
+          ]
         },
         {
           "type": "application_open",
@@ -4563,6 +4578,18 @@
           "confidence": "single_source",
           "event_id": "52-2026_27-application_deadline-001",
           "extracted_at": "2026-08-28T09:52:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "校園資訊日（據校曆）",
+          "academic_year": "2026-27",
+          "source_text": "6 School Information Day (pm) 校園資訊日 (下午)",
+          "evidence_url": "https://taknga.edu.hk/about-us/school-calendar/",
+          "confidence": "medium",
+          "event_id": "52-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T15:00:00"
         }
       ],
       "self_healing_active": false
@@ -5390,6 +5417,18 @@
           "confidence_flags": [
             "legacy_seeded"
           ]
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-12",
+          "date_end": null,
+          "label": "小六升中資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "12/12 Information Day for P6",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1o8Z6kJr4mQPTCqGe9bD6KrT7737xb4lm",
+          "confidence": "medium",
+          "event_id": "247-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T15:00:00"
         }
       ],
       "self_healing_active": false
@@ -12418,6 +12457,18 @@
           "confidence": "verified",
           "event_id": "77-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-08",
+          "date_end": null,
+          "label": "升中講座暨體驗日／屯門區中學簡介（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "8 升中講座暨體驗日/屯門區中學簡介",
+          "evidence_url": "https://www.shd.edu.hk/download/directLinkFile/f121ace1d6384cd6bc26c4f11be0e354.pdf",
+          "confidence": "medium",
+          "event_id": "77-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T15:00:00"
         }
       ]
     },
@@ -14137,36 +14188,45 @@
           "date": "2026-03-16",
           "date_end": null,
           "label": "中二、中三及中四級插班生學位申請開始",
-          "academic_year": "unknown",
+          "academic_year": "2026-27",
           "source_text": "申請日期： 2026年3月16日至2026年5月15日。（所有逾期遞交之申請表格，恕不接受。)",
           "evidence_url": "https://www.tswgss.edu.hk/",
           "confidence": "verified",
           "event_id": "331-unknown-application_open-001",
-          "extracted_at": "2026-07-18T20:33:26"
+          "extracted_at": "2026-07-18T20:33:26",
+          "confidence_flags": [
+            "academic_year_inferred_2026_09_07"
+          ]
         },
         {
           "type": "application_deadline",
           "date": "2026-05-15",
           "date_end": null,
           "label": "中二、中三及中四級插班生學位申請截止",
-          "academic_year": "unknown",
+          "academic_year": "2026-27",
           "source_text": "申請日期： 2026年3月16日至2026年5月15日。（所有逾期遞交之申請表格，恕不接受。)",
           "evidence_url": "https://www.tswgss.edu.hk/",
           "confidence": "single_source",
           "event_id": "331-unknown-application_deadline-001",
-          "extracted_at": "2026-07-18T20:33:26"
+          "extracted_at": "2026-07-18T20:33:26",
+          "confidence_flags": [
+            "academic_year_inferred_2026_09_07"
+          ]
         },
         {
           "type": "interview",
           "date": "2026-05-22",
           "date_end": null,
           "label": "插班生筆試及面試通知發出（含面試安排）",
-          "academic_year": "unknown",
+          "academic_year": "2026-27",
           "source_text": "本校將於2026年5月22日（星期五）或之前致電或透過電郵通知個別合適的學生筆試及面試的日期和時間。",
           "evidence_url": "https://www.tswgss.edu.hk/",
           "confidence": "single_source",
           "event_id": "331-unknown-interview-001",
-          "extracted_at": "2026-07-18T20:33:26"
+          "extracted_at": "2026-07-18T20:33:26",
+          "confidence_flags": [
+            "academic_year_inferred_2026_09_07"
+          ]
         }
       ]
     },
@@ -15400,12 +15460,15 @@
           "date": "2025-05-02",
           "date_end": null,
           "label": "插班生申請開始",
-          "academic_year": "unknown",
+          "academic_year": "2025-26",
           "source_text": "每年5月2日至6月16日接受插班申請。",
           "evidence_url": "https://www.hktkpc.edu.hk/tc/s2-s5-admission",
           "confidence": "verified",
           "event_id": "366-unknown-application_open-001",
-          "extracted_at": "2026-07-18T20:33:26"
+          "extracted_at": "2026-07-18T20:33:26",
+          "confidence_flags": [
+            "academic_year_inferred_2026_09_07"
+          ]
         },
         {
           "type": "application_open",
@@ -15454,6 +15517,18 @@
           "confidence": "verified",
           "event_id": "366-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-12",
+          "date_end": null,
+          "label": "小六升中資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "12/12 P.6 Information Day",
+          "evidence_url": "https://www.hktkpc.edu.hk/tc/school-calendar",
+          "confidence": "medium",
+          "event_id": "366-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T15:00:00"
         }
       ]
     },
@@ -16151,6 +16226,18 @@
           "confidence": "high",
           "event_id": "75-2026_27-orientation-001",
           "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": null,
+          "label": "中一入學資訊日（校曆預告）",
+          "academic_year": "2027-28",
+          "source_text": "21 School Information Day（NOVEMBER 欄）",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1ZgozrSpwSSKOhK_GskuXdMhTuk0MaB2i",
+          "confidence": "medium",
+          "event_id": "75-2027_28-info_day-001",
+          "extracted_at": "2026-09-07T15:00:00"
         }
       ]
     },
