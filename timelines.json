@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-08T22:30:00",
+  "updated_at": "2026-09-08T23:30:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -3711,6 +3711,18 @@
           "confidence": "high",
           "event_id": "evt_cb18b8a2",
           "extracted_at": "2026-04-29T10:20:28"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-12",
+          "date_end": null,
+          "label": "校曆預告：F.1 Information Day & Homecoming Day",
+          "academic_year": "2027-28",
+          "source_text": "12/12/2026 F.1 Information Day & Homecoming Day（11/12 籌備、14/12 翌日）",
+          "evidence_url": "http://wtsmc.edu.hk/wp-content/uploads/2026/08/Calendar_Student_2627.pdf",
+          "confidence": "medium",
+          "event_id": "386-2027_28-info_day-001",
+          "extracted_at": "2026-09-08T23:30:00"
         }
       ],
       "self_healing_active": false
@@ -8302,6 +8314,18 @@
           "confidence_flags": [
             "legacy_seeded"
           ]
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "校曆預告：School Information Day",
+          "academic_year": "2027-28",
+          "source_text": "School Information Day（Owner 2026-09-08 人工查校曆提供；該校 CMS 在 9 月只吐 9-11 月，機器看不到 12 月）",
+          "evidence_url": "https://www.bstc.edu.hk/SchoolCalendar1/calendar/1/314?ct=calendar&styleId=1&nnnid=314",
+          "confidence": "medium",
+          "event_id": "102-2027_28-info_day-001",
+          "extracted_at": "2026-09-08T23:30:00"
         }
       ]
     },
@@ -9902,6 +9926,18 @@
           "evidence_url": "https://www.tic.edu.hk/en/site/view?name=F1+Admission",
           "event_id": "258-2026-27-result-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-20",
+          "date_end": null,
+          "label": "校曆預告：Open Day & F.1 Admission Information Session",
+          "academic_year": "2027-28",
+          "source_text": "Open Day & F.1 Admission Information Session（18/12 Preparation for Open Day）；ICS 顯示 2013 年起每年 12 月中固定舉辦",
+          "evidence_url": "https://www.tic.edu.hk/en/site/view?name=School+Calendar",
+          "confidence": "medium",
+          "event_id": "258-2027_28-info_day-001",
+          "extracted_at": "2026-09-08T23:30:00"
         }
       ],
       "self_healing_active": false
@@ -10883,6 +10919,18 @@
           "confidence_flags": [
             "legacy_seeded"
           ]
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-12",
+          "date_end": null,
+          "label": "校曆預告：F.1 Information Day",
+          "academic_year": "2027-28",
+          "source_text": "F.1 Information Day（14/12 The Day after F.1 Information Day Holiday）",
+          "evidence_url": "https://www.lskc.edu.hk/en/content.php?wid=139",
+          "confidence": "medium",
+          "event_id": "323-2027_28-info_day-001",
+          "extracted_at": "2026-09-08T23:30:00"
         },
         {
           "type": "application_deadline",
@@ -13791,6 +13839,30 @@
           "confidence": "verified",
           "event_id": "197-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-10-17",
+          "date_end": null,
+          "label": "校曆預告：聯校升學資訊日（小西灣區）",
+          "academic_year": "2027-28",
+          "source_text": "十月 17 號 聯校升學資訊日(小西灣區)",
+          "evidence_url": "https://www.lhymss.edu.hk/wp-content/uploads/2026/08/2026-2027_SCHOOL_CALENDAR.pdf",
+          "confidence": "medium",
+          "event_id": "197-2027_28-info_day-001",
+          "extracted_at": "2026-09-08T23:30:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-11",
+          "date_end": null,
+          "label": "校曆預告：小學家長參觀（放學後）",
+          "academic_year": "2027-28",
+          "source_text": "十二月 11 號 小學家長參觀 (放學後)",
+          "evidence_url": "https://www.lhymss.edu.hk/wp-content/uploads/2026/08/2026-2027_SCHOOL_CALENDAR.pdf",
+          "confidence": "medium",
+          "event_id": "197-2027_28-info_day-002",
+          "extracted_at": "2026-09-08T23:30:00"
         }
       ]
     },
@@ -15718,6 +15790,18 @@
           "confidence": "verified",
           "event_id": "231-2026_27-info_day-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-07",
+          "date_end": null,
+          "label": "校曆預告：小六學生家長講座暨小六學生全方位學習日",
+          "academic_year": "2027-28",
+          "source_text": "7/11 小六學生家長講座暨小六學生全方位學習日",
+          "evidence_url": "https://www.stmgss.edu.hk/attachment/calendarPdf/1784530825idugK.pdf",
+          "confidence": "medium",
+          "event_id": "231-2027_28-info_day-001",
+          "extracted_at": "2026-09-08T23:30:00"
         }
       ]
     },
