@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-08T23:30:00",
+  "updated_at": "2026-09-09T00:30:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -12024,6 +12024,18 @@
           "evidence_url": "https://www.hlc.edu.hk/pre-s1-admission-2026-2027",
           "event_id": "380-2026-27-result-002",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-10-24",
+          "date_end": null,
+          "label": "校曆預告：學校資訊日及校友重聚日（全日）",
+          "academic_year": "2027-28",
+          "source_text": "半日上課時間表(23/10);學校資訊日及校友重聚日(全日)(24/10)",
+          "evidence_url": "https://www.cymcac.edu.hk/doc/school_calendar.pdf",
+          "confidence": "medium",
+          "event_id": "380-2027_28-info_day-001",
+          "extracted_at": "2026-09-09T00:30:00"
         }
       ],
       "self_healing_active": false
