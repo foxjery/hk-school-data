@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-07T18:00:00",
+  "updated_at": "2026-09-08T06:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -17636,6 +17636,158 @@
           "extracted_at": "2026-09-04T00:00:00"
         }
       ]
+    },
+    "381": {
+      "name": "香港神託會培敦中學",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-12-03",
+          "date_end": null,
+          "label": "升中輔導日(一)",
+          "source_text": "本校將於二零二五年十二月三日(星期三)及十二月六日(星期六)舉辦兩場「升中輔導日」...升中輔導日 (一) 二零二五年十二月三日(星期三) 上午 8:15-10:45 內容: 參加本校早會，欣賞學生表演；介紹本校特色及校園生活；簡介本校中一收生準則；觀課及參觀校舍",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1U5_62d1r_78TjDIvJd2QokqEaasyF9A4",
+          "confidence": "high",
+          "event_id": "381-2026_27-info_day-001",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "升中輔導日(二)",
+          "source_text": "升中輔導日 (二) 二零二五年十二月六日(星期六) 上午 9:00-11:30 內容: 介紹本校特色及校園生活；簡介本校中一收生準則及面試安排；本校校友分享；參觀校舍及聯課活動",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1U5_62d1r_78TjDIvJd2QokqEaasyF9A4",
+          "confidence": "high",
+          "event_id": "381-2026_27-info_day-002",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "若申請人透過紙本遞交中一自行分配學位申請，請填妥表格後，請連同所需文件於指定日期內(2/1/2026 至 16/1/2026)交回本校正門詢問處辦理",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1VejzQGsNq69sO_gt0iqwLImMHPCWEgt6",
+          "confidence": "high",
+          "event_id": "381-2026_27-application_open-003",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "source_text": "若申請人透過紙本遞交中一自行分配學位申請，請填妥表格後，請連同所需文件於指定日期內(2/1/2026 至 16/1/2026)交回本校正門詢問處辦理",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1VejzQGsNq69sO_gt0iqwLImMHPCWEgt6",
+          "confidence": "high",
+          "event_id": "381-2026_27-application_deadline-004",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試及學校簡介會",
+          "source_text": "所有申請者均會獲得安排面試。本校將於二零二六年三月七日(星期六)舉行學生面試及學校簡介會，各學生及家長務必出席，有關詳情，本校將另函通知。",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1VejzQGsNq69sO_gt0iqwLImMHPCWEgt6",
+          "confidence": "high",
+          "event_id": "381-2026_27-interview-005",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知正取學生",
+          "source_text": "根據教育局規定，本校將於二零二六年三月三十一日(星期二)透過書面、電話及中一派位電子平台通知獲取錄為正取學生的家長。",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1VejzQGsNq69sO_gt0iqwLImMHPCWEgt6",
+          "confidence": "high",
+          "event_id": "381-2026_27-result-006",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-06-24",
+          "date_end": "2026-07-08",
+          "label": "中一自行收生學額申請（統一派位後剩餘學額補錄）",
+          "source_text": "申請人可於二零二六年六月廿四日至七月八日，親臨本校索取入學申請表，或在本校網頁(http://www.pooitun.edu.hk)下載。",
+          "evidence_url": "https://www.pooitun.edu.hk/download/Resource/upload/pdf/2026-27%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8_%E4%B8%80%E8%88%AC%E7%94%B3%E8%AB%8B%E4%BA%BA_20260624.pdf",
+          "confidence": "high",
+          "event_id": "381-2026_27-application_open-007",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_deadline",
+          "date": "2026-07-08",
+          "date_end": null,
+          "label": "中一自行收生學額申請截止",
+          "source_text": "申請人須於七月七日(星期二)至七月八日(星期三)下午十二時三十分前，將填妥之表格連同下列文件交回本校",
+          "evidence_url": "https://www.pooitun.edu.hk/download/Resource/upload/pdf/2026-27%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8_%E4%B8%80%E8%88%AC%E7%94%B3%E8%AB%8B%E4%BA%BA_20260624.pdf",
+          "confidence": "high",
+          "event_id": "381-2026_27-application_deadline-008",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-09",
+          "date_end": null,
+          "label": "未獲面試通知即作落選論（自行收生學額）",
+          "source_text": "本校將不會即時面試，如符合資格者，將由校方通知進行面試。若於七月九日(星期四)下午四時仍未接獲本校通知面試，則作落選論，本校恕不另行通知。",
+          "evidence_url": "https://www.pooitun.edu.hk/download/Resource/upload/pdf/2026-27%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8_%E4%B8%80%E8%88%AC%E7%94%B3%E8%AB%8B%E4%BA%BA_20260624.pdf",
+          "confidence": "high",
+          "event_id": "381-2026_27-result-009",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "info_day",
+          "date": "2026-12-02",
+          "date_end": null,
+          "label": "小六家長日",
+          "source_text": "2,5/12 小六家長日（2026-27校曆十二月格，圖像化校曆人工讀取；與2025-26週期「升中輔導日」12/3、12/6 模式吻合，研判為同一活動下一輪）",
+          "evidence_url": "https://www.pooitun.edu.hk/CustomPage/74/2026-27%E6%A0%A1%E6%9B%86%E8%A1%A8_%E5%AD%B8%E7%94%9F%E7%89%88.pdf",
+          "confidence": "high",
+          "event_id": "381-2027_28-info_day-010",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "小六家長日",
+          "source_text": "2,5/12 小六家長日（2026-27校曆十二月格，圖像化校曆人工讀取；與2025-26週期「升中輔導日」12/3、12/6 模式吻合，研判為同一活動下一輪）",
+          "evidence_url": "https://www.pooitun.edu.hk/CustomPage/74/2026-27%E6%A0%A1%E6%9B%86%E8%A1%A8_%E5%AD%B8%E7%94%9F%E7%89%88.pdf",
+          "confidence": "high",
+          "event_id": "381-2027_28-info_day-011",
+          "extracted_at": "2026-09-08T06:00:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "interview",
+          "date": "2027-03-06",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "6/3 中一自行分配學位面試（2026-27校曆三月格，圖像化校曆人工讀取）",
+          "evidence_url": "https://www.pooitun.edu.hk/CustomPage/74/2026-27%E6%A0%A1%E6%9B%86%E8%A1%A8_%E5%AD%B8%E7%94%9F%E7%89%88.pdf",
+          "confidence": "high",
+          "event_id": "381-2027_28-interview-012",
+          "extracted_at": "2026-09-08T06:00:00"
+        }
+      ],
+      "self_healing_active": false
     }
   }
 }
