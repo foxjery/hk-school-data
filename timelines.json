@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-09T00:30:00",
+  "updated_at": "2026-09-09T01:30:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -8806,6 +8806,18 @@
           "confidence": "verified",
           "event_id": "134-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-20",
+          "date_end": "2026-11-21",
+          "label": "校曆預告：Information Day",
+          "academic_year": "2027-28",
+          "source_text": "20-21/11 Information Day（23/11 Special holiday after the Information Day）",
+          "evidence_url": "https://www.htyc.edu.hk/attachment/news/pdf1788775183qKMC0.pdf",
+          "confidence": "medium",
+          "event_id": "134-2027_28-info_day-001",
+          "extracted_at": "2026-09-09T01:30:00"
         }
       ]
     },
@@ -11328,6 +11340,18 @@
           "confidence": "verified",
           "event_id": "345-2026_27-result-001",
           "extracted_at": "2026-08-28T09:52:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-14",
+          "date_end": "2026-11-15",
+          "label": "校曆預告：學校開放日",
+          "academic_year": "2027-28",
+          "source_text": "start:'2026-11-14', end:'2026-11-15', title:'學校開放日'（歷年：2023-11-25／2024-11-23／2025-11-15 皆稱「小六學生開放日」，固定 11 月中週六）",
+          "evidence_url": "https://www.tmgss.edu.hk/tc/calendar.php?wid=129",
+          "confidence": "medium",
+          "event_id": "345-2027_28-info_day-001",
+          "extracted_at": "2026-09-09T01:30:00"
         }
       ],
       "self_healing_active": false
