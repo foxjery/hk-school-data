@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-09T01:30:00",
+  "updated_at": "2026-09-09T09:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -8828,30 +8828,6 @@
       "events": [
         {
           "type": "application_open",
-          "date": "2025-07-02",
-          "date_end": null,
-          "label": "Year 1 Admissions Application Open",
-          "academic_year": "2025-26",
-          "source_text": "The Year 1 Admissions will start from 2 July 2025 (Wednesday) until 8 September 2025 (Monday), 4pm.",
-          "extracted_at": "2026-04-28T16:21:27",
-          "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/07/Notes-on-Year-1-Admissions-2026-2027-2.pdf",
-          "event_id": "136-2026-27-application_open-001",
-          "confidence": "high"
-        },
-        {
-          "type": "application_deadline",
-          "date": "2025-09-08",
-          "date_end": null,
-          "label": "Year 1 Admissions Application Deadline",
-          "academic_year": "2026-27",
-          "source_text": "The Year 1 Admissions will start from 2 July 2025 (Wednesday) until 8 September 2025 (Monday), 4pm.",
-          "extracted_at": "2026-04-28T16:21:27",
-          "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/07/Notes-on-Year-1-Admissions-2026-2027-2.pdf",
-          "event_id": "136-2026-27-application_deadline-001",
-          "confidence": "high"
-        },
-        {
-          "type": "application_open",
           "date": "2025-09-22",
           "date_end": null,
           "label": "Year 7 First Round Admissions Application Open",
@@ -8860,18 +8836,6 @@
           "extracted_at": "2026-04-28T16:21:27",
           "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/09/26-27-Notes-on-Year-7-Admissions1st-Round.pdf",
           "event_id": "136-2026-27-application_open-002",
-          "confidence": "high"
-        },
-        {
-          "type": "interview",
-          "date": "2025-10-04",
-          "date_end": null,
-          "label": "Year 1 First Round Interview",
-          "academic_year": "2026-27",
-          "source_text": "The first interview will be conducted in groups on 4 Oct 2025 (Saturday).",
-          "extracted_at": "2026-04-28T16:21:27",
-          "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/07/Notes-on-Year-1-Admissions-2026-2027-2.pdf",
-          "event_id": "136-2026-27-interview-001",
           "confidence": "high"
         },
         {
@@ -8884,30 +8848,6 @@
           "extracted_at": "2026-04-28T16:21:27",
           "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/09/26-27-Notes-on-Year-7-Admissions1st-Round.pdf",
           "event_id": "136-2026-27-info_day-001",
-          "confidence": "high"
-        },
-        {
-          "type": "interview",
-          "date": "2025-11-08",
-          "date_end": null,
-          "label": "Year 1 Second Round Interview",
-          "academic_year": "2026-27",
-          "source_text": "Shortlisted applicants and their parents will be invited to meet our team at the second round interview on 8 Nov 2025 (Saturday).",
-          "extracted_at": "2026-04-28T16:21:27",
-          "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/07/Notes-on-Year-1-Admissions-2026-2027-2.pdf",
-          "event_id": "136-2026-27-interview-002",
-          "confidence": "high"
-        },
-        {
-          "type": "result",
-          "date": "2025-11-12",
-          "date_end": null,
-          "label": "Year 1 Application Result Notification",
-          "academic_year": "2026-27",
-          "source_text": "Applicants will be notified by e-mail of their application status on 12 November 2025.",
-          "extracted_at": "2026-04-28T16:21:27",
-          "evidence_url": "https://www.luac.edu.hk/wp-content/uploads/2025/07/Notes-on-Year-1-Admissions-2026-2027-2.pdf",
-          "event_id": "136-2026-27-result-001",
           "confidence": "high"
         },
         {
@@ -8957,54 +8897,6 @@
           "evidence_url": "https://www.luac.edu.hk/admissions/#ImportantDates",
           "event_id": "136-2026-27-interview-004",
           "confidence": "high"
-        },
-        {
-          "type": "info_day",
-          "date": "2026-06-18",
-          "date_end": null,
-          "label": "2027-2028 Year 1 Admissions Seminar",
-          "academic_year": "2027-28",
-          "source_text": "#### 2027-2028 Year 1 Admissions Seminar\n\n|     |     |\n| --- | --- |\n| **Date** | **Time** |\n| 18 June 2026<br>(Thursday) | 6:30 pm |",
-          "evidence_url": "https://www.luac.edu.hk/admissions/#ImportantDates",
-          "confidence": "high",
-          "event_id": "136-2027_28-info_day-001",
-          "extracted_at": "2026-06-01T09:28:16"
-        },
-        {
-          "type": "application_open",
-          "date": "2026-06-22",
-          "date_end": null,
-          "label": "Year 1 Admissions (2027/2028) application open",
-          "academic_year": "2027-28",
-          "source_text": "The application for Year 1 Admissions (2027/2028) is now open.\n\nThe application period is from 22 June 2026 (Monday) to 11 September 2026 (Friday, 4 pm)",
-          "evidence_url": "https://www.luac.edu.hk/admissions/#NewsUpdate",
-          "confidence": "verified",
-          "event_id": "136-2027_28-application_open-001",
-          "extracted_at": "2026-08-28T09:52:02"
-        },
-        {
-          "type": "info_day",
-          "date": "2026-08-22",
-          "date_end": null,
-          "label": "2027-2028 Year 1 Admissions Seminar",
-          "academic_year": "2027-28",
-          "source_text": "#### 2027-2028 Year 1 Admissions Seminar\n\n|     |     |\n| --- | --- |\n| **Date** | **Time** |\n| 22 August 2026 (Saturday) | 10:30 am |",
-          "evidence_url": "https://www.luac.edu.hk/admissions/#NewsUpdate",
-          "confidence": "verified",
-          "event_id": "136-2027_28-info_day-002",
-          "extracted_at": "2026-08-28T09:52:02"
-        },
-        {
-          "type": "application_deadline",
-          "date": "2026-09-11",
-          "date_end": null,
-          "label": "Year 1 Admissions (2027/2028) application deadline",
-          "academic_year": "2027-28",
-          "source_text": "The application period is from 22 June 2026 (Monday) to 11 September 2026 (Friday, 4 pm)",
-          "evidence_url": "https://www.luac.edu.hk/admissions/#NewsUpdate",
-          "confidence": "single_source",
-          "event_id": "136-2027_28-application_deadline-001",
-          "extracted_at": "2026-08-28T09:52:02"
         }
       ],
       "self_healing_active": false
