@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-09T10:00:00",
+  "updated_at": "2026-09-09T11:09:54",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -422,7 +422,7 @@
           "event_id": "41-2025-26-interview-2025-03-15",
           "evidence_url": "https://www.stheadline.com/local-school/3407995/",
           "source_text": "面試日期：15/3/25（校方揀選合適的申請者）面試內容：評估申請學生之英語水平、溝通能力及社會觸覺",
-          "confidence": "medium",
+          "confidence": "uncertain",
           "extracted_at": "2026-04-29T00:00:00"
         },
         {
@@ -752,18 +752,6 @@
       "school_type": "直資",
       "banding_tier": "Band 3",
       "events": [
-        {
-          "academic_year": "2025-26",
-          "type": "application_open",
-          "date": "2024-11-01",
-          "date_end": null,
-          "label": "中一入學申請開始",
-          "event_id": "93-2025-26-application_open-2024-11-01",
-          "evidence_url": "https://topschool.hket.com/secondary-school/86",
-          "source_text": "中一入學申請將於二零二四年十一月一日開始，申請人可於佛教筏可紀念中學網頁下載有關申請表格",
-          "confidence": "high",
-          "extracted_at": "2026-04-29T00:00:00"
-        },
         {
           "academic_year": "2026-27",
           "type": "application_open",
@@ -1340,7 +1328,7 @@
           "date_end": null,
           "label": "中一自行分配學位申請開始",
           "source_text": "申請日期：2025年1月2日（星期四） 至 2025年1月16日（星期四）",
-          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "evidence_url": "https://www.sfcc.edu.hk/template?series=26&article=695",
           "confidence": "medium",
           "event_id": null,
           "extracted_at": "2026-04-29T14:21:19"
@@ -1352,7 +1340,7 @@
           "date_end": null,
           "label": "中一自行分配學位申請截止",
           "source_text": "申請日期：2025年1月2日（星期四） 至 2025年1月16日（星期四）",
-          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "evidence_url": "https://www.sfcc.edu.hk/template?series=26&article=695",
           "confidence": "medium",
           "event_id": null,
           "extracted_at": "2026-04-29T14:21:19"
@@ -1364,7 +1352,7 @@
           "date_end": null,
           "label": "中一自行分配學位面試",
           "source_text": "面試日期：2025年3月1日（星期六）",
-          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "evidence_url": "https://www.sfcc.edu.hk/template?series=26&article=695",
           "confidence": "medium",
           "event_id": null,
           "extracted_at": "2026-04-29T14:21:19"
@@ -1376,7 +1364,7 @@
           "date_end": null,
           "label": "中一自行分配學位結果通知",
           "source_text": "如學生已成功獲納入《自行分配學位正取名單》，校方將於2025年3月31日（星期一）以郵寄及電話方式通知家長。",
-          "evidence_url": "https://web.archive.org/web/20241201000000*/https://www.sfcc.edu.hk/template?series=26&article=695",
+          "evidence_url": "https://www.sfcc.edu.hk/template?series=26&article=695",
           "confidence": "medium",
           "event_id": null,
           "extracted_at": "2026-04-29T14:21:19"
@@ -1879,7 +1867,7 @@
           "event_id": "211-2024-25-interview-2024-03-02",
           "evidence_url": "https://topick.hket.com/article/3661004/",
           "source_text": "2024/25年度中一面試於2024年3月2日進行",
-          "confidence": "high",
+          "confidence": "uncertain",
           "extracted_at": "2026-04-29T00:00:00"
         },
         {
@@ -1891,7 +1879,7 @@
           "event_id": "211-2025-26-info_day-2024-11-30",
           "evidence_url": "https://topick.hket.com/article/3856487/",
           "source_text": "瑪利曼中學（Marymount Secondary School）於2024年11月30日舉行中一入學簡介會",
-          "confidence": "high",
+          "confidence": "uncertain",
           "extracted_at": "2026-04-29T00:00:00"
         },
         {
@@ -1903,7 +1891,7 @@
           "event_id": "211-2025-26-application_open-2025-01-02",
           "evidence_url": "https://topick.hket.com/article/3856487/",
           "source_text": "並於2025年1月2日至16日接受2025/26年度中一入學申請",
-          "confidence": "high",
+          "confidence": "uncertain",
           "extracted_at": "2026-04-29T00:00:00"
         },
         {
@@ -3501,7 +3489,7 @@
           "event_id": "372-2025-26-application_open-2025-01-02",
           "evidence_url": "https://topick.hket.com/article/3860434/",
           "source_text": "家長可透過學校網頁下載自行收生報名表格，由明年1月2號至16號交回表格",
-          "confidence": "medium",
+          "confidence": "uncertain",
           "extracted_at": "2026-04-29T00:00:00"
         },
         {
@@ -3513,7 +3501,7 @@
           "event_id": "372-2025-26-interview-2025-03-15",
           "evidence_url": "https://topick.hket.com/article/3860434/",
           "source_text": "面試將於3月15日進行，香港華仁每年收到400多份自行收生申請",
-          "confidence": "medium",
+          "confidence": "uncertain",
           "extracted_at": "2026-04-29T00:00:00"
         },
         {
@@ -4384,7 +4372,7 @@
           "date_end": null,
           "label": "中一入學資訊日（家長學生校園參觀）",
           "source_text": "Our General Office will be closed on 4 November, 2023 due to a special event being organised onsite by the Federation of Parent Teacher Associations of Hong Kong Eastern District that involves visits from prospective Secondary 1 students and their parents.",
-          "evidence_url": "https://web.archive.org/web/20231103074138/https://www.cfss.edu.hk/en/",
+          "evidence_url": "https://www.cfss.edu.hk/en/",
           "confidence": "medium",
           "event_id": null,
           "extracted_at": "2026-04-29T13:54:36"
