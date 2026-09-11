@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-09T11:09:54",
+  "updated_at": "2026-09-11T12:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -18449,6 +18449,182 @@
           "confidence": "high",
           "event_id": "381-2027_28-interview-012",
           "extracted_at": "2026-09-08T06:00:00"
+        }
+      ],
+      "self_healing_active": false
+    },
+    "433": {
+      "name": "中華傳道會李賢堯紀念中學",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "info_day",
+          "date": "2024-11-23",
+          "date_end": null,
+          "label": "升中簡介會暨李中生活體驗",
+          "source_text": "升中簡介會暨李中生活體驗 23/11/2024 本校",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/03/f2ed51ccc11eed5fddec6196f7857e2f.pdf",
+          "confidence": "high",
+          "event_id": "433-2025_26-info_day-001",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "application_open",
+          "date": "2025-01-02",
+          "date_end": "2025-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "接受中一自行分配學位申請 2/1/2025 – 16/1/2025",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/03/f2ed51ccc11eed5fddec6196f7857e2f.pdf",
+          "confidence": "high",
+          "event_id": "433-2025_26-application_open-002",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "application_deadline",
+          "date": "2025-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "source_text": "接受中一自行分配學位申請 2/1/2025 – 16/1/2025",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/03/f2ed51ccc11eed5fddec6196f7857e2f.pdf",
+          "confidence": "high",
+          "event_id": "433-2025_26-application_deadline-003",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "interview",
+          "date": "2025-03-01",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "本校中一自行分配學位面試 1/3/2025 本校",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/03/f2ed51ccc11eed5fddec6196f7857e2f.pdf",
+          "confidence": "high",
+          "event_id": "433-2025_26-interview-004",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "result",
+          "date": "2025-03-31",
+          "date_end": null,
+          "label": "通知自行分配學位正取學生家長",
+          "source_text": "通知自行分配學位正取學生家長 31/3/2025",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/03/f2ed51ccc11eed5fddec6196f7857e2f.pdf",
+          "confidence": "high",
+          "event_id": "433-2025_26-result-005",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "result",
+          "date": "2025-07-08",
+          "date_end": null,
+          "label": "中學學位分配結果公佈（統一派位）",
+          "source_text": "中學學位分配結果公佈 8/7/2025 小學",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/03/f2ed51ccc11eed5fddec6196f7857e2f.pdf",
+          "confidence": "high",
+          "event_id": "433-2025_26-result-006",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "升中簡介會暨李中生活體驗",
+          "source_text": "升中簡介會暨李中生活體驗 22/11/2025 本校",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/10/54d2f077858bb24c3b785a80a698abc8.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-info_day-007",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "接受中一自行分配學位申請 2/1/2026 – 16/1/2026",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/10/54d2f077858bb24c3b785a80a698abc8.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-application_open-008",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "source_text": "接受中一自行分配學位申請 2/1/2026 – 16/1/2026",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/10/54d2f077858bb24c3b785a80a698abc8.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-application_deadline-009",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "本校中一自行分配學位面試 7/3/2026 本校",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/10/54d2f077858bb24c3b785a80a698abc8.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-interview-010",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知自行分配學位正取學生家長",
+          "source_text": "通知自行分配學位正取學生家長 31/3/2026",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/10/54d2f077858bb24c3b785a80a698abc8.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-result-011",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中學學位分配結果公佈（統一派位）",
+          "source_text": "中學學位分配結果公佈 7/7/2026 小學",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2025/10/54d2f077858bb24c3b785a80a698abc8.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-result-012",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": "2026-07-10",
+          "label": "中一轉校生申請（叩門）",
+          "source_text": "填妥之申請表，需於 7/7/2026(星期二) 至 10/7/2026(星期五) 辦公時間內(早上 9:00 至 下午 5:00) 交回本校校務處。",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2026/06/8a8b75ef0caebb590ac904e7229b934c.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-application_open-013",
+          "extracted_at": "2026-09-11T12:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_deadline",
+          "date": "2026-07-10",
+          "date_end": null,
+          "label": "中一轉校生申請截止（叩門）",
+          "source_text": "填妥之申請表，需於 7/7/2026(星期二) 至 10/7/2026(星期五) 辦公時間內(早上 9:00 至 下午 5:00) 交回本校校務處。",
+          "evidence_url": "https://liymss.goodschool.hk/upload/2026/06/8a8b75ef0caebb590ac904e7229b934c.pdf",
+          "confidence": "high",
+          "event_id": "433-2026_27-application_deadline-014",
+          "extracted_at": "2026-09-11T12:00:00"
         }
       ],
       "self_healing_active": false
