@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-11T12:00:00",
+  "updated_at": "2026-09-11T16:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -545,10 +545,58 @@
     "51": {
       "name": "德信中學",
       "school_type": "直資",
-      "banding_tier": "",
-      "events": [],
-      "data_gap_reason": "spa_js_rendered_no_extractable_dates",
-      "data_gap_confirmed": "2026-04-29T10:32:03"
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-11-15",
+          "date_end": null,
+          "label": "入學資訊及活動體驗日（含招生講座）",
+          "source_text": "Date of event: 15th November 2025 (Saturday) Time: 1:00pm - 5:00pm (Activity Booths) 2:30pm - 4:00pm (Admission Talk)",
+          "evidence_url": "https://www.tsss.edu.hk/admission/f1/",
+          "confidence": "high",
+          "event_id": "51-2026_27-info_day-001",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "info_day",
+          "date": "2026-11-14",
+          "date_end": null,
+          "label": "校曆預告：2033 班入學簡介會",
+          "source_text": "15 Nov 26 Class of 2033 Admission Information Day 2033 班入學簡介會",
+          "evidence_url": "https://www.tsss.edu.hk/students/2026-27%20School_Calendar.pdf",
+          "confidence": "medium",
+          "event_id": "51-2027_28-info_day-002",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "interview",
+          "date": "2027-01-09",
+          "date_end": null,
+          "label": "校曆預告：2033 班入學面試日（首日）",
+          "source_text": "9 & 16 Jan 27 Class of 2033 Interview Day (D1 & D2) 2033 班入學面試日（首日及次日）",
+          "evidence_url": "https://www.tsss.edu.hk/students/2026-27%20School_Calendar.pdf",
+          "confidence": "medium",
+          "event_id": "51-2027_28-interview-003",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "interview",
+          "date": "2027-01-16",
+          "date_end": null,
+          "label": "校曆預告：2033 班入學面試日（次日）",
+          "source_text": "9 & 16 Jan 27 Class of 2033 Interview Day (D1 & D2) 2033 班入學面試日（首日及次日）",
+          "evidence_url": "https://www.tsss.edu.hk/students/2026-27%20School_Calendar.pdf",
+          "confidence": "medium",
+          "event_id": "51-2027_28-interview-004",
+          "extracted_at": "2026-09-11T16:00:00"
+        }
+      ],
+      "self_healing_active": false
     },
     "56": {
       "name": "地利亞修女紀念學校（百老匯）",
@@ -18625,6 +18673,214 @@
           "confidence": "high",
           "event_id": "433-2026_27-application_deadline-014",
           "extracted_at": "2026-09-11T12:00:00"
+        }
+      ],
+      "self_healing_active": false
+    },
+    "340": {
+      "name": "天主教培聖中學",
+      "school_type": "資助",
+      "banding_tier": "Band 3",
+      "events": [
+        {
+          "academic_year": "2025-26",
+          "type": "info_day",
+          "date": "2024-10-18",
+          "date_end": null,
+          "label": "待核實：升中資訊日（第一天）",
+          "source_text": "天主教培聖中學「升中資訊日」(18/10、20/10)已經圓滿結束",
+          "evidence_url": "https://puishing.edu.hk/activity/%E5%8D%87%E4%B8%AD%E8%B3%87%E8%A8%8A%E6%97%A5-202425",
+          "confidence": "medium",
+          "event_id": "340-2025_26-info_day-001",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2025-26",
+          "type": "info_day",
+          "date": "2024-10-20",
+          "date_end": null,
+          "label": "待核實：升中資訊日（第二天）",
+          "source_text": "天主教培聖中學「升中資訊日」(18/10、20/10)已經圓滿結束",
+          "evidence_url": "https://puishing.edu.hk/activity/%E5%8D%87%E4%B8%AD%E8%B3%87%E8%A8%8A%E6%97%A5-202425",
+          "confidence": "medium",
+          "event_id": "340-2025_26-info_day-002",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-10-17",
+          "date_end": null,
+          "label": "待核實：升中資訊日（第一天）",
+          "source_text": "天主教培聖中學於十月十七及十九日成功舉辦升中資訊日",
+          "evidence_url": "https://puishing.edu.hk/activity/%E5%A4%A9%E4%B8%BB%E6%95%99%E5%9F%B9%E8%81%96%E4%B8%AD%E5%AD%B8%E8%B3%87%E8%A8%8A%E6%97%A5%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C",
+          "confidence": "medium",
+          "event_id": "340-2026_27-info_day-003",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-10-19",
+          "date_end": null,
+          "label": "待核實：升中資訊日（第二天，含升中講座）",
+          "source_text": "天主教培聖中學於十月十七及十九日成功舉辦升中資訊日",
+          "evidence_url": "https://puishing.edu.hk/activity/%E5%A4%A9%E4%B8%BB%E6%95%99%E5%9F%B9%E8%81%96%E4%B8%AD%E5%AD%B8%E8%B3%87%E8%A8%8A%E6%97%A5%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C",
+          "confidence": "medium",
+          "event_id": "340-2026_27-info_day-004",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "遞交日期：2026 年 1 月 2 日（星期五）至 2026 年 1 月 16 日（星期五）",
+          "evidence_url": "https://puishing.edu.hk/sites/default/files/download/2024-2026%20%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_0.pdf",
+          "confidence": "high",
+          "event_id": "340-2026_27-application_open-005",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "source_text": "遞交日期：2026 年 1 月 2 日（星期五）至 2026 年 1 月 16 日（星期五）",
+          "evidence_url": "https://puishing.edu.hk/sites/default/files/download/2024-2026%20%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_0.pdf",
+          "confidence": "high",
+          "event_id": "340-2026_27-application_deadline-006",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-01-17",
+          "date_end": null,
+          "label": "中一自行分配學位面試（後備日 1月24日）",
+          "source_text": "面試日期為 2026 年 1 月 17 日（星期六）",
+          "evidence_url": "https://puishing.edu.hk/sites/default/files/download/2024-2026%20%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_0.pdf",
+          "confidence": "high",
+          "event_id": "340-2026_27-interview-007",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知自行分配學位正取生",
+          "source_text": "正取收錄生將於 2026 年 3 月 31 日（星期二）收到學校書面及電話通知",
+          "evidence_url": "https://puishing.edu.hk/sites/default/files/download/2024-2026%20%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_0.pdf",
+          "confidence": "high",
+          "event_id": "340-2026_27-result-008",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一插班申請（叩門）開始遞交，額滿即止",
+          "source_text": "遞交日期：2026 年 7 月 7 日至 ＊額滿即止＊",
+          "evidence_url": "https://puishing.edu.hk/sites/default/files/download/%E4%B8%AD%E4%B8%80%E7%B4%9A%E7%94%B3%E8%AB%8B%E5%85%A5%E5%AD%B8%E9%A0%88%E7%9F%A5_%28%E9%81%A9%E7%94%A8%E6%96%BC%E6%9A%91%E5%81%87%E7%94%B3%E8%AB%8B%E6%8F%92%E7%8F%AD%292026.pdf",
+          "confidence": "high",
+          "event_id": "340-2026_27-application_open-009",
+          "extracted_at": "2026-09-11T15:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-07-14",
+          "date_end": null,
+          "label": "中一插班（叩門）統一入學試",
+          "source_text": "2026 年 7 月 14 日(星期二)",
+          "evidence_url": "https://puishing.edu.hk/sites/default/files/download/%E4%B8%AD%E4%B8%80%E7%B4%9A%E7%94%B3%E8%AB%8B%E5%85%A5%E5%AD%B8%E9%A0%88%E7%9F%A5_%28%E9%81%A9%E7%94%A8%E6%96%BC%E6%9A%91%E5%81%87%E7%94%B3%E8%AB%8B%E6%8F%92%E7%8F%AD%292026.pdf",
+          "confidence": "high",
+          "event_id": "340-2026_27-interview-010",
+          "extracted_at": "2026-09-11T15:00:00"
+        }
+      ],
+      "self_healing_active": false
+    },
+    "80": {
+      "name": "東涌天主教學校",
+      "school_type": "資助",
+      "banding_tier": "Band 3",
+      "events": [
+        {
+          "academic_year": "2026-27",
+          "type": "info_day",
+          "date": "2025-12-13",
+          "date_end": null,
+          "label": "據校曆：開放日",
+          "source_text": "13/12 開放日",
+          "evidence_url": "https://secondary.tccs.edu.hk/sites/default/files/inline-images/7c1b961dd6d0e86a35f073556a7f256c78257798.jpg",
+          "confidence": "medium",
+          "event_id": "80-2026_27-info_day-001",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": "2026-01-16",
+          "label": "中一自行分配學位申請",
+          "source_text": "申請日期：2026 年 1 月 2 日(星期五)至 1 月 16 日(星期五)",
+          "evidence_url": "https://secondary.tccs.edu.hk/sites/default/files/pdf/bb538460eabf98ecb41ec9341cde4c59f22bdcf7.pdf",
+          "confidence": "high",
+          "event_id": "80-2026_27-application_open-002",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "source_text": "申請日期：2026 年 1 月 2 日(星期五)至 1 月 16 日(星期五)",
+          "evidence_url": "https://secondary.tccs.edu.hk/sites/default/files/pdf/bb538460eabf98ecb41ec9341cde4c59f22bdcf7.pdf",
+          "confidence": "high",
+          "event_id": "80-2026_27-application_deadline-003",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試",
+          "source_text": "面試日期為 2026 年 3 月 8 日 (星期六)，缺席面試視為放棄申請。",
+          "evidence_url": "https://secondary.tccs.edu.hk/sites/default/files/pdf/bb538460eabf98ecb41ec9341cde4c59f22bdcf7.pdf",
+          "confidence": "high",
+          "event_id": "80-2026_27-interview-004",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "通知自行分配學位正取生",
+          "source_text": "學校將於 2026 年 3 月 31 日(星期二)，透過電話及電郵通知所有正取學生的家長",
+          "evidence_url": "https://secondary.tccs.edu.hk/sites/default/files/pdf/bb538460eabf98ecb41ec9341cde4c59f22bdcf7.pdf",
+          "confidence": "high",
+          "event_id": "80-2026_27-result-005",
+          "extracted_at": "2026-09-11T16:00:00"
+        },
+        {
+          "academic_year": "2026-27",
+          "type": "result",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "自行分配學位申請結果（與統一派位結果一併公布）",
+          "source_text": "自行分配學位的申請結果將於 2026 年 7 月 7 日(星期二)與統一派位結果一併公布",
+          "evidence_url": "https://secondary.tccs.edu.hk/sites/default/files/pdf/bb538460eabf98ecb41ec9341cde4c59f22bdcf7.pdf",
+          "confidence": "high",
+          "event_id": "80-2026_27-result-006",
+          "extracted_at": "2026-09-11T16:00:00"
         }
       ],
       "self_healing_active": false
