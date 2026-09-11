@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-11T17:30:00",
+  "updated_at": "2026-09-11T19:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -8228,18 +8228,6 @@
           "evidence_url": "https://www.deliahw.edu.hk/index.php/en/admissions/admissions-to-s1",
           "event_id": "59-2026-27-application_open-001",
           "confidence": "high"
-        },
-        {
-          "type": "info_day",
-          "date": "2025-09-01",
-          "date_end": null,
-          "label": "2026/27 中一資訊日（與申請開通同日啟動）",
-          "academic_year": "2026-27",
-          "source_text": "2026/27 中一級入學申請\n### 申請時序\n### 2026/27 中一級入學申請程序\n由2025年9月1日開始\n接受 2026/27 中一級申請",
-          "evidence_url": "",
-          "confidence": "verified",
-          "event_id": "59-2026_27-info_day-001",
-          "extracted_at": "2026-07-20T09:03:44"
         },
         {
           "type": "result",
