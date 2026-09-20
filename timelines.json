@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-11T20:00:00",
+  "updated_at": "2026-09-20T21:25:11",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -193,6 +193,42 @@
           "confidence": "single_source",
           "event_id": "3-2026_27-interview-001",
           "extracted_at": "2026-05-07T17:26:08"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-09-23",
+          "date_end": null,
+          "label": "S1 Introductory Talk（17:30–19:30，毋須報名）",
+          "academic_year": "2027-28",
+          "source_text": "S1 Introductory Talk Wednesday, 23 September 2026 17:30 - 19:30 Auditorium",
+          "evidence_url": "https://www.dgs.edu.hk/admissions",
+          "confidence": "high",
+          "event_id": "3-2027_28-info_day-001",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-09-24",
+          "date_end": "2026-10-03",
+          "label": "中一入學申請期",
+          "academic_year": "2027-28",
+          "source_text": "Application period: 24 September 2026 to 3 October 2026",
+          "evidence_url": "https://www.dgs.edu.hk/admissions",
+          "confidence": "high",
+          "event_id": "3-2027_28-application_open-001",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-10-03",
+          "date_end": null,
+          "label": "中一入學申請截止",
+          "academic_year": "2027-28",
+          "source_text": "Application period: 24 September 2026 to 3 October 2026",
+          "evidence_url": "https://www.dgs.edu.hk/admissions",
+          "confidence": "high",
+          "event_id": "3-2027_28-application_deadline-001",
+          "extracted_at": "2026-09-20T21:22:02"
         }
       ]
     },
@@ -565,7 +601,7 @@
           "date": "2026-11-14",
           "date_end": null,
           "label": "校曆預告：2033 班入學簡介會",
-          "source_text": "15 Nov 26 Class of 2033 Admission Information Day 2033 班入學簡介會",
+          "source_text": "14 Nov 26 Class of 2033 Admission Information Day 2033 班入學簡介會",
           "evidence_url": "https://www.tsss.edu.hk/students/2026-27%20School_Calendar.pdf",
           "confidence": "medium",
           "event_id": "51-2027_28-info_day-002",
@@ -7499,6 +7535,18 @@
           "evidence_url": "https://www.hys.edu.hk/form-one-admission-2025-26/",
           "event_id": "399-2026-27-application_deadline-002",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-10-10",
+          "date_end": null,
+          "label": "校曆預告：網上資訊日",
+          "academic_year": "2027-28",
+          "source_text": "Virtual Information Day｜舉行日期：2026年10月10日（星期六）｜Online streaming（Admissions Schedule 招生時間表 2027/28 圖片版）",
+          "evidence_url": "https://www.hys.edu.hk/wp-content/uploads/Admission-Schedule-2027_28-Intake-_-Website-Google-Sheets-scaled.jpg",
+          "confidence": "medium",
+          "event_id": "399-2027_28-info_day-001",
+          "extracted_at": "2026-09-11T18:00:00"
         }
       ],
       "self_healing_active": false
@@ -12535,6 +12583,90 @@
           "evidence_url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
           "event_id": "420-2026-27-result-001",
           "confidence": "high"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-09-21",
+          "date_end": "2026-11-17",
+          "label": "Accept G7 (2027-2028) Application",
+          "academic_year": "2027-28",
+          "source_text": "21 September (Mon) to 17 November 2026 (Tue) Accept G7 (2027-2028) Application",
+          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "confidence": "high",
+          "event_id": "420-2027_28-application_open-001",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-10-05",
+          "date_end": null,
+          "label": "Reservation for Admission Briefing",
+          "academic_year": "2027-28",
+          "source_text": "17 September (Thurs) to 5 October 2026 (Mon) Reservation for Admission Briefing",
+          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "confidence": "high",
+          "event_id": "420-2027_28-info_day-001",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-10-17",
+          "date_end": null,
+          "label": "Admission Briefing (2:00PM – 4:00PM)",
+          "academic_year": "2027-28",
+          "source_text": "17 October 2026(Sat) Admission Briefing (Time: 2:00PM – 4:00PM)",
+          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "confidence": "high",
+          "event_id": "420-2027_28-info_day-002",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-11-17",
+          "date_end": null,
+          "label": "Application Due Day",
+          "academic_year": "2027-28",
+          "source_text": "17 November 2026 (Tue) Application Due Day",
+          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "confidence": "high",
+          "event_id": "420-2027_28-application_deadline-001",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "interview",
+          "date": "2026-12-06",
+          "date_end": null,
+          "label": "First Admission Interview",
+          "academic_year": "2027-28",
+          "source_text": "5 December (Sat) to 6 December 2026 (Sun) First Admission Interview",
+          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "confidence": "high",
+          "event_id": "420-2027_28-interview-001",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "interview",
+          "date": "2026-12-19",
+          "date_end": null,
+          "label": "Second Admission Interview",
+          "academic_year": "2027-28",
+          "source_text": "19 December 2026 (Sat) Second Admission Interview",
+          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "confidence": "high",
+          "event_id": "420-2027_28-interview-002",
+          "extracted_at": "2026-09-20T21:22:02"
+        },
+        {
+          "type": "result",
+          "date": "2027-01-04",
+          "date_end": null,
+          "label": "Notification of Admission Result",
+          "academic_year": "2027-28",
+          "source_text": "After 4 January 2027 Notification of Admission Result by email",
+          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "confidence": "high",
+          "event_id": "420-2027_28-result-001",
+          "extracted_at": "2026-09-20T21:22:02"
         }
       ],
       "self_healing_active": false
@@ -13208,15 +13340,27 @@
         },
         {
           "type": "info_day",
-          "date": "2026-12-04",
-          "date_end": "2026-12-06",
-          "label": "校曆預告：開放日",
+          "date": "2026-11-24",
+          "date_end": "2026-11-27",
+          "label": "參觀校園（分時段報名）",
           "academic_year": "2027-28",
-          "source_text": "4-6/12 Open day（另有 7/12 The day after Open day）",
-          "evidence_url": "https://www.fklmstss.edu.hk/subject_website/school/2627cal.pdf",
-          "confidence": "medium",
+          "source_text": "2026-27年度「參觀校園」及「升中簡介會」報名：開放日期：2026年11月24、25、26、27日（共4天）。開放時段：每時段只能接待8-10個單位（先到先得，額滿即止）（第1節）8:45–9:30、（第2節）10:15–11:00、（第3節）11:45–12:30、（第4節）14:15–15:00。",
+          "evidence_url": "https://www.fklmstss.edu.hk/subject_website/school/info/",
+          "confidence": "verified",
           "event_id": "89-2027_28-info_day-001",
-          "extracted_at": "2026-09-07T13:00:00"
+          "extracted_at": "2026-09-11T00:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-06",
+          "date_end": null,
+          "label": "三十周年校慶開放日暨升中簡介會",
+          "academic_year": "2027-28",
+          "source_text": "三十周年校慶開放日暨升中簡介會 日期：2026年12月6日（星期日）時間：下午2:00–4:30 地點：本校禮堂 內容：學校理念簡介、「學與教」及「學生成長」策略及工作、英語話劇表演、學生分享、攤位遊戲及表演。",
+          "evidence_url": "https://www.fklmstss.edu.hk/subject_website/school/info/",
+          "confidence": "verified",
+          "event_id": "89-2027_28-info_day-002",
+          "extracted_at": "2026-09-11T00:00:00"
         }
       ]
     },
@@ -13547,6 +13691,18 @@
           "confidence": "single_source",
           "event_id": "144-2026_27-application_deadline-002",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "校曆預告：資訊日、升中講座",
+          "academic_year": "2027-28",
+          "source_text": "12月05日 5/12 資訊日、升中講座及小學球類邀請賽",
+          "evidence_url": "http://www.calfss.edu.hk/Content/03_school_info/03_school_calendar/print_calendar.aspx",
+          "confidence": "medium",
+          "event_id": "144-2027_28-info_day-002",
+          "extracted_at": "2026-09-11T18:00:00"
         }
       ]
     },
@@ -14226,6 +14382,18 @@
           "confidence": "verified",
           "event_id": "204-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": null,
+          "label": "校曆預告：升中資訊講座",
+          "academic_year": "2027-28",
+          "source_text": "21/11         升中資訊講座",
+          "evidence_url": "https://www.cls.edu.hk/attachment/achievement/pdf/1788742975GPo7V.pdf",
+          "confidence": "medium",
+          "event_id": "204-2027_28-info_day-001",
+          "extracted_at": "2026-09-11T18:00:00"
         }
       ]
     },
@@ -17726,6 +17894,18 @@
           "confidence": "high",
           "event_id": "415-2026_27-result-001",
           "extracted_at": "2026-07-19"
+        },
+        {
+          "type": "interview",
+          "date": "2027-03-13",
+          "date_end": null,
+          "label": "校曆預告：中一自行分配學位面試",
+          "academic_year": "2027-28",
+          "source_text": "13/3 # S1 Discretionary Place interview 中一自行分配學位面試",
+          "evidence_url": "https://qos.edu.hk/attachment/content/1788758990Lwm0N.pdf",
+          "confidence": "medium",
+          "event_id": "415-2027_28-interview-001",
+          "extracted_at": "2026-09-11T00:00:00"
         }
       ]
     },
