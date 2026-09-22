@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-20T21:25:11",
+  "updated_at": "2026-09-22T14:41:51",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -19360,6 +19360,23 @@
         }
       ],
       "self_healing_active": false
+    },
+    "240": {
+      "name": "青年會書院",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2026-10-24",
+          "date_end": null,
+          "label": "校曆預告：學校資訊日及校友重聚日（全日）",
+          "academic_year": "2027-28",
+          "source_text": "半日上課時間表(23/10)；學校資訊日及校友重聚日(全日)(24/10)",
+          "evidence_url": "https://www.cymcac.edu.hk/26infoday/",
+          "confidence": "medium",
+          "event_id": "240-2027_28-info_day-001",
+          "extracted_at": "2026-09-22T14:41:08"
+        }
+      ]
     }
   }
 }
