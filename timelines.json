@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-22T14:41:51",
+  "updated_at": "2026-09-22T15:08:11",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -19375,6 +19375,122 @@
           "confidence": "medium",
           "event_id": "240-2027_28-info_day-001",
           "extracted_at": "2026-09-22T14:41:08"
+        }
+      ]
+    },
+    "394": {
+      "name": "香港仔工業學校",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2027-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2027-28",
+          "source_text": "2027-2028年度中一自行分配學位申請須知（2027年9月入讀中一）\n## 申請日期\n由 2027 年 1 月 2 日（星期六）至 2027 年 1 月 16 日（星期六）接受申請。",
+          "evidence_url": "http://www.ats.edu.hk/index.php/2018-11-26-06-17-11/f1admission/2018-11-26-06-21-54",
+          "confidence": "verified",
+          "event_id": "394-2027_28-application_open-001",
+          "extracted_at": "2026-09-22T15:08:05"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2027-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2027-28",
+          "source_text": "2027-2028年度中一自行分配學位申請須知（2027年9月入讀中一）\n## 申請日期\n由 2027 年 1 月 2 日（星期六）至 2027 年 1 月 16 日（星期六）接受申請。",
+          "evidence_url": "http://www.ats.edu.hk/index.php/2018-11-26-06-17-11/f1admission/2018-11-26-06-21-54",
+          "confidence": "single_source",
+          "event_id": "394-2027_28-application_deadline-001",
+          "extracted_at": "2026-09-22T15:08:05"
+        },
+        {
+          "type": "result",
+          "date": "2027-03-31",
+          "date_end": null,
+          "label": "自行分配學位正取名單通知",
+          "academic_year": "2027-28",
+          "source_text": "7. 將於2027年3月31日透過書面及電話通知正取學生的家長其子已獲學校納入其自行分配學位正取學生名單。",
+          "evidence_url": "http://www.ats.edu.hk/index.php/2018-11-26-06-17-11/f1admission/2018-11-26-06-21-54",
+          "confidence": "verified",
+          "event_id": "394-2027_28-result-001",
+          "extracted_at": "2026-09-22T15:08:05"
+        }
+      ]
+    },
+    "395": {
+      "name": "香港仔浸信會呂明才書院",
+      "events": [
+        {
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行收生面試",
+          "academic_year": "2026-27",
+          "source_text": "中一自行收生面試注意事項：\n1. 面試日期 ： 2026 年 3 月 14 日 (星期六)",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "395-2026_27-interview-001",
+          "extracted_at": "2026-09-22T15:08:05"
+        }
+      ]
+    },
+    "313": {
+      "name": "聖士提反堂中學",
+      "events": [
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "中一自行分配學位申請辦法\n\n## (一)申請日期\n\n2026年1月2日 (星期五) 至2026年1月16日 (星期五)",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "313-2026_27-application_open-001",
+          "extracted_at": "2026-09-22T15:08:05"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "中一自行分配學位申請辦法\n\n## (一)申請日期\n\n2026年1月2日 (星期五) 至2026年1月16日 (星期五)",
+          "evidence_url": "",
+          "confidence": "single_source",
+          "event_id": "313-2026_27-application_deadline-001",
+          "extracted_at": "2026-09-22T15:08:05"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "自行分配學位正取結果通知日",
+          "academic_year": "2026-27",
+          "source_text": "## (七)成績公佈\n教育局將校方取錄名單與統一派位結果，於 2026年7月中學學位分配放榜日一起公佈。本校會於教育局指定日期 (2026年3月31日)，透過書面及電話，通知正取學生家長其子女已獲學校納入其自行分配學位正取學生名單。",
+          "evidence_url": "",
+          "confidence": "verified",
+          "event_id": "313-2026_27-result-001",
+          "extracted_at": "2026-09-22T15:08:05"
+        }
+      ]
+    },
+    "327": {
+      "name": "順德聯誼總會鄭裕彤中學",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "升中資訊日",
+          "academic_year": "2026-27",
+          "source_text": "本校於2025年12月6日（星期六）舉行的升中資訊日已圓滿結束，當日承蒙眾多家長及同學踴躍參與，令活動生色不少，氣氛熱鬧非常。",
+          "evidence_url": "https://www.cyt.edu.hk/tc/latest_new/%E6%B4%BB%E5%8B%95%E5%9B%9E%E9%A1%A7%EF%BC%9A2025%E5%8D%87%E4%B8%AD%E8%B3%87%E8%A8%8A%E6%97%A5%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C%EF%BC%8C%E6%84%9F%E8%AC%9D%E5%AE%B6%E9%95%B7%E5%8F%8A%E5%90%8C%E5%AD%B8%E8%B8%B4%E8%BA%8D%E5%8F%83%E8%88%87%EF%BC%81#",
+          "confidence": "verified",
+          "event_id": "327-2026_27-info_day-001",
+          "extracted_at": "2026-09-22T15:08:05"
         }
       ]
     }
