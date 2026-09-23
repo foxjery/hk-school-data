@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-22T16:43:52",
+  "updated_at": "2026-09-23T12:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -19925,6 +19925,73 @@
           "confidence": "verified",
           "event_id": "439-2026_27-result-001",
           "extracted_at": "2026-09-22T16:43:45"
+        }
+      ]
+    },
+    "49": {
+      "name": "德蘭中學",
+      "school_type": "資助",
+      "banding_tier": "Band 3",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2023-11-12",
+          "date_end": null,
+          "label": "升中資訊日暨模擬面試體驗",
+          "academic_year": "2024-25",
+          "source_text": "本校將於11月12日（星期日）上午，舉辦「升中資訊日暨模擬面試體驗」活動\n2023年11月12日（星期日）",
+          "evidence_url": "https://www.stteresa.edu.hk/sites/default/files/files/sheng_zhong_zi_xun_ri_tong_gao_.pdf",
+          "confidence": "verified",
+          "event_id": "49-2024_25-info_day-001",
+          "extracted_at": "2026-09-23T12:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2024-11-10",
+          "date_end": null,
+          "label": "升中資訊日暨模擬面試體驗",
+          "academic_year": "2025-26",
+          "source_text": "本校將於11月10日（星期日）上午，舉辦「升中資訊日暨模擬面試體驗」活動\n2024年11月10日（星期日）",
+          "evidence_url": "https://www.stteresa.edu.hk/sites/default/files/files/sheng_zhong_zi_xun_ri_ji_mo_ni_mian_shi_ti_yan_.pdf",
+          "confidence": "verified",
+          "event_id": "49-2025_26-info_day-001",
+          "extracted_at": "2026-09-23T12:00:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一叩門學位申請開始遞交",
+          "academic_year": "2026-27",
+          "source_text": "日期：2026 年 7 月 7 日（星期二）至 2026 年 7 月 10 日（星期五）",
+          "evidence_url": "https://www.stteresa.edu.hk/sites/default/files/files/wang_ye_-zhong_yi_kou_men_.pdf",
+          "confidence": "verified",
+          "event_id": "49-2026_27-application_open-001",
+          "extracted_at": "2026-09-23T12:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-07-10",
+          "date_end": null,
+          "label": "中一叩門學位申請截止遞交",
+          "academic_year": "2026-27",
+          "source_text": "日期：2026 年 7 月 7 日（星期二）至 2026 年 7 月 10 日（星期五）",
+          "evidence_url": "https://www.stteresa.edu.hk/sites/default/files/files/wang_ye_-zhong_yi_kou_men_.pdf",
+          "confidence": "verified",
+          "event_id": "49-2026_27-application_deadline-001",
+          "extracted_at": "2026-09-23T12:00:00"
+        },
+        {
+          "type": "result",
+          "date": "2026-07-13",
+          "date_end": null,
+          "label": "中一叩門學位申請結果公佈",
+          "academic_year": "2026-27",
+          "source_text": "被取錄者將於 2026 年 7 月 13 日（星期一） 中午 12 時前獲校方致電通知。",
+          "evidence_url": "https://www.stteresa.edu.hk/sites/default/files/files/wang_ye_-zhong_yi_kou_men_.pdf",
+          "confidence": "verified",
+          "event_id": "49-2026_27-result-001",
+          "extracted_at": "2026-09-23T12:00:00"
         }
       ]
     }
