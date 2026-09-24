@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-24T20:00:00",
+  "updated_at": "2026-09-24T22:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -10840,6 +10840,18 @@
           "evidence_url": "https://www.sjc.edu.hk/s1-admission-talk/",
           "event_id": "309-2026-27-info_day-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": null,
+          "label": "中一入學簡介會 S1 Admission Talk（2027-28）",
+          "academic_year": "2027-28",
+          "source_text": "Secondary 1 Admission Talk (2027-2028)｜Date: Saturday, 21 November 2026｜Time: 2:00 p.m. – 3:15 p.m. (Registration begins at 1:30 p.m.)",
+          "evidence_url": "https://www.sjc.edu.hk/s1-admission-talk/",
+          "confidence": "high",
+          "event_id": "309-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T22:00:00"
         }
       ]
     },
@@ -11214,6 +11226,18 @@
           "evidence_url": "https://www.lkkc.edu.hk/2026-27-s1-admission-application/",
           "event_id": "324-2026-27-result-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-13",
+          "date_end": null,
+          "label": "校曆預告：小六學生及家長資訊日 Information Day for Primary 6 students and parents",
+          "academic_year": "2027-28",
+          "source_text": "13/12 Information Day for Primary 6 students and parents 小六學生及家長資訊日",
+          "evidence_url": "https://www.lkkc.edu.hk/school-calendar-2026-2027/",
+          "confidence": "medium",
+          "event_id": "324-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T22:00:00"
         }
       ],
       "self_healing_active": false
@@ -11900,6 +11924,18 @@
           "evidence_url": "http://www.hkmakslo.edu.hk/wp-content/uploads/2025/11/2024-2026-Instructions-for-Application-for-Secondary-One-Discretionary-Places.pdf",
           "event_id": "368-2025-26-result-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "入學資訊日 Information Day 2026（2027-28 入學）",
+          "academic_year": "2027-28",
+          "source_text": "2026 INFORMATION DAY｜FREE ADMISSION｜DATE: 5 DEC 2026 （Saturday）｜TIME: 9:00 am - 4:00 pm｜REGISTRATION OPENS SOON",
+          "evidence_url": "https://www.hkmakslo.edu.hk/admission-information/2027-2028-admission/information-day-2026/",
+          "confidence": "high",
+          "event_id": "368-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T22:00:00"
         }
       ],
       "self_healing_active": false
@@ -12284,6 +12320,18 @@
           "evidence_url": "https://www.spkc.edu.hk/s1-admission-oct-cover/",
           "event_id": "382-2026-27-application_deadline-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": "2026-11-22",
+          "label": "校曆預告：Admission Briefing 中一入學簡介會",
+          "academic_year": "2027-28",
+          "source_text": "21/11 – 22/11 Admission Briefing（20/11 Preparation for AB Days；23/11 Day after Admission Briefing Days）",
+          "evidence_url": "https://www.spkc.edu.hk/school-calendar/",
+          "confidence": "medium",
+          "event_id": "382-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T21:00:00"
         }
       ],
       "self_healing_active": false
@@ -13821,6 +13869,18 @@
           "confidence": "verified",
           "event_id": "159-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "校曆預告：資訊日",
+          "academic_year": "2027-28",
+          "source_text": "5/12 資訊日",
+          "evidence_url": "http://www.cpcydss.edu.hk/course_cals.php",
+          "confidence": "medium",
+          "event_id": "159-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T21:00:00"
         }
       ]
     },
