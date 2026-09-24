@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-23T12:00:00",
+  "updated_at": "2026-09-24T20:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -7116,6 +7116,18 @@
           "evidence_url": "https://www.ltfc.edu.hk/Website/index.php/admission/s1-admission-2026-2027.html",
           "event_id": "194-2026-27-interview-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-15",
+          "date_end": null,
+          "label": "校曆預告：School Information Day",
+          "academic_year": "2027-28",
+          "source_text": "15/11 School Information Day（16/11 Holiday after Information Day）",
+          "evidence_url": "https://www.ltfc.edu.hk/Website/index.php/about-ltfc/school-calendar.html",
+          "confidence": "medium",
+          "event_id": "194-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T18:00:00"
         }
       ],
       "self_healing_active": false
@@ -12990,6 +13002,18 @@
           "confidence": "verified",
           "event_id": "10-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "校曆預告：升中資訊日",
+          "academic_year": "2027-28",
+          "source_text": "05/12 升中資訊日（04/12 教師發展日(上午)及升中資訊日準備(下午)）",
+          "evidence_url": "https://drive.google.com/file/d/1oG-BkEvPGDknmLoBR_sGYzqSbpJoGsQ_/view?usp=drive_link",
+          "confidence": "medium",
+          "event_id": "10-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T20:00:00"
         }
       ]
     },
@@ -16886,6 +16910,18 @@
           "confidence": "verified",
           "event_id": "62-2026_27-info_day-001",
           "extracted_at": "2026-07-18T22:21:41"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-07",
+          "date_end": null,
+          "label": "校曆預告：學校資訊日 School Info Day",
+          "academic_year": "2027-28",
+          "source_text": "7 學校資訊日 School Info Day",
+          "evidence_url": "https://www.twghfwfts.edu.hk/en/school-calendar",
+          "confidence": "medium",
+          "event_id": "62-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T19:00:00"
         }
       ]
     },
@@ -16980,6 +17016,18 @@
           "confidence": "verified",
           "event_id": "392-2026_27-result-001",
           "extracted_at": "2026-07-25T13:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-21",
+          "date_end": null,
+          "label": "校曆預告：中一收生簡介會暨學習展示日",
+          "academic_year": "2027-28",
+          "source_text": "21/11 中一收生簡介會暨學習展示日 S1 Admmission Information Day & Display of Learning",
+          "evidence_url": "https://www.cch.edu.hk/cch-school-calendar/",
+          "confidence": "medium",
+          "event_id": "392-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T18:00:00"
         }
       ]
     },
@@ -17563,6 +17611,18 @@
           "confidence": "verified",
           "event_id": "124-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "校曆預告：中一入學簡介會及資訊日",
+          "academic_year": "2027-28",
+          "source_text": "28/11 中一入學簡介會及資訊日",
+          "evidence_url": "https://www.hmtgss.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=11&pageId=16&nnnid=16",
+          "confidence": "medium",
+          "event_id": "124-2027_28-info_day-001",
+          "extracted_at": "2026-09-24T18:00:00"
         }
       ]
     },
