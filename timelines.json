@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-29T10:00:00",
+  "updated_at": "2026-09-29T11:30:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -20179,6 +20179,219 @@
           "confidence": "medium",
           "event_id": "78-2027_28-interview-001",
           "extracted_at": "2026-09-29T10:00:00"
+        }
+      ]
+    },
+    "76": {
+      "name": "東華三院伍若瑜夫人紀念中學",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "校历预告：中一資訊日 S1 Information Day & Exhibition",
+          "academic_year": "2027-28",
+          "source_text": "校曆（2026-27）School Calendar PDF 十二月週格「5 S1 Information Day & Exhibition」（PDF 文字層直讀，非 OCR；2026-12-05 為週六，與同系學校週六辦資訊日慣例吻合）",
+          "evidence_url": "https://twghwyyms.edu.hk/uploads/file/202609/8182ca1bc47f0cac22be820149daa527.pdf",
+          "confidence": "medium",
+          "event_id": "76-2027_28-info_day-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        }
+      ]
+    },
+    "191": {
+      "name": "梁式芝書院",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-11-22",
+          "date_end": null,
+          "label": "中一資訊日（兩場）",
+          "academic_year": "2026-27",
+          "source_text": "中一收生重要事項日程表（圖片型 PDF，Vision OCR）：「中一資訊日 22 November 2025（2 sessions）」；佐證：自行分配簡介海報檔名 revised_…2025.11.22、2025-11-22 為週六",
+          "evidence_url": "https://lscc.edu.hk/sites/default/files/files/key_dates_for_s1_admission_zhong_yi_shou_sheng_chong_yao_shi_xiang_ri_cheng_biao_.pdf",
+          "confidence": "verified",
+          "event_id": "191-2026_27-info_day-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-01-02",
+          "date_end": null,
+          "label": "中一自行分配學位申請開始",
+          "academic_year": "2026-27",
+          "source_text": "自行分配學位簡介海報第2頁（圖片型 PDF，Vision OCR）逐字：「Application period: 2 January 2026 to 16 January 2026 本校申請日期為2026年1月2日至2026年1月16日」；與日程表「2 to 16 January 2026」互證",
+          "evidence_url": "https://lscc.edu.hk/sites/default/files/files/revised_2026_s1_discretionary_places_zhong_yi_zi_xing_fen_pei_xue_wei_jian_jie_2025.11.22zip.pdf",
+          "confidence": "verified",
+          "event_id": "191-2026_27-application_open-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2026-01-16",
+          "date_end": null,
+          "label": "中一自行分配學位申請截止",
+          "academic_year": "2026-27",
+          "source_text": "自行分配學位簡介海報第2頁逐字：「本校申請日期為2026年1月2日至2026年1月16日」；與日程表互證",
+          "evidence_url": "https://lscc.edu.hk/sites/default/files/files/revised_2026_s1_discretionary_places_zhong_yi_zi_xing_fen_pei_xue_wei_jian_jie_2025.11.22zip.pdf",
+          "confidence": "verified",
+          "event_id": "191-2026_27-application_deadline-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-07",
+          "date_end": null,
+          "label": "中一自行分配學位面試（後備日 3月14日）",
+          "academic_year": "2026-27",
+          "source_text": "中一收生重要事項日程表（Vision OCR）：「7 March 2026 / 14 March 2026（reserved 後備）」LSCC conducts interviews for selection of students 本校進行面試甄選學生；兩日均為週六",
+          "evidence_url": "https://lscc.edu.hk/sites/default/files/files/key_dates_for_s1_admission_zhong_yi_shou_sheng_chong_yao_shi_xiang_ri_cheng_biao_.pdf",
+          "confidence": "verified",
+          "event_id": "191-2026_27-interview-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "result",
+          "date": "2026-03-31",
+          "date_end": null,
+          "label": "自行分配學位正取生通知",
+          "academic_year": "2026-27",
+          "source_text": "中一收生重要事項日程表（Vision OCR）：「31 March 2026」Successful S1 DP applicants will be notified by mail and phone 正取學生將獲書面及電話通知（與 EDB 自行分配通知日一致）",
+          "evidence_url": "https://lscc.edu.hk/sites/default/files/files/key_dates_for_s1_admission_zhong_yi_shou_sheng_chong_yao_shi_xiang_ri_cheng_biao_.pdf",
+          "confidence": "verified",
+          "event_id": "191-2026_27-result-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2026-07-07",
+          "date_end": null,
+          "label": "中一候補學位申請（叩門，僅此一天）",
+          "academic_year": "2026-27",
+          "source_text": "中一候補學位申請須知（PDF 文字層）逐字：「Date of Application: 7 July 2026 (Tuesday) 申請日期：2026 年 7 月 7 日 (星期二)」；與日程表「7 July 2026」互證",
+          "evidence_url": "https://lscc.edu.hk/sites/default/files/files/post_s1_allocation_application_zhong_yi_hou_bu_xue_wei_shen_qing_xu_zhi_1.pdf",
+          "confidence": "verified",
+          "event_id": "191-2026_27-application_open-002",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-07-09",
+          "date_end": "2026-07-10",
+          "label": "中一候補學位筆試",
+          "academic_year": "2026-27",
+          "source_text": "中一收生重要事項日程表（Vision OCR）：「9 and 10 July 2026」Admission Tests for S1 Waiting Places 本校「中一候補學位」筆試",
+          "evidence_url": "https://lscc.edu.hk/sites/default/files/files/key_dates_for_s1_admission_zhong_yi_shou_sheng_chong_yao_shi_xiang_ri_cheng_biao_.pdf",
+          "confidence": "verified",
+          "event_id": "191-2026_27-interview-002",
+          "extracted_at": "2026-09-29T11:30:00"
+        }
+      ]
+    },
+    "287": {
+      "name": "聖公會梁季彜中學",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2023-12-09",
+          "date_end": null,
+          "label": "學校資訊日",
+          "academic_year": "2024-25",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2023-12-09\", \"note\": [\"學校資訊日\"]}",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "verified",
+          "event_id": "287-2024_25-info_day-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "interview",
+          "date": "2024-03-16",
+          "date_end": null,
+          "label": "中一自行分配學位面試日",
+          "academic_year": "2024-25",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2024-03-16\", \"note\": [\"中一自行分配學位面試日\"]}",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "verified",
+          "event_id": "287-2024_25-interview-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2024-12-07",
+          "date_end": null,
+          "label": "資訊日",
+          "academic_year": "2025-26",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2024-12-07\", \"note\": [\"資訊日\"]}",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "verified",
+          "event_id": "287-2025_26-info_day-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "interview",
+          "date": "2025-03-08",
+          "date_end": null,
+          "label": "中一自行分配學位面試（後備日 3月15日）",
+          "academic_year": "2025-26",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2025-03-08\", \"note\": [\"中一自行分配學位面試\"]}、{\"date\": \"2025-03-15\", \"note\": [\"中一自行分配學位面試(後備)\"]}",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "verified",
+          "event_id": "287-2025_26-interview-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "資訊日",
+          "academic_year": "2026-27",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2025-12-06\", \"note\": [\"資訊日\"]}",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "verified",
+          "event_id": "287-2026_27-info_day-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "interview",
+          "date": "2026-03-14",
+          "date_end": null,
+          "label": "中一自行分配學位面試（後備日 3月21日）",
+          "academic_year": "2026-27",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2026-03-14\", \"note\": [\"中一自行分配學位面試\"]}、{\"date\": \"2026-03-21\", \"note\": [\"中一自行分配學位面試(後備日)\"]}",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "verified",
+          "event_id": "287-2026_27-interview-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-12",
+          "date_end": null,
+          "label": "校历预告：資訊日",
+          "academic_year": "2027-28",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2026-12-12\", \"note\": [\"資訊日\"]}（2026-12-12 為週六，與該校歷屆 12 月首個週六資訊日規律一致：2024-12-07/2025-12-06 均週六）",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "medium",
+          "event_id": "287-2027_28-info_day-001",
+          "extracted_at": "2026-09-29T11:30:00"
+        },
+        {
+          "type": "interview",
+          "date": "2027-03-06",
+          "date_end": null,
+          "label": "校历预告：中一自行分配學位面試（後備日 3月13日）",
+          "academic_year": "2027-28",
+          "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2027-03-06\", \"note\": [\"中一自行分配學位面試\"]}、{\"date\": \"2027-03-13\", \"note\": [\"中一自行分配學位面試(後備日)\"]}（兩日均週六；該校面試連續四屆皆 3 月首兩個週六）",
+          "evidence_url": "https://www.skhlkyss.edu.hk/",
+          "confidence": "medium",
+          "event_id": "287-2027_28-interview-001",
+          "extracted_at": "2026-09-29T11:30:00"
         }
       ]
     }
