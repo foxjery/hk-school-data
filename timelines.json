@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-29T14:00:00",
+  "updated_at": "2026-09-29T19:30:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -20160,7 +20160,7 @@
           "type": "info_day",
           "date": "2026-10-24",
           "date_end": null,
-          "label": "校历预告：小六簡介日",
+          "label": "校曆預告：小六簡介日",
           "academic_year": "2027-28",
           "source_text": "校曆 2026-2027 十月事項「24 小六簡介日」（圖片型校曆：Vision OCR 與視覺模型放大複核一致；2026-10-24 為週六，與該校歷屆週六辦資訊日模式吻合）",
           "evidence_url": "https://www.twghcmts.edu.hk/tc/%E6%A0%A1%E6%9B%86-2026-2027",
@@ -20172,7 +20172,7 @@
           "type": "interview",
           "date": "2027-03-14",
           "date_end": null,
-          "label": "校历预告：中一入學面試日",
+          "label": "校曆預告：中一入學面試日",
           "academic_year": "2027-28",
           "source_text": "校曆 2026-2027 三月事項「14 中一入學面試日 18 中一入學面試日補假」（圖片型校曆：OCR 三次一致＋放大複核；2027-03-14 為週日，與 2026-27 週期面試 2026-03-15 週日模式吻合）",
           "evidence_url": "https://www.twghcmts.edu.hk/tc/%E6%A0%A1%E6%9B%86-2026-2027",
@@ -20191,7 +20191,7 @@
           "type": "info_day",
           "date": "2026-12-05",
           "date_end": null,
-          "label": "校历预告：中一資訊日 S1 Information Day & Exhibition",
+          "label": "校曆預告：中一資訊日 S1 Information Day & Exhibition",
           "academic_year": "2027-28",
           "source_text": "校曆（2026-27）School Calendar PDF 十二月週格「5 S1 Information Day & Exhibition」（PDF 文字層直讀，非 OCR；2026-12-05 為週六，與同系學校週六辦資訊日慣例吻合）",
           "evidence_url": "https://twghwyyms.edu.hk/uploads/file/202609/8182ca1bc47f0cac22be820149daa527.pdf",
@@ -20373,7 +20373,7 @@
           "type": "info_day",
           "date": "2026-12-12",
           "date_end": null,
-          "label": "校历预告：資訊日",
+          "label": "校曆預告：資訊日",
           "academic_year": "2027-28",
           "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2026-12-12\", \"note\": [\"資訊日\"]}（2026-12-12 為週六，與該校歷屆 12 月首個週六資訊日規律一致：2024-12-07/2025-12-06 均週六）",
           "evidence_url": "https://www.skhlkyss.edu.hk/",
@@ -20385,7 +20385,7 @@
           "type": "interview",
           "date": "2027-03-06",
           "date_end": null,
-          "label": "校历预告：中一自行分配學位面試（後備日 3月13日）",
+          "label": "校曆預告：中一自行分配學位面試（後備日 3月13日）",
           "academic_year": "2027-28",
           "source_text": "首頁校曆表（dnCalendar）事件 JSON 原文：{\"date\": \"2027-03-06\", \"note\": [\"中一自行分配學位面試\"]}、{\"date\": \"2027-03-13\", \"note\": [\"中一自行分配學位面試(後備日)\"]}（兩日均週六；該校面試連續四屆皆 3 月首兩個週六）",
           "evidence_url": "https://www.skhlkyss.edu.hk/",
@@ -20404,7 +20404,7 @@
           "type": "info_day",
           "date": "2026-12-13",
           "date_end": null,
-          "label": "校历预告：Open Day 暨家教會週年大會及家長聚會",
+          "label": "校曆預告：Open Day 暨家教會週年大會及家長聚會",
           "academic_year": "2027-28",
           "source_text": "School Calendar 2026-2027 PDF（/en/calendar/index 直出、文字層）十二月事項：「13 Open Day & PTA Annual General Meeting & Parents' Gathering」，佐證：「12 Open Day Preparation」「14 The day following Open Day」（翌日補假）；2026-12-13 為週日，週日辦活動＋週一補假的結構自洽",
           "evidence_url": "https://www.ptcc.edu.hk/en/calendar/index",
@@ -20435,7 +20435,7 @@
           "type": "application_open",
           "date": "2027-01-04",
           "date_end": null,
-          "label": "校历预告：中一自行分配學位申請開始",
+          "label": "校曆預告：中一自行分配學位申請開始",
           "academic_year": "2027-28",
           "source_text": "26-27 School Calendar PDF（文字層）一月事項：「4/1-18/1 中一自行分配學位申請 Application for S1 Discretionary Places」；2027-01-04 與 2027-01-18 均為週一，窗口週一至週一與 EDB 慣例相符",
           "evidence_url": "http://sunfc.edu.hk/uploads/pages/3/files/%E6%A0%A1%E6%9B%86%E8%A1%A8/26-27school%20calendar.pdf",
@@ -20447,13 +20447,75 @@
           "type": "application_deadline",
           "date": "2027-01-18",
           "date_end": null,
-          "label": "校历预告：中一自行分配學位申請截止",
+          "label": "校曆預告：中一自行分配學位申請截止",
           "academic_year": "2027-28",
           "source_text": "26-27 School Calendar PDF（文字層）一月事項：「4/1-18/1 中一自行分配學位申請 Application for S1 Discretionary Places」",
           "evidence_url": "http://sunfc.edu.hk/uploads/pages/3/files/%E6%A0%A1%E6%9B%86%E8%A1%A8/26-27school%20calendar.pdf",
           "confidence": "medium",
           "event_id": "113-2027_28-application_deadline-001",
           "extracted_at": "2026-09-29T14:00:00"
+        }
+      ]
+    },
+    "350": {
+      "name": "文理書院（九龍）",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2024-11-23",
+          "date_end": null,
+          "label": "2024升中資訊日 Pre-S1 Info Day",
+          "academic_year": "2025-26",
+          "source_text": "學生活動頁（/zh/04_AchievementsAndParticipation/StudentActivities.php?year=2，2024-2025 學年分頁）活動卡：events_date「Nov 23」＋events_title「2024升中資訊日 Pre-S1 Info Day」，相簿封面圖路徑「04_Student Activities/2024-2025/2024_11_23 Pre-S1 Info Day/Cover.jpg」與日期互證；2024-11-23 為週六。⚠️ 該頁日期在標題前，純文字流抽取會把前一張卡的日期錯配到標題（Brave 摘要即錯配為 Nov16），已核對原始 HTML 結構定案",
+          "evidence_url": "https://www.cckln.edu.hk/zh/04_AchievementsAndParticipation/StudentActivities.php?year=2",
+          "confidence": "high",
+          "event_id": "350-2025_26-info_day-001",
+          "extracted_at": "2026-09-29T19:30:00"
+        }
+      ]
+    },
+    "353": {
+      "name": "五旬節聖潔會永光書院",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "校曆預告：永光資訊日",
+          "academic_year": "2027-28",
+          "source_text": "2026-2027 年度校曆表 PDF（官網首頁「校曆表」掛 Google Drive、pdftotext 文字層直讀非 OCR）十一月週格「27/11 資訊日預備 28/11 永光資訊日」，佐證下行「30/11 永光資訊日補假」（翌週一補假）；2026-11-28 為週六",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1di01vPw1qTDyFD05NOwF5qvxQWYsvu9P",
+          "confidence": "medium",
+          "event_id": "353-2027_28-info_day-001",
+          "extracted_at": "2026-09-29T19:30:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2027-02-26",
+          "date_end": null,
+          "label": "校曆預告：中一面試簡介會",
+          "academic_year": "2027-28",
+          "source_text": "2026-2027 年度校曆表 PDF（官網首頁「校曆表」掛 Google Drive、pdftotext 文字層直讀非 OCR）二月週格「26/2 中一面試簡介會」（與 22-26/2 理財教育周同週）；2027-02-26 為週五",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1di01vPw1qTDyFD05NOwF5qvxQWYsvu9P",
+          "confidence": "medium",
+          "event_id": "353-2027_28-info_day-002",
+          "extracted_at": "2026-09-29T19:30:00"
+        },
+        {
+          "type": "interview",
+          "date": "2027-03-06",
+          "date_end": null,
+          "label": "校曆預告：中一面試",
+          "academic_year": "2027-28",
+          "source_text": "2026-2027 年度校曆表 PDF（官網首頁「校曆表」掛 Google Drive、pdftotext 文字層直讀非 OCR）三月事項「6/3 中一面試」；2027-03-06 為週六，與 26/2 中一面試簡介會構成同一輪收生程序",
+          "evidence_url": "https://drive.google.com/uc?export=download&id=1di01vPw1qTDyFD05NOwF5qvxQWYsvu9P",
+          "confidence": "medium",
+          "event_id": "353-2027_28-interview-001",
+          "extracted_at": "2026-09-29T19:30:00"
         }
       ]
     }
