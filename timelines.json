@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-29T11:30:00",
+  "updated_at": "2026-09-29T14:00:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -20392,6 +20392,68 @@
           "confidence": "medium",
           "event_id": "287-2027_28-interview-001",
           "extracted_at": "2026-09-29T11:30:00"
+        }
+      ]
+    },
+    "150": {
+      "name": "嘉諾撒培德書院",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2026-12-13",
+          "date_end": null,
+          "label": "校历预告：Open Day 暨家教會週年大會及家長聚會",
+          "academic_year": "2027-28",
+          "source_text": "School Calendar 2026-2027 PDF（/en/calendar/index 直出、文字層）十二月事項：「13 Open Day & PTA Annual General Meeting & Parents' Gathering」，佐證：「12 Open Day Preparation」「14 The day following Open Day」（翌日補假）；2026-12-13 為週日，週日辦活動＋週一補假的結構自洽",
+          "evidence_url": "https://www.ptcc.edu.hk/en/calendar/index",
+          "confidence": "medium",
+          "event_id": "150-2027_28-info_day-001",
+          "extracted_at": "2026-09-29T14:00:00"
+        }
+      ]
+    },
+    "113": {
+      "name": "港九街坊婦女會孫方中書院",
+      "school_type": "資助",
+      "banding_tier": "Band 2",
+      "events": [
+        {
+          "type": "info_day",
+          "date": "2025-12-13",
+          "date_end": null,
+          "label": "學術活動日（學術盃挑戰賽暨學校簡介會、校園導賞）",
+          "academic_year": "2026-27",
+          "source_text": "新界東小學學術盃挑戰賽章程（PDF 文字層）逐字：「日期：2025 年 12 月 13 日（星期六）」「對象：新界東小學五、小六年級學生」；家長活動=學校簡介會（9:30/10:45 兩場）＋校園導賞（10:30/11:45 兩場）；掛在官網「入學申請」欄下",
+          "evidence_url": "https://sunfc.edu.hk/uploads/pages/3/files/%E5%AD%B8%E8%A1%93%E6%8C%91%E6%88%B0%E8%B3%BD-%E7%AB%A0%E7%A8%8B202526.pdf",
+          "confidence": "verified",
+          "event_id": "113-2026_27-info_day-001",
+          "extracted_at": "2026-09-29T14:00:00"
+        },
+        {
+          "type": "application_open",
+          "date": "2027-01-04",
+          "date_end": null,
+          "label": "校历预告：中一自行分配學位申請開始",
+          "academic_year": "2027-28",
+          "source_text": "26-27 School Calendar PDF（文字層）一月事項：「4/1-18/1 中一自行分配學位申請 Application for S1 Discretionary Places」；2027-01-04 與 2027-01-18 均為週一，窗口週一至週一與 EDB 慣例相符",
+          "evidence_url": "http://sunfc.edu.hk/uploads/pages/3/files/%E6%A0%A1%E6%9B%86%E8%A1%A8/26-27school%20calendar.pdf",
+          "confidence": "medium",
+          "event_id": "113-2027_28-application_open-001",
+          "extracted_at": "2026-09-29T14:00:00"
+        },
+        {
+          "type": "application_deadline",
+          "date": "2027-01-18",
+          "date_end": null,
+          "label": "校历预告：中一自行分配學位申請截止",
+          "academic_year": "2027-28",
+          "source_text": "26-27 School Calendar PDF（文字層）一月事項：「4/1-18/1 中一自行分配學位申請 Application for S1 Discretionary Places」",
+          "evidence_url": "http://sunfc.edu.hk/uploads/pages/3/files/%E6%A0%A1%E6%9B%86%E8%A1%A8/26-27school%20calendar.pdf",
+          "confidence": "medium",
+          "event_id": "113-2027_28-application_deadline-001",
+          "extracted_at": "2026-09-29T14:00:00"
         }
       ]
     }
