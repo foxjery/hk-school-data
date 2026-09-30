@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-30T23:00:00",
+  "updated_at": "2026-09-30T23:30:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -2790,6 +2790,30 @@
           "confidence": "single_source",
           "event_id": "273-2026_27-application_deadline-001",
           "extracted_at": "2026-05-01T11:29:39"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "info_day",
+          "date": "2026-10-10",
+          "date_end": null,
+          "label": "中一（2027-2028）資訊日暨 STEM 展示會",
+          "source_text": "中一（2027 – 2028）資訊日暨 STEM 展示會 2026年10月10日（星期六）下午1時至下午4時；入學申請簡介會下午2時30分禮堂；登記 2026年10月6日下午5時或之前，先到先得；10月9日前未收到消息即成功留位",
+          "evidence_url": "https://spcs.edu.hk/w/category/admissions/",
+          "confidence": "high",
+          "event_id": "273-2027_28-info_day-001",
+          "extracted_at": "2026-09-30T23:30:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "application_open",
+          "date": "2026-10-10",
+          "date_end": null,
+          "label": "中一學位（2027-2028年）申請開始",
+          "source_text": "中一學位（2027 – 2028年）申請將於2026年10月10日開始",
+          "evidence_url": "https://spcs.edu.hk/w/category/admissions/",
+          "confidence": "high",
+          "event_id": "273-2027_28-application_open-001",
+          "extracted_at": "2026-09-30T23:30:00"
         }
       ],
       "self_healing_active": false
@@ -3927,10 +3951,10 @@
         {
           "academic_year": "2027-28",
           "type": "info_day",
-          "date": "2026-11-15",
+          "date": "2026-11-14",
           "date_end": null,
           "label": "課程簡介會（第2場）",
-          "source_text": "課程簡介會(2) 2026-11-15 (日) 10:30-12:00",
+          "source_text": "課程簡介會(2) 2026-11-14 (六) 10:30-12:00（Google Slides 現版）",
           "evidence_url": "https://docs.google.com/presentation/d/1S0Ya_nIE9oS3Akt4kceggnAgOgv8dCgVv6fqTGJEAyo/export?format=html",
           "confidence": "high",
           "event_id": "387-2027_28-info_day-002",
@@ -5606,14 +5630,26 @@
           "extracted_at": "2026-07-25T19:34:00"
         },
         {
+          "academic_year": "2027-28",
+          "type": "application_open",
+          "date": "2026-09-28",
+          "date_end": "2026-10-05",
+          "label": "資訊日升中講座報名（先到先得）",
+          "source_text": "Enrolment open from September 28 (9 a.m.) to October 5 (5 p.m.), first-come-first-served（tickettailor 報名，成功即收 QR code）",
+          "evidence_url": "https://www.carmelss.edu.hk/site/about-school/carmel-information-day-2026/",
+          "confidence": "high",
+          "event_id": "148-2027_28-application_open-001",
+          "extracted_at": "2026-09-30T23:30:00"
+        },
+        {
           "type": "info_day",
           "date": "2026-10-17",
           "date_end": null,
-          "label": "校曆預告：Information Day",
+          "label": "Information Day",
           "academic_year": "2027-28",
-          "source_text": "SUMMARY:Information Day / DTSTART;VALUE=DATE:20261017 / DESCRIPTION:school-day, Activity Day",
-          "evidence_url": "https://www.carmelss.edu.hk/site/about-school/other-information/calendar/",
-          "confidence": "medium",
+          "source_text": "Information Day 2026-10-17（六）；升中講座 10:30–11:15／14:30–15:15；學生活動巡禮 9:30–12:00／13:30–16:00 無需報名；惡劣天氣順延 10/18（日）13:30–17:00（官網正式專頁）",
+          "evidence_url": "https://www.carmelss.edu.hk/site/about-school/carmel-information-day-2026/",
+          "confidence": "high",
           "event_id": "148-2027_28-info_day-001",
           "extracted_at": "2026-09-08T15:30:00"
         }
@@ -7576,11 +7612,11 @@
           "type": "info_day",
           "date": "2026-10-10",
           "date_end": null,
-          "label": "校曆預告：網上資訊日",
+          "label": "網上資訊日",
           "academic_year": "2027-28",
-          "source_text": "Virtual Information Day｜舉行日期：2026年10月10日（星期六）｜Online streaming（Admissions Schedule 招生時間表 2027/28 圖片版）",
-          "evidence_url": "https://www.hys.edu.hk/wp-content/uploads/Admission-Schedule-2027_28-Intake-_-Website-Google-Sheets-scaled.jpg",
-          "confidence": "medium",
+          "source_text": "網上資訊日 2026年10月10日（星期六）中午12:00至晚上11:59（暫定）；報名2026年9月21日至9月28日，先到先得（官網正式公布頁 Form One Admissions 2027-2028 intake；slug 的 2026-2027 為歷史遺留）",
+          "evidence_url": "https://www.hys.edu.hk/form-one-admission-2026-2027-intake/",
+          "confidence": "high",
           "event_id": "399-2027_28-info_day-001",
           "extracted_at": "2026-09-11T18:00:00"
         }
@@ -10999,6 +11035,42 @@
           "evidence_url": "https://www.ssc.edu.hk/en/site/view?name=S1+Admission+Talk",
           "event_id": "312-2026-27-info_day-002",
           "confidence": "high"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "info_day",
+          "date": "2026-10-10",
+          "date_end": null,
+          "label": "S1 Admission Talk and Campus Tour (2027-28)（已滿額）",
+          "source_text": "Admission Talks are fully booked. Date: 10 October 2026 (1:30 pm – 5:00 pm) Full",
+          "evidence_url": "https://www.ssc.edu.hk/en/site/view?name=S1+Admission+Talk",
+          "confidence": "high",
+          "event_id": "312-2027_28-info_day-001",
+          "extracted_at": "2026-09-30T23:30:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "application_open",
+          "date": "2026-10-10",
+          "date_end": null,
+          "label": "S1 申請開始",
+          "source_text": "Applications to our College open on October 10",
+          "evidence_url": "https://www.ssc.edu.hk/en/site/view?name=S1+Admission+Talk",
+          "confidence": "high",
+          "event_id": "312-2027_28-application_open-001",
+          "extracted_at": "2026-09-30T23:30:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "info_day",
+          "date": "2026-10-24",
+          "date_end": null,
+          "label": "S1 Admission Talk and Campus Tour (2027-28)（已滿額）",
+          "source_text": "Admission Talks are fully booked. Date: 24 October 2026 (1:30 pm – 5:00 pm) Full",
+          "evidence_url": "https://www.ssc.edu.hk/en/site/view?name=S1+Admission+Talk",
+          "confidence": "high",
+          "event_id": "312-2027_28-info_day-002",
+          "extracted_at": "2026-09-30T23:30:00"
         }
       ],
       "self_healing_active": false
@@ -12588,6 +12660,30 @@
           "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
           "event_id": "417-2026-27-result-002",
           "confidence": "high"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "application_open",
+          "date": "2026-11-02",
+          "date_end": "2026-11-20",
+          "label": "中一申請報名（網上登記）",
+          "source_text": "Registration Period: 2 November 2026 (9:00 a.m.) – 20 November 2026; Register online via www.ywgs.edu.hk",
+          "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
+          "confidence": "high",
+          "event_id": "417-2027_28-application_open-001",
+          "extracted_at": "2026-09-30T23:30:00"
+        },
+        {
+          "academic_year": "2027-28",
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "中一入學簡介會（Briefing Session）",
+          "source_text": "Briefing session: 5 December 2026 (Saturday); First session 11:00 am – 12:15 pm; Second session 2:15 pm – 3:30 pm",
+          "evidence_url": "https://www.ywgs.edu.hk/s1-admission",
+          "confidence": "high",
+          "event_id": "417-2027_28-info_day-001",
+          "extracted_at": "2026-09-30T23:30:00"
         }
       ]
     },
@@ -12675,7 +12771,7 @@
           "label": "Accept G7 (2027-2028) Application",
           "academic_year": "2027-28",
           "source_text": "21 September (Mon) to 17 November 2026 (Tue) Accept G7 (2027-2028) Application",
-          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
           "confidence": "high",
           "event_id": "420-2027_28-application_open-001",
           "extracted_at": "2026-09-20T21:22:02"
@@ -12687,7 +12783,7 @@
           "label": "Reservation for Admission Briefing",
           "academic_year": "2027-28",
           "source_text": "17 September (Thurs) to 5 October 2026 (Mon) Reservation for Admission Briefing",
-          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
           "confidence": "high",
           "event_id": "420-2027_28-info_day-001",
           "extracted_at": "2026-09-20T21:22:02"
@@ -12699,7 +12795,7 @@
           "label": "Admission Briefing (2:00PM – 4:00PM)",
           "academic_year": "2027-28",
           "source_text": "17 October 2026(Sat) Admission Briefing (Time: 2:00PM – 4:00PM)",
-          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
           "confidence": "high",
           "event_id": "420-2027_28-info_day-002",
           "extracted_at": "2026-09-20T21:22:02"
@@ -12711,19 +12807,19 @@
           "label": "Application Due Day",
           "academic_year": "2027-28",
           "source_text": "17 November 2026 (Tue) Application Due Day",
-          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
           "confidence": "high",
           "event_id": "420-2027_28-application_deadline-001",
           "extracted_at": "2026-09-20T21:22:02"
         },
         {
           "type": "interview",
-          "date": "2026-12-06",
-          "date_end": null,
+          "date": "2026-12-05",
+          "date_end": "2026-12-06",
           "label": "First Admission Interview",
           "academic_year": "2027-28",
           "source_text": "5 December (Sat) to 6 December 2026 (Sun) First Admission Interview",
-          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
           "confidence": "high",
           "event_id": "420-2027_28-interview-001",
           "extracted_at": "2026-09-20T21:22:02"
@@ -12735,7 +12831,7 @@
           "label": "Second Admission Interview",
           "academic_year": "2027-28",
           "source_text": "19 December 2026 (Sat) Second Admission Interview",
-          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
           "confidence": "high",
           "event_id": "420-2027_28-interview-002",
           "extracted_at": "2026-09-20T21:22:02"
@@ -12747,7 +12843,7 @@
           "label": "Notification of Admission Result",
           "academic_year": "2027-28",
           "source_text": "After 4 January 2027 Notification of Admission Result by email",
-          "evidence_url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+          "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
           "confidence": "high",
           "event_id": "420-2027_28-result-001",
           "extracted_at": "2026-09-20T21:22:02"
