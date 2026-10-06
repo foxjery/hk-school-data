@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-09-30T23:30:00",
+  "updated_at": "2026-10-06T16:02:42",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -679,7 +679,7 @@
     "58": {
       "name": "地利亞修女紀念學校（協和二中）",
       "school_type": "直資",
-      "banding_tier": "",
+      "banding_tier": "Band 3",
       "events": [],
       "data_gap_reason": "no_public_admission_info",
       "data_gap_confirmed": "2026-04-29T10:32:03"
@@ -1025,7 +1025,7 @@
     "121": {
       "name": "漢華中學",
       "school_type": "直資",
-      "banding_tier": "",
+      "banding_tier": "Band 2",
       "events": [
         {
           "academic_year": "2024-25",
@@ -1653,7 +1653,7 @@
     "157": {
       "name": "將軍澳香島中學",
       "school_type": "直資",
-      "banding_tier": "Band 3",
+      "banding_tier": "Band 2",
       "events": [
         {
           "type": "application_open",
@@ -1879,7 +1879,7 @@
     "174": {
       "name": "孔聖堂禮仁書院",
       "school_type": "直資",
-      "banding_tier": "",
+      "banding_tier": "Band 2",
       "events": [],
       "data_gap_reason": "no_public_admission_info",
       "data_gap_confirmed": "2026-04-29T10:32:03"
@@ -5446,7 +5446,7 @@
     "137": {
       "name": "基督教香港信義會心誠中學",
       "school_type": "直資",
-      "banding_tier": "",
+      "banding_tier": "Band 2",
       "events": [
         {
           "type": "info_day",
@@ -8946,7 +8946,7 @@
     "114": {
       "name": "港青基信書院",
       "school_type": "直資",
-      "banding_tier": "",
+      "banding_tier": "Band 2",
       "events": [
         {
           "type": "application_open",
@@ -9172,7 +9172,7 @@
     "136": {
       "name": "基督教香港信義會宏信書院",
       "school_type": "直資",
-      "banding_tier": "",
+      "banding_tier": "Band 2",
       "events": [
         {
           "type": "application_open",
@@ -9479,7 +9479,7 @@
     "179": {
       "name": "創知中學",
       "school_type": "直資",
-      "banding_tier": "",
+      "banding_tier": "Band 2",
       "events": [
         {
           "academic_year": "2025-26",
@@ -11947,7 +11947,7 @@
     "368": {
       "name": "香港管理專業協會羅桂祥中學",
       "school_type": "資助",
-      "banding_tier": "Band 1",
+      "banding_tier": "Band 2",
       "events": [
         {
           "type": "info_day",
@@ -12039,7 +12039,7 @@
     "371": {
       "name": "香港華人基督教聯會真道書院",
       "school_type": "直資",
-      "banding_tier": "Band 2",
+      "banding_tier": "Band 1",
       "events": [
         {
           "type": "application_open",
@@ -13094,7 +13094,8 @@
           "event_id": "383-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "10": {
       "name": "保良局胡忠中學",
@@ -13183,7 +13184,8 @@
           "event_id": "10-2027_28-info_day-001",
           "extracted_at": "2026-09-24T20:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "44": {
       "name": "崇真書院",
@@ -13224,7 +13226,8 @@
           "event_id": "44-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "45": {
       "name": "慈幼英文學校",
@@ -13265,7 +13268,8 @@
           "event_id": "45-2026_27-application_deadline-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "54": {
       "name": "鄧鏡波學校",
@@ -13294,7 +13298,8 @@
           "event_id": "54-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "71": {
       "name": "東華三院呂潤財紀念中學",
@@ -13383,7 +13388,8 @@
           "event_id": "71-2026_27-info_day-002",
           "extracted_at": "2026-09-07T14:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "77": {
       "name": "東華三院辛亥年總理中學",
@@ -13448,7 +13454,8 @@
           "event_id": "77-2027_28-info_day-001",
           "extracted_at": "2026-09-07T15:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "88": {
       "name": "鳳溪第一中學",
@@ -13489,7 +13496,8 @@
           "event_id": "88-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "89": {
       "name": "鳳溪廖萬石堂中學",
@@ -13554,7 +13562,8 @@
           "event_id": "89-2027_28-info_day-002",
           "extracted_at": "2026-09-11T00:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "94": {
       "name": "佛教何南金中學",
@@ -13607,7 +13616,8 @@
           "event_id": "94-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "99": {
       "name": "佛教覺光法師中學",
@@ -13660,7 +13670,8 @@
           "event_id": "99-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "100": {
       "name": "佛教孔仙洲紀念中學",
@@ -13677,7 +13688,8 @@
           "event_id": "100-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "107": {
       "name": "福建中學（小西灣）",
@@ -13742,7 +13754,8 @@
           "event_id": "107-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "108": {
       "name": "港澳信義會慕德中學",
@@ -13819,7 +13832,8 @@
           "event_id": "108-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "144": {
       "name": "迦密愛禮信中學",
@@ -13896,7 +13910,8 @@
           "event_id": "144-2027_28-info_day-002",
           "extracted_at": "2026-09-11T18:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "156": {
       "name": "將軍澳官立中學",
@@ -13925,7 +13940,8 @@
           "event_id": "156-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "159": {
       "name": "金巴崙長老會耀道中學",
@@ -14002,7 +14018,8 @@
           "event_id": "159-2027_28-info_day-001",
           "extracted_at": "2026-09-24T21:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "160": {
       "name": "金文泰中學",
@@ -14067,7 +14084,8 @@
           "event_id": "160-2026_27-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "173": {
       "name": "孔教學院大成何郭佩珍中學",
@@ -14096,7 +14114,8 @@
           "event_id": "173-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "175": {
       "name": "葵涌蘇浙公學",
@@ -14185,7 +14204,8 @@
           "event_id": "175-2026_27-interview-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "181": {
       "name": "樂善堂顧超文中學",
@@ -14250,7 +14270,8 @@
           "event_id": "181-2027_28-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "188": {
       "name": "禮賢會彭學高紀念中學",
@@ -14315,7 +14336,8 @@
           "event_id": "188-2027_28-info_day-001",
           "extracted_at": "2026-09-07T16:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "197": {
       "name": "嶺南衡怡紀念中學",
@@ -14380,7 +14402,8 @@
           "event_id": "197-2027_28-info_day-002",
           "extracted_at": "2026-09-08T23:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "202": {
       "name": "路德會呂祥光中學",
@@ -14469,7 +14492,8 @@
           "event_id": "202-2027_28-info_day-001",
           "extracted_at": "2026-09-07T13:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "203": {
       "name": "路德會西門英才中學",
@@ -14534,7 +14558,8 @@
           "event_id": "203-2026_27-result-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "204": {
       "name": "路德會協同中學",
@@ -14599,7 +14624,8 @@
           "event_id": "204-2027_28-info_day-001",
           "extracted_at": "2026-09-11T18:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "208": {
       "name": "馬鞍山聖若瑟中學",
@@ -14640,7 +14666,8 @@
           "event_id": "208-2026_27-application_deadline-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "233": {
       "name": "寧波第二中學",
@@ -14681,7 +14708,8 @@
           "event_id": "233-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "238": {
       "name": "培英中學",
@@ -14734,7 +14762,8 @@
           "event_id": "238-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "245": {
       "name": "裘錦秋中學（元朗）",
@@ -14811,7 +14840,8 @@
           "event_id": "245-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "248": {
       "name": "荃灣聖芳濟中學",
@@ -14912,7 +14942,8 @@
           "event_id": "248-2027_28-info_day-001",
           "extracted_at": "2026-09-30T23:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "277": {
       "name": "聖伯多祿中學",
@@ -14965,7 +14996,8 @@
           "event_id": "277-2026_27-application_open-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "280": {
       "name": "聖公會白約翰會督中學",
@@ -14994,7 +15026,8 @@
           "event_id": "280-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "284": {
       "name": "聖公會基孝中學",
@@ -15035,7 +15068,8 @@
           "event_id": "284-2026_27-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "294": {
       "name": "聖公會聖三一堂中學",
@@ -15100,7 +15134,8 @@
           "event_id": "294-2027_28-info_day-001",
           "extracted_at": "2026-09-08T18:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "297": {
       "name": "聖公會諸聖中學",
@@ -15141,7 +15176,8 @@
           "event_id": "297-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "307": {
       "name": "聖母無玷聖心書院",
@@ -15182,7 +15218,8 @@
           "event_id": "307-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "320": {
       "name": "世界龍岡學校劉皇發中學",
@@ -15235,7 +15272,8 @@
           "event_id": "320-2027_28-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "326": {
       "name": "順德聯誼總會翁祐中學",
@@ -15312,7 +15350,8 @@
           "event_id": "326-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "331": {
       "name": "天水圍官立中學",
@@ -15341,7 +15380,8 @@
           "event_id": "331-2027_28-info_day-002",
           "extracted_at": "2026-09-08T15:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "354": {
       "name": "五旬節中學",
@@ -15394,7 +15434,8 @@
           "event_id": "354-2026_27-info_day-001",
           "extracted_at": "2026-09-07T20:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "355": {
       "name": "五邑司徒浩中學",
@@ -15459,7 +15500,8 @@
           "event_id": "355-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "377": {
       "name": "香港九龍塘基督教中華宣道會鄭榮之中學",
@@ -15548,7 +15590,8 @@
           "event_id": "377-2027_28-info_day-001",
           "extracted_at": "2026-09-08T18:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "393": {
       "name": "香港中文大學校友會聯會張煊昌中學",
@@ -15589,7 +15632,8 @@
           "event_id": "393-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "396": {
       "name": "香海正覺蓮社佛教梁植偉中學",
@@ -15642,7 +15686,8 @@
           "event_id": "396-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "410": {
       "name": "宣道中學",
@@ -15719,7 +15764,8 @@
           "event_id": "410-2026_27-interview-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "416": {
       "name": "伊斯蘭脫維善紀念中學",
@@ -15760,7 +15806,8 @@
           "event_id": "416-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "442": {
       "name": "中華基督教會基朗中學",
@@ -15849,7 +15896,8 @@
           "event_id": "442-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "12": {
       "name": "保良局甲子何玉清中學",
@@ -15878,7 +15926,8 @@
           "event_id": "12-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "13": {
       "name": "保良局李城璧中學",
@@ -15943,7 +15992,8 @@
           "event_id": "13-2026_27-result-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "15": {
       "name": "保良局馬錦明夫人章馥仙中學",
@@ -15973,7 +16023,8 @@
           "extracted_at": "2026-09-08T18:30:00"
         }
       ],
-      "self_healing_active": true
+      "self_healing_active": true,
+      "banding_tier": "Band 2"
     },
     "25": {
       "name": "寶血女子中學",
@@ -15990,7 +16041,8 @@
           "event_id": "25-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "33": {
       "name": "博愛醫院鄧佩瓊紀念中學",
@@ -16031,7 +16083,8 @@
           "event_id": "33-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "92": {
       "name": "佛教大雄中學",
@@ -16084,7 +16137,8 @@
           "event_id": "92-2026_27-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "112": {
       "name": "港九潮州公會中學",
@@ -16101,7 +16155,8 @@
           "event_id": "112-2026_27-result-001",
           "extracted_at": "2026-07-25T13:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "119": {
       "name": "觀塘官立中學",
@@ -16118,7 +16173,8 @@
           "event_id": "119-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "127": {
       "name": "皇仁舊生會中學",
@@ -16135,7 +16191,8 @@
           "event_id": "127-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "138": {
       "name": "基督教香港信義會信義中學",
@@ -16164,7 +16221,8 @@
           "event_id": "138-2026_27-application_open-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "147": {
       "name": "迦密唐賓南紀念中學",
@@ -16205,7 +16263,8 @@
           "event_id": "147-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "168": {
       "name": "救恩書院",
@@ -16222,7 +16281,8 @@
           "event_id": "168-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "185": {
       "name": "樂善堂楊葛小琳中學",
@@ -16251,7 +16311,8 @@
           "event_id": "185-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "193": {
       "name": "廖寶珊紀念書院",
@@ -16280,7 +16341,8 @@
           "event_id": "193-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "207": {
       "name": "馬鞍山崇真中學",
@@ -16297,7 +16359,8 @@
           "event_id": "207-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "212": {
       "name": "瑪利諾神父教會學校",
@@ -16314,7 +16377,8 @@
           "event_id": "212-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "231": {
       "name": "南屯門官立中學",
@@ -16343,7 +16407,8 @@
           "event_id": "231-2027_28-info_day-001",
           "extracted_at": "2026-09-08T23:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "255": {
       "name": "仁濟醫院羅陳楚思中學",
@@ -16360,7 +16425,8 @@
           "event_id": "255-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "256": {
       "name": "仁濟醫院王華湘中學",
@@ -16401,7 +16467,8 @@
           "event_id": "256-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "290": {
       "name": "聖公會呂明才中學",
@@ -16418,7 +16485,8 @@
           "event_id": "290-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "306": {
       "name": "聖母書院",
@@ -16459,7 +16527,8 @@
           "event_id": "306-2026_27-application_open-002",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "310": {
       "name": "聖若瑟英文中學",
@@ -16548,7 +16617,8 @@
           "event_id": "310-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "319": {
       "name": "石籬天主教中學",
@@ -16637,7 +16707,8 @@
           "event_id": "319-2027_28-info_day-001",
           "extracted_at": "2026-09-07T18:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "322": {
       "name": "順德聯誼總會胡兆熾中學",
@@ -16666,7 +16737,8 @@
           "event_id": "322-2027_28-info_day-001",
           "extracted_at": "2026-09-08T18:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "333": {
       "name": "天水圍循道衞理中學",
@@ -16683,7 +16755,8 @@
           "event_id": "333-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "366": {
       "name": "香港鄧鏡波書院",
@@ -16763,7 +16836,8 @@
           "event_id": "366-2027_28-info_day-001",
           "extracted_at": "2026-09-07T15:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "388": {
       "name": "香港真光書院",
@@ -16792,7 +16866,8 @@
           "event_id": "388-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "390": {
       "name": "香港中國婦女會馮堯敬紀念中學",
@@ -16821,7 +16896,8 @@
           "event_id": "390-2026_27-info_day-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "423": {
       "name": "元朗公立中學",
@@ -16898,7 +16974,8 @@
           "event_id": "423-2026_27-result-001",
           "extracted_at": "2026-07-18T20:33:26"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "446": {
       "name": "中華基督教會基智中學",
@@ -16927,7 +17004,8 @@
           "event_id": "446-2026_27-application_deadline-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "450": {
       "name": "中華基督教會全完中學",
@@ -16968,7 +17046,8 @@
           "event_id": "450-2027_28-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "162": {
       "name": "浸信會永隆中學",
@@ -17021,7 +17100,8 @@
           "event_id": "162-2026_27-result-001",
           "extracted_at": "2026-07-18T22:21:41"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "166": {
       "name": "九龍塘學校（中學部）",
@@ -17086,7 +17166,8 @@
           "event_id": "166-2026_27-info_day-002",
           "extracted_at": "2026-07-18T22:21:41"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "62": {
       "name": "東華三院馮黃鳳亭中學",
@@ -17115,7 +17196,8 @@
           "event_id": "62-2027_28-info_day-001",
           "extracted_at": "2026-09-24T19:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "187": {
       "name": "李求恩紀念中學",
@@ -17144,7 +17226,8 @@
           "event_id": "187-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "392": {
       "name": "香港中文大學校友會聯會陳震夏中學",
@@ -17221,7 +17304,8 @@
           "event_id": "392-2027_28-info_day-001",
           "extracted_at": "2026-09-24T18:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "16": {
       "name": "保良局馬錦明中學",
@@ -17262,7 +17346,8 @@
           "event_id": "16-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "192": {
       "name": "梁文燕紀念中學（沙田）",
@@ -17303,7 +17388,8 @@
           "event_id": "192-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "196": {
       "name": "靈糧堂怡文中學",
@@ -17356,7 +17442,8 @@
           "event_id": "196-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "17": {
       "name": "保良局唐乃勤初中書院",
@@ -17385,7 +17472,8 @@
           "event_id": "17-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "34": {
       "name": "博愛醫院歷屆總理聯誼會梁省德中學",
@@ -17414,7 +17502,8 @@
           "event_id": "34-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "35": {
       "name": "彩虹邨天主教英文中學",
@@ -17443,7 +17532,8 @@
           "event_id": "35-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "75": {
       "name": "東華三院吳祥川紀念中學",
@@ -17532,7 +17622,8 @@
           "event_id": "75-2027_28-info_day-001",
           "extracted_at": "2026-09-07T15:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "130": {
       "name": "滙基書院",
@@ -17585,7 +17676,8 @@
           "event_id": "130-2026_27-interview-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "183": {
       "name": "樂善堂梁植偉紀念中學",
@@ -17662,7 +17754,8 @@
           "event_id": "183-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "115": {
       "name": "高雷中學",
@@ -17715,7 +17808,8 @@
           "event_id": "115-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "124": {
       "name": "何文田官立中學",
@@ -17816,7 +17910,8 @@
           "event_id": "124-2027_28-info_day-001",
           "extracted_at": "2026-09-24T18:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "135": {
       "name": "基督教聖約教會堅樂中學",
@@ -17869,7 +17964,8 @@
           "event_id": "135-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "142": {
       "name": "基督書院",
@@ -17899,7 +17995,8 @@
           "extracted_at": "2026-09-08T15:30:00"
         }
       ],
-      "self_healing_active": true
+      "self_healing_active": true,
+      "banding_tier": "Band 2"
     },
     "272": {
       "name": "聖安當女書院",
@@ -17952,7 +18049,8 @@
           "event_id": "272-2027_28-info_day-002",
           "extracted_at": "2026-09-08T15:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "349": {
       "name": "衞理中學",
@@ -18041,7 +18139,8 @@
           "event_id": "349-2027_28-info_day-002",
           "extracted_at": "2026-09-08T15:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "397": {
       "name": "香海正覺蓮社佛教馬錦燦紀念英文中學",
@@ -18094,7 +18193,8 @@
           "event_id": "397-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "415": {
       "name": "伊利沙伯中學舊生會中學",
@@ -18159,7 +18259,8 @@
           "event_id": "415-2027_28-interview-001",
           "extracted_at": "2026-09-11T00:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "422": {
       "name": "余振強紀念中學",
@@ -18212,7 +18313,8 @@
           "event_id": "422-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "434": {
       "name": "中華傳道會劉永生中學",
@@ -18277,7 +18379,8 @@
           "event_id": "434-2026_27-interview-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 1"
     },
     "85": {
       "name": "粉嶺救恩書院",
@@ -18354,7 +18457,8 @@
           "event_id": "85-2026_27-orientation-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "318": {
       "name": "十八鄉鄉事委員會公益社中學",
@@ -18431,7 +18535,8 @@
           "event_id": "318-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "414": {
       "name": "伊利沙伯中學舊生會湯國華中學",
@@ -18484,7 +18589,8 @@
           "event_id": "414-2026_27-result-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "189": {
       "name": "荔景天主教中學",
@@ -18525,7 +18631,8 @@
           "event_id": "189-2026_27-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "424": {
       "name": "元朗公立中學校友會鄧兆棠中學",
@@ -18578,7 +18685,8 @@
           "event_id": "424-2027_28-info_day-001",
           "extracted_at": "2026-09-08T15:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "441": {
       "name": "中華基督教會基道中學",
@@ -18595,7 +18703,8 @@
           "event_id": "441-2026_27-application_deadline-001",
           "extracted_at": "2026-07-19"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "86": {
       "name": "粉嶺禮賢會中學",
@@ -18624,7 +18733,8 @@
           "event_id": "86-2027_28-info_day-001",
           "extracted_at": "2026-09-07T13:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "346": {
       "name": "屯門天主教中學",
@@ -18701,7 +18811,8 @@
           "event_id": "346-2026_27-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "407": {
       "name": "新生命教育協會平安福音中學",
@@ -18778,7 +18889,8 @@
           "event_id": "407-2026_27-info_day-002",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "409": {
       "name": "宣道會陳朱素華紀念中學",
@@ -18819,7 +18931,8 @@
           "event_id": "409-2027_28-info_day-002",
           "extracted_at": "2026-09-30T23:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "358": {
       "name": "顯理中學",
@@ -18884,7 +18997,8 @@
           "event_id": "358-2027_28-info_day-001",
           "extracted_at": "2026-09-08T22:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "369": {
       "name": "香港航海學校",
@@ -18937,7 +19051,8 @@
           "event_id": "369-2027_28-info_day-001",
           "extracted_at": "2026-09-08T15:30:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "363": {
       "name": "香港道教聯合會圓玄學院第二中學",
@@ -18966,7 +19081,8 @@
           "event_id": "363-2026_27-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "403": {
       "name": "新界西貢坑口區鄭植之中學",
@@ -18995,7 +19111,8 @@
           "event_id": "403-2026_27-application_deadline-001",
           "extracted_at": "2026-09-04T00:00:00"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "381": {
       "name": "香港神託會培敦中學",
@@ -19652,7 +19769,8 @@
           "event_id": "240-2027_28-info_day-001",
           "extracted_at": "2026-09-22T14:41:08"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "394": {
       "name": "香港仔工業學校",
@@ -19693,7 +19811,8 @@
           "event_id": "394-2027_28-result-001",
           "extracted_at": "2026-09-22T15:08:05"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "395": {
       "name": "香港仔浸信會呂明才書院",
@@ -19710,7 +19829,8 @@
           "event_id": "395-2026_27-interview-001",
           "extracted_at": "2026-09-22T15:08:05"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "313": {
       "name": "聖士提反堂中學",
@@ -19751,7 +19871,8 @@
           "event_id": "313-2026_27-result-001",
           "extracted_at": "2026-09-22T15:08:05"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "327": {
       "name": "順德聯誼總會鄭裕彤中學",
@@ -19768,7 +19889,8 @@
           "event_id": "327-2026_27-info_day-001",
           "extracted_at": "2026-09-22T15:08:05"
         }
-      ]
+      ],
+      "banding_tier": "Band 2"
     },
     "184": {
       "name": "樂善堂王仲銘中學",
@@ -19833,7 +19955,8 @@
           "event_id": "184-2026_27-interview-003",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "190": {
       "name": "麗澤中學",
@@ -19886,7 +20009,8 @@
           "event_id": "190-2026_27-result-001",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "235": {
       "name": "炮台山循道衛理中學",
@@ -19939,7 +20063,8 @@
           "event_id": "235-2026_27-application_open-002",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": ""
     },
     "281": {
       "name": "聖公會蔡功譜中學",
@@ -19992,7 +20117,8 @@
           "event_id": "281-2026_27-result-001",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "400": {
       "name": "新會商會陳白沙紀念中學",
@@ -20045,7 +20171,8 @@
           "event_id": "400-2026_27-result-001",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "421": {
       "name": "余振強紀念第二中學",
@@ -20098,7 +20225,8 @@
           "event_id": "421-2026_27-result-002",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "170": {
       "name": "可道中學（嗇色園主辦）",
@@ -20115,7 +20243,8 @@
           "event_id": "170-2026_27-info_day-001",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "228": {
       "name": "明愛元朗陳震夏中學",
@@ -20168,7 +20297,8 @@
           "event_id": "228-2027_28-info_day-001",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "356": {
       "name": "五育中學",
@@ -20185,7 +20315,8 @@
           "event_id": "356-2026_27-info_day-001",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "439": {
       "name": "中華基督教會桂華山中學",
@@ -20202,7 +20333,8 @@
           "event_id": "439-2026_27-result-001",
           "extracted_at": "2026-09-22T16:43:45"
         }
-      ]
+      ],
+      "banding_tier": "Band 3"
     },
     "49": {
       "name": "德蘭中學",
