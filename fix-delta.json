@@ -1,0 +1,201 @@
+{
+ "version": 1,
+ "updated_at": "2026-10-07T23:22:07Z",
+ "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
+ "corrections": [
+  {
+   "school": "9",
+   "title": "Application for Secondary One Discretionary Places",
+   "oldLink": "https://www.plkchc.edu.hk/",
+   "newLink": "https://www.plkchc.edu.hk/admission/84",
+   "reason": "relink"
+  },
+  {
+   "school": "21",
+   "title": "S.1 Admission (DP)",
+   "oldLink": "https://www.ppaulvi.edu.hk/en",
+   "newLink": "https://www.ppaulvi.edu.hk/en/admission",
+   "reason": "relink"
+  },
+  {
+   "school": "24",
+   "title": "F.1 Discretionary Places Application 中一入學申請",
+   "oldLink": "http://www.chp.gov.hk/",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "100",
+   "title": "「中一面試日」",
+   "oldLink": "https://www.bhscmc.edu.hk/",
+   "newLink": "https://www.bhscmc.edu.hk/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "142",
+   "title": "「中一自行分配學位」正取學生通知安排（3月31日）",
+   "oldLink": "https://www.ccst.edu.hk/%e6%9c%ac%e6%a0%a1%e8%b3%87%e6%96%99/",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "147",
+   "title": "入學資料",
+   "oldLink": "https://www.cbtmss.edu.hk/",
+   "newLink": "https://www.cbtmss.edu.hk/page/653/?m=5144483866992",
+   "reason": "relink"
+  },
+  {
+   "school": "166",
+   "title": "入學申請",
+   "oldLink": "https://www.ktsss.edu.hk/tc/%20void(0);",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "166",
+   "title": "入學申請",
+   "oldLink": "https://www.ktsss.edu.hk/tc/f1_enrol/%20void(0);",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "173",
+   "title": "2026-2027 中一自行分配學位 現在接受申請",
+   "oldLink": "https://www.ctshkpcc.edu.hk/tc",
+   "newLink": "https://www.ctshkpcc.edu.hk/tc/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "185",
+   "title": "中一簡介會 2025",
+   "oldLink": "https://www.lstyoungkhl.edu.hk/",
+   "newLink": "https://www.lstyoungkhl.edu.hk/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "213",
+   "title": "中一入學申請",
+   "oldLink": "https://www.mcs.edu.hk/",
+   "newLink": "https://www.mcs.edu.hk/form-one-admission",
+   "reason": "relink"
+  },
+  {
+   "school": "261",
+   "title": "入學申請",
+   "oldLink": "http://mobilelab.hoyu.edu.hk/",
+   "newLink": "https://ss.hoyu.edu.hk/入學申請",
+   "reason": "relink"
+  },
+  {
+   "school": "263",
+   "title": "S1 Admission Talk 中一入學簡介會",
+   "oldLink": "https://www.stgss.edu.hk/",
+   "newLink": "https://www.stgss.edu.hk/category/latest-news/",
+   "reason": "relink"
+  },
+  {
+   "school": "264",
+   "title": "Conviction Admission Application S1 Residual Places Apply Now",
+   "oldLink": "https://www2.pyc.edu.hk/musical/2026/index.html",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "278",
+   "title": "中一自行分配學位資料",
+   "oldLink": "https://www.sfac.edu.hk/",
+   "newLink": "https://www.sfac.edu.hk/site/view?name=%E8%BE%A6%E5%AD%B8%E5%AE%97%E6%97%A8%E5%8F%8A%E7%9B%AE%E6%A8%99",
+   "reason": "relink"
+  },
+  {
+   "school": "296",
+   "title": "Application for Secondary One Discretionary Places…（05/01/2026）",
+   "oldLink": "https://www.skhtst.edu.hk",
+   "newLink": "https://www.skhtst.edu.hk/category/news/",
+   "reason": "relink"
+  },
+  {
+   "school": "309",
+   "title": "S1 Admission Talk",
+   "oldLink": "https://www.sjc.edu.hk/",
+   "newLink": "https://www.sjc.edu.hk/admission/",
+   "reason": "relink"
+  },
+  {
+   "school": "354",
+   "title": "2026-2027年度中一自行分配學位申請程序",
+   "oldLink": "https://www.pentecostalschool.edu.hk/",
+   "newLink": "https://www.pentecostalschool.edu.hk/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "365",
+   "title": "入學申請",
+   "oldLink": "https://www.yy1.edu.hk/%20void(0);",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "395",
+   "title": "升中資訊日 (13/12/2025)（13/12/2025）",
+   "oldLink": "https://ablmcc.edu.hk/",
+   "newLink": "https://ablmcc.edu.hk/activities",
+   "reason": "relink"
+  },
+  {
+   "school": "435",
+   "title": "2026/27學年「中一自行分配學位」",
+   "oldLink": "https://www.fywss.edu.hk",
+   "newLink": "https://www.fywss.edu.hk/category/news-feed/",
+   "reason": "relink"
+  },
+  {
+   "school": "442",
+   "title": "2027-28 S1 Discretionary Places Application",
+   "oldLink": "https://drive.google.com/drive/",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "448",
+   "title": "S.1 Discretionary Places Admission Second Intervie…",
+   "oldLink": "https://www.cccmkc.edu.hk/en",
+   "newLink": "https://www.cccmkc.edu.hk/en/latest_news",
+   "reason": "relink"
+  }
+ ],
+ "backfills": [
+  {
+   "school": "133",
+   "url": "https://www.ttca.edu.hk/infoday",
+   "label": "資訊日 Info Day（逐年復用）"
+  },
+  {
+   "school": "148",
+   "url": "https://www.carmelss.edu.hk/site/about-school/carmel-information-day-2026/",
+   "label": "資訊日 2026（10/17）"
+  },
+  {
+   "school": "275",
+   "url": "https://www.spcc.edu.hk/admissions/local-admissions/secondary/f1",
+   "label": "F1 入學"
+  },
+  {
+   "school": "399",
+   "url": "https://www.hys.edu.hk/form-one-admission-2026-2027-intake/",
+   "label": "中一入學（逐年復用同 URL）"
+  },
+  {
+   "school": "420",
+   "url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
+   "label": "G7 入學 2027-28"
+  },
+  {
+   "school": "455",
+   "url": "https://www.cfss.edu.hk/en/event.php?wid=28",
+   "label": "校曆（活動預告）"
+  }
+ ],
+ "demotes": []
+}
