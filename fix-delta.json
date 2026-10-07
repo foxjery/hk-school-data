@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-07T23:25:26Z",
+ "updated_at": "2026-10-07T23:30:25Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -163,13 +163,6 @@
    "oldLink": "https://www.cccmkc.edu.hk/en",
    "newLink": "https://www.cccmkc.edu.hk/en/latest_news",
    "reason": "relink"
-  },
-  {
-   "school": "100",
-   "title": "突變測試",
-   "oldLink": "https://www.bhscmc.edu.hk/",
-   "newLink": "https://evil-attacker.example.com/phish",
-   "reason": "mutation-test"
   }
  ],
  "backfills": [
