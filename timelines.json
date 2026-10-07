@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-10-06T16:02:42",
+  "updated_at": "2026-10-07T21:15:00",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -671,10 +671,20 @@
           "confidence": "medium",
           "event_id": "57-2026_27-info_day-001",
           "extracted_at": "2026-09-07T20:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-01",
+          "date_end": null,
+          "label": "Open Day 開放日（10:00–15:00，Eventbrite 報名）",
+          "academic_year": "2027-28",
+          "source_text": "Be Future-ready, Now! - Delia Glee Path Open Day 2026｜Sunday, November 1, 10 AM - 3 PM（官網 school-calendar 頁海報 Vision OCR 逐字；學校主辦 Eventbrite 報名頁雙源核實，2026-11-01 為週日吻合）",
+          "evidence_url": "https://www.deliagp.edu.hk/school-calendar",
+          "confidence": "high",
+          "event_id": "57-2027_28-info_day-001",
+          "extracted_at": "2026-10-07T21:15:00"
         }
-      ],
-      "data_gap_reason": "no_public_admission_info",
-      "data_gap_confirmed": "2026-04-29T10:32:03"
+      ]
     },
     "58": {
       "name": "地利亞修女紀念學校（協和二中）",
@@ -16136,6 +16146,18 @@
           "confidence": "medium",
           "event_id": "92-2026_27-info_day-001",
           "extracted_at": "2026-09-07T12:00:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-14",
+          "date_end": null,
+          "label": "據校曆：中一資訊日",
+          "academic_year": "2027-28",
+          "source_text": "13th / 14th / 15th Blood Donation / S1 Information Day / Anniversary of HKBA（School Calendar (2026-2027) 十一月欄，pdftotext -layout 版面核實；日期與事件升序對應，15th=佛聯會會慶與上學年同欄格式互證，14th=週六吻合資訊日常規）",
+          "evidence_url": "https://www.bthc.edu.hk/CustomPage/openInNewPage.aspx?webPageId=98&v=2026090614&nnnid=113",
+          "confidence": "medium",
+          "event_id": "92-2027_28-info_day-001",
+          "extracted_at": "2026-10-07T21:15:00"
         }
       ],
       "banding_tier": "Band 2"
