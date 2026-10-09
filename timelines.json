@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T10:43:27",
+ "updated_at": "2026-10-09T21:50:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -97,6 +97,18 @@
      "confidence": "verified",
      "event_id": "110-2026_27-result-001",
      "extracted_at": "2026-05-09T16:42:30"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-08",
+     "date_end": null,
+     "label": "Information Day 2026（連升中講座 Admission Talk 兩場）",
+     "academic_year": "2027-28",
+     "source_text": "學校新聞頁原文（2026-09-23 發佈）：「Information Day 2026 Date & Time: 8/11/2026 (Sunday) 9:30 a.m. - 3:30 p.m.；Admission Talk Session 1: 10:00 a.m. - 11:15 a.m.／Session 2: 1:30 p.m. - 2:45 p.m.；Registration via ‘THE GULU’ mobile app starting from 10:00 a.m. on 28 October 2026 (Wed)」（2026-11-08 確為星期日）",
+     "evidence_url": "https://www2.imsc.edu.hk/school-news.php?n=297",
+     "confidence": "high",
+     "event_id": "110-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T21:50:00"
     }
    ],
    "self_healing_active": false
@@ -1199,6 +1211,18 @@
      "confidence": "high",
      "event_id": "125-2026_27-interview-002",
      "extracted_at": "2026-07-25T13:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-07",
+     "date_end": null,
+     "label": "S1 Information Day（2027/28 Intake，簡介三節＋校園參觀）",
+     "academic_year": "2027-28",
+     "source_text": "官網招生頁原文：「S1 Admissions (2027/28 Intake) — S1 Information Day Date: 7 November 2026 (Sat)；Registration from 23 October 2026 (Fri), 12nn；Fee: Free admission (first come, first served)；Briefing (School Hall) 9am–10am／10:30am–11:30am／12nn–1pm；Visit 10am–1pm」（2026-11-07 確為星期六）",
+     "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
+     "confidence": "high",
+     "event_id": "125-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T21:50:00"
     }
    ]
   },
@@ -7058,6 +7082,18 @@
      "confidence_flags": [
       "legacy_seeded"
      ]
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "S.1 Information Day cum Open Day（升中講座及面試攻略講座）",
+     "academic_year": "2027-28",
+     "source_text": "活動頁海報 Vision OCR：「S.1 INFORMATION DAY CUM OPEN DAY, 21st NOVEMBER 2026 (Saturday), Register here!」＋活動頁文字「升中講座及面試攻略講座 Admission Talk & Talk on Interview…名額有限，先到先得」（菜單標籤「2627 P6 Information Day」是舊標籤未改，以海報為準；2026-11-21 確為星期六；報名 Google Form 仍有效）",
+     "evidence_url": "https://www.valtorta.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=86&pageId=193&nnnid=118",
+     "confidence": "high",
+     "event_id": "82-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T21:50:00"
     }
    ]
   },
@@ -7404,6 +7440,18 @@
      "confidence_flags": [
       "legacy_seeded"
      ]
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "S1 Admission Information Talk for 2027-28（9:30AM–12:00NN）",
+     "academic_year": "2027-28",
+     "source_text": "官網進站 popup 海報 Vision OCR：「S1 ADMISSION INFORMATION TALK FOR 2027-28, DATE: 5 DECEMBER 2026 (SAT)…ADMISSION CODE ACTIVATED ON 27/10」（2026-12-05 確為星期六）",
+     "evidence_url": "https://www.stclare.edu.hk/",
+     "confidence": "high",
+     "event_id": "298-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T21:50:00"
     }
    ],
    "self_healing_active": false
@@ -7861,6 +7909,18 @@
      "evidence_url": "https://www.plkc.edu.hk/curricula/admission/",
      "event_id": "5-2026-27-info_day-001",
      "confidence": "high"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-13",
+     "date_end": null,
+     "label": "升中簡介會（中一自行分配學位 2027/28 Briefing Seminar）",
+     "academic_year": "2027-28",
+     "source_text": "官網招生頁原文：「中一自行分配學位（2027/28）申請表格於2026年12月1日開始派發…本校將於2026年12月13日（星期日）舉辦『升中簡介會』。簡介會將於11月9日（星期一）開始接受報名，詳情及報名手續容後公佈」（2026-12-13 確為星期日、2026-11-09 確為星期一）",
+     "evidence_url": "https://www.plkc.edu.hk/curricula/admission/",
+     "confidence": "high",
+     "event_id": "5-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T21:50:00"
     }
    ],
    "self_healing_active": false
@@ -16463,6 +16523,18 @@
      "confidence": "verified",
      "event_id": "147-2026_27-info_day-001",
      "extracted_at": "2026-07-18T20:33:26"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-14",
+     "date_end": null,
+     "label": "資訊日",
+     "academic_year": "2027-28",
+     "source_text": "官網行事曆（2026-27 學年）：「14 11月 2026-11-14 資訊日」＋資訊日文章頁：「資訊日 2026年11月14日」（2026-11-14 確為星期六）",
+     "evidence_url": "https://www.cbtmss.edu.hk/article/360",
+     "confidence": "high",
+     "event_id": "147-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T21:50:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -18008,6 +18080,42 @@
      "confidence": "high",
      "event_id": "115-2026_27-result-001",
      "extracted_at": "2026-07-19"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-14",
+     "date_end": null,
+     "label": "資訊日及面試技巧班（9:00–12:00）",
+     "academic_year": "2027-28",
+     "source_text": "「升中全攻略2026」Google Form 場次原文：「11月14日 (星期六) 09:00 - 12:00 (資訊日及面試技巧班)」；報名對象欄位「將於2027-2028年度入讀中一之子女」；招生站已更新 2027-2028 年度（申請 2027-01-04～01-18、面試 2027-02-20、放榜 2027-03-31）——表單描述行殘留「2026-2027年度」舊文字，以欄位＋招生站為準",
+     "evidence_url": "https://docs.google.com/forms/d/e/1FAIpQLSebUldvcyxSx87F1QTueh4vClz5iA5aMRegWvuXsCfnQEBHjw/viewform",
+     "confidence": "high",
+     "event_id": "115-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T21:50:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-11",
+     "date_end": null,
+     "label": "資訊日（17:00–19:00，星期五晚）",
+     "academic_year": "2027-28",
+     "source_text": "同表單場次原文：「12月11日 (星期五) 17:00 - 19:00 (資訊日)」（2026-12-11 確為星期五）",
+     "evidence_url": "https://docs.google.com/forms/d/e/1FAIpQLSebUldvcyxSx87F1QTueh4vClz5iA5aMRegWvuXsCfnQEBHjw/viewform",
+     "confidence": "high",
+     "event_id": "115-2027_28-info_day-002",
+     "extracted_at": "2026-10-09T21:50:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "資訊日及面試技巧班（9:00–12:00）",
+     "academic_year": "2027-28",
+     "source_text": "同表單場次原文：「12月12日 (星期六) 09:00 - 12:00 (資訊日及面試技巧班)」（2026-12-12 確為星期六）",
+     "evidence_url": "https://docs.google.com/forms/d/e/1FAIpQLSebUldvcyxSx87F1QTueh4vClz5iA5aMRegWvuXsCfnQEBHjw/viewform",
+     "confidence": "high",
+     "event_id": "115-2027_28-info_day-003",
+     "extracted_at": "2026-10-09T21:50:00"
     }
    ],
    "banding_tier": "Band 2"
