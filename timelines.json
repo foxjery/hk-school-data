@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T21:50:00",
+ "updated_at": "2026-10-09T22:50:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -13432,6 +13432,18 @@
      "confidence": "single_source",
      "event_id": "45-2026_27-application_deadline-002",
      "extracted_at": "2026-07-18T20:33:26"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": "2026-12-06",
+     "label": "75 周年校慶開放日（兩天）",
+     "academic_year": "2027-28",
+     "source_text": "官網校曆 December 2026：「12-05 TO 12-06 75 years Anniversary School Open Day」＋「12-07 Make-up holiday of School Open Day」（2026-12-05 六、12-06 日、12-07 一 三重星期吻合）",
+     "evidence_url": "https://www.ssshk.edu.hk/SchoolCalendar1/calendar/1/101",
+     "confidence": "high",
+     "event_id": "45-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T22:35:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -19819,6 +19831,18 @@
      "confidence": "high",
      "event_id": "433-2026_27-application_deadline-014",
      "extracted_at": "2026-09-11T12:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "資訊日（升中簡介會暨李中生活體驗）",
+     "academic_year": "2027-28",
+     "source_text": "2026-27 學年校曆（修訂 2026-08-28，2026/09 上載）：「21/11 資訊日(升中簡介會暨李中生活體驗)」；「20/11 資訊日下午綵排」（五）、「23/11 資訊補假」（一）三重星期吻合（2026-11-21 確為星期六）",
+     "evidence_url": "https://liymss.goodschool.hk/upload/2026/09/fe536891944c421513592c331efdefcf.pdf",
+     "confidence": "high",
+     "event_id": "433-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T22:35:00"
     }
    ],
    "self_healing_active": false
@@ -20850,18 +20874,6 @@
      "extracted_at": "2026-09-29T10:00:00"
     },
     {
-     "type": "info_day",
-     "date": "2026-10-24",
-     "date_end": null,
-     "label": "校曆預告：小六簡介日",
-     "academic_year": "2027-28",
-     "source_text": "校曆 2026-2027 十月事項「24 小六簡介日」（圖片型校曆：Vision OCR 與視覺模型放大複核一致；2026-10-24 為週六，與該校歷屆週六辦資訊日模式吻合）",
-     "evidence_url": "https://www.twghcmts.edu.hk/tc/%E6%A0%A1%E6%9B%86-2026-2027",
-     "confidence": "medium",
-     "event_id": "78-2027_28-info_day-001",
-     "extracted_at": "2026-09-29T10:00:00"
-    },
-    {
      "type": "interview",
      "date": "2027-03-14",
      "date_end": null,
@@ -20872,6 +20884,18 @@
      "confidence": "medium",
      "event_id": "78-2027_28-interview-001",
      "extracted_at": "2026-09-29T10:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "中一資訊日",
+     "academic_year": "2027-28",
+     "source_text": "2026/2027 學年校曆圖（school_calendar_2026-2027_cmtss-final.jpg）Vision OCR＋裁圖放大目視：十一月「28 中一資訊日」（2026-11-28 確為星期六）；招生詳情頁仍「暫無招生計劃」。⚠️ 學校 9/29～10/09 間換過校曆版本：舊版十月「24 小六簡介日」已從現版撤下（舊條目已撤，改期記錄見 playbook）；三月「14 中一入學面試日」與庫存 interview-001 一致（該校 2026-27 週期面試亦為週日，規律互證）",
+     "evidence_url": "https://www.twghcmts.edu.hk/sites/default/files/album/school_calendar_2026-2027_cmtss-final.jpg",
+     "confidence": "high",
+     "event_id": "78-2027_28-info_day-002",
+     "extracted_at": "2026-10-09T22:35:00"
     }
    ]
   },
