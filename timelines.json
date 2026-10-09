@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T08:36:20",
+ "updated_at": "2026-10-09T08:48:54",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -13786,6 +13786,18 @@
      "confidence": "verified",
      "event_id": "107-2026_27-result-001",
      "extracted_at": "2026-07-25T19:34:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-14",
+     "date_end": null,
+     "label": "學校資訊日（兩場：上午9:00–12:00／下午1:30–4:30，禮堂）",
+     "academic_year": "2027-28",
+     "source_text": "2026/27 福建中學(小西灣)資訊日報名 日期: 2026年11月14日 (星期六) 時間: 場次1: 上午9:00 -12:00 場次2: 下午1:30 - 4:30 內容: 學科展覽、學校簡介、課程特色、校園導賞及問答環節（學校官方 Google 報名表逐字＋官網首頁資訊日橫幅圖 Vision OCR 雙源一致；校方 11/11 WhatsApp 確認留座）",
+     "evidence_url": "https://www.fss.edu.hk/tc/school-information-day",
+     "confidence": "high",
+     "event_id": "107-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T08:48:54"
     }
    ],
    "banding_tier": "Band 2"
