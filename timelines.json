@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T22:50:00",
+ "updated_at": "2026-10-09T23:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -964,13 +964,37 @@
      "type": "info_day",
      "date": "2026-11-28",
      "date_end": null,
-     "label": "校曆預告：S.1 Information Day",
+     "label": "S.1 Information Day（10:00–12:00，11 月初開放網上登記）",
      "academic_year": "2027-28",
-     "source_text": "S.1 Information Day (28/11)",
+     "source_text": "校曆「S.1 Information Day (28/11)」＋首頁進站 popup 海報（IMG-20260930-WA0009.jpg，2026-09-30 上載）Vision OCR 互證：「S1 Information Day | 2028 Admissions | Date: 28 November 2026, Saturday | Time: 10:00 a.m.–12:00 noon | Online registration will start in early November 2026」；popup 的 h2「S1 Information Day (2027-20028)」被 HTML 註解但海報圖活著（2026-10-09 港網取證）",
      "evidence_url": "https://www.raimondi.edu.hk/sites/default/files/files/3_year_calendar_2026-2027_18-8-26_v7.pdf",
-     "confidence": "medium",
+     "confidence": "high",
      "event_id": "116-2027_28-info_day-001",
      "extracted_at": "2026-09-07T18:00:00"
+    },
+    {
+     "event_id": "116-2027_28-interview-001",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-10-09T23:30:00",
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "S.1 自行分配學位面試（校曆）",
+     "source_text": "2026-27 學年校曆三月格：「S1 Discretionary Place Interview (6/3)」（2027-03-06 週六）；同頁 11 月格 S.1 Information Day 28/11 互證校曆載招生節點屬實",
+     "evidence_url": "https://www.raimondi.edu.hk/sites/default/files/files/3_year_calendar_2026-2027_18-8-26_v7.pdf",
+     "confidence": "medium"
+    },
+    {
+     "event_id": "116-2027_28-result-001",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-10-09T23:30:00",
+     "type": "result",
+     "date": "2027-07-08",
+     "date_end": "2027-07-09",
+     "label": "S.1 Registration（中一註冊，兩天）",
+     "source_text": "2026-27 學年校曆七月格：「S.1 Registration (8/7-9/7)」兩天；同頁 Pre-S.1 HKAT (13/7)",
+     "evidence_url": "https://www.raimondi.edu.hk/sites/default/files/files/3_year_calendar_2026-2027_18-8-26_v7.pdf",
+     "confidence": "medium"
     }
    ],
    "data_gap_reason": "no_public_admission_info",
@@ -8525,6 +8549,18 @@
      "confidence": "high",
      "event_id": "59-2027_28-application_open-001",
      "extracted_at": "2026-10-09T09:28:37"
+    },
+    {
+     "event_id": "59-2027_28-result-001",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-10-09T23:30:00",
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "2027/28 中一入學註冊",
+     "source_text": "2027/28 中一級入學頁（article:modified 2026-10-08）：「2027年7月6日 中一入學註冊 已錄取的學生將根據預約時段完成註冊程序」；同頁申請 2026-09-01 開始已入庫、面試 2026 年 10 月起（無具體日期不入庫）；與上屆 2026-27 註冊 2026-07-07 年度規律互證（2026-10-09 港網 render_probe 取證）",
+     "evidence_url": "https://www.deliahw.edu.hk/index.php/hk/admissions-hk/admission-to-s1-hk",
+     "confidence": "high"
     }
    ],
    "self_healing_active": false
