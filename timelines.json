@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T10:08:33",
+ "updated_at": "2026-10-09T10:43:27",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -4719,13 +4719,25 @@
      "type": "info_day",
      "date": "2026-11-14",
      "date_end": null,
-     "label": "校曆預告：中一簡介會 S1 Admission Seminar",
+     "label": "S1 Admission Seminar（講座＋校園導賞 14:00-16:30）",
      "academic_year": "2027-28",
-     "source_text": "14/11 中一簡介會 S1 Admission Seminar",
-     "evidence_url": "https://www.cymcass.edu.hk/sites/default/files/web/others/School%20calendar%20(stu%20handbook)%202026-27.pdf",
-     "confidence": "medium",
+     "source_text": "官網首頁報名表：2027-2028 Enrollment Starts｜S1 Admission Seminar Date: 14th November 2026, Saturday 2:00-4:30pm（seminar registration deadline 12 Oct 2026 9:00am；由校曆預告 medium 升級，正式公告已落地）",
+     "evidence_url": "https://www.cymcass.edu.hk/",
+     "confidence": "high",
      "event_id": "454-2027_28-info_day-001",
-     "extracted_at": "2026-09-08T18:30:00"
+     "extracted_at": "2026-10-09T10:43:27"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2026-11-30",
+     "date_end": null,
+     "label": "S1 入學申請截止（網上 23:59）",
+     "academic_year": "2027-28",
+     "source_text": "官網首頁報名表：S1 Admission Application 30th November 2026, Monday 11:59 p.m.",
+     "evidence_url": "https://www.cymcass.edu.hk/",
+     "confidence": "high",
+     "event_id": "454-2027_28-application_deadline-001",
+     "extracted_at": "2026-10-09T10:43:27"
     }
    ]
   },
@@ -21108,6 +21120,87 @@
      "confidence": "medium",
      "event_id": "218-2027_28-info_day-001",
      "extracted_at": "2026-10-09T09:11:15"
+    }
+   ]
+  },
+  "217": {
+   "name": "圓玄學院妙法寺內明陳呂重德紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-10-11",
+     "date_end": null,
+     "label": "升中資訊講座（優秀教師公開課暨）",
+     "academic_year": "2027-28",
+     "source_text": "官網最新動態(9/24發佈)：本校將於2026年10月11日（星期日）舉辦「優秀教師公開課暨升中資訊講座」，誠邀小學家長…9:30-13:15，「成長思維・成功之道」升中資訊講座（12:15-13:15）",
+     "evidence_url": "https://www.clctmc.edu.hk/rIndex",
+     "confidence": "high",
+     "event_id": "217-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:43:27"
+    }
+   ]
+  },
+  "293": {
+   "name": "聖公會聖馬利亞堂莫慶堯中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "中一入學講座暨校園導賞（第一場 10:00）",
+     "academic_year": "2027-28",
+     "source_text": "官網 Admission 頁：2027-2028 Secondary One Admission Info Day Activities｜Session 1: November 28, 2026 (Saturday) 10:00 am（registration deadline 20 Nov 2026）",
+     "evidence_url": "https://www.smcc.edu.hk/admission",
+     "confidence": "high",
+     "event_id": "293-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:43:27"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "中一入學講座暨校園導賞（第二場 14:00）",
+     "academic_year": "2027-28",
+     "source_text": "官網 Admission 頁：Session 2: December 5, 2026 (Saturday) 2:00 pm",
+     "evidence_url": "https://www.smcc.edu.hk/admission",
+     "confidence": "high",
+     "event_id": "293-2027_28-info_day-002",
+     "extracted_at": "2026-10-09T10:43:27"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "面試攻略講座＋中學體驗工作坊（第二場 9:00）",
+     "academic_year": "2027-28",
+     "source_text": "官網 Admission 頁：Seminar on Keys to S1 Admission Interview Success + Experience Workshops｜Session 1: Dec 5 9:00 am｜Session 2: December 12, 2026 (Saturday) 9:00 am",
+     "evidence_url": "https://www.smcc.edu.hk/admission",
+     "confidence": "high",
+     "event_id": "293-2027_28-info_day-003",
+     "extracted_at": "2026-10-09T10:43:27"
+    }
+   ]
+  },
+  "351": {
+   "name": "文理書院（香港）",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "資訊及體驗日（STEAM實驗、歷奇、爬蟲接觸 9:00-13:00）",
+     "academic_year": "2027-28",
+     "source_text": "官網資訊及體驗日海報(zh/res/05_news/2026-27/infoday/Poster_Infoday.jpg)：日期 2026年11月28日(星期六) 上午9時至下午1時；報名截止2026-10-09；招生頁同掛 2027-28 中一自行分配申請表",
+     "evidence_url": "https://www.cognitiohk.edu.hk/zh/05_News/InfoDay.php",
+     "confidence": "high",
+     "event_id": "351-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:43:27"
     }
    ]
   }
