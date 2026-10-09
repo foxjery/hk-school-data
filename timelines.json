@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T09:28:37",
+ "updated_at": "2026-10-09T10:08:33",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -2490,6 +2490,30 @@
      "confidence": "high",
      "event_id": "evt_55b74dfc",
      "extracted_at": "2026-04-29T10:25:36"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "據校曆：Open Day and SSPA Seminar（升中講座）",
+     "academic_year": "2027-28",
+     "source_text": "校曆表 PDF 十二月欄：4 Open Day Preparation [pm]｜5 Open Day and SSPA Seminar｜7 Day after Open Day Holiday（括號星期自洽：12/5=六）",
+     "evidence_url": "https://www.yottkp.edu.hk/download/document/5a0d93ce57bf4012aac5e20da23555a2.pdf",
+     "confidence": "medium",
+     "event_id": "250-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:08:33"
+    },
+    {
+     "type": "interview",
+     "date": "2026-12-13",
+     "date_end": null,
+     "label": "據校曆：SSPA Interview",
+     "academic_year": "2027-28",
+     "source_text": "校曆表 PDF 十二月欄：13 SSPA Interview（12/13=日，校曆原文照錄）",
+     "evidence_url": "https://www.yottkp.edu.hk/download/document/5a0d93ce57bf4012aac5e20da23555a2.pdf",
+     "confidence": "medium",
+     "event_id": "250-2027_28-interview-001",
+     "extracted_at": "2026-10-09T10:08:33"
     }
    ],
    "self_healing_active": false
@@ -5380,6 +5404,30 @@
      "confidence": "verified",
      "event_id": "128-2026_27-info_day-001",
      "extracted_at": "2026-07-20T09:03:44"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "據校曆：Interview for S1 Discretionary Places",
+     "academic_year": "2027-28",
+     "source_text": "School Calendar 2026/2027（2627_2.jpg）三月欄：6 Interview for S1 Discretionary Places（3/6=六）",
+     "evidence_url": "https://www.qc.edu.hk/en/site/view?name=School+Calendar",
+     "confidence": "medium",
+     "event_id": "128-2027_28-interview-001",
+     "extracted_at": "2026-10-09T10:08:33"
+    },
+    {
+     "type": "info_day",
+     "date": "2027-03-19",
+     "date_end": "2027-03-20",
+     "label": "據校曆：165周年校慶開放日（兩日）",
+     "academic_year": "2027-28",
+     "source_text": "School Calendar 2026/2027（2627_2.jpg）三月欄：19-20 165 Anniversary Open Days（3/19=五、3/20=六）",
+     "evidence_url": "https://www.qc.edu.hk/en/site/view?name=School+Calendar",
+     "confidence": "medium",
+     "event_id": "128-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:08:33"
     }
    ],
    "self_healing_active": false
@@ -13432,6 +13480,30 @@
      "confidence": "medium",
      "event_id": "71-2026_27-info_day-002",
      "extracted_at": "2026-09-07T14:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "呂中資訊日暨升中模擬面試（兩節：13:30/15:00）",
+     "academic_year": "2027-28",
+     "source_text": "官網公告 02/09/2026「呂中資訊日暨升中模擬面試2026」：日期 2026年11月28日(星期六)，內容：資訊講座、升中模擬面試、校園導賞；報名截止 2026-11-02（26-27校曆 28/11 呂中資訊日互證）",
+     "evidence_url": "https://www.lycmc.edu.hk/tc/latest_new/%E3%80%8C%E5%91%82%E4%B8%AD%E8%B3%87%E8%A8%8A%E6%97%A5%E6%9A%A8%E5%8D%87%E4%B8%AD%E6%A8%A1%E6%93%AC%E9%9D%A2%E8%A9%A62026%E3%80%8D%E5%8F%8A%E3%80%8C%E5%91%82%E4%B8%AD%E9%AB%94%E9%A9%97%E8%AA%B22026%E3%80%8D",
+     "confidence": "high",
+     "event_id": "71-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:08:33"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "呂中體驗課2026（小五小六招生體驗：編程/繪圖/Rugby）",
+     "academic_year": "2027-28",
+     "source_text": "官網公告 02/09/2026「呂中體驗課2026」：2026年11月21日(星期六) 9:00-11:00 多場體驗（小五及小六學生及家長，抽籤）",
+     "evidence_url": "https://www.lycmc.edu.hk/tc/latest_new/%E3%80%8C%E5%91%82%E4%B8%AD%E8%B3%87%E8%A8%8A%E6%97%A5%E6%9A%A8%E5%8D%87%E4%B8%AD%E6%A8%A1%E6%93%AC%E9%9D%A2%E8%A9%A62026%E3%80%8D%E5%8F%8A%E3%80%8C%E5%91%82%E4%B8%AD%E9%AB%94%E9%A9%97%E8%AA%B22026%E3%80%8D",
+     "confidence": "high",
+     "event_id": "71-2027_28-info_day-002",
+     "extracted_at": "2026-10-09T10:08:33"
     }
    ],
    "banding_tier": "Band 2"
@@ -14140,6 +14212,42 @@
      "confidence": "medium",
      "event_id": "160-2026_27-info_day-001",
      "extracted_at": "2026-09-07T12:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "據校曆：中一收生資訊日（官網專頁「容後公佈」）",
+     "academic_year": "2027-28",
+     "source_text": "校曆表 26-27年度 NOV 2026：21 SAT 中一收生資訊日（11/21=六）；收生資訊日專頁(wid=248)仍寫「容後公佈」",
+     "evidence_url": "https://www.clementi.edu.hk/tc/calendar.php?wid=365",
+     "confidence": "medium",
+     "event_id": "160-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:08:33"
+    },
+    {
+     "type": "info_day",
+     "date": "2027-03-05",
+     "date_end": null,
+     "label": "據校曆：開放日（一百周年校慶）",
+     "academic_year": "2027-28",
+     "source_text": "校曆表 26-27年度 MAR 2027：05 FRI 開放日（3/5=五）；菜單有「一百周年校慶開放日」",
+     "evidence_url": "https://www.clementi.edu.hk/tc/calendar.php?wid=365",
+     "confidence": "medium",
+     "event_id": "160-2027_28-info_day-002",
+     "extracted_at": "2026-10-09T10:08:33"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "據校曆：中一自行分配面試",
+     "academic_year": "2027-28",
+     "source_text": "校曆表 26-27年度 MAR 2027：13 SAT 中一自行分配面試（3/13=六）",
+     "evidence_url": "https://www.clementi.edu.hk/tc/calendar.php?wid=365",
+     "confidence": "medium",
+     "event_id": "160-2027_28-interview-001",
+     "extracted_at": "2026-10-09T10:08:33"
     }
    ],
    "banding_tier": "Band 2"
@@ -15124,6 +15232,18 @@
      "confidence": "medium",
      "event_id": "284-2026_27-info_day-001",
      "extracted_at": "2026-09-07T12:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "據校曆：Pre-S1 Information Day",
+     "academic_year": "2027-28",
+     "source_text": "2026-2027 School Calendar PDF 十一月欄：28/11 Pre-S1 Information Day（11/28=六）",
+     "evidence_url": "http://www.keihau.edu.hk/sites/default/files/download/2026-2027%20School%20Calendar_0.pdf",
+     "confidence": "medium",
+     "event_id": "284-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:08:33"
     }
    ],
    "banding_tier": "Band 2"
@@ -18891,6 +19011,42 @@
      "confidence": "medium",
      "event_id": "346-2026_27-info_day-001",
      "extracted_at": "2026-09-07T12:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-20",
+     "date_end": "2026-11-21",
+     "label": "據校曆：Info Day（11/20-21 兩日）",
+     "academic_year": "2027-28",
+     "source_text": "2026-2027 School Calendar PDF 十一月欄：20/11-21/11 Info Day（20=五、21=六）",
+     "evidence_url": "https://www.tmcss.edu.hk/tmcss/wp-content/uploads/2026/08/2026-2027-School-Calendar_7th-draft_final-2.pdf",
+     "confidence": "medium",
+     "event_id": "346-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:08:33"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-20",
+     "date_end": null,
+     "label": "據校曆：F.1 Discretionary Places First Interview",
+     "academic_year": "2027-28",
+     "source_text": "2026-2027 School Calendar PDF 二月欄：20/2 F.1 Discretionary Places First Interview（2/20=六）",
+     "evidence_url": "https://www.tmcss.edu.hk/tmcss/wp-content/uploads/2026/08/2026-2027-School-Calendar_7th-draft_final-2.pdf",
+     "confidence": "medium",
+     "event_id": "346-2027_28-interview-001",
+     "extracted_at": "2026-10-09T10:08:33"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-14",
+     "date_end": null,
+     "label": "據校曆：F.1 Discretionary Places Second Interview",
+     "academic_year": "2027-28",
+     "source_text": "2026-2027 School Calendar PDF 三月欄：14/3 F.1 Discretionary Places Second Interview（3/14=六）",
+     "evidence_url": "https://www.tmcss.edu.hk/tmcss/wp-content/uploads/2026/08/2026-2027-School-Calendar_7th-draft_final-2.pdf",
+     "confidence": "medium",
+     "event_id": "346-2027_28-interview-002",
+     "extracted_at": "2026-10-09T10:08:33"
     }
    ],
    "banding_tier": "Band 2"
@@ -19173,6 +19329,18 @@
      "confidence": "medium",
      "event_id": "363-2026_27-info_day-001",
      "extracted_at": "2026-09-07T12:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-20",
+     "date_end": null,
+     "label": "據校曆：中一入學簡介會",
+     "academic_year": "2027-28",
+     "source_text": "School_calendar_2627.pdf 十二月欄：20/12 中一入學簡介會（12/20=日；上屆 2025-12-14 同為日，逐年規律）",
+     "evidence_url": "https://www.yy2.edu.hk/School_calendar_2627.pdf",
+     "confidence": "medium",
+     "event_id": "363-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T10:08:33"
     }
    ],
    "banding_tier": "Band 2"
