@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T08:48:54",
+ "updated_at": "2026-10-09T09:11:15",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -20909,6 +20909,25 @@
      "confidence": "medium",
      "event_id": "353-2027_28-interview-001",
      "extracted_at": "2026-09-29T19:30:00"
+    }
+   ]
+  },
+  "218": {
+   "name": "妙法寺劉金龍中學",
+   "school_type": "資助",
+   "banding_tier": "Band 2",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "據校曆：F.1 Info Day cum Homecoming Day（中一資訊日暨返校日）",
+     "academic_year": "2027-28",
+     "source_text": "（2026-27 校曆表 PDF 十一月欄：15 16 17 18 19 20 (21) ｜ 21 F.1 Info Day cum Homecoming Day；括號=週六與當月 7/10/13/14 日星期六格自洽，2026-11-21 實為星期六）",
+     "evidence_url": "https://www.lkl.edu.hk/it-school/php/webcms/files/upload/tinymce//2627doc/school_calender_student_ver._1788328851.pdf",
+     "confidence": "medium",
+     "event_id": "218-2027_28-info_day-001",
+     "extracted_at": "2026-10-09T09:11:15"
     }
    ]
   }
