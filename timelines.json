@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-09T23:30:00",
+ "updated_at": "2026-10-12T09:45:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -21369,6 +21369,207 @@
      "confidence": "high",
      "event_id": "351-2027_28-info_day-001",
      "extracted_at": "2026-10-09T10:43:27"
+    }
+   ]
+  },
+  "164": {
+   "name": "九龍工業學校",
+   "school_type": "官立",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2025-12-01",
+     "date_end": null,
+     "label": "中一自行分配學位申請表下載開始",
+     "academic_year": "2026-27",
+     "source_text": "於本校網頁下載中一自行分配學位【申請表格】 (已截止) Downloading of【Application Forms】 (已截止) for S.1 Discretionary Places (DP) 1.12.2025 (一)",
+     "evidence_url": "https://www.kts.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=70&pageId=187&nnnid=82",
+     "confidence": "verified",
+     "event_id": "164-2026_27-application_open-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-12-06",
+     "date_end": null,
+     "label": "學校資訊日",
+     "academic_year": "2026-27",
+     "source_text": "學校資訊日 Information Day 6.12.2025 (六)",
+     "evidence_url": "https://www.kts.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=70&pageId=187&nnnid=82",
+     "confidence": "verified",
+     "event_id": "164-2026_27-info_day-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請表",
+     "academic_year": "2026-27",
+     "source_text": "遞交中一自行分配學位申請表格 Submission of Application Forms for S.1 Discretionary Places (DP) 2.1.2026 (五) – 16.1.2026 (五)",
+     "evidence_url": "https://www.kts.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=70&pageId=187&nnnid=82",
+     "confidence": "verified",
+     "event_id": "164-2026_27-application_open-002",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-07",
+     "date_end": null,
+     "label": "中一自行分配學位面試日（所有申請者）",
+     "academic_year": "2026-27",
+     "source_text": "中一自行分配學位面試日（所有申請者） Interview of S.1 DP Application (for all applicants) 7.3.2026 (六)",
+     "evidence_url": "https://www.kts.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=70&pageId=187&nnnid=82",
+     "confidence": "verified",
+     "event_id": "164-2026_27-interview-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "通知中一自行分配學位正取學生 Notification of Successful Discretionary Places Applicants 31.3.2026 (二)",
+     "evidence_url": "https://www.kts.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=70&pageId=187&nnnid=82",
+     "confidence": "verified",
+     "event_id": "164-2026_27-result-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-07-07",
+     "date_end": null,
+     "label": "公布自行分配學位及統一派位結果",
+     "academic_year": "2026-27",
+     "source_text": "公布自行分配學位及統一派位結果 Release of DP and CA results 7.7.2026 (二)",
+     "evidence_url": "https://www.kts.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=70&pageId=187&nnnid=82",
+     "confidence": "verified",
+     "event_id": "164-2026_27-result-002",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-07-07",
+     "date_end": null,
+     "label": "中一候補學位申請開始",
+     "academic_year": "2026-27",
+     "source_text": "中一候補學位申請 Application for S.1 Places after the Release of SSPA Results 7.7.2026 (二) 開始 Start from 7.7.2026 (TUE)",
+     "evidence_url": "https://www.kts.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=70&pageId=187&nnnid=82",
+     "confidence": "verified",
+     "event_id": "164-2026_27-application_open-003",
+     "extracted_at": "2026-10-12T09:45:00"
+    }
+   ]
+  },
+  "117": {
+   "name": "官立嘉道理爵士中學（西九龍）",
+   "school_type": "官立",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-10",
+     "date_end": null,
+     "label": "校曆：P6 資訊日暨開放日",
+     "academic_year": "2027-28",
+     "source_text": "Sports Day (Heats), Sports Day (Finals) P6 Information Day & Open Day Talent Show & Class Party Christmas and New Year Holidays (13 days) 2, 3 10 18 21/12-2/1",
+     "evidence_url": "https://seksswk.edu.hk/doc/School_calendar_2627.pdf",
+     "confidence": "medium",
+     "event_id": "117-2027_28-info_day-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "The application period is from 4 January 2027 to 18 January 2027.",
+     "evidence_url": "https://seksswk.edu.hk/admission.php",
+     "confidence": "verified",
+     "event_id": "117-2027_28-application_open-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "自行分配學位及統一派位結果公布",
+     "academic_year": "2027-28",
+     "source_text": "All Secondary School Places Allocation (SSPA) results including the admission results of Discretionary Places (DP) and Central Allocation (CA) will be released by the Education Bureau on 6 July 2027.",
+     "evidence_url": "https://seksswk.edu.hk/admission.php",
+     "confidence": "verified",
+     "event_id": "117-2027_28-result-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    }
+   ]
+  },
+  "443": {
+   "name": "中華基督教會基協中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2026-27",
+     "source_text": "申請日期：2026年1月2日至1月16日 星期一至五 上午八時至下午五時星期六 上午九時至中午十二時 (假日除外) 4. 截止申請日期：2026年1月16日 (星期五) 下午五時正前",
+     "evidence_url": "https://www2.keiheep.edu.hk/CustomPage/106/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A526-27.pdf",
+     "confidence": "verified",
+     "event_id": "443-2026_27-application_open-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-02",
+     "date_end": "2026-03-07",
+     "label": "自行分配學位面試（所有申請者獲邀）",
+     "academic_year": "2026-27",
+     "source_text": "所有申請者將獲邀參加面試，面試日期為 2026年 3 月 2日（星期一） 至 2026年3 月 7日（星期六）。",
+     "evidence_url": "https://www2.keiheep.edu.hk/CustomPage/106/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A526-27.pdf",
+     "confidence": "verified",
+     "event_id": "443-2026_27-interview-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "自行分配學位正取通知",
+     "academic_year": "2026-27",
+     "source_text": "2026年3月31日將以電話及書面通知獲正取通知的學生家長其子女已獲學校納入其自行分配學位正取學生名單",
+     "evidence_url": "https://www2.keiheep.edu.hk/CustomPage/106/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A526-27.pdf",
+     "confidence": "verified",
+     "event_id": "443-2026_27-result-001",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-07-07",
+     "date_end": null,
+     "label": "中學學位分配結果公布",
+     "academic_year": "2026-27",
+     "source_text": "未獲正取通知的學生家長，請於2026年4月上旬至5月上旬向教育局遞交統一派位申請表。申請結果將於2026年7月7日公布。",
+     "evidence_url": "https://www2.keiheep.edu.hk/CustomPage/106/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A526-27.pdf",
+     "confidence": "verified",
+     "event_id": "443-2026_27-result-002",
+     "extracted_at": "2026-10-12T09:45:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-07-07",
+     "date_end": null,
+     "label": "中一轉校生入學申請開始",
+     "academic_year": "2026-27",
+     "source_text": "中一轉校生入學申請須知 申請表日期：2026年7月7日開始 （星期一至五上午8時至下午4時）",
+     "evidence_url": "https://www2.keiheep.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=106&pageId=451&nnnid=92",
+     "confidence": "verified",
+     "event_id": "443-2026_27-application_open-002",
+     "extracted_at": "2026-10-12T09:45:00"
     }
    ]
   }
