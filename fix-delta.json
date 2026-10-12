@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-08T14:57:01Z",
+ "updated_at": "2026-10-12T03:19:38Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -195,6 +195,21 @@
    "school": "455",
    "url": "https://www.cfss.edu.hk/en/event.php?wid=28",
    "label": "校曆（活動預告）"
+  },
+  {
+   "school": "59",
+   "url": "https://www.deliahw.edu.hk/index.php/hk/admissions-hk/admission-to-s1-hk",
+   "label": "中一入學（2027/28 內容頁）"
+  },
+  {
+   "school": "59",
+   "url": "https://www.deliahw.edu.hk/index.php/en/admissions/admissions-to-s1",
+   "label": "S1 Admissions"
+  },
+  {
+   "school": "273",
+   "url": "https://spcs.edu.hk/w/category/admissions/",
+   "label": "中一入學公告（分類頁）"
   }
  ],
  "demotes": []
