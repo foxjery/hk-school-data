@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-12T09:45:00",
+ "updated_at": "2026-10-14T09:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -21570,6 +21570,49 @@
      "confidence": "verified",
      "event_id": "443-2026_27-application_open-002",
      "extracted_at": "2026-10-12T09:45:00"
+    }
+   ]
+  },
+  "408": {
+   "name": "新亞中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2024-11-23",
+     "date_end": null,
+     "label": "學校資訊日",
+     "academic_year": "2025-26",
+     "source_text": "●活動日期：2024年11月23日(星期六) ●活動時間：上午9:00至下午2:30(上午8:30開幕禮)",
+     "evidence_url": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/9472/",
+     "confidence": "high",
+     "event_id": "408-2025_26-info_day-001",
+     "extracted_at": "2026-10-14T09:30:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-11-22",
+     "date_end": null,
+     "label": "學校資訊日",
+     "academic_year": "2026-27",
+     "source_text": "日期：2025年11月22日 (星期六) 時間：上午9:00至下午2:30 (8:30開幕禮)",
+     "evidence_url": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/10571/",
+     "confidence": "high",
+     "event_id": "408-2026_27-info_day-001",
+     "extracted_at": "2026-10-14T09:30:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "學校資訊日",
+     "academic_year": "2027-28",
+     "source_text": "日期：2026年11月21日 (星期六) 時間：上午9:00至下午2:30 (8:30開幕禮)",
+     "evidence_url": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/12150/",
+     "confidence": "high",
+     "event_id": "408-2027_28-info_day-001",
+     "extracted_at": "2026-10-14T09:30:00"
     }
    ]
   }
