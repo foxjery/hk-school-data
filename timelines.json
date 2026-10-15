@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-15T10:30:00",
+ "updated_at": "2026-10-15T11:45:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -20944,13 +20944,25 @@
      "type": "info_day",
      "date": "2026-12-05",
      "date_end": null,
-     "label": "校曆預告：中一資訊日 S1 Information Day & Exhibition",
+     "label": "中一資訊日 S1 Information Day & Learning Achievement Exhibition",
      "academic_year": "2027-28",
-     "source_text": "校曆（2026-27）School Calendar PDF 十二月週格「5 S1 Information Day & Exhibition」（PDF 文字層直讀，非 OCR；2026-12-05 為週六，與同系學校週六辦資訊日慣例吻合）",
-     "evidence_url": "https://twghwyyms.edu.hk/uploads/file/202609/8182ca1bc47f0cac22be820149daa527.pdf",
-     "confidence": "medium",
+     "source_text": "Secondary School Information Day and Learning Achievement Exhibition (to be held on December 5)",
+     "evidence_url": "https://twghwyyms.edu.hk/article/723",
+     "confidence": "high",
      "event_id": "76-2027_28-info_day-001",
-     "extracted_at": "2026-09-29T11:30:00"
+     "extracted_at": "2026-10-15T11:45:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-11-02",
+     "date_end": null,
+     "label": "升中資訊講座報名開始（額滿即止）",
+     "academic_year": "2027-28",
+     "source_text": "Registration for the Secondary School Information Session, English Taster Program, and Secondary School Interview Preparation Class will begin at 9:00 am on November 2 (Monday)",
+     "evidence_url": "https://twghwyyms.edu.hk/article/723",
+     "confidence": "high",
+     "event_id": "76-2027_28-application_open-001",
+     "extracted_at": "2026-10-15T11:45:00"
     }
    ]
   },
