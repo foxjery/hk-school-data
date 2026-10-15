@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-14T09:30:00",
+ "updated_at": "2026-10-15T10:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -21613,6 +21613,212 @@
      "confidence": "high",
      "event_id": "408-2027_28-info_day-001",
      "extracted_at": "2026-10-14T09:30:00"
+    }
+   ]
+  },
+  "67": {
+   "name": "東華三院鄺錫坤伉儷中學",
+   "school_type": "資助",
+   "banding_tier": "",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2024-11-09",
+     "date_end": "2025-01-16",
+     "label": "中一自行分配學位申請表派發開始（派表）",
+     "academic_year": "2025-26",
+     "source_text": "派表日期：09/11/2024 (星期六)至16/01/2025 (星期四)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/2025-2026%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%96%87%E7%89%88%E6%8C%87%E5%BC%95.pdf",
+     "confidence": "verified",
+     "event_id": "67-2025_26-application_open-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2025-01-02",
+     "date_end": "2025-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2025-26",
+     "source_text": "申請日期及時間：02/01/2025 (星期四)至16/01/2025(星期四)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/2025-2026%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%96%87%E7%89%88%E6%8C%87%E5%BC%95.pdf",
+     "confidence": "verified",
+     "event_id": "67-2025_26-application_open-002",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "interview",
+     "date": "2025-03-01",
+     "date_end": null,
+     "label": "中一自行分配學位面試日（所有申請者）",
+     "academic_year": "2025-26",
+     "source_text": "面試日期為01/03/2025 (星期六)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/2025-2026%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%96%87%E7%89%88%E6%8C%87%E5%BC%95.pdf",
+     "confidence": "verified",
+     "event_id": "67-2025_26-interview-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "本校將於 31/03/2025(星期二)致電及寄信通知正取學生家長其子女已獲學校納入其自行分配學位正取學生名單",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/2025-2026%E5%B9%B4%E5%BA%A6%E4%B8%AD%E6%96%87%E7%89%88%E6%8C%87%E5%BC%95.pdf",
+     "confidence": "verified",
+     "event_id": "67-2025_26-result-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "2026 年 1 月 2 日(星期五)至 1 月 16 日(星期五)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/2026-2027%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D(2026%E5%B9%B49%E6%9C%881%E6%97%A5%E5%85%A5%E5%AD%B8)%E7%94%B3%E8%AB%8B%E8%A1%A8%E6%A0%BC.pdf",
+     "confidence": "verified",
+     "event_id": "67-2026_27-application_open-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-14",
+     "date_end": null,
+     "label": "中一自行分配學位面試日（所有申請者）",
+     "academic_year": "2026-27",
+     "source_text": "所有申請人均獲安排面試。(14/03/2026 星期六實體)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/2026-2027%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D(2026%E5%B9%B49%E6%9C%881%E6%97%A5%E5%85%A5%E5%AD%B8)%E7%94%B3%E8%AB%8B%E8%A1%A8%E6%A0%BC.pdf",
+     "confidence": "verified",
+     "event_id": "67-2026_27-interview-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-07-07",
+     "date_end": null,
+     "label": "自行分配學位派位結果公佈（與統一派位同時）",
+     "academic_year": "2026-27",
+     "source_text": "申請自行分配學位結果將於 2026 年 7 月 7 日(星期二)與教育局統一派位結果同時公佈",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/2026-2027%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D(2026%E5%B9%B49%E6%9C%881%E6%97%A5%E5%85%A5%E5%AD%B8)%E7%94%B3%E8%AB%8B%E8%A1%A8%E6%A0%BC.pdf",
+     "confidence": "verified",
+     "event_id": "67-2026_27-result-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-07-08",
+     "date_end": "2026-07-10",
+     "label": "叩門申請（取表及遞交）",
+     "academic_year": "2026-27",
+     "source_text": "8-10/07/2026上午開始可到本校校務處取「申請入讀中一表格」或在校網下載有關表格",
+     "evidence_url": "https://www.twghsksk.edu.hk/tc/news_detail.php?wid=&id=37&cid=1",
+     "confidence": "verified",
+     "event_id": "67-2026_27-application_open-002",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-07-10",
+     "date_end": null,
+     "label": "叩門取錄結果通知（7月10日起）",
+     "academic_year": "2026-27",
+     "source_text": "取錄結果於10/07/2026以後通知",
+     "evidence_url": "https://www.twghsksk.edu.hk/tc/news_detail.php?wid=&id=37&cid=1",
+     "confidence": "verified",
+     "event_id": "67-2026_27-result-002",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-11-08",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請表派發開始（派表）",
+     "academic_year": "2027-28",
+     "source_text": "派表日期：08/11/2026 (星期日)至18/01/2027 (星期一)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
+     "confidence": "verified",
+     "event_id": "67-2027_28-application_open-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "申請日期及時間：04/01/2027 (星期一)至18/01/2027(星期一)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
+     "confidence": "verified",
+     "event_id": "67-2027_28-application_open-002",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-27",
+     "date_end": null,
+     "label": "中一自行分配學位面試日（所有申請者）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期為27/02/2027 (星期六)",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
+     "confidence": "verified",
+     "event_id": "67-2027_28-interview-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 31/03/2027(星期三)致電及寄信通知正取學生家長其子女已獲學校納入其自行分配學位正取學生名單",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
+     "confidence": "verified",
+     "event_id": "67-2027_28-result-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "自行分配學位派位結果公佈（與統一派位同時）",
+     "academic_year": "2027-28",
+     "source_text": "自行分配學位派位結果將於 06/07/2027 (星期二)在學生原來就讀之小學，與統一派位結果一併公佈",
+     "evidence_url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
+     "confidence": "verified",
+     "event_id": "67-2027_28-result-002",
+     "extracted_at": "2026-10-15T10:30:00"
+    }
+   ]
+  },
+  "143": {
+   "name": "加拿大神召會嘉智中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "接受申請日期：2026年1月2日至2026年1月16日",
+     "evidence_url": "https://www.kachi.edu.hk/uploads/image/202510/S1admis_cc.jpg",
+     "confidence": "high",
+     "event_id": "143-2026_27-application_open-001",
+     "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "若申請被接納，本校會在2026年3月31日（星期二）把結果透過書面及電話通知學生的家長",
+     "evidence_url": "https://www.kachi.edu.hk/uploads/image/202510/S1admis_cc.jpg",
+     "confidence": "high",
+     "event_id": "143-2026_27-result-001",
+     "extracted_at": "2026-10-15T10:30:00"
     }
    ]
   }

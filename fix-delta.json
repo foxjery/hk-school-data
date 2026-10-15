@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-15T06:18:00Z",
+ "updated_at": "2026-10-15T02:45:00Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -197,6 +197,11 @@
    "label": "校曆（活動預告）"
   },
   {
+   "school": "408",
+   "url": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/",
+   "label": "中一入學公告（學校消息分類頁）"
+  },
+  {
    "school": "59",
    "url": "https://www.deliahw.edu.hk/index.php/hk/admissions-hk/admission-to-s1-hk",
    "label": "中一入學（2027/28 內容頁）"
@@ -212,9 +217,14 @@
    "label": "中一入學公告（分類頁）"
   },
   {
-   "school": "408",
-   "url": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/",
-   "label": "中一入學公告（學校消息分類頁）"
+   "school": "67",
+   "url": "https://www.twghsksk.edu.hk/tc/news.php?cid=1",
+   "label": "最新消息列表（升中/叩門公告發佈處）"
+  },
+  {
+   "school": "67",
+   "url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
+   "label": "中一自行分配學位申請須知（2027-28 年度指引 PDF）"
   }
  ],
  "demotes": [],
