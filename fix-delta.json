@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-15T06:00:00Z",
+ "updated_at": "2026-10-15T06:18:00Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -221,7 +221,7 @@
  "seeds": [
   {
    "school": "408",
-   "title": "2026新亞中學資訊日",
+   "title": "2026新亞中學中一資訊日",
    "link": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/12150/",
    "deadline": "2026-11-21",
    "note": "11月21日(六) 9:00-14:30（8:30開幕禮）。#408單點接入配套種子（反饋後台10-11請求）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重复插入"
