@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-15T11:45:00",
+ "updated_at": "2026-10-20T15:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -2919,6 +2919,18 @@
      "confidence": "high",
      "event_id": "273-2027_28-application_open-001",
      "extracted_at": "2026-09-30T23:30:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2026-12-01",
+     "date_end": null,
+     "label": "中一入學申請截止（下午5時）",
+     "academic_year": "2027-28",
+     "source_text": "中一學位（2027-2028年）現已接受申請。截止日期為2026年12月1日(下午5時)。",
+     "evidence_url": "https://spcs.edu.hk/w/2026/10/10/%e4%b8%ad%e4%b8%80%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b2027-2028%e5%b9%b4-2/",
+     "confidence": "high",
+     "event_id": "273-2027_28-application_deadline-001",
+     "extracted_at": "2026-10-20T15:30:00"
     }
    ],
    "self_healing_active": false
