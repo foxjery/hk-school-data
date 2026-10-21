@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-20T15:30:00",
+ "updated_at": "2026-10-21T13:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -2813,6 +2813,30 @@
      "confidence": "single_source",
      "event_id": "265-2025_26-interview-001",
      "extracted_at": "2026-07-20T09:03:44"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-12-06",
+     "date_end": null,
+     "label": "學校資訊日（學生分享・升中講座・英語音樂劇・校園巡禮）",
+     "academic_year": "2026-27",
+     "source_text": "學校資訊日 | 學生分享•升中講座•英語音樂劇 | 校園巡禮•升中諮詢 | 2025年12月6日（星期六）",
+     "evidence_url": "https://kccshatin.edu.hk/news/2526/openday/openday_banner_chin.png",
+     "confidence": "high",
+     "event_id": "265-2026_27-info_day-001",
+     "extracted_at": "2026-10-21T13:30:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-02-14",
+     "date_end": null,
+     "label": "升中面試講座——成功面試要訣（家長／學生兩場）",
+     "academic_year": "2026-27",
+     "source_text": "升中面試講座—成功面試要訣 | 日期：2026年2月14日（星期六）| 時間：下午2:00至3:30（第一場）下午4:00至5:30（第二場）",
+     "evidence_url": "https://kccshatin.edu.hk/news/2526/f1_interview_talk/f1_interview_banner_animation_c.gif",
+     "confidence": "high",
+     "event_id": "265-2026_27-info_day-002",
+     "extracted_at": "2026-10-21T13:30:00"
     }
    ],
    "data_gap_reason": "no_public_admission_info",
@@ -11969,6 +11993,18 @@
      "confidence": "verified",
      "event_id": "352-2026_27-result-002",
      "extracted_at": "2026-08-28T09:52:02"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "PLHKS Open Day 開放日",
+     "academic_year": "2027-28",
+     "source_text": "We are delighted to invite you to our upcoming Open Day on 28th November, 2026 (Saturday)!",
+     "evidence_url": "https://www.plhks.edu.hk/en/plan_detail.php?cid=19&id=657",
+     "confidence": "high",
+     "event_id": "352-2027_28-info_day-001",
+     "extracted_at": "2026-10-21T13:30:00"
     }
    ],
    "self_healing_active": false
