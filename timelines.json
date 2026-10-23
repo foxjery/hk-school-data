@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-21T13:30:00",
+ "updated_at": "2026-10-23T09:15:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -7370,13 +7370,37 @@
      "type": "info_day",
      "date": "2026-11-15",
      "date_end": null,
-     "label": "校曆預告：School Information Day",
+     "label": "LTFC Information Day（1:00-5:00pm，資訊環節 3:00pm）",
      "academic_year": "2027-28",
-     "source_text": "15/11 School Information Day（16/11 Holiday after Information Day）",
-     "evidence_url": "https://www.ltfc.edu.hk/Website/index.php/about-ltfc/school-calendar.html",
-     "confidence": "medium",
+     "source_text": "2026-2027 LTFC INFORMATION DAY — 15 Nov 2026 (SUN) 1:00-5:00PM, Information session at 3:00pm；官方海報公告（2026-10-22 發佈）",
+     "evidence_url": "https://www.ltfc.edu.hk/Website/index.php/school-announcements",
+     "confidence": "high",
      "event_id": "194-2027_28-info_day-001",
-     "extracted_at": "2026-09-24T18:00:00"
+     "extracted_at": "2026-10-23T09:15:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-11-16",
+     "date_end": null,
+     "label": "S1 Admission 2027-28 開始接受申請（海報：Starts from 16 Nov 2026）",
+     "academic_year": "2027-28",
+     "source_text": "Secondary 1 Admission Starts from 16 Nov 2026（資訊日翌日，與 2025-11-17 規律一致）",
+     "evidence_url": "https://www.ltfc.edu.hk/Website/index.php/school-announcements",
+     "confidence": "high",
+     "event_id": "194-2027-28-application_open-001",
+     "extracted_at": "2026-10-23T09:15:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-10-28",
+     "date_end": null,
+     "label": "資訊日「小小教室」網上報名開始（早上8時，miniclassroom 表格）",
+     "academic_year": "2027-28",
+     "source_text": "「小小教室」將於2026年10月28日早上8時開始接受報名（ltfc.edu.hk/miniclassroom → Google 表格「林大輝中學學校資訊日：小小教室報名表格」）",
+     "evidence_url": "https://www.ltfc.edu.hk/miniclassroom",
+     "confidence": "high",
+     "event_id": "194-2027-28-info_day-002",
+     "extracted_at": "2026-10-23T09:15:00"
     }
    ],
    "self_healing_active": false
