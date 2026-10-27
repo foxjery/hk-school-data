@@ -3172,6 +3172,18 @@
           "confidence": "high",
           "event_id": "evt_dd9225d3",
           "extracted_at": "2026-04-29T10:01:28"
+        },
+        {
+          "type": "info_day",
+          "date": "2027-01-01",
+          "date_end": null,
+          "label": "校曆預告：小六升中講座（校曆列於1/1，日期待學校另行確認）",
+          "academic_year": "2027-28",
+          "source_text": "1/1 小六升中講座 Talk for Prospective S1 Students",
+          "evidence_url": "https://sttss.edu.hk/en/school/school-calendar",
+          "confidence": "medium",
+          "event_id": "262-2027_28-info_day-001",
+          "extracted_at": "2026-10-27T08:20:39"
         }
       ]
     },
@@ -8627,11 +8639,11 @@
           "type": "info_day",
           "date": "2026-11-14",
           "date_end": null,
-          "label": "待核实：中一資訊日",
+          "label": "中一資訊日",
           "academic_year": "2027-28",
-          "source_text": "校曆表 2026-11-14 中一資訊日（星期六）",
+          "source_text": "中一資訊日 Form 1 Information Day 2026-11-14（校曆表月曆接口 /calendar/getByMonth/2026/11）",
           "evidence_url": "https://www.wkc.edu.hk/page/926/?mid=9&m=5524878076470&s=5522965210295",
-          "confidence": "medium",
+          "confidence": "high",
           "event_id": "129-2027_28-info_day-001",
           "extracted_at": "2026-10-26T14:00:00"
         }
@@ -25178,11 +25190,11 @@
           "type": "info_day",
           "date": "2026-12-05",
           "date_end": null,
-          "label": "待核实：升中資訊日及開放日",
+          "label": "升中資訊日及開放日",
           "academic_year": "2027-28",
-          "source_text": "校曆表 12 月第 1 週星期六「升中資訊日及開放日」（日曆渲染讀取）",
+          "source_text": "升中資訊日及開放日 2026-12-05（校曆 Google Calendar 公開日曆原始數據）",
           "evidence_url": "https://www.cyt.edu.hk/",
-          "confidence": "medium",
+          "confidence": "high",
           "event_id": "327-2027_28-info_day-001",
           "extracted_at": "2026-10-26T14:00:00"
         }
