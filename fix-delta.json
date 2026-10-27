@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T14:26:38Z",
+  "updated_at": "2026-10-27T00:22:54Z",
   "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
   "corrections": [
     {
@@ -300,9 +300,85 @@
       "school": "432",
       "url": "https://www.cneccc.edu.hk/event-details/f-1-admission-information-day-2027-28-zhong-yi-ru-xue-zi-xun-ri-2027-28",
       "label": "中一入學資訊日 2027-28"
+    },
+    {
+      "school": "33",
+      "url": "https://www.tpk.edu.hk/",
+      "label": "學校首頁（博愛醫院鄧佩瓊紀念中學招生欄）"
+    },
+    {
+      "school": "161",
+      "url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2026%2F27",
+      "label": "S1 Admission 2026/27 頁"
+    },
+    {
+      "school": "277",
+      "url": "https://stpeter.edu.hk/",
+      "label": "學校首頁（聖伯多祿中學招生欄）"
+    },
+    {
+      "school": "12",
+      "url": "https://www.plk1984.edu.hk/CustomPage/26/2027-2028_sspaform.pdf",
+      "label": "2027-28 自行分配學位申請表"
+    },
+    {
+      "school": "119",
+      "url": "https://www.ktgss.edu.hk/CustomPage/38/1a.%20Schedule%20of%20application%20and%20admission%20for%20S1%20Discretionary%20places%202026-2027updated.pdf",
+      "label": "2026-27 中一自行分配日程及安排"
+    },
+    {
+      "school": "156",
+      "url": "https://www.tkogss.edu.hk/sites/default/files/2728xue_nian_zhong_yi_xue_wei_shen_qing_ri_cheng_ji_ru_xue_an_pai_.pdf",
+      "label": "2728 學年中一學位申請日程及入學安排"
+    },
+    {
+      "school": "175",
+      "url": "https://www.kcckc.edu.hk/wp-content/uploads/2026/09/2026-2027SASO-hk.pdf",
+      "label": "2026-27 中一收生章程（SASO）"
+    },
+    {
+      "school": "178",
+      "url": "https://www.spslt.edu.hk/_files/ugd/625b4c_9aa37ef23e9e45568704bc18c70b36f0.pdf",
+      "label": "中一資訊日海報 PDF"
+    },
+    {
+      "school": "231",
+      "url": "https://www.stmgss.edu.hk/attachment/upload/files/S.1%E5%85%A5%E5%AD%B8/27-28/2027-28%20S1%20DP%20Schedule.pdf",
+      "label": "2027-28 S1 自行分配日程"
+    },
+    {
+      "school": "233",
+      "url": "https://www.np2c.edu.hk/sites/default/files/2627_f1_transfer.pdf",
+      "label": "2627 中一轉校申請"
+    },
+    {
+      "school": "238",
+      "url": "https://www.puiying.edu.hk/data/upload/files/Admission/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F%E7%AB%A0%E7%A8%8B.pdf",
+      "label": "2027-28 中一自行收生章程"
+    },
+    {
+      "school": "430",
+      "url": "https://www.clsmss.edu.hk/uploads/files/School%20Profile/Admission/2026-27/00%20Schedule%20of%20Application%20and%20Admission%20for%20S1%20Places%20(2026-27).pdf",
+      "label": "2026-27 S1 申請及收生日程"
+    },
+    {
+      "school": "449",
+      "url": "https://www.cccmyc.edu.hk/gallery/webcontent/fdd0ed0fa19704aa8d9f7d93dd7fcd14.pdf",
+      "label": "中一招生海報 PDF"
+    },
+    {
+      "school": "238",
+      "url": "https://www.puiying.edu.hk/data/upload/files/SchoolCalendar/2627.pdf",
+      "label": "校曆 2026-27（Timetable 路徑遷移）"
     }
   ],
-  "demotes": [],
+  "demotes": [
+    {
+      "school": "238",
+      "url": "https://www.puiying.edu.hk/data/upload/files/Timetable/2627.pdf",
+      "reason": "2627 校曆遷至 SchoolCalendar 路徑，舊 URL 404（2026-10-27 curl 實測）"
+    }
+  ],
   "seeds": [
     {
       "school": "408",
