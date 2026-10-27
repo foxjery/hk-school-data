@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T00:22:54Z",
+  "updated_at": "2026-10-27T04:15:06Z",
   "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
   "corrections": [
     {
@@ -377,6 +377,76 @@
       "school": "238",
       "url": "https://www.puiying.edu.hk/data/upload/files/Timetable/2627.pdf",
       "reason": "2627 校曆遷至 SchoolCalendar 路徑，舊 URL 404（2026-10-27 curl 實測）"
+    },
+    {
+      "school": "117",
+      "url": "https://seksswk.edu.hk/doc/School_calendar_2627.pdf",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "144",
+      "url": "http://www.calfss.edu.hk/Content/03_school_info/03_school_calendar/print_calendar.aspx",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "150",
+      "url": "https://www.ptcc.edu.hk/en/calendar/index",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "160",
+      "url": "https://www.clementi.edu.hk/tc/calendar.php?wid=365",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "167",
+      "url": "https://www.ktls.edu.hk/wp-content/uploads/2026/09/School-Calendar-2026-2027.pdf",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "189",
+      "url": "https://www.lkcss.edu.hk/uploads/files/calendar_26-27.pdf",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "350",
+      "url": "https://www.cckln.edu.hk/en/images/01_TheSchool/School_Calendar.pdf",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "406",
+      "url": "https://www.lkpfc.edu.hk/tc/calendar",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "23",
+      "url": "https://pokok.edu.hk/joomla/index.php/school-information/school-information-2/studentcalendar",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "57",
+      "url": "https://www.deliagp.edu.hk/school-calendar",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "80",
+      "url": "https://secondary.tccs.edu.hk/tc/school-calendar",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "240",
+      "url": "https://www.cymcac.edu.hk/doc/school_calendar.pdf",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "313",
+      "url": "https://sscc.edu.hk/resources/sch/cal/26-27schoolcalendar.pdf",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+    },
+    {
+      "school": "343",
+      "url": "https://www.newman.edu.hk/tc/calendar.php?wid=23",
+      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
     }
   ],
   "seeds": [
