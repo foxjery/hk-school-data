@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-10-27T05:31:38",
+  "updated_at": "2026-10-27T08:47:05",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -841,6 +841,18 @@
           "confidence": "high",
           "event_id": "61-2026_27-result-001",
           "extracted_at": "2026-08-28T09:52:02"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-05",
+          "date_end": null,
+          "label": "2027-28中一入學資訊日（首頁公告，報名表連結）",
+          "academic_year": "2027-28",
+          "source_text": "2027-28中一入學資訊日（5/12/2026）報名表",
+          "evidence_url": "https://www.twghczm.edu.hk/",
+          "confidence": "high",
+          "event_id": "61-2027_28-info_day-001",
+          "extracted_at": "2026-10-27T08:47:05"
         }
       ],
       "self_healing_active": false
@@ -8354,6 +8366,18 @@
           "confidence": "high",
           "event_id": "452-2026_27-info_day-001",
           "extracted_at": "2026-10-25T12:11:29"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "中一入學資訊日（上午10:00–12:30／下午2:00–4:30，需網上報名）",
+          "academic_year": "2027-28",
+          "source_text": "本校將於 2026 年 11 月 28 日（星期六）舉行中一入學資訊日。",
+          "evidence_url": "https://www.ccchwc.edu.hk/sites/default/files/s1_admission_information_day_2026.pdf",
+          "confidence": "high",
+          "event_id": "452-2027_28-info_day-001",
+          "extracted_at": "2026-10-27T08:47:05"
         }
       ],
       "self_healing_active": false
@@ -8806,6 +8830,18 @@
           "evidence_url": "https://www.kingling.edu.hk/particulars-2026-2027-s1-admission-information-day",
           "event_id": "163-2026-27-info_day-001",
           "confidence": "high"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-12-06",
+          "date_end": null,
+          "label": "S1 Information Day",
+          "academic_year": "2027-28",
+          "source_text": "{ \"date\": \"2026-12-06\", \"date_to\": \"2026-12-06\", \"bg\": \"green\", \"note\": [\"S1 Information Day\"] }",
+          "evidence_url": "https://www.kingling.edu.hk/",
+          "confidence": "high",
+          "event_id": "163-2027_28-info_day-001",
+          "extracted_at": "2026-10-27T08:47:05"
         }
       ],
       "self_healing_active": false
@@ -10414,6 +10450,18 @@
           "confidence": "verified",
           "event_id": "65-2026_27-interview-001",
           "extracted_at": "2026-07-25T19:34:00"
+        },
+        {
+          "type": "info_day",
+          "date": "2026-11-28",
+          "date_end": null,
+          "label": "小六資訊日：校園參觀＋入學資訊講座（講座需網上登記）",
+          "academic_year": "2027-28",
+          "source_text": "our school will hold an Information Day for Primary 6 students and parents on 28 November 2026 (Sat). The event will consist of two parts: a Campus Tour and an Admission Information Seminar.",
+          "evidence_url": "https://www.twghwfns.edu.hk/information/form-one-admission/",
+          "confidence": "high",
+          "event_id": "65-2027_28-info_day-001",
+          "extracted_at": "2026-10-27T08:47:05"
         }
       ],
       "self_healing_active": false
