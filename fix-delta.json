@@ -1,475 +1,480 @@
 {
-  "version": 1,
-  "updated_at": "2026-10-27T04:15:06Z",
-  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
-  "corrections": [
-    {
-      "school": "9",
-      "title": "Application for Secondary One Discretionary Places",
-      "oldLink": "https://www.plkchc.edu.hk/",
-      "newLink": "https://www.plkchc.edu.hk/admission/84",
-      "reason": "relink"
-    },
-    {
-      "school": "21",
-      "title": "S.1 Admission (DP)",
-      "oldLink": "https://www.ppaulvi.edu.hk/en",
-      "newLink": "https://www.ppaulvi.edu.hk/en/admission",
-      "reason": "relink"
-    },
-    {
-      "school": "24",
-      "title": "F.1 Discretionary Places Application 中一入學申請",
-      "oldLink": "http://www.chp.gov.hk/",
-      "newLink": null,
-      "reason": "remove"
-    },
-    {
-      "school": "100",
-      "title": "「中一面試日」",
-      "oldLink": "https://www.bhscmc.edu.hk/",
-      "newLink": "https://www.bhscmc.edu.hk/latest_news",
-      "reason": "relink"
-    },
-    {
-      "school": "142",
-      "title": "「中一自行分配學位」正取學生通知安排（3月31日）",
-      "oldLink": "https://www.ccst.edu.hk/%e6%9c%ac%e6%a0%a1%e8%b3%87%e6%96%99/",
-      "newLink": null,
-      "reason": "remove"
-    },
-    {
-      "school": "147",
-      "title": "入學資料",
-      "oldLink": "https://www.cbtmss.edu.hk/",
-      "newLink": "https://www.cbtmss.edu.hk/page/653/?m=5144483866992",
-      "reason": "relink"
-    },
-    {
-      "school": "166",
-      "title": "入學申請",
-      "oldLink": "https://www.ktsss.edu.hk/tc/%20void(0);",
-      "newLink": null,
-      "reason": "remove"
-    },
-    {
-      "school": "166",
-      "title": "入學申請",
-      "oldLink": "https://www.ktsss.edu.hk/tc/f1_enrol/%20void(0);",
-      "newLink": null,
-      "reason": "remove"
-    },
-    {
-      "school": "173",
-      "title": "2026-2027 中一自行分配學位 現在接受申請",
-      "oldLink": "https://www.ctshkpcc.edu.hk/tc",
-      "newLink": "https://www.ctshkpcc.edu.hk/tc/latest_news",
-      "reason": "relink"
-    },
-    {
-      "school": "185",
-      "title": "中一簡介會 2025",
-      "oldLink": "https://www.lstyoungkhl.edu.hk/",
-      "newLink": "https://www.lstyoungkhl.edu.hk/latest_news",
-      "reason": "relink"
-    },
-    {
-      "school": "213",
-      "title": "中一入學申請",
-      "oldLink": "https://www.mcs.edu.hk/",
-      "newLink": "https://www.mcs.edu.hk/form-one-admission",
-      "reason": "relink"
-    },
-    {
-      "school": "261",
-      "title": "入學申請",
-      "oldLink": "http://mobilelab.hoyu.edu.hk/",
-      "newLink": "https://ss.hoyu.edu.hk/入學申請",
-      "reason": "relink"
-    },
-    {
-      "school": "263",
-      "title": "S1 Admission Talk 中一入學簡介會",
-      "oldLink": "https://www.stgss.edu.hk/",
-      "newLink": "https://www.stgss.edu.hk/category/latest-news/",
-      "reason": "relink"
-    },
-    {
-      "school": "264",
-      "title": "Conviction Admission Application S1 Residual Places Apply Now",
-      "oldLink": "https://www2.pyc.edu.hk/musical/2026/index.html",
-      "newLink": null,
-      "reason": "remove"
-    },
-    {
-      "school": "278",
-      "title": "中一自行分配學位資料",
-      "oldLink": "https://www.sfac.edu.hk/",
-      "newLink": "https://www.sfac.edu.hk/site/view?name=%E8%BE%A6%E5%AD%B8%E5%AE%97%E6%97%A8%E5%8F%8A%E7%9B%AE%E6%A8%99",
-      "reason": "relink"
-    },
-    {
-      "school": "296",
-      "title": "Application for Secondary One Discretionary Places…（05/01/2026）",
-      "oldLink": "https://www.skhtst.edu.hk",
-      "newLink": "https://www.skhtst.edu.hk/category/news/",
-      "reason": "relink"
-    },
-    {
-      "school": "309",
-      "title": "S1 Admission Talk",
-      "oldLink": "https://www.sjc.edu.hk/",
-      "newLink": "https://www.sjc.edu.hk/admission/",
-      "reason": "relink"
-    },
-    {
-      "school": "354",
-      "title": "2026-2027年度中一自行分配學位申請程序",
-      "oldLink": "https://www.pentecostalschool.edu.hk/",
-      "newLink": "https://www.pentecostalschool.edu.hk/latest_news",
-      "reason": "relink"
-    },
-    {
-      "school": "365",
-      "title": "入學申請",
-      "oldLink": "https://www.yy1.edu.hk/%20void(0);",
-      "newLink": null,
-      "reason": "remove"
-    },
-    {
-      "school": "395",
-      "title": "升中資訊日 (13/12/2025)（13/12/2025）",
-      "oldLink": "https://ablmcc.edu.hk/",
-      "newLink": "https://ablmcc.edu.hk/activities",
-      "reason": "relink"
-    },
-    {
-      "school": "435",
-      "title": "2026/27學年「中一自行分配學位」",
-      "oldLink": "https://www.fywss.edu.hk",
-      "newLink": "https://www.fywss.edu.hk/category/news-feed/",
-      "reason": "relink"
-    },
-    {
-      "school": "442",
-      "title": "2027-28 S1 Discretionary Places Application",
-      "oldLink": "https://drive.google.com/drive/",
-      "newLink": null,
-      "reason": "remove"
-    },
-    {
-      "school": "448",
-      "title": "S.1 Discretionary Places Admission Second Intervie…",
-      "oldLink": "https://www.cccmkc.edu.hk/en",
-      "newLink": "https://www.cccmkc.edu.hk/en/latest_news",
-      "reason": "relink"
-    }
-  ],
-  "backfills": [
-    {
-      "school": "133",
-      "url": "https://www.ttca.edu.hk/infoday",
-      "label": "資訊日 Info Day（逐年復用）"
-    },
-    {
-      "school": "148",
-      "url": "https://www.carmelss.edu.hk/site/about-school/carmel-information-day-2026/",
-      "label": "資訊日 2026（10/17）"
-    },
-    {
-      "school": "275",
-      "url": "https://www.spcc.edu.hk/admissions/local-admissions/secondary/f1",
-      "label": "F1 入學"
-    },
-    {
-      "school": "399",
-      "url": "https://www.hys.edu.hk/form-one-admission-2026-2027-intake/",
-      "label": "中一入學（逐年復用同 URL）"
-    },
-    {
-      "school": "420",
-      "url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
-      "label": "G7 入學 2027-28"
-    },
-    {
-      "school": "455",
-      "url": "https://www.cfss.edu.hk/en/event.php?wid=28",
-      "label": "校曆（活動預告）"
-    },
-    {
-      "school": "408",
-      "url": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/",
-      "label": "中一入學公告（學校消息分類頁）"
-    },
-    {
-      "school": "59",
-      "url": "https://www.deliahw.edu.hk/index.php/hk/admissions-hk/admission-to-s1-hk",
-      "label": "中一入學（2027/28 內容頁）"
-    },
-    {
-      "school": "59",
-      "url": "https://www.deliahw.edu.hk/index.php/en/admissions/admissions-to-s1",
-      "label": "S1 Admissions"
-    },
-    {
-      "school": "273",
-      "url": "https://spcs.edu.hk/w/category/admissions/",
-      "label": "中一入學公告（分類頁）"
-    },
-    {
-      "school": "67",
-      "url": "https://www.twghsksk.edu.hk/tc/news.php?cid=1",
-      "label": "最新消息列表（升中/叩門公告發佈處）"
-    },
-    {
-      "school": "67",
-      "url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
-      "label": "中一自行分配學位申請須知（2027-28 年度指引 PDF）"
-    },
-    {
-      "school": "352",
-      "url": "https://www.plhks.edu.hk/en/plan.php?wid=185&cid=19",
-      "label": "公告欄 Announcements（新屆招生公告固定入口）"
-    },
-    {
-      "school": "352",
-      "url": "https://www.plhks.edu.hk/en/news.php?wid=143&cid=1",
-      "label": "NEWS AND ACHIEVEMENT 新聞列表"
-    },
-    {
-      "school": "265",
-      "url": "https://kccshatin.edu.hk/news",
-      "label": "最新消息 Latest News（網站重建後新 feed）"
-    },
-    {
-      "school": "8",
-      "url": "https://www.plktytc.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=579&pageId=792",
-      "label": "中一自行分配 2027-28 資訊"
-    },
-    {
-      "school": "14",
-      "url": "https://www.plklfc.edu.hk/en/application-form-1-admission-academic-year-202728",
-      "label": "中一申請 2027-28"
-    },
-    {
-      "school": "140",
-      "url": "https://www.skss.edu.hk/2027-2028-s1-admission-talk/",
-      "label": "入學講座 2027-28"
-    },
-    {
-      "school": "151",
-      "url": "https://www.sfcc.edu.hk/File/SFCC_Note_DP_2027_2028.pdf",
-      "label": "自行分配申請須知 2027-28"
-    },
-    {
-      "school": "178",
-      "url": "https://www.spslt.edu.hk/s1-interview-list",
-      "label": "中一資訊日及申請（內嵌 PDF）"
-    },
-    {
-      "school": "208",
-      "url": "https://www.mossjss.edu.hk/tc/admission/form-one-admission-info",
-      "label": "中一入學資訊"
-    },
-    {
-      "school": "237",
-      "url": "https://admission.pkms.edu.hk/event/1213",
-      "label": "活動報名（流水號逐年加 1）"
-    },
-    {
-      "school": "288",
-      "url": "https://www.lamwoo.edu.hk/notice.php?cate=16",
-      "label": "中一資訊日通告列表"
-    },
-    {
-      "school": "356",
-      "url": "https://www.nyss.edu.hk/node/627",
-      "label": "升中資訊日"
-    },
-    {
-      "school": "383",
-      "url": "https://www.bhss.edu.hk/8_admission/A1_Discretionary_Places_s1.php",
-      "label": "自行分配學位"
-    },
-    {
-      "school": "400",
-      "url": "https://www.cpss.edu.hk/tc/event.php?wid=29",
-      "label": "校曆（開放日）"
-    },
-    {
-      "school": "432",
-      "url": "https://www.cneccc.edu.hk/event-details/f-1-admission-information-day-2027-28-zhong-yi-ru-xue-zi-xun-ri-2027-28",
-      "label": "中一入學資訊日 2027-28"
-    },
-    {
-      "school": "33",
-      "url": "https://www.tpk.edu.hk/",
-      "label": "學校首頁（博愛醫院鄧佩瓊紀念中學招生欄）"
-    },
-    {
-      "school": "161",
-      "url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2026%2F27",
-      "label": "S1 Admission 2026/27 頁"
-    },
-    {
-      "school": "277",
-      "url": "https://stpeter.edu.hk/",
-      "label": "學校首頁（聖伯多祿中學招生欄）"
-    },
-    {
-      "school": "12",
-      "url": "https://www.plk1984.edu.hk/CustomPage/26/2027-2028_sspaform.pdf",
-      "label": "2027-28 自行分配學位申請表"
-    },
-    {
-      "school": "119",
-      "url": "https://www.ktgss.edu.hk/CustomPage/38/1a.%20Schedule%20of%20application%20and%20admission%20for%20S1%20Discretionary%20places%202026-2027updated.pdf",
-      "label": "2026-27 中一自行分配日程及安排"
-    },
-    {
-      "school": "156",
-      "url": "https://www.tkogss.edu.hk/sites/default/files/2728xue_nian_zhong_yi_xue_wei_shen_qing_ri_cheng_ji_ru_xue_an_pai_.pdf",
-      "label": "2728 學年中一學位申請日程及入學安排"
-    },
-    {
-      "school": "175",
-      "url": "https://www.kcckc.edu.hk/wp-content/uploads/2026/09/2026-2027SASO-hk.pdf",
-      "label": "2026-27 中一收生章程（SASO）"
-    },
-    {
-      "school": "178",
-      "url": "https://www.spslt.edu.hk/_files/ugd/625b4c_9aa37ef23e9e45568704bc18c70b36f0.pdf",
-      "label": "中一資訊日海報 PDF"
-    },
-    {
-      "school": "231",
-      "url": "https://www.stmgss.edu.hk/attachment/upload/files/S.1%E5%85%A5%E5%AD%B8/27-28/2027-28%20S1%20DP%20Schedule.pdf",
-      "label": "2027-28 S1 自行分配日程"
-    },
-    {
-      "school": "233",
-      "url": "https://www.np2c.edu.hk/sites/default/files/2627_f1_transfer.pdf",
-      "label": "2627 中一轉校申請"
-    },
-    {
-      "school": "238",
-      "url": "https://www.puiying.edu.hk/data/upload/files/Admission/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F%E7%AB%A0%E7%A8%8B.pdf",
-      "label": "2027-28 中一自行收生章程"
-    },
-    {
-      "school": "430",
-      "url": "https://www.clsmss.edu.hk/uploads/files/School%20Profile/Admission/2026-27/00%20Schedule%20of%20Application%20and%20Admission%20for%20S1%20Places%20(2026-27).pdf",
-      "label": "2026-27 S1 申請及收生日程"
-    },
-    {
-      "school": "449",
-      "url": "https://www.cccmyc.edu.hk/gallery/webcontent/fdd0ed0fa19704aa8d9f7d93dd7fcd14.pdf",
-      "label": "中一招生海報 PDF"
-    },
-    {
-      "school": "238",
-      "url": "https://www.puiying.edu.hk/data/upload/files/SchoolCalendar/2627.pdf",
-      "label": "校曆 2026-27（Timetable 路徑遷移）"
-    }
-  ],
-  "demotes": [
-    {
-      "school": "238",
-      "url": "https://www.puiying.edu.hk/data/upload/files/Timetable/2627.pdf",
-      "reason": "2627 校曆遷至 SchoolCalendar 路徑，舊 URL 404（2026-10-27 curl 實測）"
-    },
-    {
-      "school": "117",
-      "url": "https://seksswk.edu.hk/doc/School_calendar_2627.pdf",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "144",
-      "url": "http://www.calfss.edu.hk/Content/03_school_info/03_school_calendar/print_calendar.aspx",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "150",
-      "url": "https://www.ptcc.edu.hk/en/calendar/index",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "160",
-      "url": "https://www.clementi.edu.hk/tc/calendar.php?wid=365",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "167",
-      "url": "https://www.ktls.edu.hk/wp-content/uploads/2026/09/School-Calendar-2026-2027.pdf",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "189",
-      "url": "https://www.lkcss.edu.hk/uploads/files/calendar_26-27.pdf",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "350",
-      "url": "https://www.cckln.edu.hk/en/images/01_TheSchool/School_Calendar.pdf",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "406",
-      "url": "https://www.lkpfc.edu.hk/tc/calendar",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "23",
-      "url": "https://pokok.edu.hk/joomla/index.php/school-information/school-information-2/studentcalendar",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "57",
-      "url": "https://www.deliagp.edu.hk/school-calendar",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "80",
-      "url": "https://secondary.tccs.edu.hk/tc/school-calendar",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "240",
-      "url": "https://www.cymcac.edu.hk/doc/school_calendar.pdf",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "313",
-      "url": "https://sscc.edu.hk/resources/sch/cal/26-27schoolcalendar.pdf",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    },
-    {
-      "school": "343",
-      "url": "https://www.newman.edu.hk/tc/calendar.php?wid=23",
-      "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
-    }
-  ],
-  "seeds": [
-    {
-      "school": "408",
-      "title": "2026新亞中學中一資訊日",
-      "link": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/12150/",
-      "deadline": "2026-11-21",
-      "note": "11月21日(六) 9:00-14:30（8:30開幕禮）。#408單點接入配套種子（反饋後台10-11請求）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重复插入"
-    },
-    {
-      "school": "352",
-      "title": "2026五旬節林漢光中學中一開放日",
-      "link": "https://www.plhks.edu.hk/en/plan_detail.php?cid=19&id=657",
-      "deadline": "2026-11-28",
-      "note": "11月28日(六) 開放日；報名10月下旬開放（學校9/14公告）。#352單點維護配套種子（2026-10-21 批次）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重複插入"
-    },
-    {
-      "school": "194",
-      "title": "2026林大輝中學中一資訊日",
-      "link": "https://www.ltfc.edu.hk/miniclassroom",
-      "deadline": "2026-11-15",
-      "note": "11月15日(日) 13:00-17:00（資訊環節15:00）；「小小教室」體驗課網上報名10月28日08:00開放（miniclassroom→Google表格，先到先得）；S1申請11月16日開始。#194海報漏報配套種子（2026-10-23）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重複插入"
-    }
-  ]
+ "version": 1,
+ "updated_at": "2026-10-28T03:35:56Z",
+ "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
+ "corrections": [
+  {
+   "school": "9",
+   "title": "Application for Secondary One Discretionary Places",
+   "oldLink": "https://www.plkchc.edu.hk/",
+   "newLink": "https://www.plkchc.edu.hk/admission/84",
+   "reason": "relink"
+  },
+  {
+   "school": "21",
+   "title": "S.1 Admission (DP)",
+   "oldLink": "https://www.ppaulvi.edu.hk/en",
+   "newLink": "https://www.ppaulvi.edu.hk/en/admission",
+   "reason": "relink"
+  },
+  {
+   "school": "24",
+   "title": "F.1 Discretionary Places Application 中一入學申請",
+   "oldLink": "http://www.chp.gov.hk/",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "100",
+   "title": "「中一面試日」",
+   "oldLink": "https://www.bhscmc.edu.hk/",
+   "newLink": "https://www.bhscmc.edu.hk/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "142",
+   "title": "「中一自行分配學位」正取學生通知安排（3月31日）",
+   "oldLink": "https://www.ccst.edu.hk/%e6%9c%ac%e6%a0%a1%e8%b3%87%e6%96%99/",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "147",
+   "title": "入學資料",
+   "oldLink": "https://www.cbtmss.edu.hk/",
+   "newLink": "https://www.cbtmss.edu.hk/page/653/?m=5144483866992",
+   "reason": "relink"
+  },
+  {
+   "school": "166",
+   "title": "入學申請",
+   "oldLink": "https://www.ktsss.edu.hk/tc/%20void(0);",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "166",
+   "title": "入學申請",
+   "oldLink": "https://www.ktsss.edu.hk/tc/f1_enrol/%20void(0);",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "173",
+   "title": "2026-2027 中一自行分配學位 現在接受申請",
+   "oldLink": "https://www.ctshkpcc.edu.hk/tc",
+   "newLink": "https://www.ctshkpcc.edu.hk/tc/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "185",
+   "title": "中一簡介會 2025",
+   "oldLink": "https://www.lstyoungkhl.edu.hk/",
+   "newLink": "https://www.lstyoungkhl.edu.hk/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "213",
+   "title": "中一入學申請",
+   "oldLink": "https://www.mcs.edu.hk/",
+   "newLink": "https://www.mcs.edu.hk/form-one-admission",
+   "reason": "relink"
+  },
+  {
+   "school": "261",
+   "title": "入學申請",
+   "oldLink": "http://mobilelab.hoyu.edu.hk/",
+   "newLink": "https://ss.hoyu.edu.hk/入學申請",
+   "reason": "relink"
+  },
+  {
+   "school": "263",
+   "title": "S1 Admission Talk 中一入學簡介會",
+   "oldLink": "https://www.stgss.edu.hk/",
+   "newLink": "https://www.stgss.edu.hk/category/latest-news/",
+   "reason": "relink"
+  },
+  {
+   "school": "264",
+   "title": "Conviction Admission Application S1 Residual Places Apply Now",
+   "oldLink": "https://www2.pyc.edu.hk/musical/2026/index.html",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "278",
+   "title": "中一自行分配學位資料",
+   "oldLink": "https://www.sfac.edu.hk/",
+   "newLink": "https://www.sfac.edu.hk/site/view?name=%E8%BE%A6%E5%AD%B8%E5%AE%97%E6%97%A8%E5%8F%8A%E7%9B%AE%E6%A8%99",
+   "reason": "relink"
+  },
+  {
+   "school": "296",
+   "title": "Application for Secondary One Discretionary Places…（05/01/2026）",
+   "oldLink": "https://www.skhtst.edu.hk",
+   "newLink": "https://www.skhtst.edu.hk/category/news/",
+   "reason": "relink"
+  },
+  {
+   "school": "309",
+   "title": "S1 Admission Talk",
+   "oldLink": "https://www.sjc.edu.hk/",
+   "newLink": "https://www.sjc.edu.hk/admission/",
+   "reason": "relink"
+  },
+  {
+   "school": "354",
+   "title": "2026-2027年度中一自行分配學位申請程序",
+   "oldLink": "https://www.pentecostalschool.edu.hk/",
+   "newLink": "https://www.pentecostalschool.edu.hk/latest_news",
+   "reason": "relink"
+  },
+  {
+   "school": "365",
+   "title": "入學申請",
+   "oldLink": "https://www.yy1.edu.hk/%20void(0);",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "395",
+   "title": "升中資訊日 (13/12/2025)（13/12/2025）",
+   "oldLink": "https://ablmcc.edu.hk/",
+   "newLink": "https://ablmcc.edu.hk/activities",
+   "reason": "relink"
+  },
+  {
+   "school": "435",
+   "title": "2026/27學年「中一自行分配學位」",
+   "oldLink": "https://www.fywss.edu.hk",
+   "newLink": "https://www.fywss.edu.hk/category/news-feed/",
+   "reason": "relink"
+  },
+  {
+   "school": "442",
+   "title": "2027-28 S1 Discretionary Places Application",
+   "oldLink": "https://drive.google.com/drive/",
+   "newLink": null,
+   "reason": "remove"
+  },
+  {
+   "school": "448",
+   "title": "S.1 Discretionary Places Admission Second Intervie…",
+   "oldLink": "https://www.cccmkc.edu.hk/en",
+   "newLink": "https://www.cccmkc.edu.hk/en/latest_news",
+   "reason": "relink"
+  }
+ ],
+ "backfills": [
+  {
+   "school": "133",
+   "url": "https://www.ttca.edu.hk/infoday",
+   "label": "資訊日 Info Day（逐年復用）"
+  },
+  {
+   "school": "148",
+   "url": "https://www.carmelss.edu.hk/site/about-school/carmel-information-day-2026/",
+   "label": "資訊日 2026（10/17）"
+  },
+  {
+   "school": "275",
+   "url": "https://www.spcc.edu.hk/admissions/local-admissions/secondary/f1",
+   "label": "F1 入學"
+  },
+  {
+   "school": "399",
+   "url": "https://www.hys.edu.hk/form-one-admission-2026-2027-intake/",
+   "label": "中一入學（逐年復用同 URL）"
+  },
+  {
+   "school": "420",
+   "url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
+   "label": "G7 入學 2027-28"
+  },
+  {
+   "school": "455",
+   "url": "https://www.cfss.edu.hk/en/event.php?wid=28",
+   "label": "校曆（活動預告）"
+  },
+  {
+   "school": "408",
+   "url": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/",
+   "label": "中一入學公告（學校消息分類頁）"
+  },
+  {
+   "school": "59",
+   "url": "https://www.deliahw.edu.hk/index.php/hk/admissions-hk/admission-to-s1-hk",
+   "label": "中一入學（2027/28 內容頁）"
+  },
+  {
+   "school": "59",
+   "url": "https://www.deliahw.edu.hk/index.php/en/admissions/admissions-to-s1",
+   "label": "S1 Admissions"
+  },
+  {
+   "school": "273",
+   "url": "https://spcs.edu.hk/w/category/admissions/",
+   "label": "中一入學公告（分類頁）"
+  },
+  {
+   "school": "67",
+   "url": "https://www.twghsksk.edu.hk/tc/news.php?cid=1",
+   "label": "最新消息列表（升中/叩門公告發佈處）"
+  },
+  {
+   "school": "67",
+   "url": "https://www.twghsksk.edu.hk/attachment/upload/files/%E4%B8%AD%E6%96%87%E6%8C%87%E5%BC%95%202027.pdf",
+   "label": "中一自行分配學位申請須知（2027-28 年度指引 PDF）"
+  },
+  {
+   "school": "352",
+   "url": "https://www.plhks.edu.hk/en/plan.php?wid=185&cid=19",
+   "label": "公告欄 Announcements（新屆招生公告固定入口）"
+  },
+  {
+   "school": "352",
+   "url": "https://www.plhks.edu.hk/en/news.php?wid=143&cid=1",
+   "label": "NEWS AND ACHIEVEMENT 新聞列表"
+  },
+  {
+   "school": "265",
+   "url": "https://kccshatin.edu.hk/news",
+   "label": "最新消息 Latest News（網站重建後新 feed）"
+  },
+  {
+   "school": "8",
+   "url": "https://www.plktytc.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=579&pageId=792",
+   "label": "中一自行分配 2027-28 資訊"
+  },
+  {
+   "school": "14",
+   "url": "https://www.plklfc.edu.hk/en/application-form-1-admission-academic-year-202728",
+   "label": "中一申請 2027-28"
+  },
+  {
+   "school": "140",
+   "url": "https://www.skss.edu.hk/2027-2028-s1-admission-talk/",
+   "label": "入學講座 2027-28"
+  },
+  {
+   "school": "151",
+   "url": "https://www.sfcc.edu.hk/File/SFCC_Note_DP_2027_2028.pdf",
+   "label": "自行分配申請須知 2027-28"
+  },
+  {
+   "school": "178",
+   "url": "https://www.spslt.edu.hk/s1-interview-list",
+   "label": "中一資訊日及申請（內嵌 PDF）"
+  },
+  {
+   "school": "208",
+   "url": "https://www.mossjss.edu.hk/tc/admission/form-one-admission-info",
+   "label": "中一入學資訊"
+  },
+  {
+   "school": "237",
+   "url": "https://admission.pkms.edu.hk/event/1213",
+   "label": "活動報名（流水號逐年加 1）"
+  },
+  {
+   "school": "288",
+   "url": "https://www.lamwoo.edu.hk/notice.php?cate=16",
+   "label": "中一資訊日通告列表"
+  },
+  {
+   "school": "356",
+   "url": "https://www.nyss.edu.hk/node/627",
+   "label": "升中資訊日"
+  },
+  {
+   "school": "383",
+   "url": "https://www.bhss.edu.hk/8_admission/A1_Discretionary_Places_s1.php",
+   "label": "自行分配學位"
+  },
+  {
+   "school": "400",
+   "url": "https://www.cpss.edu.hk/tc/event.php?wid=29",
+   "label": "校曆（開放日）"
+  },
+  {
+   "school": "432",
+   "url": "https://www.cneccc.edu.hk/event-details/f-1-admission-information-day-2027-28-zhong-yi-ru-xue-zi-xun-ri-2027-28",
+   "label": "中一入學資訊日 2027-28"
+  },
+  {
+   "school": "33",
+   "url": "https://www.tpk.edu.hk/",
+   "label": "學校首頁（博愛醫院鄧佩瓊紀念中學招生欄）"
+  },
+  {
+   "school": "161",
+   "url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2026%2F27",
+   "label": "S1 Admission 2026/27 頁"
+  },
+  {
+   "school": "277",
+   "url": "https://stpeter.edu.hk/",
+   "label": "學校首頁（聖伯多祿中學招生欄）"
+  },
+  {
+   "school": "12",
+   "url": "https://www.plk1984.edu.hk/CustomPage/26/2027-2028_sspaform.pdf",
+   "label": "2027-28 自行分配學位申請表"
+  },
+  {
+   "school": "119",
+   "url": "https://www.ktgss.edu.hk/CustomPage/38/1a.%20Schedule%20of%20application%20and%20admission%20for%20S1%20Discretionary%20places%202026-2027updated.pdf",
+   "label": "2026-27 中一自行分配日程及安排"
+  },
+  {
+   "school": "156",
+   "url": "https://www.tkogss.edu.hk/sites/default/files/2728xue_nian_zhong_yi_xue_wei_shen_qing_ri_cheng_ji_ru_xue_an_pai_.pdf",
+   "label": "2728 學年中一學位申請日程及入學安排"
+  },
+  {
+   "school": "175",
+   "url": "https://www.kcckc.edu.hk/wp-content/uploads/2026/09/2026-2027SASO-hk.pdf",
+   "label": "2026-27 中一收生章程（SASO）"
+  },
+  {
+   "school": "178",
+   "url": "https://www.spslt.edu.hk/_files/ugd/625b4c_9aa37ef23e9e45568704bc18c70b36f0.pdf",
+   "label": "中一資訊日海報 PDF"
+  },
+  {
+   "school": "231",
+   "url": "https://www.stmgss.edu.hk/attachment/upload/files/S.1%E5%85%A5%E5%AD%B8/27-28/2027-28%20S1%20DP%20Schedule.pdf",
+   "label": "2027-28 S1 自行分配日程"
+  },
+  {
+   "school": "233",
+   "url": "https://www.np2c.edu.hk/sites/default/files/2627_f1_transfer.pdf",
+   "label": "2627 中一轉校申請"
+  },
+  {
+   "school": "238",
+   "url": "https://www.puiying.edu.hk/data/upload/files/Admission/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F%E7%AB%A0%E7%A8%8B.pdf",
+   "label": "2027-28 中一自行收生章程"
+  },
+  {
+   "school": "430",
+   "url": "https://www.clsmss.edu.hk/uploads/files/School%20Profile/Admission/2026-27/00%20Schedule%20of%20Application%20and%20Admission%20for%20S1%20Places%20(2026-27).pdf",
+   "label": "2026-27 S1 申請及收生日程"
+  },
+  {
+   "school": "449",
+   "url": "https://www.cccmyc.edu.hk/gallery/webcontent/fdd0ed0fa19704aa8d9f7d93dd7fcd14.pdf",
+   "label": "中一招生海報 PDF"
+  },
+  {
+   "school": "238",
+   "url": "https://www.puiying.edu.hk/data/upload/files/SchoolCalendar/2627.pdf",
+   "label": "校曆 2026-27（Timetable 路徑遷移）"
+  },
+  {
+   "school": "399",
+   "url": "https://www.hys.edu.hk/en/admission/form1admissions/",
+   "label": "中一招生頁（10-28 清單凍結體檢：舊 URL 假死，find_replacement 找回）"
+  }
+ ],
+ "demotes": [
+  {
+   "school": "238",
+   "url": "https://www.puiying.edu.hk/data/upload/files/Timetable/2627.pdf",
+   "reason": "2627 校曆遷至 SchoolCalendar 路徑，舊 URL 404（2026-10-27 curl 實測）"
+  },
+  {
+   "school": "117",
+   "url": "https://seksswk.edu.hk/doc/School_calendar_2627.pdf",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "144",
+   "url": "http://www.calfss.edu.hk/Content/03_school_info/03_school_calendar/print_calendar.aspx",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "150",
+   "url": "https://www.ptcc.edu.hk/en/calendar/index",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "160",
+   "url": "https://www.clementi.edu.hk/tc/calendar.php?wid=365",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "167",
+   "url": "https://www.ktls.edu.hk/wp-content/uploads/2026/09/School-Calendar-2026-2027.pdf",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "189",
+   "url": "https://www.lkcss.edu.hk/uploads/files/calendar_26-27.pdf",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "350",
+   "url": "https://www.cckln.edu.hk/en/images/01_TheSchool/School_Calendar.pdf",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "406",
+   "url": "https://www.lkpfc.edu.hk/tc/calendar",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "23",
+   "url": "https://pokok.edu.hk/joomla/index.php/school-information/school-information-2/studentcalendar",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "57",
+   "url": "https://www.deliagp.edu.hk/school-calendar",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "80",
+   "url": "https://secondary.tccs.edu.hk/tc/school-calendar",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "240",
+   "url": "https://www.cymcac.edu.hk/doc/school_calendar.pdf",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "313",
+   "url": "https://sscc.edu.hk/resources/sch/cal/26-27schoolcalendar.pdf",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "343",
+   "url": "https://www.newman.edu.hk/tc/calendar.php?wid=23",
+   "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  }
+ ],
+ "seeds": [
+  {
+   "school": "408",
+   "title": "2026新亞中學中一資訊日",
+   "link": "https://www.nams.edu.hk/%e5%ad%b8%e6%a0%a1%e6%b6%88%e6%81%af/12150/",
+   "deadline": "2026-11-21",
+   "note": "11月21日(六) 9:00-14:30（8:30開幕禮）。#408單點接入配套種子（反饋後台10-11請求）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重复插入"
+  },
+  {
+   "school": "352",
+   "title": "2026五旬節林漢光中學中一開放日",
+   "link": "https://www.plhks.edu.hk/en/plan_detail.php?cid=19&id=657",
+   "deadline": "2026-11-28",
+   "note": "11月28日(六) 開放日；報名10月下旬開放（學校9/14公告）。#352單點維護配套種子（2026-10-21 批次）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重複插入"
+  },
+  {
+   "school": "194",
+   "title": "2026林大輝中學中一資訊日",
+   "link": "https://www.ltfc.edu.hk/miniclassroom",
+   "deadline": "2026-11-15",
+   "note": "11月15日(日) 13:00-17:00（資訊環節15:00）；「小小教室」體驗課網上報名10月28日08:00開放（miniclassroom→Google表格，先到先得）；S1申請11月16日開始。#194海報漏報配套種子（2026-10-23）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重複插入"
+  }
+ ]
 }
