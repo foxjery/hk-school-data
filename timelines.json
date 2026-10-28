@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "updated_at": "2026-10-27T09:46:03",
+  "updated_at": "2026-10-28T01:39:47",
   "data_years": [
     "2023-24",
     "2024-25",
@@ -6250,6 +6250,18 @@
       "banding_tier": "Band 1",
       "events": [
         {
+          "type": "info_day",
+          "date": "2025-12-06",
+          "date_end": null,
+          "label": "據校曆：校園資訊日",
+          "academic_year": "2026-27",
+          "source_text": "6 School Information Day (pm) 校園資訊日 (下午)",
+          "evidence_url": "https://taknga.edu.hk/about-us/school-calendar/",
+          "confidence": "medium",
+          "event_id": "52-2026_27-info_day-001",
+          "extracted_at": "2026-09-07T15:00:00"
+        },
+        {
           "type": "application_open",
           "date": "2026-01-02",
           "date_end": "2026-01-16",
@@ -6323,15 +6335,15 @@
         },
         {
           "type": "info_day",
-          "date": "2025-12-06",
+          "date": "2026-12-05",
           "date_end": null,
-          "label": "據校曆：校園資訊日",
-          "academic_year": "2026-27",
-          "source_text": "6 School Information Day (pm) 校園資訊日 (下午)",
-          "evidence_url": "https://taknga.edu.hk/about-us/school-calendar/",
-          "confidence": "medium",
-          "event_id": "52-2026_27-info_day-001",
-          "extracted_at": "2026-09-07T15:00:00"
+          "label": "校園資訊日 2026（下午1:45–4:30，小五/小六家長及學生；網上報名11月20日截止）",
+          "academic_year": "2027-28",
+          "source_text": "Date: 5 Dec 2026 (Saturday) 日期：2026年12月5日（星期六） Time: 1:45pm - 4:30pm",
+          "evidence_url": "https://taknga.edu.hk/wp-content/uploads/2026/10/2627-Information-day-poster_final-version.png",
+          "confidence": "high",
+          "event_id": "52-2027_28-info_day-001",
+          "extracted_at": "2026-10-28T01:39:47"
         }
       ],
       "self_healing_active": false
