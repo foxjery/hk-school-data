@@ -27519,7 +27519,7 @@
      "label": "校園導賞2026",
      "academic_year": "2027-28",
      "source_text": "校園導賞2026(日期：2026年12月5日)",
-     "evidence_url": "https://www.llcmhlau.edu.hk/news_details.php?id=340&page=1",
+     "evidence_url": "https://www.llcmhlau.edu.hk/tc/news_details.php?id=340&page=1",
      "confidence": "verified",
      "event_id": "195-2027_28-info_day-001",
      "extracted_at": "2026-10-29T16:00:00"
@@ -28119,6 +28119,182 @@
      "evidence_url": "https://www.fywss.edu.hk/news-feed/2027-28%e5%ad%b8%e5%b9%b4%e3%80%8c%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e3%80%8d/",
      "confidence": "verified",
      "event_id": "435-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "158": {
+   "name": "潔心林炳炎中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-04",
+     "date_end": "2026-12-05",
+     "label": "55周年校慶開放日暨中一入學資訊日（12-04 12:00-16:30；12-05 10:00-16:00）",
+     "academic_year": "2027-28",
+     "source_text": "4 December 2026 (Friday) 12:00 PM – 4:30 PM 5 December 2026 (Saturday) 10:00 AM – 4:00 PM",
+     "evidence_url": "https://www.kitsam.edu.hk/en/latest_news/passing-building-dreams-forging-future-55th-school-anniversary-open-days-s1-admission",
+     "confidence": "verified",
+     "event_id": "158-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "317": {
+   "name": "獅子會蔣翠琼中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "開放日暨升中資訊日",
+     "academic_year": "2027-28",
+     "source_text": "活動日期及時間 2026年11月28日 星期六",
+     "evidence_url": "https://www.lcitckc.edu.hk/content.php?wid=9",
+     "confidence": "verified",
+     "event_id": "317-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "40": {
+   "name": "潮州會館中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "潮中資訊日暨四十週年校慶開放日（開放日時段 14:00-17:30）",
+     "academic_year": "2027-28",
+     "source_text": "一年一度的「潮中資訊日」將於2026年11月28日舉辦",
+     "evidence_url": "https://ccass.edu.hk/",
+     "confidence": "verified",
+     "event_id": "40-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "72": {
+   "name": "東華三院馬振玉紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "學校資訊日（連體藝邀請賽）",
+     "academic_year": "2027-28",
+     "source_text": "「第二十二屆體藝邀請賽 暨 學校資訊日」及 古蹟周遊樂將於11月21日及28日舉行",
+     "evidence_url": "https://www.cyma.edu.hk/2026/10/%e3%80%8c%e7%ac%ac%e4%ba%8c%e5%8d%81%e4%ba%8c%e5%b1%86%e9%ab%94%e8%97%9d%e9%82%80%e8%ab%8b%e8%b3%bd-%e6%9a%a8-%e5%ad%b8%e6%a0%a1%e8%b3%87%e8%a8%8a%e6%97%a5%e3%80%8d%e5%8f%8a-%e5%8f%a4%e8%b9%9f/",
+     "confidence": "medium",
+     "event_id": "72-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "學校資訊日（連體藝邀請賽）",
+     "academic_year": "2027-28",
+     "source_text": "「第二十二屆體藝邀請賽 暨 學校資訊日」及 古蹟周遊樂將於11月21日及28日舉行",
+     "evidence_url": "https://www.cyma.edu.hk/2026/10/%e3%80%8c%e7%ac%ac%e4%ba%8c%e5%8d%81%e4%ba%8c%e5%b1%86%e9%ab%94%e8%97%9d%e9%82%80%e8%ab%8b%e8%b3%bd-%e6%9a%a8-%e5%ad%b8%e6%a0%a1%e8%b3%87%e8%a8%8a%e6%97%a5%e3%80%8d%e5%8f%8a-%e5%8f%a4%e8%b9%9f/",
+     "confidence": "medium",
+     "event_id": "72-2027_28-info_day-002",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "257": {
+   "name": "賽馬會官立中學",
+   "school_type": "官立",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-11",
+     "date_end": null,
+     "label": "開放日 Open Day",
+     "academic_year": "2027-28",
+     "source_text": "Open Day 2026-2027 … 2026-12-11 開放日 Open Day",
+     "evidence_url": "https://www.jcgss.edu.hk/node/541",
+     "confidence": "medium",
+     "event_id": "257-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "227": {
+   "name": "明愛屯門馬登基金中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "航天星棋開放日",
+     "academic_year": "2027-28",
+     "source_text": "12 月 12 日，誠邀大家蒞臨「航天星棋開放日」",
+     "evidence_url": "https://www.tmmarden.edu.hk/about-ctm/latest-news/hang-tian-xing-qi-kai-fang-ri-tun-ma-luo-zi-xian-yuan-mou-xing-ji-hang-tian-ren-wo-you",
+     "confidence": "medium",
+     "event_id": "227-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "357": {
+   "name": "西貢崇真天主教學校（中學部）",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-07",
+     "date_end": null,
+     "label": "「Fun」享西崇暨學校資訊日",
+     "academic_year": "2027-28",
+     "source_text": "2026「Fun」享西崇暨學校資訊日 (11月7日及22日)",
+     "evidence_url": "https://www.sts.edu.hk/tc/news-details.php?id=23",
+     "confidence": "medium",
+     "event_id": "357-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-22",
+     "date_end": null,
+     "label": "「Fun」享西崇暨學校資訊日",
+     "academic_year": "2027-28",
+     "source_text": "2026「Fun」享西崇暨學校資訊日 (11月7日及22日)",
+     "evidence_url": "https://www.sts.edu.hk/tc/news-details.php?id=23",
+     "confidence": "medium",
+     "event_id": "357-2027_28-info_day-002",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "440": {
+   "name": "中華基督教會何福堂書院",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中面試研習班暨資訊日",
+     "academic_year": "2027-28",
+     "source_text": "「升中面試研習班暨資訊日」將於28-11-2026(六)早上舉行",
+     "evidence_url": "https://www.hftc.edu.hk/tc/content.php?wid=207",
+     "confidence": "verified",
+     "event_id": "440-2027_28-info_day-001",
      "extracted_at": "2026-10-29T16:00:00"
     }
    ]

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-29T04:59:01Z",
+ "updated_at": "2026-10-29T05:17:51Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -445,6 +445,46 @@
    "school": "435",
    "url": "https://www.fywss.edu.hk/news-feed/secondary-school-experience-2026/",
    "label": "中華基督教會方潤華中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "195",
+   "url": "https://www.llcmhlau.edu.hk/tc/news_details.php?id=340&page=1",
+   "label": "靈糧堂劉梅軒中學招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "20",
+   "url": "https://www.plkcwc.edu.hk/it-school/php/webcms/public/index.php?refid=3392&mode=published&lang=zh",
+   "label": "保良局朱敬文中學招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "158",
+   "url": "https://www.kitsam.edu.hk/en/latest_news/passing-building-dreams-forging-future-55th-school-anniversary-open-day/",
+   "label": "潔心林炳炎中學招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "72",
+   "url": "https://www.cyma.edu.hk/2026/10/%e3%80%8c%e7%ac%ac%e4%ba%8c%e5%8d%81%e4%ba%8c%e5%b1%86%e9%ab%94%e8%97%9d%e9%82%80%e8%ab%8b%e8%b3%bd-%e6%9a%a8-%e5%ad%b8%e6%a0%a1%e8%b3%87%e8%a8%8a%e6%97%a5%e3%80%8d%e5%8f%8a-%e5%8f%a4%e8%b9%9f/",
+   "label": "東華三院馬振玉紀念中學招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "257",
+   "url": "https://www.jcgss.edu.hk/node/541",
+   "label": "賽馬會官立中學招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "227",
+   "url": "https://www.tmmarden.edu.hk/about-ctm/latest-news/hang-tian-xing-qi-kai-fang-ri-tun-ma-luo-zi-xing-zhe-li-xiang/",
+   "label": "明愛屯門馬登基金中學招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "357",
+   "url": "https://www.sts.edu.hk/tc/news-details.php?id=23",
+   "label": "西貢崇真天主教學校（中學部）招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "440",
+   "url": "https://www.hftc.edu.hk/tc/content.php?wid=207",
+   "label": "中華基督教會何福堂書院招生證據頁（98 所第二批；2027-28 資訊日）"
   }
  ],
  "demotes": [
