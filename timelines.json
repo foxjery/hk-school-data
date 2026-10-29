@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-29T16:00:00",
+ "updated_at": "2026-10-29T17:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -27332,6 +27332,30 @@
      "confidence": "verified",
      "event_id": "32-2027_28-result-001",
      "extracted_at": "2026-10-29T12:30:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-07",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2026-27",
+     "source_text": "『中一自行分配學位』面試日期為2026年3月7日",
+     "evidence_url": "https://web.archive.org/web/20260209/https://www.pohck.edu.hk/tc/content.php?wid=78",
+     "confidence": "medium",
+     "event_id": "32-2026_27-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "將於2026年3月31日收到本校書面及電話通知",
+     "evidence_url": "https://web.archive.org/web/20260209/https://www.pohck.edu.hk/tc/content.php?wid=78",
+     "confidence": "medium",
+     "event_id": "32-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27375,6 +27399,18 @@
      "confidence": "verified",
      "event_id": "26-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "本校正取學生將於2025年3月31日 (星期一)透過電話通知",
+     "evidence_url": "https://web.archive.org/web/20251119/https://www.clsnp.edu.hk/zh/入學申請/",
+     "confidence": "medium",
+     "event_id": "26-2025_26-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27418,6 +27454,42 @@
      "confidence": "verified",
      "event_id": "39-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "申請日期：2026年1月2日 至 2026年1月16日",
+     "evidence_url": "https://web.archive.org/web/20251115/https://cmass.edu.hk/入學申請/",
+     "confidence": "medium",
+     "event_id": "39-2026_27-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-07",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2026-27",
+     "source_text": "面試日期：2026年3月7日(星期六)",
+     "evidence_url": "https://web.archive.org/web/20251115/https://cmass.edu.hk/入學申請/",
+     "confidence": "medium",
+     "event_id": "39-2026_27-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "結果公佈：正取-2026年3月31日(電話及信件)",
+     "evidence_url": "https://web.archive.org/web/20251115/https://cmass.edu.hk/入學申請/",
+     "confidence": "medium",
+     "event_id": "39-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27504,6 +27576,42 @@
      "confidence": "verified",
      "event_id": "105-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-14",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2026-27",
+     "source_text": "2026-27年度收生，本校於2026年3月14日舉行面試",
+     "evidence_url": "https://web.archive.org/web/20251111/https://www.clbss.edu.hk/申請中一學位辦法",
+     "confidence": "medium",
+     "event_id": "105-2026_27-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "正取生將於2026年3月31日以書面及電話通知",
+     "evidence_url": "https://web.archive.org/web/20251111/https://www.clbss.edu.hk/申請中一學位辦法",
+     "confidence": "medium",
+     "event_id": "105-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2025-03-08",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2025-26",
+     "source_text": "Interviews will be arranged for ALL applicants on 8 March 2025",
+     "evidence_url": "https://web.archive.org/web/20241117/https://www.clbss.edu.hk/attachment/upload/files/入學申請/Application_Guidelines_for_S1_Discretionary_Pl",
+     "confidence": "medium",
+     "event_id": "105-2025_26-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27547,6 +27655,30 @@
      "confidence": "verified",
      "event_id": "195-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "本校將於2025年3月31日透過書面及電話通知正取學生家長",
+     "evidence_url": "https://web.archive.org/web/20251011/https://www.llcmhlau.edu.hk/tc/content.php?wid=136",
+     "confidence": "medium",
+     "event_id": "195-2025_26-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2024-12-13",
+     "date_end": "2024-12-14",
+     "label": "學校開放日",
+     "academic_year": "2025-26",
+     "source_text": "學校開放日（日期: 2024年12月13及14日）",
+     "evidence_url": "https://web.archive.org/web/20250120/https://www.llcmhlau.edu.hk/tc/",
+     "confidence": "medium",
+     "event_id": "195-2025_26-info_day-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27578,6 +27710,30 @@
      "confidence": "verified",
      "event_id": "225-2027_28-application_open-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "申請日期：2026 年1 月2 日（星期五）至1 月16 日（星期五）",
+     "evidence_url": "https://web.archive.org/web/20251120/https://www.cmos.edu.hk/",
+     "confidence": "medium",
+     "event_id": "225-2026_27-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-11-08",
+     "date_end": null,
+     "label": "開放日",
+     "academic_year": "2026-27",
+     "source_text": "2025年11月8日（六）明愛馬鞍山中學（設宿舍部）開放日",
+     "evidence_url": "https://web.archive.org/web/20251120/https://www.cmos.edu.hk/",
+     "confidence": "medium",
+     "event_id": "225-2026_27-info_day-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27640,6 +27796,54 @@
      "confidence": "verified",
      "event_id": "243-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "2026年1月2日(星期五)至2026年1月16日(星期五)…上載申請表",
+     "evidence_url": "https://web.archive.org/web/20260218/https://www.jccsskc.edu.hk/zh_tw/site/view?name=26-27中一自行分配學位申請",
+     "confidence": "medium",
+     "event_id": "243-2026_27-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-07",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2026-27",
+     "source_text": "面試，日期為2026年3月7日(星期六)下午",
+     "evidence_url": "https://web.archive.org/web/20260218/https://www.jccsskc.edu.hk/zh_tw/site/view?name=26-27中一自行分配學位申請",
+     "confidence": "medium",
+     "event_id": "243-2026_27-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "2026年3月31 日(星期二) 透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://web.archive.org/web/20260218/https://www.jccsskc.edu.hk/zh_tw/site/view?name=26-27中一自行分配學位申請",
+     "confidence": "medium",
+     "event_id": "243-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-11-29",
+     "date_end": null,
+     "label": "升中資訊日",
+     "academic_year": "2026-27",
+     "source_text": "本校升中資訊日定於 2025年 11月29日， 下午2:00 至5:00",
+     "evidence_url": "https://web.archive.org/web/20251010/https://www.jccsskc.edu.hk/zh_tw/site/view?name=升中資訊",
+     "confidence": "medium",
+     "event_id": "243-2026_27-info_day-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27683,6 +27887,42 @@
      "confidence": "verified",
      "event_id": "249-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2025-01-02",
+     "date_end": "2025-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2025-26",
+     "source_text": "2025 年1月2日至1月16日期間交回本校校務處",
+     "evidence_url": "https://web.archive.org/web/20250813/https://yotcwsf.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=97&pageId=165&nnnid=61",
+     "confidence": "medium",
+     "event_id": "249-2025_26-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2025-03-15",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2025-26",
+     "source_text": "面試日期為2025年3月15日(星期六)",
+     "evidence_url": "https://web.archive.org/web/20250813/https://yotcwsf.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=97&pageId=165&nnnid=61",
+     "confidence": "medium",
+     "event_id": "249-2025_26-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "本校將於2025年3月31日以書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://web.archive.org/web/20250813/https://yotcwsf.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=97&pageId=165&nnnid=61",
+     "confidence": "medium",
+     "event_id": "249-2025_26-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27726,6 +27966,78 @@
      "confidence": "verified",
      "event_id": "252-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "2026 年 1 月 2 日(星期五)至 2026 年 1 月 16 日(星期五)",
+     "evidence_url": "https://web.archive.org/web/20251221/https://www.ychtcy.edu.hk/sites/default/files/2026_27zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_z",
+     "confidence": "medium",
+     "event_id": "252-2026_27-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-02-02",
+     "date_end": "2026-02-06",
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2026-27",
+     "source_text": "面試日期：2026 年 2 月 2 日(星期一)至 2026 年 2 月 6 日(星期五)",
+     "evidence_url": "https://web.archive.org/web/20251221/https://www.ychtcy.edu.hk/sites/default/files/2026_27zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_z",
+     "confidence": "medium",
+     "event_id": "252-2026_27-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "本校將於 2026 年 3 月 31 日(星期二)透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://web.archive.org/web/20251221/https://www.ychtcy.edu.hk/sites/default/files/2026_27zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_z",
+     "confidence": "medium",
+     "event_id": "252-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2025-01-02",
+     "date_end": "2025-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2025-26",
+     "source_text": "2025 年 1 月 2 日(星期四)至 2025 年 1 月 16 日(星期四)",
+     "evidence_url": "https://web.archive.org/web/20250124/https://ychtcy.edu.hk/sites/default/files/2025_26zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi_4",
+     "confidence": "medium",
+     "event_id": "252-2025_26-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2025-02-17",
+     "date_end": "2025-03-07",
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2025-26",
+     "source_text": "面試日期：2025 年 2 月 17 日(星期一)至 2025 年 3 月 7 日(星期五)",
+     "evidence_url": "https://web.archive.org/web/20250124/https://ychtcy.edu.hk/sites/default/files/2025_26zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi_4",
+     "confidence": "medium",
+     "event_id": "252-2025_26-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "本校將於 2025 年 3 月 31 日(星期一)透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://web.archive.org/web/20250124/https://ychtcy.edu.hk/sites/default/files/2025_26zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi_4",
+     "confidence": "medium",
+     "event_id": "252-2025_26-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27793,6 +28105,30 @@
      "confidence": "verified",
      "event_id": "259-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-02-07",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2026-27",
+     "source_text": "面試日期：2026年2月7日(星期六)",
+     "evidence_url": "https://web.archive.org/web/20251208/https://www.jcmkec.edu.hk/tc/content.php?wid=45",
+     "confidence": "medium",
+     "event_id": "259-2026_27-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2024-12-06",
+     "date_end": "2024-12-07",
+     "label": "學校開放日",
+     "academic_year": "2025-26",
+     "source_text": "本校將於2024年12月6日(星期五)及12月7日(星期六)舉辦「學校開放日…」",
+     "evidence_url": "https://web.archive.org/web/20251120/https://www.jcmkec.edu.hk/tc/",
+     "confidence": "medium",
+     "event_id": "259-2025_26-info_day-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27836,6 +28172,30 @@
      "confidence": "verified",
      "event_id": "316-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2025-01-02",
+     "date_end": "2025-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2025-26",
+     "source_text": "申請日期 : 2025 年 1 月 2 日至 2025 年 1 月 16 日",
+     "evidence_url": "https://web.archive.org/web/20241111/https://www.sja.edu.hk/download/Resource/fileDoc/applicationForm/申請須知 (網頁版)2025-2026.pdf",
+     "confidence": "medium",
+     "event_id": "316-2025_26-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2025-02-22",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2025-26",
+     "source_text": "Under normal circumstance, each applicant will be invited to an interview on 22nd February 2025",
+     "evidence_url": "https://web.archive.org/web/20241111/https://www.sja.edu.hk/download/Resource/fileDoc/applicationForm/申請須知 (網頁版)2025-2026.pdf",
+     "confidence": "medium",
+     "event_id": "316-2025_26-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27891,6 +28251,54 @@
      "confidence": "verified",
      "event_id": "335-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "於2026年1月2日至1月16日交回校務處或透過中一派位電子平台提交",
+     "evidence_url": "https://web.archive.org/web/20260119/https://www.sdbnsm.edu.hk/s1-application",
+     "confidence": "medium",
+     "event_id": "335-2026_27-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "正取學生通知安排: 將於2026年3月31日（星期二）",
+     "evidence_url": "https://web.archive.org/web/20260119/https://www.sdbnsm.edu.hk/s1-application",
+     "confidence": "medium",
+     "event_id": "335-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-11-22",
+     "date_end": null,
+     "label": "升中資訊日",
+     "academic_year": "2026-27",
+     "source_text": "伍少梅中學將於11月22日舉行「升中資訊日」及12月6日舉行「開放日暨學生成果展示日」",
+     "evidence_url": "https://web.archive.org/web/20260110/https://www.sdbnsm.edu.hk/school-news",
+     "confidence": "medium",
+     "event_id": "335-2026_27-info_day-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-12-06",
+     "date_end": null,
+     "label": "開放日暨學生成果展示日",
+     "academic_year": "2026-27",
+     "source_text": "12月6日舉行「開放日暨學生成果展示日」",
+     "evidence_url": "https://web.archive.org/web/20260110/https://www.sdbnsm.edu.hk/school-news",
+     "confidence": "medium",
+     "event_id": "335-2026_27-info_day-002",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27922,6 +28330,30 @@
      "confidence": "medium",
      "event_id": "339-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "校方將於 2026 年 3 月 31 日(二)以電話及信件通知正式取錄學生的家長",
+     "evidence_url": "https://web.archive.org/web/20251209/https://www.nwcss.edu.hk/zh_tw/site/view?name=中一入學申請",
+     "confidence": "medium",
+     "event_id": "339-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "校方將於 2025 年 3 月 31 日(一)以電話及信件通知正式取錄的學生",
+     "evidence_url": "https://web.archive.org/web/20250213/https://www.nwcss.edu.hk/admission/s1admission.php",
+     "confidence": "medium",
+     "event_id": "339-2025_26-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27953,6 +28385,42 @@
      "confidence": "verified",
      "event_id": "365-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-02-28",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2026-27",
+     "source_text": "中一自行分配學位面試將於2026年2月28日(星期六)起舉行",
+     "evidence_url": "https://web.archive.org/web/20260308/https://www.yy1.edu.hk/",
+     "confidence": "medium",
+     "event_id": "365-2026_27-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "本校將於 2026 年 3 月 31 日致電及發信通知正取學生家長",
+     "evidence_url": "https://web.archive.org/web/20251109/https://www.yy1.edu.hk/入讀中一",
+     "confidence": "medium",
+     "event_id": "365-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-11-22",
+     "date_end": null,
+     "label": "學校資訊日",
+     "academic_year": "2026-27",
+     "source_text": "11月22日首辦「學校資訊日暨小學足球及籃球邀請賽」",
+     "evidence_url": "https://web.archive.org/web/20260110/https://www.yy1.edu.hk/latest_news",
+     "confidence": "medium",
+     "event_id": "365-2026_27-info_day-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -27984,6 +28452,18 @@
      "confidence": "verified",
      "event_id": "373-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "本校將於2026年3月31日書面及電話通知已獲正取之學生家長",
+     "evidence_url": "https://web.archive.org/web/20251208/https://www.hktalhk.edu.hk/中一自行分配學位申請/",
+     "confidence": "medium",
+     "event_id": "373-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -28120,6 +28600,18 @@
      "confidence": "verified",
      "event_id": "435-2027_28-result-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "本校將於2026年3月31日(星期二)透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://web.archive.org/web/20260118/https://www.fywss.edu.hk/news-feed/2026-2027學年「中一自行分配學位」/",
+     "confidence": "medium",
+     "event_id": "435-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -28177,6 +28669,30 @@
      "confidence": "verified",
      "event_id": "40-2027_28-info_day-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2025-03-08",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2025-26",
+     "source_text": "面試日期為3月8日（星期六）",
+     "evidence_url": "https://web.archive.org/web/20251111/https://ccass.edu.hk/admissions/",
+     "confidence": "medium",
+     "event_id": "40-2025_26-interview-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "學校將於3月31日（星期一）以書信及電話，通知…正取學生名單的家長",
+     "evidence_url": "https://web.archive.org/web/20251111/https://ccass.edu.hk/admissions/",
+     "confidence": "medium",
+     "event_id": "40-2025_26-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -28208,6 +28724,18 @@
      "confidence": "medium",
      "event_id": "72-2027_28-info_day-002",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "學校將於2026年3月31日透過書面及電話通知正取學生家長",
+     "evidence_url": "https://web.archive.org/web/20251113/https://www.cyma.edu.hk/中一自行分配學位申請/",
+     "confidence": "medium",
+     "event_id": "72-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -28246,6 +28774,30 @@
      "confidence": "medium",
      "event_id": "227-2027_28-info_day-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "家長會於2026年3月31日收到本校的信件及電話通知",
+     "evidence_url": "https://web.archive.org/web/20251222/https://www.tmmarden.edu.hk/tc/admission/s1-admission",
+     "confidence": "medium",
+     "event_id": "227-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2025-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2025-26",
+     "source_text": "家長會於2025年3月31日收到本校的信件及電話通知",
+     "evidence_url": "https://web.archive.org/web/20251017/https://www.tmmarden.edu.hk/tc/admission",
+     "confidence": "medium",
+     "event_id": "227-2025_26-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -28277,6 +28829,18 @@
      "confidence": "medium",
      "event_id": "357-2027_28-info_day-002",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-11-15",
+     "date_end": null,
+     "label": "崇真資訊日",
+     "academic_year": "2026-27",
+     "source_text": "崇真資訊日定為(2025/11/15)星期六",
+     "evidence_url": "https://web.archive.org/web/20250920/https://www.sts.edu.hk/tc/2025activities",
+     "confidence": "medium",
+     "event_id": "357-2026_27-info_day-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   },
@@ -28296,6 +28860,30 @@
      "confidence": "verified",
      "event_id": "440-2027_28-info_day-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "申請日期：2026年1月2日至1月16日",
+     "evidence_url": "https://web.archive.org/web/20251214/https://www.hftc.edu.hk/tc/content.php?wid=47",
+     "confidence": "medium",
+     "event_id": "440-2026_27-application_open-001",
+     "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2026-27",
+     "source_text": "本校將於2026年3月31日透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://web.archive.org/web/20251214/https://www.hftc.edu.hk/tc/content.php?wid=47",
+     "confidence": "medium",
+     "event_id": "440-2026_27-result-001",
+     "extracted_at": "2026-10-29T17:00:00"
     }
    ]
   }
