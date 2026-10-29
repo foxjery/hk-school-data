@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-29T12:30:00",
+ "updated_at": "2026-10-29T16:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -27332,6 +27332,794 @@
      "confidence": "verified",
      "event_id": "32-2027_28-result-001",
      "extracted_at": "2026-10-29T12:30:00"
+    }
+   ]
+  },
+  "26": {
+   "name": "北角協同中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "報名日期：2027年1月4日(星期一)至2027年1月18日(星期一)",
+     "evidence_url": "https://www.clsnp.edu.hk/zh/%e4%b8%ad%e4%b8%80%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "26-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-20",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "本校將於二月二十日(星期六)進行面試，面試日期及時間在遞交申請表時確定。（申請「2027-2028 中一自行分配學位」須知）",
+     "evidence_url": "https://www.clsnp.edu.hk/zh/%e4%b8%ad%e4%b8%80%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "26-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "本校將於2027年3月31日(星期三)以郵寄及電話通知正取學生",
+     "evidence_url": "https://www.clsnp.edu.hk/zh/%e4%b8%ad%e4%b8%80%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "26-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "39": {
+   "name": "廠商會中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "2027/ 2028中一自行分配學位 (2027年9月入學) 申請日期：2027年1月4日 至 1月18日",
+     "evidence_url": "https://cmass.edu.hk/%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "39-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "6. 面試日期：2027年3月6日(星期六)",
+     "evidence_url": "https://cmass.edu.hk/%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "39-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "7. 結果公佈：正取-2027年3月31日(電話及信件)",
+     "evidence_url": "https://cmass.edu.hk/%e5%85%a5%e5%ad%b8%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "39-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "79": {
+   "name": "東莞工商總會劉百樂中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "接受申請日期：4 /1/2027至18/1/2027",
+     "evidence_url": "https://lplss.edu.hk/node/644",
+     "confidence": "verified",
+     "event_id": "79-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "所有申請人都有面試機會，日期為 2027年3月6日（星期六）",
+     "evidence_url": "https://lplss.edu.hk/node/644",
+     "confidence": "verified",
+     "event_id": "79-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "於 2027年3月31日(星期三) 透過書面及電話通知正取學生家長",
+     "evidence_url": "https://lplss.edu.hk/node/644",
+     "confidence": "verified",
+     "event_id": "79-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "105": {
+   "name": "佛教志蓮中學",
+   "school_type": "資助",
+   "banding_tier": "",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "申 請 日 期 ： 2027 年 1 月 4 日 至 2027 年 1 月 18 日",
+     "evidence_url": "https://www.clbss.edu.hk/sites/default/files/download/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A52027_2028.pdf",
+     "confidence": "verified",
+     "event_id": "105-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "2027-28年度收生，本校於2027年3月13日舉行面試。",
+     "evidence_url": "https://www.clbss.edu.hk/%E7%94%B3%E8%AB%8B%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E8%BE%A6%E6%B3%95",
+     "confidence": "verified",
+     "event_id": "105-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "而正取生將於2027年3月31日以書面及電話通知。",
+     "evidence_url": "https://www.clbss.edu.hk/%E7%94%B3%E8%AB%8B%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E8%BE%A6%E6%B3%95",
+     "confidence": "verified",
+     "event_id": "105-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "195": {
+   "name": "靈糧堂劉梅軒中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "校園導賞2026",
+     "academic_year": "2027-28",
+     "source_text": "校園導賞2026(日期：2026年12月5日)",
+     "evidence_url": "https://www.llcmhlau.edu.hk/news_details.php?id=340&page=1",
+     "confidence": "verified",
+     "event_id": "195-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "報名日期 ： 2027年1月4日(星期一)至1月18日(星期一)",
+     "evidence_url": "https://www.llcmhlau.edu.hk/tc/content.php?wid=136",
+     "confidence": "verified",
+     "event_id": "195-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "本校將於2027年3月31日透過書面及電話通知正取學生家長",
+     "evidence_url": "https://www.llcmhlau.edu.hk/tc/content.php?wid=136",
+     "confidence": "verified",
+     "event_id": "195-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "225": {
+   "name": "明愛馬鞍山中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-14",
+     "date_end": null,
+     "label": "開放日「明馬宿舍教育多面睇2026」",
+     "academic_year": "2027-28",
+     "source_text": "本校將於11月14日（六）舉行開放日「明馬宿舍教育多面睇2026」（2026-10-08 公告）",
+     "evidence_url": "https://www.cmos.edu.hk/tc/latest_news_page/%E6%9C%AC%E6%A0%A1%E9%96%8B%E6%94%BE%E6%97%A5%E3%80%8C%E6%98%8E%E9%A6%AC%E5%AE%BF%E8%88%8D%E6%95%99%E8%82%B2%E5%A4%9A%E9%9D%A2%E7%9D%872026%E3%80%8D%EF%BC%8811%E6%9C%8814%E6%97%A5%EF%BC%89",
+     "confidence": "verified",
+     "event_id": "225-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：2027 年 1 月 4 日（星期一）至 1 月 18 日（星期一）",
+     "evidence_url": "https://www.cmos.edu.hk/",
+     "confidence": "verified",
+     "event_id": "225-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "226": {
+   "name": "明愛聖若瑟中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-14",
+     "date_end": null,
+     "label": "中一入學簡介會及校園導賞",
+     "academic_year": "2027-28",
+     "source_text": "S1 ADMISSION TALK & CAMPUS TOUR 2027-2028 Date: 14 November 2026 Saturday Time: 10:00-11:30 am（海報 OCR＋目視）",
+     "evidence_url": "http://www.csjss.edu.hk/it-school/php/webcms/public/mainpage/component/popup_news.php?type=&id=1255&lang=zh",
+     "confidence": "verified",
+     "event_id": "226-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "243": {
+   "name": "裘錦秋中學（葵涌）",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "須於 2027 年 1 月 4 日(星期一)至 2027 年 1 月 18 日(星期一)，透過教育局的「中一派位電子平台」上載申請表及相關文件；或親臨本校(校務處)遞交",
+     "evidence_url": "https://www.jccsskc.edu.hk/zh_tw/site/view?name=27-28%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "verified",
+     "event_id": "243-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "所有申請者均獲面試，日期為 2027 年 3 月 6 日(星期六)下午。",
+     "evidence_url": "https://www.jccsskc.edu.hk/zh_tw/site/view?name=27-28%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "verified",
+     "event_id": "243-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "本校會於 2027 年 3 月 31 日(星期三) 透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://www.jccsskc.edu.hk/zh_tw/site/view?name=27-28%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "verified",
+     "event_id": "243-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "249": {
+   "name": "仁愛堂陳黃淑芳紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "請將填妥的申請表格於 2027 年 1 月 4 日至 1 月 18 日 期間交回本校校務處",
+     "evidence_url": "https://yotcwsf.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=97&pageId=165&nnnid=61",
+     "confidence": "verified",
+     "event_id": "249-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "所有申請學生將獲安排於 2027 年 3 月 13 日（星期六） 參加面試",
+     "evidence_url": "https://yotcwsf.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=97&pageId=165&nnnid=61",
+     "confidence": "verified",
+     "event_id": "249-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 31 日以書面及電話通知正取學生家長",
+     "evidence_url": "https://yotcwsf.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=97&pageId=165&nnnid=61",
+     "confidence": "verified",
+     "event_id": "249-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "252": {
+   "name": "仁濟醫院董之英紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：2027 年 1 月 4 日(星期一)至 2027 年 1 月 18 日(星期一) (包括首尾兩天)",
+     "evidence_url": "https://www.ychtcy.edu.hk/sites/default/files/2027_28zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi__0.pdf",
+     "confidence": "verified",
+     "event_id": "252-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-15",
+     "date_end": "2027-03-05",
+     "label": "中一自行分配學位面試期間",
+     "academic_year": "2027-28",
+     "source_text": "面試日期：2027 年 2 月 15 日(星期一)至 2027 年 3 月 5 日(星期五)",
+     "evidence_url": "https://www.ychtcy.edu.hk/sites/default/files/2027_28zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi__0.pdf",
+     "confidence": "verified",
+     "event_id": "252-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "取錄結果：本校將於 2027 年 3 月 31 日(星期三)透過書面及電話通知所有正取學生的",
+     "evidence_url": "https://www.ychtcy.edu.hk/sites/default/files/2027_28zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi__0.pdf",
+     "confidence": "verified",
+     "event_id": "252-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "259": {
+   "name": "賽馬會萬鈞毅智書院",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-27",
+     "date_end": null,
+     "label": "學校開放日（系列三，第一節）",
+     "academic_year": "2027-28",
+     "source_text": "系列三: 2026年11月27日（五）2:15pm-4:15pm 學校開放日暨STEAM x 體藝比賽頒獎典禮",
+     "evidence_url": "https://www.jcmkec.edu.hk/tc/content.php?wid=43",
+     "confidence": "verified",
+     "event_id": "259-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "學校開放日（系列三，第二節）",
+     "academic_year": "2027-28",
+     "source_text": "2026年11月28日（六）10:00am-12:00pm 學校開放日暨STEAM x 體藝比賽頒獎典禮",
+     "evidence_url": "https://www.jcmkec.edu.hk/tc/content.php?wid=43",
+     "confidence": "verified",
+     "event_id": "259-2027_28-info_day-002",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "請於2027年1月4日至1月18日，收表時間為上午8:30至下午5:00 (星期一至五)",
+     "evidence_url": "https://www.jcmkec.edu.hk/tc/content.php?wid=45",
+     "confidence": "verified",
+     "event_id": "259-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-27",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "面試日期：2027年2月27日(星期六)",
+     "evidence_url": "https://www.jcmkec.edu.hk/tc/content.php?wid=45",
+     "confidence": "verified",
+     "event_id": "259-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "2027年3月31日(星期三) 本校透過電話及郵遞通知正取學生家長",
+     "evidence_url": "https://www.jcmkec.edu.hk/tc/content.php?wid=45",
+     "confidence": "verified",
+     "event_id": "259-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "316": {
+   "name": "聖貞德中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "Application Period: 4th January 2027 to 18th January 2027 申請日期 : 2027 年1 月4 日至2027 年1 月18日",
+     "evidence_url": "https://www.sja.edu.hk/CP/pG/37/530",
+     "confidence": "verified",
+     "event_id": "316-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "each applicant will be invited to an interview on 6th March 2027 (Saturday). 面試於二零二七年三月六日星期六進行",
+     "evidence_url": "https://www.sja.edu.hk/CP/pG/37/530",
+     "confidence": "verified",
+     "event_id": "316-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "Successful applicants will be notified individually by mail and a telephone call from school on 31st March 2027.",
+     "evidence_url": "https://www.sja.edu.hk/CP/pG/37/530",
+     "confidence": "verified",
+     "event_id": "316-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "335": {
+   "name": "天主教慈幼會伍少梅中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-22",
+     "date_end": null,
+     "label": "升中資訊日暨升中面試工作坊",
+     "academic_year": "2027-28",
+     "source_text": "2026 年 11 月 22 日(日) 升中資訊日暨升中面試工作坊 時間： 上午 9 時30分至 下午4 時 30 分",
+     "evidence_url": "https://www.sdbnsm.edu.hk/_files/ugd/3d576f_3e3ab09456d9433b8ac3dd41c6adc606.pdf",
+     "confidence": "verified",
+     "event_id": "335-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "開放日暨學生成果展示日",
+     "academic_year": "2027-28",
+     "source_text": "2026 年 12 月 5日（六） 時間： 上午 9 時至 10 時 30 分（開放日暨學生成果展示日）",
+     "evidence_url": "https://www.sdbnsm.edu.hk/_files/ugd/3d576f_3e3ab09456d9433b8ac3dd41c6adc606.pdf",
+     "confidence": "verified",
+     "event_id": "335-2027_28-info_day-002",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "2027 年 1 月 4 日（一）接受中一自行分配學位申請 至 2027 年 1 月 18 日（一）",
+     "evidence_url": "https://www.sdbnsm.edu.hk/_files/ugd/3d576f_3e3ab09456d9433b8ac3dd41c6adc606.pdf",
+     "confidence": "verified",
+     "event_id": "335-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "2027 年 3 月 31 日（三） 學校通知正取學生家長其子女獲納入其自行分配學位正取學生名單",
+     "evidence_url": "https://www.sdbnsm.edu.hk/_files/ugd/3d576f_3e3ab09456d9433b8ac3dd41c6adc606.pdf",
+     "confidence": "verified",
+     "event_id": "335-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "339": {
+   "name": "天主教南華中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "申請日期 2027年1月4日(星期一)至1月18日(星期一)(包括首尾兩日)",
+     "evidence_url": "https://www.nwcss.edu.hk/zh_tw/site/view?name=%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
+     "confidence": "verified",
+     "event_id": "339-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "校方將於 2027 年 3 月 31 日(二)以電話及信件通知正式取錄學生的家長（原文星期寫「二」，2027-03-31 實為星期三，原文筆誤）",
+     "evidence_url": "https://www.nwcss.edu.hk/zh_tw/site/view?name=%E4%B8%AD%E4%B8%80%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
+     "confidence": "medium",
+     "event_id": "339-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "365": {
+   "name": "香港道教聯合會圓玄學院第一中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "遞交表格日期：2027 年 1 月 4 日至 2027 年 1 月 18 日",
+     "evidence_url": "https://www.yy1.edu.hk/%E5%85%A5%E8%AE%80%E4%B8%AD%E4%B8%80",
+     "confidence": "verified",
+     "event_id": "365-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 31 日致電及發信通知正取學生家長。",
+     "evidence_url": "https://www.yy1.edu.hk/%E5%85%A5%E8%AE%80%E4%B8%AD%E4%B8%80",
+     "confidence": "verified",
+     "event_id": "365-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "373": {
+   "name": "香港教師會李興貴中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "（一）報名日期：2027年1月4日(一) 至 2027年1月18日(一)",
+     "evidence_url": "https://www.hktalhk.edu.hk/%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "373-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "（六）本校將於2027年3月31日書面及電話通知已獲正取之學生家長。",
+     "evidence_url": "https://www.hktalhk.edu.hk/%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e7%94%b3%e8%ab%8b/",
+     "confidence": "verified",
+     "event_id": "373-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "385": {
+   "name": "香港四邑商工總會陳南昌紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "2027-28年度 中一自行分配學位申請須知 申請日期 : 2027年1月4日（星期一）至1月18日（星期一）",
+     "evidence_url": "https://www.cnc.edu.hk/it-school/php/webcms/public/index.php?refid=3304&mode=published&lang=zh",
+     "confidence": "verified",
+     "event_id": "385-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "398": {
+   "name": "香海正覺蓮社佛教正覺中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中資訊日",
+     "academic_year": "2027-28",
+     "source_text": "2026 - 2027 資訊日 2026年12月5日",
+     "evidence_url": "https://www.bckss.edu.hk/article/661",
+     "confidence": "verified",
+     "event_id": "398-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "申請表須於2027 年1月4日至18日期間 遞交申請表。",
+     "evidence_url": "https://www.bckss.edu.hk/page/629/?mid=9&m=4270515565292&s=7072466375257",
+     "confidence": "verified",
+     "event_id": "398-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "於2027 年3月31 日，本校透過書面及電話通知學生家長其子女已獲校方接納入其自行分配學位正取學生名單。",
+     "evidence_url": "https://www.bckss.edu.hk/page/629/?mid=9&m=4270515565292&s=7072466375257",
+     "confidence": "verified",
+     "event_id": "398-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "427": {
+   "name": "曾璧山（崇蘭）中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-22",
+     "date_end": null,
+     "label": "學校資訊日",
+     "academic_year": "2027-28",
+     "source_text": "曾璧山（崇蘭）中學將於 2026 年 11 月 22 日（星期日）舉行資訊日",
+     "evidence_url": "https://www.tpsslss.edu.hk/tc/activity/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1%E2%80%94%E2%80%94%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%9B%BE%E7%92%A7%E5%B1%B1%E4%B8%AD%E5%AD%B81122%E8%BE%A6%E8%B3%87%E8%A8%8A%E6%97%A5-%E8%A8%ADsteam%E9%AB%94%E9%A9%97%E5%8F%8A%E5%8D%87%E4%B8%AD%E9%81%B8%E6%A0%A1%E7%AD%96%E7%95%A5%E8%AC%9B%E5%BA%A7",
+     "confidence": "verified",
+     "event_id": "427-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    }
+   ]
+  },
+  "435": {
+   "name": "中華基督教會方潤華中學",
+   "school_type": "資助",
+   "banding_tier": "Band 2",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-07",
+     "date_end": null,
+     "label": "資訊日（升中體驗日）",
+     "academic_year": "2027-28",
+     "source_text": "日期：2026年11月7日（星期六） 時間：上午 10:00 – 中午 12:30",
+     "evidence_url": "https://www.fywss.edu.hk/news-feed/secondary-school-experience-2026/",
+     "confidence": "verified",
+     "event_id": "435-2027_28-info_day-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2027-28",
+     "source_text": "(一) 申請日期 2027年1月4日至2027年1月18日",
+     "evidence_url": "https://www.fywss.edu.hk/news-feed/2027-28%e5%ad%b8%e5%b9%b4%e3%80%8c%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e3%80%8d/",
+     "confidence": "verified",
+     "event_id": "435-2027_28-application_open-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-01-30",
+     "date_end": null,
+     "label": "中一自行分配學位面試日",
+     "academic_year": "2027-28",
+     "source_text": "面試日期為2027年1月30日(星期六)",
+     "evidence_url": "https://www.fywss.edu.hk/news-feed/2027-28%e5%ad%b8%e5%b9%b4%e3%80%8c%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e3%80%8d/",
+     "confidence": "verified",
+     "event_id": "435-2027_28-interview-001",
+     "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知中一自行分配學位正取學生",
+     "academic_year": "2027-28",
+     "source_text": "本校將於2027年3月31日(星期三)透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://www.fywss.edu.hk/news-feed/2027-28%e5%ad%b8%e5%b9%b4%e3%80%8c%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e3%80%8d/",
+     "confidence": "verified",
+     "event_id": "435-2027_28-result-001",
+     "extracted_at": "2026-10-29T16:00:00"
     }
    ]
   }

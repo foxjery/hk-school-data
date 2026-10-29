@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-29T04:35:05Z",
+ "updated_at": "2026-10-29T04:59:01Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -385,6 +385,66 @@
    "school": "32",
    "url": "https://www.pohck.edu.hk/tc/content.php?wid=74",
    "label": "中一入學資訊（給小六家長的信，含 12-05 資訊日）"
+  },
+  {
+   "school": "105",
+   "url": "https://www.clbss.edu.hk/sites/default/files/download/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A52027_2028.pdf",
+   "label": "佛教志蓮中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "225",
+   "url": "https://www.cmos.edu.hk/",
+   "label": "明愛馬鞍山中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "225",
+   "url": "https://www.cmos.edu.hk/tc/latest_news_page/%E6%9C%AC%E6%A0%A1%E9%96%8B%E6%94%BE%E6%97%A5%E3%80%8C%E6%98%8E%E9%A6%AC%E5%AE%BF%E8%88%8D%E6%95%99%E8%82%B2%E5%A4%9A%E9%9D%A2%E7%9D%872026%E3%80%8D%EF%BC%8811%E6%9C%8814%E6%97%A5%EF%BC%89",
+   "label": "明愛馬鞍山中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "226",
+   "url": "http://www.csjss.edu.hk/it-school/php/webcms/public/mainpage/component/popup_news.php?type=&id=1255&lang=zh",
+   "label": "明愛聖若瑟中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "243",
+   "url": "https://www.jccsskc.edu.hk/zh_tw/site/view?name=27-28%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+   "label": "裘錦秋中學（葵涌）招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "252",
+   "url": "https://www.ychtcy.edu.hk/sites/default/files/2027_28zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi__0.pdf",
+   "label": "仁濟醫院董之英紀念中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "316",
+   "url": "https://www.sja.edu.hk/CP/pG/37/530",
+   "label": "聖貞德中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "335",
+   "url": "https://www.sdbnsm.edu.hk/_files/ugd/3d576f_3e3ab09456d9433b8ac3dd41c6adc606.pdf",
+   "label": "天主教慈幼會伍少梅中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "398",
+   "url": "https://www.bckss.edu.hk/article/661",
+   "label": "香海正覺蓮社佛教正覺中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "427",
+   "url": "https://www.tpsslss.edu.hk/tc/activity/%E5%B7%B4%E5%A3%AB%E7%9A%84%E5%A0%B1%E2%80%94%E2%80%94%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%9B%BE%E7%92%A7%E5%B1%B1%E4%B8%AD%E5%AD%B81122%E8%BE%A6%E8%B3%87%E8%A8%8A%E6%97%A5-%E8%A8%ADsteam%E9%AB%94%E9%A9%97%E5%8F%8A%E5%8D%87%E4%B8%AD%E9%81%B8%E6%A0%A1%E7%AD%96%E7%95%A5%E8%AC%9B%E5%BA%A7",
+   "label": "曾璧山（崇蘭）中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "435",
+   "url": "https://www.fywss.edu.hk/news-feed/2027-28%e5%ad%b8%e5%b9%b4%e3%80%8c%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e3%80%8d/",
+   "label": "中華基督教會方潤華中學招生證據頁（98 所第一批；2027-28 已公布）"
+  },
+  {
+   "school": "435",
+   "url": "https://www.fywss.edu.hk/news-feed/secondary-school-experience-2026/",
+   "label": "中華基督教會方潤華中學招生證據頁（98 所第一批；2027-28 已公布）"
   }
  ],
  "demotes": [
