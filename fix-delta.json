@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-10-29T05:17:51Z",
+ "updated_at": "2026-11-04T03:55:00Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -485,6 +485,21 @@
    "school": "440",
    "url": "https://www.hftc.edu.hk/tc/content.php?wid=207",
    "label": "中華基督教會何福堂書院招生證據頁（98 所第二批；2027-28 資訊日）"
+  },
+  {
+   "school": "176",
+   "url": "https://www.kcmc.edu.hk/tc/node/1045",
+   "label": "葵涌循道中學「葵循資訊日」頁（逾期複查批次 2026-11-04；2728 資訊日 11-28）"
+  },
+  {
+   "school": "444",
+   "url": "https://www.ks.edu.hk/tc/content.php?wid=193",
+   "label": "中華基督教會基新中學校曆頁（逾期複查批次 2026-11-04；開放日 12-12）"
+  },
+  {
+   "school": "244",
+   "url": "https://www.jcctm.edu.hk/web/admission/",
+   "label": "裘錦秋中學（屯門）中一自行分配學位申請頁（逾期複查批次 2026-11-04；現掛 2026-27 全鏈）"
   }
  ],
  "demotes": [

@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-10-29T17:00:00",
+ "updated_at": "2026-11-04T12:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -12316,6 +12316,30 @@
      "evidence_url": "https://www.munsang.edu.hk/secondary/f1_admission.php",
      "event_id": "219-2026-27-result-001",
      "confidence": "high"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "F.1 Admission Information Day 2026（11:00am–12:30pm，Yau Ying Sum Hall）",
+     "academic_year": "2027-28",
+     "source_text": "Date: 5th December 2026 (Saturday) Time: 11:00 am – 12:30 pm Venue: Yau Ying Sum Hall",
+     "evidence_url": "https://www.munsang.edu.hk/secondary/f1_admission.php",
+     "confidence": "high",
+     "event_id": "219-2027_28-info_day-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-11-09",
+     "date_end": null,
+     "label": "資訊日報名開始（至 11-27；報名連結 11-09 開通）",
+     "academic_year": "2027-28",
+     "source_text": "Open Enrollment Period: 9th November 2026 – 27th November 2026 Enrollment Link: [Please click here] (link will be activated on 9th November 2026)",
+     "evidence_url": "https://www.munsang.edu.hk/secondary/f1_admission.php",
+     "confidence": "high",
+     "event_id": "219-2027_28-application_open-001",
+     "extracted_at": "2026-11-04T12:00:00"
     }
    ],
    "self_healing_active": false
@@ -28884,6 +28908,192 @@
      "confidence": "medium",
      "event_id": "440-2026_27-result-001",
      "extracted_at": "2026-10-29T17:00:00"
+    }
+   ]
+  },
+  "292": {
+   "name": "聖公會聖本德中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "本校 2027–28 學年「中一自行分配學位」將於 2027 年 1 月 4 日至 18 日期間接受申請",
+     "evidence_url": "https://www.skhsbs.edu.hk/%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e7%94%b3%e8%ab%8b/",
+     "confidence": "high",
+     "event_id": "292-2027_28-application_open-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "本校 2027–28 學年「中一自行分配學位」將於 2027 年 1 月 4 日至 18 日期間接受申請",
+     "evidence_url": "https://www.skhsbs.edu.hk/%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d%e7%94%b3%e8%ab%8b/",
+     "confidence": "high",
+     "event_id": "292-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    }
+   ]
+  },
+  "176": {
+   "name": "葵涌循道中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "葵循資訊日（跨科學習、體育競技與生命教育體驗；9:00–12:30／14:00–16:00）",
+     "academic_year": "2027-28",
+     "source_text": "葵循跨科學習、體育競技與生命教育體驗 暨 葵循資訊日 2026年11月28日（六）時間：上午9:00-12:30及下午2:00-4:00",
+     "evidence_url": "https://www.kcmc.edu.hk/tc/node/1045",
+     "confidence": "medium",
+     "event_id": "176-2027_28-info_day-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    }
+   ]
+  },
+  "444": {
+   "name": "中華基督教會基新中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "校曆預告：開放日",
+     "academic_year": "2027-28",
+     "source_text": "title: '開放日', start: '2026-12-12'",
+     "evidence_url": "https://www.ks.edu.hk/tc/content.php?wid=193",
+     "confidence": "medium",
+     "event_id": "444-2027_28-info_day-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2025-12-13",
+     "date_end": null,
+     "label": "校曆預告：北區小學聯校數學比賽/開放日",
+     "academic_year": "2026-27",
+     "source_text": "title: '北區小學聯校數學比賽/開放日', start: '2025-12-13'",
+     "evidence_url": "https://www.ks.edu.hk/tc/content.php?wid=193",
+     "confidence": "medium",
+     "event_id": "444-2026_27-info_day-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-15",
+     "date_end": null,
+     "label": "校曆預告：中一自行收生面試日（下午）",
+     "academic_year": "2026-27",
+     "source_text": "title: '中一自行收生面試日(下午)', start: '2026-03-15'",
+     "evidence_url": "https://www.ks.edu.hk/tc/content.php?wid=193",
+     "confidence": "medium",
+     "event_id": "444-2026_27-interview-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    }
+   ]
+  },
+  "343": {
+   "name": "天主教新民書院",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "校曆預告：中一自行收生面試日",
+     "academic_year": "2027-28",
+     "source_text": "title: '中一自行收生面試日(13/3)', start: '2027-03-13'",
+     "evidence_url": "https://www.newman.edu.hk/tc/calendar.php?wid=23",
+     "confidence": "medium",
+     "event_id": "343-2027_28-interview-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    }
+   ]
+  },
+  "23": {
+   "name": "寶覺中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-17",
+     "date_end": "2026-12-19",
+     "label": "校曆預告：95周年校慶開放日（12-17～12-19）",
+     "academic_year": "2027-28",
+     "source_text": "17/12-19/12* 95th Anniversary Celebration Open Days",
+     "evidence_url": "https://pokok.edu.hk/joomla/index.php?option=com_attachments&task=download&id=1607",
+     "confidence": "medium",
+     "event_id": "23-2027_28-info_day-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    }
+   ]
+  },
+  "244": {
+   "name": "裘錦秋中學（屯門）",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2026-27",
+     "source_text": "申請日期：2026年1月2日(五)至2026年1月16日(五)",
+     "evidence_url": "https://www.jcctm.edu.hk/web/admission/",
+     "confidence": "verified",
+     "event_id": "244-2026_27-application_open-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2026-01-16",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2026-27",
+     "source_text": "申請日期：2026年1月2日(五)至2026年1月16日(五)",
+     "evidence_url": "https://www.jcctm.edu.hk/web/admission/",
+     "confidence": "verified",
+     "event_id": "244-2026_27-application_deadline-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2026-03-07",
+     "date_end": null,
+     "label": "中一自行分配學位面試（所有申請者均獲約見）",
+     "academic_year": "2026-27",
+     "source_text": "面試日期：2026 年 3 月 7 日(星期六)",
+     "evidence_url": "https://www.jcctm.edu.hk/web/admission/",
+     "confidence": "verified",
+     "event_id": "244-2026_27-interview-001",
+     "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2026-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位正取通知（書面及電話）",
+     "academic_year": "2026-27",
+     "source_text": "本校將於 2026 年 3 月 31 日(星期二)透過書面及電話通知所有正取學生",
+     "evidence_url": "https://www.jcctm.edu.hk/web/admission/",
+     "confidence": "verified",
+     "event_id": "244-2026_27-result-001",
+     "extracted_at": "2026-11-04T12:00:00"
     }
    ]
   }
