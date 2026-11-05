@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-05T12:00:00",
+ "updated_at": "2026-11-05T14:45:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -15973,6 +15973,18 @@
      "confidence": "high",
      "event_id": "420-2027_28-result-001",
      "extracted_at": "2026-09-20T21:22:02"
+    },
+    {
+     "type": "registration",
+     "date": "2027-01-09",
+     "date_end": null,
+     "label": "G7 Registration (AM)",
+     "academic_year": "2027-28",
+     "source_text": "9 January 2027 (Sat) AM G7 Registration｜頁面逐字，星期六錨點吻合",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://www.gtcollege.edu.hk/2027-2028-g7-admission/",
+     "confidence": "high",
+     "event_id": "420-2027_28-registration-001"
     }
    ],
    "self_healing_active": false
@@ -28158,6 +28170,18 @@
      "confidence": "medium",
      "event_id": "252-2025_26-result-001",
      "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：2027年1月4日(星期一)至1月18日(星期一)（包括首尾兩天）｜PDF 逐字，星期錨點吻合",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://www.ychtcy.edu.hk/sites/default/files/2027_28zhong_yi_zi_xing_fen_pei_shen_qing_biao_ji_xu_zhi__0.pdf",
+     "confidence": "high",
+     "event_id": "252-2027_28-application_deadline-001"
     }
    ]
   },
@@ -29233,6 +29257,96 @@
      "confidence": "verified",
      "event_id": "186-2026_27-application_open-002",
      "extracted_at": "2026-11-05T11:30:00"
+    }
+   ]
+  },
+  "285": {
+   "name": "聖公會李炳中學",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-06",
+     "date_end": null,
+     "label": "升中資訊日暨模擬面試工作坊（升中講座及模擬面試 9:00-10:30＋活動攤位 10:30-12:30；網上報名至 11-08）",
+     "academic_year": "2027-28",
+     "source_text": "升中家長重要行事曆：2026年12月6日（六）升中資訊日暨模擬面試工作坊｜PDF 逐字，星期六錨點吻合",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://liping.edu.hk/upload/2026/10/8673427695b90e4e085771d1dd628539.pdf",
+     "confidence": "high",
+     "event_id": "285-2027_28-info_day-001"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（2027年1月4日至1月18日）",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：二零二七年一月四日至一月十八日（2027年9月入學）｜須知 PDF 逐字，1/4=星期一吻合",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://liping.edu.hk/upload/2026/10/41f608f4b8e344ef71b30bea38725e56.pdf",
+     "confidence": "high",
+     "event_id": "285-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：二零二七年一月四日至一月十八日｜1/18=星期一吻合",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://liping.edu.hk/upload/2026/10/41f608f4b8e344ef71b30bea38725e56.pdf",
+     "confidence": "high",
+     "event_id": "285-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（所有申請者獲邀；惡劣天氣順延至 3-13）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期：2027年3月6日（星期六）｜3/6=星期六吻合",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://liping.edu.hk/upload/2026/10/41f608f4b8e344ef71b30bea38725e56.pdf",
+     "confidence": "high",
+     "event_id": "285-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知自行分配學位正取學生家長",
+     "academic_year": "2027-28",
+     "source_text": "成功申請本校的自行分配學位的學生，將於2027年3月31日獲得本校電話通知及發出《自行分配學位正取生》通知書",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://liping.edu.hk/upload/2026/10/41f608f4b8e344ef71b30bea38725e56.pdf",
+     "confidence": "high",
+     "event_id": "285-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "自行分配學位結果與統一派位結果一併公布",
+     "academic_year": "2027-28",
+     "source_text": "派位的最終結果將由教育局於2027年7月6日正式公布｜行事曆 PDF 逐字",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://liping.edu.hk/upload/2026/10/8673427695b90e4e085771d1dd628539.pdf",
+     "confidence": "high",
+     "event_id": "285-2027_28-result-002"
+    },
+    {
+     "type": "registration",
+     "date": "2027-07-08",
+     "date_end": "2027-07-09",
+     "label": "中一新生到校辦理註冊手續（7月8日及9日）",
+     "academic_year": "2027-28",
+     "source_text": "中一新生到校辦理註冊手續：2027年7月8日（四）及7月9日（五）｜行事曆 PDF 逐字",
+     "extracted_at": "2026-11-05T14:45:00",
+     "evidence_url": "https://liping.edu.hk/upload/2026/10/8673427695b90e4e085771d1dd628539.pdf",
+     "confidence": "high",
+     "event_id": "285-2027_28-registration-001"
     }
    ]
   }

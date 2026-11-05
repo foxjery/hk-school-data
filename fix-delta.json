@@ -163,6 +163,27 @@
    "oldLink": "https://www.cccmkc.edu.hk/en",
    "newLink": "https://www.cccmkc.edu.hk/en/latest_news",
    "reason": "relink"
+  },
+  {
+   "school": "24",
+   "title": "HTC S2-S4 Admissions 25-26",
+   "oldLink": "http://www.htc.edu.hk/files/20250408-HTC S2-S4 Admissions 25-26.pdf",
+   "newLink": "https://www.htc.edu.hk/files/20250408-HTC%20S2-S4%20Admissions%2025-26.pdf",
+   "reason": "relink"
+  },
+  {
+   "school": "276",
+   "title": "2024 Briefing Session Slides",
+   "oldLink": "https://www.spc.edu.hk/upload_files/editor_image/2024 Briefing Session Slides v2.pdf",
+   "newLink": "https://www.spc.edu.hk/upload_files/editor_image/2024%20Briefing%20Session%20Slides%20v2.pdf",
+   "reason": "relink"
+  },
+  {
+   "school": "307",
+   "title": "IHMC Newsletter Oct 2025",
+   "oldLink": "https://www2.ihmc.edu.hk/wp-content/uploads/2025/10/IHMC_Newsletter_Oct_2025.pdf",
+   "newLink": "https://www.ihmc.edu.hk/wp-content/uploads/2025/10/IHMC_Newsletter_Oct_2025.pdf",
+   "reason": "relink"
   }
  ],
  "backfills": [
@@ -515,6 +536,16 @@
    "school": "336",
    "url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2025-2027",
    "label": "天主教郭得勝中學 S1 自行分配頁年度換頁 2024-2026 → 2025-2027（學校 slug rotation；C-043 Owner「寫入吧」批次 2026-11-05）"
+  },
+  {
+   "school": "13",
+   "url": "https://www.plklsp.edu.hk/blog/2026/10/13/2026-2027-s-1-admission-talk-and-open-day/",
+   "label": "保良局李城璧中學 2026/2027 S.1 Admission Talk and Open Day 博文（年度 slug rotation，C-044 批）"
+  },
+  {
+   "school": "285",
+   "url": "https://liping.edu.hk/page/841/?mid=9&m=4357095709467&s=6085692797116",
+   "label": "聖公會李炳中學中一學位申請頁（302→200，含 2728 須知/行事曆，C-044 批）"
   }
  ],
  "demotes": [
@@ -592,6 +623,81 @@
    "school": "343",
    "url": "https://www.newman.edu.hk/tc/calendar.php?wid=23",
    "reason": "校曆類頁面無公開 feed，SAI 標 no_public_feed（calendar_no_feed_2026-10-27，Owner「查吧／好」批次）；老用戶退役監控"
+  },
+  {
+   "school": "107",
+   "url": "https://www.fss.edu.hk/sites/default/files/files/2025-26xiao_li_ding_gao_20250815_xue_sheng_ban_.pdf",
+   "reason": "2025-26 小冊 PDF 404；學校現行入口已在冊（C-044 批）"
+  },
+  {
+   "school": "238",
+   "url": "https://www.puiying.edu.hk/data/upload/files/Admission/2025/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8_%28%E7%B9%81%29.pdf",
+   "reason": "2025 目錄申請表 PDF 404；2728 檔名取代（C-044 批）"
+  },
+  {
+   "school": "238",
+   "url": "https://www.puiying.edu.hk/data/upload/files/Admission/2025/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B%E8%A1%A8_%28%E7%B0%A1%29.pdf",
+   "reason": "同上（簡體版）"
+  },
+  {
+   "school": "252",
+   "url": "https://www.ychtcy.edu.hk/tc/202526%E5%90%84%E7%B4%9A%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
+   "reason": "年度 slug rotation → 202627（C-044 批）"
+  },
+  {
+   "school": "420",
+   "url": "https://www.gtcollege.edu.hk/2024-2025-g7-g11-interim-admission/",
+   "reason": "舊屆 interim 頁 404（C-044 批）"
+  },
+  {
+   "school": "420",
+   "url": "https://www.gtcollege.edu.hk/2025-26-interim-admission/",
+   "reason": "同上"
+  },
+  {
+   "school": "454",
+   "url": "https://www.cymcass.edu.hk/index.php/en/s1-admission-seminar-2025-15112025",
+   "reason": "年度 slug rotation → seminar-2026-2027（C-044 批）"
+  },
+  {
+   "school": "161",
+   "url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2025%2F26",
+   "reason": "年度 name rotation → 2026/27（C-044 批）"
+  },
+  {
+   "school": "13",
+   "url": "https://www.plklsp.edu.hk/blog/2025/07/03/s1-post-secondary-school-places-allocation-application-notice-2025-2026/",
+   "reason": "404；曾為 playbook primary（C-044 批）"
+  },
+  {
+   "school": "13",
+   "url": "https://www.plklsp.edu.hk/wp-content/uploads/26-27%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E6%94%B6%E7%94%9F%E8%BE%A6%E6%B3%95%E5%8F%8A%E6%BA%96%E5%89%87-1.pdf",
+   "reason": "26-27 屆收生辦法 PDF 已過期（C-044 批）"
+  },
+  {
+   "school": "13",
+   "url": "https://www.plklsp.edu.hk/blog/2025/10/21/s-1-admission-talk-and-open-day-2/",
+   "reason": "2025 屆博文，新屆取代（C-044 批）"
+  },
+  {
+   "school": "13",
+   "url": "https://www.plklsp.edu.hk/blog/2025/12/01/application-form-notes-on-application-for-2025-26-secondary-one-discretionary-places/",
+   "reason": "2025-26 屆須知博文（C-044 批）"
+  },
+  {
+   "school": "349",
+   "url": "https://www.mcw.edu.hk/attachment/upload/SchoolGuidelinesForHandlingComplaints_PublicationEdition_2024Nov.pdf",
+   "reason": "SSL 異常＋非招生內容（C-044 批）"
+  },
+  {
+   "school": "307",
+   "url": "https://www2.ihmc.edu.hk/s1-admission/",
+   "reason": "www2 主機失效；www 版已在冊（C-044 批）"
+  },
+  {
+   "school": "285",
+   "url": "https://liping.edu.hk/page/832/?mid=9&m=4357095709467&s=1590602023637",
+   "reason": "eClass page/832 500 → page/841（C-044 批）"
   }
  ],
  "seeds": [
