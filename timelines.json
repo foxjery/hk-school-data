@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-05T14:45:00",
+ "updated_at": "2026-11-05T16:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -13404,13 +13404,13 @@
      "type": "info_day",
      "date": "2026-11-07",
      "date_end": null,
-     "label": "校曆預告：Orientation for F.1 Admission",
+     "label": "中一入學簡介會（11:00–12:00／15:00–16:00，須已網上登記；未收確認電郵請於11月6日中午前致電2697 5566）",
      "academic_year": "2027-28",
-     "source_text": "7  Orientation for F.1 Admission；9  Day after Orientation",
-     "evidence_url": "https://www.skhtst.edu.hk/download/school_calendar/26-27/2026-2027_School-Calendar_A4.pdf",
-     "confidence": "medium",
+     "source_text": "2027 – 2028 年度中一入學簡介會 日期：2026年11月7日 (星期六) 時間：上午11:00至中午12:00或下午3:00至4:00 地點：本校禮堂 名額：每節各700人（因名額有限，入場券採用先到先得形式派發。每位家長最多可獲發三張門票。） 表格將於10月16日（星期五）上午9時正正式開放登記，額滿即止。 本校將於10月30日（星期五）前發出確認電郵並附上簡介會電子門票及程序表。若未能收到有關電郵，請於11月6日（星期五）中午12時或以前致電2697 5566向文小姐查詢。",
+     "evidence_url": "https://www.skhtst.edu.hk/2026/10/2027-2028-%e5%b9%b4%e5%ba%a6%e4%b8%ad%e4%b8%80%e5%85%a5%e5%ad%b8%e7%b0%a1%e4%bb%8b%e6%9c%83-2027-2028-f-1-admission-briefing-session/",
+     "confidence": "high",
      "event_id": "296-2027_28-info_day-001",
-     "extracted_at": "2026-09-08T15:30:00"
+     "extracted_at": "2026-11-05T16:30:00"
     }
    ],
    "self_healing_active": false
