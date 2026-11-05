@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-04T12:00:00",
+ "updated_at": "2026-11-05T11:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -29094,6 +29094,49 @@
      "confidence": "verified",
      "event_id": "244-2026_27-result-001",
      "extracted_at": "2026-11-04T12:00:00"
+    }
+   ]
+  },
+  "186": {
+   "name": "樂善堂余近卿中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2025-12-13",
+     "date_end": null,
+     "label": "升中資訊日",
+     "academic_year": "2026-27",
+     "source_text": "樂善堂余近卿中學升中資訊日 日期：2025年12月13日 (星期六) 時間：上午9:00至下午4:00",
+     "evidence_url": "https://www.ykh.edu.hk/post/2025-2026%E5%8D%87%E4%B8%AD%E8%B3%87%E8%A8%8A%E6%97%A5",
+     "confidence": "verified",
+     "event_id": "186-2026_27-info_day-001",
+     "extracted_at": "2026-11-05T11:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-01-02",
+     "date_end": "2026-01-16",
+     "label": "遞交中一自行分配學位申請",
+     "academic_year": "2026-27",
+     "source_text": "申請日期： 2026年1月2日(星期五)至2026年1月16日(星期五)",
+     "evidence_url": "https://www.ykh.edu.hk/post/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D-2026-2027",
+     "confidence": "verified",
+     "event_id": "186-2026_27-application_open-001",
+     "extracted_at": "2026-11-05T11:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-07-07",
+     "date_end": "2026-07-08",
+     "label": "叩門（候補）申請遞交",
+     "academic_year": "2026-27",
+     "source_text": "中一自行招生申請須知 (2026-2027)(2026年7月7日及7月8日)",
+     "evidence_url": "https://www.ykh.edu.hk/post/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%8B%9B%E7%94%9F%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5-2026-2027-2026%E5%B9%B47%E6%9C%887%E6%97%A5%E5%8F%8A7%E6%9C%888%E6%97%A5",
+     "confidence": "verified",
+     "event_id": "186-2026_27-application_open-002",
+     "extracted_at": "2026-11-05T11:30:00"
     }
    ]
   }

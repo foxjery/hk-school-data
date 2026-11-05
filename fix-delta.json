@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-04T03:55:00Z",
+ "updated_at": "2026-11-05T03:30:00Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -500,6 +500,16 @@
    "school": "244",
    "url": "https://www.jcctm.edu.hk/web/admission/",
    "label": "裘錦秋中學（屯門）中一自行分配學位申請頁（逾期複查批次 2026-11-04；現掛 2026-27 全鏈）"
+  },
+  {
+   "school": "186",
+   "url": "https://www.ykh.edu.hk/post/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%8B%9B%E7%94%9F%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5-2026-2027-2026%E5%B9%B47%E6%9C%887%E6%97%A5%E5%8F%8A7%E6%9C%888%E6%97%A5",
+   "label": "樂善堂余近卿中學中一自行招生（叩門）申請須知 post（單點接入 2026-11-05；年度 slug 按年換）"
+  },
+  {
+   "school": "186",
+   "url": "https://www.ykh.edu.hk/post/2026-2027%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E6%96%B0%E7%94%9F%E8%A8%BB%E5%86%8A%E9%A0%88%E7%9F%A5",
+   "label": "樂善堂余近卿中學中一新生註冊須知 post（單點接入 2026-11-05；年度 slug 按年換，7 月監控節點）"
   }
  ],
  "demotes": [
