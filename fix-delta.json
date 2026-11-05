@@ -546,6 +546,16 @@
    "school": "285",
    "url": "https://liping.edu.hk/page/841/?mid=9&m=4357095709467&s=6085692797116",
    "label": "聖公會李炳中學中一學位申請頁（302→200，含 2728 須知/行事曆，C-044 批）"
+  },
+  {
+   "school": "296",
+   "url": "https://www.skhtst.edu.hk/category/news/",
+   "label": "聖公會曾肇添中學 WP news feed 第 1 頁（C-047 取代分頁第 2 頁）"
+  },
+  {
+   "school": "296",
+   "url": "https://www.skhtst.edu.hk/category/top/",
+   "label": "聖公會曾肇添中學 WP top 置頂區（C-047 漏收根因頁）"
   }
  ],
  "demotes": [
@@ -698,6 +708,11 @@
    "school": "285",
    "url": "https://liping.edu.hk/page/832/?mid=9&m=4357095709467&s=1590602023637",
    "reason": "eClass page/832 500 → page/841（C-044 批）"
+  },
+  {
+   "school": "296",
+   "url": "https://www.skhtst.edu.hk/category/news/page/2/",
+   "reason": "WP 分頁第 2 頁誤收，主 feed 漏新帖（C-047）"
   }
  ],
  "seeds": [
