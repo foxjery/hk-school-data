@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-05T11:30:00",
+ "updated_at": "2026-11-05T12:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -3196,6 +3196,78 @@
      "confidence": "medium",
      "event_id": "262-2027_28-info_day-001",
      "extracted_at": "2026-10-27T08:20:39"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（50個學位）",
+     "academic_year": "2027-28",
+     "source_text": "Application for S1 Discretionary Places 4/1/2027 – 18/1/2027 【Number of places：50】",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-application_open-001",
+     "extracted_at": "2026-11-05T12:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "Application for S1 Discretionary Places 4/1/2027 – 18/1/2027",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-05T12:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試",
+     "academic_year": "2027-28",
+     "source_text": "S1 Discretionary Place Interview 13/3/2027 (SAT)",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-interview-001",
+     "extracted_at": "2026-11-05T12:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知正取學生",
+     "academic_year": "2027-28",
+     "source_text": "Notifying Parents of Successful Applicants 31/3/2027 (WED)",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-result-001",
+     "extracted_at": "2026-11-05T12:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "派位結果公布（統一派位105個學位）",
+     "academic_year": "2027-28",
+     "source_text": "Release of Allocation Results 6/7/2027 (TUE)",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-result-002",
+     "extracted_at": "2026-11-05T12:00:00"
+    },
+    {
+     "type": "registration",
+     "date": "2027-07-08",
+     "date_end": "2027-07-09",
+     "label": "中一註冊",
+     "academic_year": "2027-28",
+     "source_text": "S1 Registration 8/7/2027(THU) - 9/7/2027(FRI)",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-registration-001",
+     "extracted_at": "2026-11-05T12:00:00"
     }
    ]
   },
@@ -3391,6 +3463,18 @@
      "confidence": "high",
      "event_id": "265-2026_27-info_day-002",
      "extracted_at": "2026-10-21T13:30:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "學校資訊日（學生分享・升中講座・英語音樂劇・校園巡禮・升中諮詢），須網上報名",
+     "academic_year": "2027-28",
+     "source_text": "2026年12月5日（星期六）學校資訊日：學生分享・升中講座・英語音樂劇・校園巡禮・升中諮詢；分兩場（上午9:30至下午4:30），須於12月1日（星期二）或以前網上報名，成功報名者12月2日經電郵收到活動詳情（2026-11-05 Mac 港網複核：海報 banner_chin2627.png＋PDF 文字層逐字一致）",
+     "evidence_url": "https://kccshatin.edu.hk/news/2627/openday/KCCS_infoday2627.pdf",
+     "confidence": "high",
+     "event_id": "265-2027_28-info_day-001",
+     "extracted_at": "2026-11-05T12:00:00"
     }
    ],
    "data_gap_reason": "no_public_admission_info",
@@ -14224,10 +14308,10 @@
      "type": "info_day",
      "date": "2026-12-12",
      "date_end": null,
-     "label": "升中家長簡介會（第一場）",
+     "label": "升中家長簡介會（兩場，須於12月4日或以前登記）",
      "academic_year": "2027-28",
-     "source_text": "為讓家長對本校辦學理念有更深入了解，本校將於2026年12月12日(星期六)舉行兩場升中家長簡介會，詳情如下：|  | 第一場 | 第二場 | | --- | --- | --- | | 時間： | 下午2時至3時 | 下午4時30分至5時30分 |",
-     "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2024-2026",
+     "source_text": "為讓家長對本校辦學理念有更深入了解，本校將於2026年12月12日(星期六)舉行兩場升中家長簡介會，詳情如下：|  | 第一場 | 第二場 | | --- | --- | --- | | 時間： | 下午2時至3時 | 下午4時30分至5時30分 | | 有興趣參加者，請於 2026年12月4日(星期五) 或以前登記，以便安排。每個家庭出席的人數最多為3人。",
+     "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2025-2027",
      "confidence": "high",
      "event_id": "336-2027_28-info_day-001",
      "extracted_at": "2026-10-25T11:55:31"
@@ -14279,6 +14363,18 @@
      "confidence": "high",
      "event_id": "336-2027_28-result-002",
      "extracted_at": "2026-10-25T11:55:31"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試",
+     "academic_year": "2027-28",
+     "source_text": "面試將於 2027年3月6日(星期六) 進行，家長遞交申請表時將同時安排面試日期及時間。",
+     "evidence_url": "https://www.ktscss.edu.hk/s1-discretionary-places-allocation-2025-2027",
+     "confidence": "high",
+     "event_id": "336-2027_28-interview-001",
+     "extracted_at": "2026-11-05T12:00:00"
     }
    ]
   },
