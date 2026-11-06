@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-05T16:30:00",
+ "updated_at": "2026-11-06T12:45:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -29347,6 +29347,73 @@
      "evidence_url": "https://liping.edu.hk/upload/2026/10/8673427695b90e4e085771d1dd628539.pdf",
      "confidence": "high",
      "event_id": "285-2027_28-registration-001"
+    }
+   ]
+  },
+  "271": {
+   "name": "神召會康樂中學",
+   "school_type": "資助",
+   "banding_tier": "Band 2",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2023-11-11",
+     "date_end": null,
+     "label": "據校曆：中一入學資訊日",
+     "academic_year": "2024-25",
+     "source_text": "(11)中一入學資訊日",
+     "evidence_url": "https://web.archive.org/web/20240514231741/https://hebron.edu.hk/documents/2023-2024_School_Calendar_Student.pdf",
+     "confidence": "medium",
+     "event_id": "271-2024_25-info_day-001",
+     "extracted_at": "2026-11-06T12:45:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2024-01-02",
+     "date_end": "2024-01-16",
+     "label": "待核實：遞交中一自行分配學位申請",
+     "academic_year": "2024-25",
+     "source_text": "2024年1月2日 至 2024年1月16日",
+     "evidence_url": "https://web.archive.org/web/20260116114619/https://hebron.edu.hk/2020/s1admit/index1.php",
+     "confidence": "medium",
+     "event_id": "271-2024_25-application_open-001",
+     "extracted_at": "2026-11-06T12:45:00"
+    },
+    {
+     "type": "interview",
+     "date": "2024-03-02",
+     "date_end": null,
+     "label": "待核實：中一自行分配學位面試日",
+     "academic_year": "2024-25",
+     "source_text": "面試日期： 2024年3月2日 (星期六)",
+     "evidence_url": "https://web.archive.org/web/20260116114619/https://hebron.edu.hk/2020/s1admit/index1.php",
+     "confidence": "medium",
+     "event_id": "271-2024_25-interview-001",
+     "extracted_at": "2026-11-06T12:45:00"
+    },
+    {
+     "type": "result",
+     "date": "2024-03-27",
+     "date_end": null,
+     "label": "待核實：通知中一自行分配學位正取學生",
+     "academic_year": "2024-25",
+     "source_text": "本校將於2024年3月27日(三)以書面及電話通知獲本校納入自行分配學位正取學生之家長",
+     "evidence_url": "https://web.archive.org/web/20260116114619/https://hebron.edu.hk/2020/s1admit/index1.php",
+     "confidence": "medium",
+     "event_id": "271-2024_25-result-001",
+     "extracted_at": "2026-11-06T12:45:00"
+    },
+    {
+     "type": "result",
+     "date": "2024-07-09",
+     "date_end": null,
+     "label": "待核實：公布自行分配學位及統一派位結果",
+     "academic_year": "2024-25",
+     "source_text": "2024年7月9日(二)公布自行分配學位及統一派位結果",
+     "evidence_url": "https://web.archive.org/web/20260116114619/https://hebron.edu.hk/2020/s1admit/index1.php",
+     "confidence": "medium",
+     "event_id": "271-2024_25-result-002",
+     "extracted_at": "2026-11-06T12:45:00"
     }
    ]
   }
