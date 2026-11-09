@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-06T12:45:00",
+ "updated_at": "2026-11-09T12:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -3225,13 +3225,13 @@
      "type": "interview",
      "date": "2027-03-13",
      "date_end": null,
-     "label": "中一自行分配學位面試",
+     "label": "中一自行分配學位面試（入選者另設第二輪面試）",
      "academic_year": "2027-28",
-     "source_text": "S1 Discretionary Place Interview 13/3/2027 (SAT)",
+     "source_text": "S1 Discretionary Place Interview 13/3/2027 (SAT) An interview will be arranged for each applicant. A Second interview will be arranged for each selected applicant.",
      "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
      "confidence": "high",
      "event_id": "262-2027_28-interview-001",
-     "extracted_at": "2026-11-05T12:00:00"
+     "extracted_at": "2026-11-09T12:00:00"
     },
     {
      "type": "result",
@@ -3268,6 +3268,30 @@
      "confidence": "high",
      "event_id": "262-2027_28-registration-001",
      "extracted_at": "2026-11-05T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "orientation",
+     "date": "2027-07-13",
+     "date_end": null,
+     "label": "入學前學科測驗（同場設家長講座）",
+     "source_text": "Pre-S1 Attainment Test 【A parent talk will be held simultaneously】 13/7/2027 (TUE) Details will be delivered through school notice on 8/7.",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-orientation-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "orientation",
+     "date": "2027-08-21",
+     "date_end": null,
+     "label": "中一迎新日",
+     "source_text": "S1 Orientation Day 21/8/2027(SAT) Details will be delivered through school notice on 8/7.",
+     "evidence_url": "https://sttss.edu.hk/en/school/s1admission",
+     "confidence": "high",
+     "event_id": "262-2027_28-orientation-002",
+     "extracted_at": "2026-11-09T12:00:00"
     }
    ]
   },
@@ -13411,6 +13435,66 @@
      "confidence": "high",
      "event_id": "296-2027_28-info_day-001",
      "extracted_at": "2026-11-05T16:30:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（50個學位；申請表11月11日起可下載或到校索取）",
+     "source_text": "From 11 November 2026 till 18 January 2027, applicants can download an application form ... Quota 名額 50 ... must be submitted to the school between 4 January 2027 and 18 January 2027, either via the EDB’s SSPA e-Platform or in person.",
+     "evidence_url": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+     "confidence": "high",
+     "event_id": "296-2027_28-application_open-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止（經電子平台申請者須於1月31日前交回郵信封）",
+     "source_text": "將填妥之表格及有關文件於 2027 年 1 月 4 日至 2027 年 1 月 18 日 期間，透過教育局「中一派位電子平台」或親身交回本校。如透過「中一派位電子平台」遞交申請，請於 2027 年 1 月 31 日 前以郵寄方式或親身到校提交回郵信封。",
+     "evidence_url": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+     "confidence": "high",
+     "event_id": "296-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（小組，中文及英文；2月25日發面試通知）",
+     "source_text": "本校將於2027年2月25日透過電郵及郵遞方式發出面試通知書予所有申請人。面試日期訂於2027年3月6日（星期六）舉行，屆時將以小組形式分別進行中文（廣東話）及英文面試。",
+     "evidence_url": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+     "confidence": "high",
+     "event_id": "296-2027_28-interview-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知正取學生（郵遞及電話）",
+     "source_text": "本校將於2027年3月31日以郵遞方式及電話直接通知獲正取資格的50位學生及其家長。",
+     "evidence_url": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+     "confidence": "high",
+     "event_id": "296-2027_28-result-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "派位結果公布",
+     "source_text": "自行分配學位與統一派位的結果將於2027年7月6日由教育局統一公佈。",
+     "evidence_url": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+     "confidence": "high",
+     "event_id": "296-2027_28-result-002",
+     "extracted_at": "2026-11-09T12:00:00"
     }
    ],
    "self_healing_active": false
@@ -23039,6 +23123,66 @@
      "confidence": "high",
      "event_id": "142-2027_28-info_day-001",
      "extracted_at": "2026-10-26T15:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（40個學位；校本申請表11月9日起可到校索取或官網下載）",
+     "source_text": "(1) Quota for SSPA: 40 (2) Dates for submission: 4th January 2027 (Monday) – 18th January 2028 (Monday)［原文誤印 2028，以教育局派位期 2027 為準］(3) Starting from 9th November 2026, school application forms can be fetched in person at our school or downloaded from our school website",
+     "evidence_url": "https://www.ccst.edu.hk/wp-content/uploads/2026/11/Admission-to-S1-2027-28_General-Guidelines-for-Secondary-School-Places-Allocation-SSPA-Application.pdf",
+     "confidence": "high",
+     "event_id": "142-2027_28-application_open-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止（電子平台 23:59 截止）",
+     "source_text": "(11) Application submission via the EDB SSPA e-Platform: a. Deadline: 18th January 2027 (HKT 23:59)",
+     "evidence_url": "https://www.ccst.edu.hk/wp-content/uploads/2026/11/Admission-to-S1-2027-28_General-Guidelines-for-Secondary-School-Places-Allocation-SSPA-Application.pdf",
+     "confidence": "high",
+     "event_id": "142-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試（小組；粵語／英語／普通話；2月3日或之前以信件通知）",
+     "source_text": "(8) Interview arrangements: Date: 13th March 2027 (Saturday) Format: Group Language: Cantonese, English and Putonghua Notification: All applicants will be notified by letter on or before 3rd February 2027",
+     "evidence_url": "https://www.ccst.edu.hk/wp-content/uploads/2026/11/Admission-to-S1-2027-28_General-Guidelines-for-Secondary-School-Places-Allocation-SSPA-Application.pdf",
+     "confidence": "high",
+     "event_id": "142-2027_28-interview-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知正取學生（信件及電話）",
+     "source_text": "Parents of successful applicants will be notified of their children’s inclusion in our Successful Lists for Discretionary Place by letter and phone on 31st March 2027.",
+     "evidence_url": "https://www.ccst.edu.hk/wp-content/uploads/2026/11/Admission-to-S1-2027-28_General-Guidelines-for-Secondary-School-Places-Allocation-SSPA-Application.pdf",
+     "confidence": "high",
+     "event_id": "142-2027_28-result-001",
+     "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "派位結果公布",
+     "source_text": "SSPA application results released by the EDB will be announced through primary schools on 6th July 2027.",
+     "evidence_url": "https://www.ccst.edu.hk/wp-content/uploads/2026/11/Admission-to-S1-2027-28_General-Guidelines-for-Secondary-School-Places-Allocation-SSPA-Application.pdf",
+     "confidence": "high",
+     "event_id": "142-2027_28-result-002",
+     "extracted_at": "2026-11-09T12:00:00"
     }
    ],
    "banding_tier": "Band 2"

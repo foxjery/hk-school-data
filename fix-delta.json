@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-05T03:30:00Z",
+ "updated_at": "2026-11-09T06:10:28Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -736,6 +736,27 @@
    "link": "https://www.ltfc.edu.hk/miniclassroom",
    "deadline": "2026-11-15",
    "note": "11月15日(日) 13:00-17:00（資訊環節15:00）；「小小教室」體驗課網上報名10月28日08:00開放（miniclassroom→Google表格，先到先得）；S1申請11月16日開始。#194海報漏報配套種子（2026-10-23）；3.13起注入為未讀動態＋通知；與首掃baseline同链接時原地升級不重複插入"
+  },
+  {
+   "school": "142",
+   "title": "基督書院 2027-28 中一自行分配學位申請章程及申請表（40個學位，1月4日至18日遞交）",
+   "link": "https://www.ccst.edu.hk/wp-content/uploads/2026/11/Admission-to-S1-2027-28_General-Guidelines-for-Secondary-School-Places-Allocation-SSPA-Application.pdf",
+   "deadline": "2027-01-18",
+   "note": "官網 2026-11-09 上載章程 PDF，雲端逐字核對：40學位、遞交 2027-01-04至01-18（原文誤印 2028）、面試 03-13、02-03 前信件通知、正取 03-31。對照組監控報告（Owner 11-09）＋Owner 指示兩天內送達。"
+  },
+  {
+   "school": "296",
+   "title": "聖公會曾肇添中學 2027年9月入學中一自行分配學位申請（50個學位，申請表11月11日起下載）",
+   "link": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+   "deadline": "2027-01-18",
+   "note": "官網 category/top 帖，雲端 11-09 核對：50學位、表格 2026-11-11至2027-01-18、遞交 01-04至01-18、電子平台者 01-31 前交回郵信封、02-25 發面試通知、面試 03-06、正取 03-31。Owner 指示兩天內送達。"
+  },
+  {
+   "school": "262",
+   "title": "沙田崇真中學 2027/28 中一自行分配學位時間表（50個學位；入選者設第二輪面試）",
+   "link": "https://sttss.edu.hk/en/school/s1admission",
+   "deadline": "2027-01-18",
+   "note": "學校直接改入學頁正文、無新連結，產品 A 現有邏輯不出動態（R-6 缺口）；以種子補送。雲端 11-09 核對：申請 01-04至01-18、面試 03-13 另設第二輪、正取 03-31、派位 07-06、註冊 07-08/09、入學前測驗 07-13、迎新 08-21。"
   }
  ]
 }
