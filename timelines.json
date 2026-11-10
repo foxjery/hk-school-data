@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-09T21:00:00",
+ "updated_at": "2026-11-10T16:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -21062,6 +21062,54 @@
      "confidence": "verified",
      "event_id": "212-2026_27-result-001",
      "extracted_at": "2026-10-25T20:52:37"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始（40 名）",
+     "academic_year": "2027-28",
+     "source_text": "申請日期為 2027 年 1 月 4 日至 1 月 18 日",
+     "evidence_url": "https://www.mfs1.edu.hk/attachment/upload/files/School%20News/2026-11-05%20N01/2027_SSPA_application_form_and_notes_to_parents__Chinese__2026_10_30.pdf",
+     "confidence": "high",
+     "event_id": "212-2027_28-application_open-001",
+     "extracted_at": "2026-11-10T16:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止（下午 5 時前）",
+     "academic_year": "2027-28",
+     "source_text": "申請表須於 2027 年 1 月 18 日下午 5 時前",
+     "evidence_url": "https://www.mfs1.edu.hk/attachment/upload/files/School%20News/2026-11-05%20N01/2027_SSPA_application_form_and_notes_to_parents__Chinese__2026_10_30.pdf",
+     "confidence": "high",
+     "event_id": "212-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-10T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試",
+     "academic_year": "2027-28",
+     "source_text": "面試定於 2027 年 3 月 6 日舉行，詳情將於 2027 年 2 月中旬以郵遞通知所有申請人。",
+     "evidence_url": "https://www.mfs1.edu.hk/attachment/upload/files/School%20News/2026-11-05%20N01/2027_SSPA_application_form_and_notes_to_parents__Chinese__2026_10_30.pdf",
+     "confidence": "high",
+     "event_id": "212-2027_28-interview-001",
+     "extracted_at": "2026-11-10T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位正取通知",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 31 日以電話及郵遞通知獲正取「自行分配學位」的學生家長。",
+     "evidence_url": "https://www.mfs1.edu.hk/attachment/upload/files/School%20News/2026-11-05%20N01/2027_SSPA_application_form_and_notes_to_parents__Chinese__2026_10_30.pdf",
+     "confidence": "high",
+     "event_id": "212-2027_28-result-001",
+     "extracted_at": "2026-11-10T16:00:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -25671,6 +25719,30 @@
      "confidence": "single_source",
      "event_id": "184-2026_27-interview-003",
      "extracted_at": "2026-09-22T16:43:45"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "報名日期：2027年1月4日至1月18日",
+     "evidence_url": "https://www.lstwcm.edu.hk/admission",
+     "confidence": "high",
+     "event_id": "184-2027_28-application_open-001",
+     "extracted_at": "2026-11-10T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-01-30",
+     "date_end": null,
+     "label": "中一面試（第一場；另有 2/20、2/27 兩場）",
+     "academic_year": "2027-28",
+     "source_text": "日期：2027年1月30日、2月20日或2月27日",
+     "evidence_url": "https://www.lstwcm.edu.hk/admission",
+     "confidence": "high",
+     "event_id": "184-2027_28-interview-001",
+     "extracted_at": "2026-11-10T16:00:00"
     }
    ],
    "banding_tier": "Band 3"
@@ -26217,6 +26289,54 @@
      "confidence": "verified",
      "event_id": "439-2026_27-result-001",
      "extracted_at": "2026-09-22T16:43:45"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始（30 個）",
+     "academic_year": "2027-28",
+     "source_text": "2027年1月4日（星期一）至2027年1月18日（星期一）",
+     "evidence_url": "https://ccckws.edu.hk/index.php/2026/11/05/application-guidelines-for-the-admission-of-secondary-one-discretionary-places/?lang=zh",
+     "confidence": "high",
+     "event_id": "439-2027_28-application_open-001",
+     "extracted_at": "2026-11-10T16:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "2027年1月4日（星期一）至2027年1月18日（星期一）",
+     "evidence_url": "https://ccckws.edu.hk/index.php/2026/11/05/application-guidelines-for-the-admission-of-secondary-one-discretionary-places/?lang=zh",
+     "confidence": "high",
+     "event_id": "439-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-10T16:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-20",
+     "date_end": null,
+     "label": "中一個別面試",
+     "academic_year": "2027-28",
+     "source_text": "2027年2月20日",
+     "evidence_url": "https://ccckws.edu.hk/index.php/2026/11/05/application-guidelines-for-the-admission-of-secondary-one-discretionary-places/?lang=zh",
+     "confidence": "high",
+     "event_id": "439-2027_28-interview-001",
+     "extracted_at": "2026-11-10T16:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "公布結果（正取學生家長）",
+     "academic_year": "2027-28",
+     "source_text": "2027年3月31日",
+     "evidence_url": "https://ccckws.edu.hk/index.php/2026/11/05/application-guidelines-for-the-admission-of-secondary-one-discretionary-places/?lang=zh",
+     "confidence": "high",
+     "event_id": "439-2027_28-result-001",
+     "extracted_at": "2026-11-10T16:00:00"
     }
    ],
    "banding_tier": "Band 3"
