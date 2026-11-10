@@ -1351,7 +1351,7 @@
      "label": "S1 Information Day（2027/28 Intake，簡介三節＋校園參觀）",
      "academic_year": "2027-28",
      "source_text": "官網招生頁原文：「S1 Admissions (2027/28 Intake) — S1 Information Day Date: 7 November 2026 (Sat)；Registration from 23 October 2026 (Fri), 12nn；Fee: Free admission (first come, first served)；Briefing (School Hall) 9am–10am／10:30am–11:30am／12nn–1pm；Visit 10am–1pm」（2026-11-07 確為星期六）",
-     "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
+     "evidence_url": "https://wyk.edu.hk/en/admissions/s1-admissions/index.html",
      "confidence": "high",
      "event_id": "125-2027_28-info_day-001",
      "extracted_at": "2026-10-25T11:38:45"
@@ -1363,7 +1363,7 @@
      "label": "Discretionary Places (DP) Application Period start",
      "academic_year": "2027-28",
      "source_text": "Discretionary Places (DP) Application\n\n- Application Period: 4 – 18 January 2027 (both dates inclusive)",
-     "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
+     "evidence_url": "https://wyk.edu.hk/en/admissions/s1-admissions/index.html",
      "confidence": "high",
      "event_id": "125-2027_28-application_open-001",
      "extracted_at": "2026-10-25T11:38:45"
@@ -1375,7 +1375,7 @@
      "label": "Discretionary Places (DP) Application Period end",
      "academic_year": "2027-28",
      "source_text": "Discretionary Places (DP) Application\n\n- Application Period: 4 – 18 January 2027 (both dates inclusive)",
-     "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
+     "evidence_url": "https://wyk.edu.hk/en/admissions/s1-admissions/index.html",
      "confidence": "high",
      "event_id": "125-2027_28-application_deadline-001",
      "extracted_at": "2026-10-25T11:38:45"
@@ -1387,7 +1387,7 @@
      "label": "First Interview",
      "academic_year": "2027-28",
      "source_text": "Discretionary Places (DP) Application\n\n- First Interview: 13 March 2027 (Sat) (tentative)",
-     "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
+     "evidence_url": "https://wyk.edu.hk/en/admissions/s1-admissions/index.html",
      "confidence": "high",
      "event_id": "125-2027_28-interview-001",
      "extracted_at": "2026-10-25T11:38:45"
@@ -1399,7 +1399,7 @@
      "label": "Second Interview",
      "academic_year": "2027-28",
      "source_text": "Discretionary Places (DP) Application\n\n- Second Interview: 20 March 2027 (Sat) (tentative)",
-     "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
+     "evidence_url": "https://wyk.edu.hk/en/admissions/s1-admissions/index.html",
      "confidence": "high",
      "event_id": "125-2027_28-interview-002",
      "extracted_at": "2026-10-25T11:38:45"
@@ -1411,7 +1411,7 @@
      "label": "S1 allocation (SSPA) results release",
      "academic_year": "2027-28",
      "source_text": "The S1 allocation (SSPA) results will be released by the EDB on 6 July 2027.",
-     "evidence_url": "https://wyk.edu.hk/academic/admission/s1-admissions-0/",
+     "evidence_url": "https://wyk.edu.hk/en/admissions/s1-admissions/index.html",
      "confidence": "high",
      "event_id": "125-2027_28-result-001",
      "extracted_at": "2026-10-25T11:38:45"
