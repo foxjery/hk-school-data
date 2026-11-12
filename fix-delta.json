@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-12T05:35:03Z",
+ "updated_at": "2026-11-12T23:12:15Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -576,6 +576,11 @@
    "school": "125",
    "url": "https://wyk.edu.hk/en/admissions/s1-admissions/index.html",
    "label": "華仁書院（九龍）中一招生頁（校網改版後新址 2026-11-10 找回）"
+  },
+  {
+   "school": "323",
+   "url": "https://www.lskc.edu.hk/en/content.php?wid=214",
+   "label": "李兆基中學 2027-28 升中簡介會頁（入學選單新子頁，2026-11-12 T-010 找到）"
   }
  ],
  "demotes": [
@@ -933,6 +938,13 @@
    "link": "https://www.kccnp.info/?page_id=8991",
    "deadline": "2026-11-22",
    "note": "11月22日（日）10:00–16:00 北角寶馬山道20號；才藝表演10:00–11:15、親子講座11:30–12:30、學科體驗及展覽12:30–16:00；有意出席者請填寫表格報名（頁附 Google 表單）。公告 2026-11-10 發佈；Mac 港網 11-12 逐字複核公告頁＋海報（日期/時段/須登記全對上），Owner 11-12 拍板推送；校網擋非港網已標 hk_local。deadline 用活動日（校網無登記截止日）"
+  },
+  {
+   "school": "323",
+   "title": "李兆基中學 2027-28 升中簡介會（12月12日，須於12月5日中午前網上登記）",
+   "link": "https://www.lskc.edu.hk/en/content.php?wid=214",
+   "deadline": "2026-12-05",
+   "note": "12月12日（六）兩節 10:00–11:30／14:30–16:00；Google Form 登記期 10-28 09:00 至 12-05 12:00，禮堂 600 人先到先得，登記期結束後 2 個工作天內電郵確認。雲端 2026-11-12 逐字核對 wid=214；Owner 11-12 拍板推送（T-010）。deadline 用登記截止日"
   }
  ]
 }

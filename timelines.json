@@ -13989,49 +13989,25 @@
      "type": "info_day",
      "date": "2026-12-12",
      "date_end": null,
-     "label": "校曆預告：F.1 Information Day",
+     "label": "升中簡介會（兩節：10:00–11:30／14:30–16:00；須網上登記，600人先到先得）",
      "academic_year": "2027-28",
-     "source_text": "F.1 Information Day（14/12 The Day after F.1 Information Day Holiday）",
-     "evidence_url": "https://www.lskc.edu.hk/en/content.php?wid=139",
-     "confidence": "medium",
+     "source_text": "Admission Briefing Session for 2027-2028｜Date : 12 December 2026 (Saturday)｜Time : (Session 1) 10:00a.m. - 11:30a.m. (Session 2) 2:30p.m - 4:00p.m.｜Registration Period: 28 October 2026 (9 AM) - 5 December 2026 (12 PM)｜The hall has a capacity limit of 600 people. Seating will be arranged according to the order of registration via this Google Form, on a first-come, first-served basis.（雲端 2026-11-12 逐字核對校網 wid=214）",
+     "evidence_url": "https://www.lskc.edu.hk/en/content.php?wid=214",
+     "confidence": "high",
      "event_id": "323-2027_28-info_day-001",
-     "extracted_at": "2026-09-08T23:30:00"
+     "extracted_at": "2026-11-12T20:00:00"
     },
     {
+     "academic_year": "2027-28",
      "type": "application_deadline",
-     "date": "2026-12-22",
+     "date": "2026-12-05",
      "date_end": null,
-     "label": "中一入學電子申請截止（獲邀筆試之最後期限）",
-     "academic_year": "2027-28",
-     "source_text": "If the e-Application form is submitted on or before 22 December 2026, our school will reach out to suitable candidates to arrange a written test, which is scheduled for the morning of 9 January 2027.",
-     "evidence_url": "https://www.lskc.edu.hk/attachment/upload/files/Admission/S1%20Admission/2026ApplicationForm.pdf",
-     "confidence": "verified",
-     "event_id": "323-2027_28-application_deadline-001",
-     "extracted_at": "2026-08-28T09:52:02"
-    },
-    {
-     "type": "interview",
-     "date": "2027-01-09",
-     "date_end": null,
-     "label": "筆試（面試前置環節，原文明確關聯後續面試）",
-     "academic_year": "2027-28",
-     "source_text": "If the e-Application form is submitted on or before 22 December 2026, our school will reach out to suitable candidates to arrange a written test, which is scheduled for the morning of 9 January 2027. Please note that if you do not receive an email from the school prior to the written test date, your application may be considered unsuccessful. Furthermore, applicants who successfully pass both the written test and the subsequent interview will be required to commence their studies on 19 January 2027.",
-     "evidence_url": "",
-     "confidence": "single_source",
-     "event_id": "323-2027_28-interview-001",
-     "extracted_at": "2026-08-28T09:52:02"
-    },
-    {
-     "type": "result",
-     "date": "2027-01-19",
-     "date_end": null,
-     "label": "入學開始日（即錄取結果已確定並須報到，屬結果生效日）",
-     "academic_year": "2027-28",
-     "source_text": "Furthermore, applicants who successfully pass both the written test and the subsequent interview will be required to commence their studies on 19 January 2027.",
-     "evidence_url": "",
-     "confidence": "verified",
-     "event_id": "323-2027_28-result-001",
-     "extracted_at": "2026-08-28T09:52:02"
+     "label": "升中簡介會網上登記截止（12月5日中午12時）",
+     "source_text": "Admission Briefing Session for 2027-2028｜Date : 12 December 2026 (Saturday)｜Time : (Session 1) 10:00a.m. - 11:30a.m. (Session 2) 2:30p.m - 4:00p.m.｜Registration Period: 28 October 2026 (9 AM) - 5 December 2026 (12 PM)｜The hall has a capacity limit of 600 people. Seating will be arranged according to the order of registration via this Google Form, on a first-come, first-served basis.（雲端 2026-11-12 逐字核對校網 wid=214）",
+     "evidence_url": "https://www.lskc.edu.hk/en/content.php?wid=214",
+     "confidence": "high",
+     "event_id": "323-2027_28-application_deadline-002",
+     "extracted_at": "2026-11-12T20:00:00"
     }
    ]
   },
