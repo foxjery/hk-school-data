@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-12T13:16:00",
+ "updated_at": "2026-11-12T16:30:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -10724,6 +10724,18 @@
      "confidence": "high",
      "event_id": "66-2027_28-info_day-001",
      "extracted_at": "2026-10-26T15:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中導航：北區中學聯校展覽（2026/2027）（本校設攤位；9:30–16:00，上水龍琛路體育館，免費入場毋須報名）",
+     "academic_year": "2027-28",
+     "source_text": "日　期：2026年11月28日（星期六）… 展覽時間：上午9時半至下午4時正 地　點：新界上水龍琛路體育館（海報OCR）",
+     "evidence_url": "https://www.twghkyds.edu.hk/Files/popup/57fac11eb72144f79f74fa37d5e7e2b5.jpg",
+     "confidence": "high",
+     "event_id": "66-2027_28-info_day-002",
+     "extracted_at": "2026-11-12T16:30:00"
     }
    ],
    "self_healing_active": false
