@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-12T05:16:00Z",
+ "updated_at": "2026-11-12T05:35:03Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -926,6 +926,13 @@
    "link": "https://kccshatin.edu.hk/news/2627/openday/KCCS_infoday2627.pdf",
    "deadline": "2026-12-01",
    "note": "12月5日（六）兩場：上午9:30-12:30／下午1:30-4:30（學生分享・升中講座・英語音樂劇・校園巡禮・升中諮詢），網上報名須12月1日（二）或前透過校網/Google表單提交，12月2日電郵通知活動詳情。公告藏首頁 BannerCarousel server island（SVG 海報+PDF+表單），首頁文字層與 news feed 永遠抓不到＝結構性盲區（11-05 複核已記 SAI）；Mac 港網 11-10 實讀 PDF 逐字核對，Owner 當日拍板推送；與首掃baseline同链接時原地升級不重複插入"
+  },
+  {
+   "school": "329",
+   "title": "蘇浙公學開放日 2026（11月22日，升中家長・須網上登記）",
+   "link": "https://www.kccnp.info/?page_id=8991",
+   "deadline": "2026-11-22",
+   "note": "11月22日（日）10:00–16:00 北角寶馬山道20號；才藝表演10:00–11:15、親子講座11:30–12:30、學科體驗及展覽12:30–16:00；有意出席者請填寫表格報名（頁附 Google 表單）。公告 2026-11-10 發佈；Mac 港網 11-12 逐字複核公告頁＋海報（日期/時段/須登記全對上），Owner 11-12 拍板推送；校網擋非港網已標 hk_local。deadline 用活動日（校網無登記截止日）"
   }
  ]
 }
