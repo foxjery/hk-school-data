@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-10T16:00:00",
+ "updated_at": "2026-11-12T13:16:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -3979,6 +3979,18 @@
      "confidence": "high",
      "event_id": "evt_d845a16e",
      "extracted_at": "2026-04-29T10:30:21"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "info_day",
+     "date": "2026-11-22",
+     "date_end": null,
+     "label": "Open Day（10:00–16:00，北角寶馬山道20號；親子講座11:30–12:30；須登記）",
+     "source_text": "蘇浙公學開放日 2026｜日期：2026 年 11 月 22 日（星期日）｜時間：上午 10 時至下午 4 時｜地點：北角寶馬山道 20 號｜活動：才藝表演10:00–11:15、親子講座《拳擊的苦與樂》11:30–12:30、學科體驗及展覽工作坊12:30–16:00｜有意出席者請填寫表格報名。（Mac 港網 2026-11-12 逐字複核官網公告頁 page_id=8991＋海報 openday2026-poster.jpg，日期/時段/須登記三項全對上；公告發佈於 2026-11-10；校網擋非港網，雲端 403）",
+     "evidence_url": "https://www.kccnp.info/?page_id=8991",
+     "confidence": "high",
+     "event_id": "329-2027_28-info_day-001",
+     "extracted_at": "2026-11-12T10:00:00"
     }
    ],
    "self_healing_active": false
@@ -13501,9 +13513,9 @@
      "type": "interview",
      "date": "2027-03-06",
      "date_end": null,
-     "label": "中一自行分配學位面試（小組，中文及英文；2月25日發面試通知）",
-     "source_text": "本校將於2027年2月25日透過電郵及郵遞方式發出面試通知書予所有申請人。面試日期訂於2027年3月6日（星期六）舉行，屆時將以小組形式分別進行中文（廣東話）及英文面試。",
-     "evidence_url": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+     "label": "中一自行分配學位面試（小組，中文及英文；評分：教統局排名50%／面試30%／操行及課外20%）",
+     "source_text": "本校將於2027年2月25日透過電郵及郵遞方式發出面試通知書予所有申請人。面試日期訂於2027年3月6日（星期六）舉行，屆時將以小組形式分別進行中文（廣東話）及英文面試。評分準則：教統局排名50%／面試30%／操行及課外活動20%。（Mac 港網 2026-11-12 逐字複核申請表 PDF：評分準則只載於 PDF §七，DP 申請帖無，證據改指 PDF）",
+     "evidence_url": "https://www.skhtst.edu.hk/download/download/F1AdmissionForm_2728.pdf",
      "confidence": "high",
      "event_id": "296-2027_28-interview-001",
      "extracted_at": "2026-11-09T12:00:00"
@@ -13531,6 +13543,30 @@
      "confidence": "high",
      "event_id": "296-2027_28-result-002",
      "extracted_at": "2026-11-09T12:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "interview",
+     "date": "2027-02-25",
+     "date_end": null,
+     "label": "自行分配面試通知書發出（電郵及郵遞，發給全部申請人）",
+     "source_text": "本校將於2027年2月25日透過電郵及郵遞方式發出面試通知書予所有申請人。",
+     "evidence_url": "https://www.skhtst.edu.hk/2026/11/application-for-secondary-one-discretionary-places-dp-september-2027-admission-%e7%94%b3%e8%ab%8b%e4%b8%ad%e4%b8%80%e8%87%aa%e8%a1%8c%e5%88%86%e9%85%8d%e5%ad%b8%e4%bd%8d-2027%e5%b9%b49%e6%9c%88/",
+     "confidence": "high",
+     "event_id": "296-2027_28-interview-002",
+     "extracted_at": "2026-11-12T10:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "面試順延日期（如教育局宣布停課）",
+     "source_text": "本校將於2027年2月25日透過電郵及郵遞方式發出面試通知書予所有申請人，面試日期訂於2027年3月6日（星期六）舉行，屆時將以小組形式分別進行粵語及英語面試。如教育局宣佈中、小學停課，面試將順延至2027年3月13日（星期六）舉行。（Mac 港網 2026-11-12 逐字複核申請表 PDF F1AdmissionForm_2728.pdf 第1頁§六面試；DP 申請帖正文無此句，證據已改指 PDF）",
+     "evidence_url": "https://www.skhtst.edu.hk/download/download/F1AdmissionForm_2728.pdf",
+     "confidence": "high",
+     "event_id": "296-2027_28-interview-003",
+     "extracted_at": "2026-11-12T10:00:00"
     }
    ],
    "self_healing_active": false
@@ -21814,10 +21850,10 @@
      "type": "application_open",
      "date": "2027-01-04",
      "date_end": "2027-01-18",
-     "label": "2027-2028 中一自行分配學位申請",
+     "label": "2027-2028 中一自行分配學位申請（40個學額）",
      "academic_year": "2027-28",
-     "source_text": "報名日期：2027 年 1 月 4 日（星期一）至 1 月 18 日（星期一）",
-     "evidence_url": "https://fyk.friendlyportalsystem.com/CustomPage/1/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%B3%87%E6%96%99.pdf",
+     "source_text": "自行分配學位名額：40 名。報名日期：2027 年 1 月 4 日（星期一）至 1 月 18 日（星期一）。（Mac 港網 2026-11-12 複核申請資料 PDF；舊證據 URL 無 S_1 後綴已 404，係校網遷移 friendlyportalsystem 時改檔名）",
+     "evidence_url": "https://fyk.friendlyportalsystem.com/CustomPage/1/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%B3%87%E6%96%99S_1.pdf",
      "confidence": "high",
      "event_id": "390-2027_28-application_open-001",
      "extracted_at": "2026-10-26T14:00:00"
@@ -21829,10 +21865,46 @@
      "label": "中一自行分配學位申請截止",
      "academic_year": "2027-28",
      "source_text": "報名日期：2027 年 1 月 4 日至 1 月 18 日",
-     "evidence_url": "https://fyk.friendlyportalsystem.com/CustomPage/1/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%B3%87%E6%96%99.pdf",
+     "evidence_url": "https://fyk.friendlyportalsystem.com/CustomPage/1/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%B3%87%E6%96%99S_1.pdf",
      "confidence": "high",
      "event_id": "390-2027_28-application_deadline-001",
      "extracted_at": "2026-10-26T14:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-19",
+     "date_end": null,
+     "label": "學校資訊日／中一招生講座（13:15–14:30；攤位活動12:30–16:30；須登記）",
+     "academic_year": "2027-28",
+     "source_text": "12月19日 學校資訊日 Info Day（公告 2026-11-02）：19/12/2026（六）上午9:00–下午4:30；中一入學簡介會下午1:15–2:30；特色攤位活動下午12:30–4:30；初中英語示範課上午11:00–11:45；歡迎家長網上報名（頁面附 Google 表單「資訊日報名連結」）。（Mac 港網 2026-11-12 逐字複核公告頁 activityId=1420＋海報 11月2日資訊日.jpg OCR，時段/登記全對上）",
+     "evidence_url": "https://fyk.friendlyportalsystem.com/Content/02_school_life/02_Activity/displaySingleActivity.aspx?activityId=1420&ct=activity&styleId=1&linkFrom=latestNews",
+     "confidence": "high",
+     "event_id": "390-2027_28-info_day-001",
+     "extracted_at": "2026-11-12T10:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試（只設面試不設筆試，約見全部申請學生）",
+     "academic_year": "2027-28",
+     "source_text": "面試安排：2027 年 3 月 13 日（星期六）本校只設面試，不設筆試，並會約見全部申請學生。（本校會透過電話聯絡所有申請人通知面試時間。）（Mac 港網 2026-11-12 逐字複核申請資料 PDF §9）",
+     "evidence_url": "https://fyk.friendlyportalsystem.com/CustomPage/1/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%B3%87%E6%96%99S_1.pdf",
+     "confidence": "high",
+     "event_id": "390-2027_28-interview-001",
+     "extracted_at": "2026-11-12T13:16:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知正取學生（書面及電話）",
+     "academic_year": "2027-28",
+     "source_text": "申請結果：本校將於3 月31日（星期三）透過書面及電話通知所有正取學生的家長。（Mac 港網 2026-11-12 逐字複核申請資料 PDF §9）",
+     "evidence_url": "https://fyk.friendlyportalsystem.com/CustomPage/1/2027-2028%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%B3%87%E6%96%99S_1.pdf",
+     "confidence": "high",
+     "event_id": "390-2027_28-result-001",
+     "extracted_at": "2026-11-12T13:16:00"
     }
    ],
    "banding_tier": "Band 2"
