@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-12T16:30:00",
+ "updated_at": "2026-11-12T18:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -6979,6 +6979,18 @@
      "confidence": "high",
      "event_id": "137-2026_27-interview-002",
      "extracted_at": "2026-10-25T11:40:18"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中導航：北區中學聯校展覽（2026/2027）（本校參展；9:30–16:00，上水龍琛路體育館，免費入場毋須報名）",
+     "academic_year": "2027-28",
+     "source_text": "頁標題：升中導航：北區中學聯校展覽 2026-2027（日期以圖呈現；日期時間地點與 397 馬錦燦、66 東華甲寅校網逐字互證）",
+     "evidence_url": "https://www.flss.edu.hk/入學申請/北區中學聯展資訊/",
+     "confidence": "high",
+     "event_id": "137-2027_28-info_day-001",
+     "extracted_at": "2026-11-12T18:00:00"
     }
    ],
    "self_healing_active": false
@@ -9501,6 +9513,18 @@
      "confidence": "verified",
      "event_id": "361-2026_27-info_day-001",
      "extracted_at": "2026-08-28T09:52:02"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中導航：北區中學聯校展覽（2026/2027）（本校參展；9:30–16:00，上水龍琛路體育館，免費入場毋須報名）",
+     "academic_year": "2027-28",
+     "source_text": "首頁 banner：2026 升中導航 北區中學聯校展覽（日期時間地點與 397 馬錦燦、66 東華甲寅校網逐字互證）",
+     "evidence_url": "https://www.tanghin.edu.hk/",
+     "confidence": "high",
+     "event_id": "361-2027_28-info_day-001",
+     "extracted_at": "2026-11-12T18:00:00"
     }
    ],
    "self_healing_active": false
@@ -10816,6 +10840,18 @@
      "evidence_url": "https://www.elegantia.edu.hk/en/latest_new/second-s1-admission-information-day-1842026",
      "event_id": "87-2026-27-info_day-002",
      "confidence": "high"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中導航：北區中學聯校展覽（2026/2027）（本校參展；9:30–16:00，上水龍琛路體育館，免費入場毋須報名）",
+     "academic_year": "2027-28",
+     "source_text": "首頁輪播圖：20260930 升中導航：北區中學聯校展覽（日期時間地點與 397 馬錦燦、66 東華甲寅校網逐字互證）",
+     "evidence_url": "https://www.elegantia.edu.hk/",
+     "confidence": "high",
+     "event_id": "87-2027_28-info_day-001",
+     "extracted_at": "2026-11-12T18:00:00"
     }
    ],
    "self_healing_active": false
@@ -23564,6 +23600,18 @@
     },
     {
      "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中導航：北區中學聯校展覽（2026/2027）（本校參展；9:30–16:00，上水龍琛路體育館，免費入場毋須報名）",
+     "academic_year": "2027-28",
+     "source_text": "日 期：2026年11月28日 (星期六) 開幕時間：上午9時正至9時半 展覽時間：上午9時半至下午4時正 地 點：新界上水龍琛路體育館",
+     "evidence_url": "https://www.bmkc.edu.hk/升中導航：北區中學聯校展覽-2026-2027/",
+     "confidence": "high",
+     "event_id": "397-2027_28-info_day-003",
+     "extracted_at": "2026-11-12T18:00:00"
+    },
+    {
+     "type": "info_day",
      "date": "2026-12-19",
      "date_end": null,
      "label": "開放日暨英語模擬面試（9:30-16:35）",
@@ -23927,7 +23975,7 @@
      "date": "2026-11-28",
      "date_end": null,
      "label": "北區中學聯展",
-     "academic_year": "2026-27",
+     "academic_year": "2027-28",
      "source_text": "##### 2026年11月28日\n\n北區中學聯展",
      "evidence_url": "https://s1admission.fkyc.edu.hk/?page_id=1835",
      "confidence": "high",
