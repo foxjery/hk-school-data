@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-13T17:05:00",
+ "updated_at": "2026-11-13T17:45:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -28479,6 +28479,18 @@
      "confidence": "medium",
      "event_id": "243-2026_27-info_day-001",
      "extracted_at": "2026-10-29T17:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中資訊暨多元學習工作坊（下午 2:15–4:30，小六學生及家長）",
+     "academic_year": "2027-28",
+     "source_text": "升中資訊 暨多元學習工作坊2026 日期：2026年11月28日（星期六）時間：下午二時十五分-下午四時三十分 對象：小六學生和家長 截止報名日期：2026年11月14日（星期六）",
+     "evidence_url": "https://www.jccsskc.edu.hk/",
+     "confidence": "verified",
+     "event_id": "243-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T17:45:00"
     }
    ]
   },
@@ -29130,6 +29142,18 @@
      "confidence": "verified",
      "event_id": "385-2027_28-application_open-001",
      "extracted_at": "2026-10-29T16:00:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "學校資訊日（School Information Day）",
+     "academic_year": "2027-28",
+     "source_text": "28/11 學校資訊日 School Information Day | 30/11 學校資訊日補假 The day following School Information Day",
+     "evidence_url": "https://www.cnc.edu.hk/it-school/php/webcms/files/upload/tinymce//schooldocuments/20262027_sc_1788331985.pdf",
+     "confidence": "verified",
+     "event_id": "385-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T17:45:00"
     }
    ]
   },
@@ -29984,6 +30008,44 @@
      "confidence": "verified",
      "event_id": "216-2027_28-application_deadline-001",
      "extracted_at": "2026-11-13T17:10:00"
+    }
+   ]
+  },
+  "199": {
+   "name": "嶺南鍾榮光博士紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": "2026-11-29",
+     "label": "升中模擬面試暨校園開放日（模擬面試 10:00–12:00；開放日 11-28 13:00–17:00、11-29 10:00–16:00）",
+     "academic_year": "2027-28",
+     "source_text": "升中模擬面試 日期：2026年11月28日（星期六）時間：上午10:00-中午12:00 對象：小五及小六學生 | 校園活動開放日 2026年11月28日（星期六）時間：下午1時至5時 2026年11月29日（星期日）時間：上午10時至下午4時",
+     "evidence_url": "https://www.ldcwkmss.edu.hk/2026/09/29/%e5%8d%87%e4%b8%ad%e6%a8%a1%e6%93%ac%e9%9d%a2%e8%a9%a6%e6%9a%a8%e6%a0%a1%e5%9c%92%e9%96%8b%e6%94%be%e6%97%a5/",
+     "confidence": "verified",
+     "event_id": "199-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T17:45:00"
+    }
+   ]
+  },
+  "104": {
+   "name": "佛教葉紀南紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "葉紀南開放日（YKN OPEN DAY，9:00am–1:30pm，入學簡介會＋校園導賞）",
+     "academic_year": "2027-28",
+     "source_text": "YKN OPEN DAY 葉紀南開放日 9:00am~1:30pm Admission Seminar 入學簡介會 Campus Tour 校園導賞 21 Sat 11 2026",
+     "evidence_url": "https://www.ykn.edu.hk/",
+     "confidence": "verified",
+     "event_id": "104-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T17:45:00"
     }
    ]
   }
