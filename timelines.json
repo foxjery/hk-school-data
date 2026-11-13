@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-12T18:00:00",
+ "updated_at": "2026-11-13T08:00:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -10363,40 +10363,52 @@
      "extracted_at": "2026-10-26T15:00:00"
     },
     {
-     "type": "application_deadline",
-     "date": "2026-12-11",
+     "academic_year": "2027-28",
+     "type": "application_open",
+     "date": "2027-01-04",
      "date_end": null,
-     "label": "1st -11th December, 2026",
-     "academic_year": "2026-27",
-     "source_text": "| **Application Period** | **Date of Admission Test** | **Date of Interview** | **Date of** **Admission** |\n| 1st -11th December, 2026 | 21st December, 2026 | 8th – 11th January, 2027 | 18th January, 2027 |",
-     "evidence_url": "https://www.takoi.edu.hk/content.php?wid=19",
+     "label": "中一自行分配學位收表（1月4日至18日；40 個學位；派表 2026-10-26 起）",
+     "source_text": "本校二零二七至二零二八年度之中一自行分配學額共 40 個。｜派表日期：二零二六年十月二十六日（星期一）至二零二七年一月十八日（星期一）｜收表日期：二零二七年一月四日（星期一）至二零二七年一月十八日（星期一）（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.takoi.edu.hk/attachment/upload/files/Admission_S1%20to%20S4%20Admission/2728/Application%20Guidelines%2027-28.pdf",
      "confidence": "high",
-     "event_id": "48-2026_27-application_deadline-001",
-     "extracted_at": "2026-10-25T12:20:51"
+     "event_id": "48-2027_28-application_open-001",
+     "extracted_at": "2026-11-13T08:00:00"
     },
     {
-     "type": "interview",
-     "date": "2027-01-08",
-     "date_end": "2027-01-11",
-     "label": "Date of Interview: 8th – 11th January, 2027",
-     "academic_year": "2026-27",
-     "source_text": "| **Application Period** | **Date of Admission Test** | **Date of Interview** | **Date of** **Admission** |\n| 1st -11th December, 2026 | 21st December, 2026 | 8th – 11th January, 2027 | 18th January, 2027 |",
-     "evidence_url": "https://www.takoi.edu.hk/content.php?wid=19",
-     "confidence": "high",
-     "event_id": "48-2026_27-interview-001",
-     "extracted_at": "2026-10-25T12:20:51"
-    },
-    {
-     "type": "result",
+     "academic_year": "2027-28",
+     "type": "application_deadline",
      "date": "2027-01-18",
      "date_end": null,
-     "label": "Date of Admission: 18th January, 2027",
-     "academic_year": "2026-27",
-     "source_text": "| **Application Period** | **Date of Admission Test** | **Date of Interview** | **Date of** **Admission** |\n| 1st -11th December, 2026 | 21st December, 2026 | 8th – 11th January, 2027 | 18th January, 2027 |",
-     "evidence_url": "https://www.takoi.edu.hk/content.php?wid=19",
+     "label": "中一自行分配學位截止遞表（下午4時半前）",
+     "source_text": "家長須於二零二七年一月十八日（星期一）下午四時半或以前親身或授權代表將下列文件一併遞交本校一樓校務處（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.takoi.edu.hk/attachment/upload/files/Admission_S1%20to%20S4%20Admission/2728/Application%20Guidelines%2027-28.pdf",
      "confidence": "high",
-     "event_id": "48-2026_27-result-001",
-     "extracted_at": "2026-10-25T12:20:51"
+     "event_id": "48-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-13T08:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（操行乙+或以上獲安排）",
+     "source_text": "面試將於二零二七年三月六日（星期六）進行，申請人如操行在乙+級或以上，將獲安排面試，詳情將於二零二七年二月另函通知。（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.takoi.edu.hk/attachment/upload/files/Admission_S1%20to%20S4%20Admission/2728/Application%20Guidelines%2027-28.pdf",
+     "confidence": "high",
+     "event_id": "48-2027_28-interview-001",
+     "extracted_at": "2026-11-13T08:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "通知正取學生（書面及電話）",
+     "source_text": "本校將於二零二七年三月三十一日（星期三）以書面及電話通知正取學生已獲納入正取學生名單。（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.takoi.edu.hk/attachment/upload/files/Admission_S1%20to%20S4%20Admission/2728/Application%20Guidelines%2027-28.pdf",
+     "confidence": "high",
+     "event_id": "48-2027_28-result-001",
+     "extracted_at": "2026-11-13T08:00:00"
     }
    ],
    "self_healing_active": false
@@ -13567,13 +13579,13 @@
      "type": "info_day",
      "date": "2026-12-05",
      "date_end": null,
-     "label": "校曆預告：中一入學資訊日",
+     "label": "中一入學講座及校園參觀（2:30 講座、3:45 參觀；2:00 登記）",
      "academic_year": "2027-28",
-     "source_text": "Information Day for Form 1 Admission",
-     "evidence_url": "https://www.hksrl.edu.hk/en/calendar.php?wid=105",
-     "confidence": "medium",
+     "source_text": "Date: 5 th December, 2026 (Saturday) Time: Registration: 2:00 p.m. to 2:30 p.m. Admission talk: 2:30 p.m. to 3:45 p.m. Campus visit: 3:45 p.m. to 5:00 p.m.（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.hksrl.edu.hk/en/content.php?wid=363",
+     "confidence": "high",
      "event_id": "302-2027_28-info_day-001",
-     "extracted_at": "2026-09-07T12:00:00"
+     "extracted_at": "2026-11-13T08:00:00"
     }
    ]
   },
@@ -14481,14 +14493,14 @@
     {
      "type": "info_day",
      "date": "2026-11-14",
-     "date_end": "2026-11-15",
-     "label": "校曆預告：學校開放日",
+     "date_end": null,
+     "label": "開放日暨升中資訊日（9:00–15:30；升中講座 11:30 起）",
      "academic_year": "2027-28",
-     "source_text": "start:'2026-11-14', end:'2026-11-15', title:'學校開放日'（歷年：2023-11-25／2024-11-23／2025-11-15 皆稱「小六學生開放日」，固定 11 月中週六）",
-     "evidence_url": "https://www.tmgss.edu.hk/tc/calendar.php?wid=129",
-     "confidence": "medium",
+     "source_text": "日期：14-11-2026 (星期六）｜時間：上午 9:00 – 下午 3:30｜升中資訊日講座 上午 11:30 – 下午 1:00（11:20 入座）（雲端 2026-11-13 逐字核對校網 leaflet）",
+     "evidence_url": "https://www.tmgss.edu.hk/tc/content.php?wid=621",
+     "confidence": "high",
      "event_id": "345-2027_28-info_day-001",
-     "extracted_at": "2026-09-09T01:30:00"
+     "extracted_at": "2026-11-13T08:00:00"
     }
    ],
    "self_healing_active": false
@@ -20731,6 +20743,18 @@
      "confidence": "high",
      "event_id": "127-2027_28-info_day-001",
      "extracted_at": "2026-10-25T12:34:25"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位遞表（1月4日至18日）",
+     "source_text": "遞交表格日期﹕二零二七年一月四日至一月十八日｜遞交表格時間﹕星期一至五 上午8時30分至下午12時30分、下午2時至4時30分 星期六 上午9時30分至11時30分（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.qcobass.edu.hk/tc/content.php?wid=195",
+     "confidence": "high",
+     "event_id": "127-2027_28-application_open-001",
+     "extracted_at": "2026-11-13T08:00:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -22534,6 +22558,42 @@
      "confidence": "high",
      "event_id": "34-2027_28-info_day-001",
      "extracted_at": "2026-10-26T14:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位報名（1月4日至18日；40 個學位）",
+     "source_text": "報名日期：二零二七年一月四日(星期一)至二零二七年一月十八日(星期一)｜本校於 2027-2028 年度可供申請的自行分配中一學位數目為 40 個。（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.lstc.edu.hk/attachment/upload/files/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B/2027-2028%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8_%E7%B6%B2%E4%B8%8A.pdf",
+     "confidence": "high",
+     "event_id": "34-2027_28-application_open-001",
+     "extracted_at": "2026-11-13T08:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "interview",
+     "date": "2027-02-27",
+     "date_end": null,
+     "label": "中一自行分配學位面試（全部申請者）",
+     "source_text": "所有申請者均會獲安排面試，面試日期為二零二七年二月二十七日(星期六)（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.lstc.edu.hk/attachment/upload/files/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B/2027-2028%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8_%E7%B6%B2%E4%B8%8A.pdf",
+     "confidence": "high",
+     "event_id": "34-2027_28-interview-001",
+     "extracted_at": "2026-11-13T08:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "書面通知正取學生",
+     "source_text": "written notification on 31th March, 2027.（雲端 2026-11-13 逐字核對校網）",
+     "evidence_url": "https://www.lstc.edu.hk/attachment/upload/files/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B/2027-2028%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E8%A1%A8_%E7%B6%B2%E4%B8%8A.pdf",
+     "confidence": "high",
+     "event_id": "34-2027_28-result-001",
+     "extracted_at": "2026-11-13T08:00:00"
     }
    ],
    "banding_tier": "Band 2"
