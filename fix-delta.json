@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-13T09:45:00Z",
+ "updated_at": "2026-11-13T09:53:26Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -631,6 +631,101 @@
    "school": "352",
    "url": "https://www.plhks.edu.hk/en/content.php?wid=339",
    "label": "林漢光 S1 Residual Places 叩門頁（只盯不抽事件，C-075 例外）"
+  },
+  {
+   "school": "183",
+   "url": "https://www.lstlcw.edu.hk/it-school/php/webcms/public/index.php3?p=p&refid=802",
+   "label": "樂善堂梁植偉 升中一簡介會頁（11-28／12-12 兩場，C-079 雙軌補盯）"
+  },
+  {
+   "school": "183",
+   "url": "https://www.lstlcw.edu.hk/it-school/php/webcms/public/mainpage/main.php3",
+   "label": "樂善堂梁植偉 首頁落地頁（安全網，C-079 雙軌補盯）"
+  },
+  {
+   "school": "113",
+   "url": "http://sunfc.edu.hk/zh_tw/news/index",
+   "label": "孫方中 最新消息頁（12-19 入學簡介會公告在此，C-079 雙軌補盯）"
+  },
+  {
+   "school": "235",
+   "url": "https://www.lovefhmss.org/admission",
+   "label": "炮台山循道衛理 中文入學頁（DP 申請期 2027-01-04~18，C-079 雙軌補盯）"
+  },
+  {
+   "school": "78",
+   "url": "https://www.twghcmts.edu.hk/latest_news",
+   "label": "張明添 latest_news（中一資訊日報名帖在此，C-079 雙軌補盯）"
+  },
+  {
+   "school": "407",
+   "url": "https://www.nlsipess.edu.hk/it-school/php/webcms/public/index.php?refid=1346&mode=published&lang=zh",
+   "label": "平安福音 平中資訊日頁（C-079 雙軌補盯）"
+  },
+  {
+   "school": "80",
+   "url": "https://secondary.tccs.edu.hk/tc/application-form",
+   "label": "東涌天主教 入學申請表頁（C-079 雙軌補盯）"
+  },
+  {
+   "school": "331",
+   "url": "https://www.tswgss.edu.hk/",
+   "label": "天水圍官立首頁（安全網，C-079 雙軌補盯）"
+  },
+  {
+   "school": "381",
+   "url": "https://www.pooitun.edu.hk/",
+   "label": "培敦首頁（安全網，11-03 中一自行分配申請，C-079 雙軌補盯）"
+  },
+  {
+   "school": "390",
+   "url": "https://fyk.friendlyportalsystem.com/",
+   "label": "馮堯敬新域名首頁（27-28 申請表＋12-19 資訊日，C-079 雙軌補盯；SAI 首頁已換新域過 host 門）"
+  },
+  {
+   "school": "81",
+   "url": "https://www.ypicallmc.edu.hk/",
+   "label": "李琳明首頁（安全網，C-079 雙軌補盯）"
+  },
+  {
+   "school": "118",
+   "url": "https://www.ktklgss.edu.hk/it-school/php/webcms/public/mainpage/main.php3?mode=published",
+   "label": "功樂官立首頁落地頁（安全網，C-079 雙軌補盯）"
+  },
+  {
+   "school": "443",
+   "url": "https://www2.keiheep.edu.hk/",
+   "label": "基協首頁落地頁（www2，11-12 校園資訊日報名，C-079 雙軌補盯）"
+  },
+  {
+   "school": "346",
+   "url": "https://www.tmcss.edu.hk/tmcss/?lang=zh",
+   "label": "屯門天主教首頁落地頁（載 27-28 中一自行分配申請須知，C-079 雙軌補盯）"
+  },
+  {
+   "school": "30",
+   "url": "https://www.bethel.edu.hk/zh_tw/site/view?name=BHSApplication",
+   "label": "伯特利入學申請總頁（連 2027-2028 中一自行分配，C-079 港網判補）"
+  },
+  {
+   "school": "248",
+   "url": "https://www.sfxs.edu.hk/tc/latest_news",
+   "label": "荃灣聖芳濟 latest_news（中一候補／註冊公告流，C-079 港網判補）"
+  },
+  {
+   "school": "349",
+   "url": "https://www.mcw.edu.hk/admission.php?id=19",
+   "label": "衞理中學 S1 Admissions 頁（英文，C-079 港網判補）"
+  },
+  {
+   "school": "415",
+   "url": "https://www.qos.edu.hk/tc/webpage.php?cid=271&fid=40&ffid=0",
+   "label": "伊舊 27/28 中一自行學位日程頁（12-05 資訊講座，C-079 港網判補）"
+  },
+  {
+   "school": "216",
+   "url": "https://www.csa.edu.hk/Cotton/tc/",
+   "label": "C-082 小紅書回流盲區補掛：首頁入 admission——中一課堂體驗日公告直掛首頁 banner（wid=73 圖驗日頁為圖片頁無文本），Mac 港網 curl 200＋本屆中一內容核過"
   }
  ],
  "demotes": [
@@ -995,6 +1090,20 @@
    "link": "https://www.lskc.edu.hk/en/content.php?wid=214",
    "deadline": "2026-12-05",
    "note": "12月12日（六）兩節 10:00–11:30／14:30–16:00；Google Form 登記期 10-28 09:00 至 12-05 12:00，禮堂 600 人先到先得，登記期結束後 2 個工作天內電郵確認。雲端 2026-11-12 逐字核對 wid=214；Owner 11-12 拍板推送（T-010）。deadline 用登記截止日"
+  },
+  {
+   "school": "183",
+   "title": "樂善堂梁植偉紀念中學 升中一簡介會（11月28日、12月12日，須預先報名）",
+   "link": "https://www.lstlcw.edu.hk/it-school/php/webcms/public/index.php3?p=p&refid=802",
+   "deadline": "2026-11-28",
+   "note": "兩場：11-28（六）10:00、12-12（六）15:00，本校禮堂；報名方法有網上登記、電郵、親交、傳真、郵寄。雲端 2026-11-13 逐字核對 refid=802；Owner 11-13 拍板推送（T-018）。校網無報名截止日，deadline 用第一場日期"
+  },
+  {
+   "school": "216",
+   "title": "棉紡會中學 升中中一課堂體驗日（11月14日、11月28日兩場 9:00am-12:00nn，須報名）",
+   "link": "https://www.csa.edu.hk/Cotton/tc/",
+   "deadline": "2026-11-28",
+   "note": "兩場：11-14（六）、11-28（六）9:00-12:00，同步安排家長校園導賞團及學校簡介講座；Mac 港網 2026-11-13 逐字核對首頁 banner；Owner 11-13 批（C-083）併 T-018；校網無報名截止日，deadline 用第二場日期"
   }
  ]
 }

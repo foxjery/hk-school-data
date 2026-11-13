@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-13T08:00:00",
+ "updated_at": "2026-11-13T17:05:00",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -8009,6 +8009,90 @@
      "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2627_s1_dp_application_schedule.pdf",
      "event_id": "301-2026-27-result-001",
      "confidence": "high"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-10-31",
+     "date_end": null,
+     "label": "2026 - 2027 Information Session for S1 Admission and Campus Visit",
+     "academic_year": "2027-28",
+     "source_text": "31 October 2026 | 2026 - 2027 Information Session for S1 Admission and Campus Visit | Register online at St. Louis School's S1 Admission webpage",
+     "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2728_s1_dp_application_schedule_20261001_ver.pdf",
+     "confidence": "verified",
+     "event_id": "301-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T17:10:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始（SSPA 電子平台或親交校務處）",
+     "academic_year": "2027-28",
+     "source_text": "4 January 2027 to 18 January 2027 (both dates inclusive) | The completed application form with supporting documents should be submitted (1) via SSPA e-Platform or (2) in person to the Secondary School Office",
+     "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2728_s1_dp_application_schedule_20261001_ver.pdf",
+     "confidence": "verified",
+     "event_id": "301-2027_28-application_open-001",
+     "extracted_at": "2026-11-13T17:05:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "4 January 2027 to 18 January 2027 (both dates inclusive) | The completed application form with supporting documents should be submitted (1) via SSPA e-Platform or (2) in person to the Secondary School Office",
+     "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2728_s1_dp_application_schedule_20261001_ver.pdf",
+     "confidence": "verified",
+     "event_id": "301-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-13T17:05:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-15",
+     "date_end": null,
+     "label": "中一自行分配學位面試（200 名入圍者，英語進行）12:30–17:15",
+     "academic_year": "2027-28",
+     "source_text": "15 March 2027 (12:30 p.m. – 5:15 p.m.) | 200 short-listed applicants attend an interview conducted in English.",
+     "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2728_s1_dp_application_schedule_20261001_ver.pdf",
+     "confidence": "verified",
+     "event_id": "301-2027_28-interview-001",
+     "extracted_at": "2026-11-13T17:05:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "自行分配學位正取名單通知（電郵及電話）",
+     "academic_year": "2027-28",
+     "source_text": "31 March 2027 | Parents of successful applicants will be notified of their children's inclusion in the Successful List for Discretionary Places by email and phone. All reserve and unsuccessful applicants will not be notified.",
+     "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2728_s1_dp_application_schedule_20261001_ver.pdf",
+     "confidence": "verified",
+     "event_id": "301-2027_28-result-001",
+     "extracted_at": "2026-11-13T17:05:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一派位結果公布（自行分配＋統一派位，教育局放榜）",
+     "academic_year": "2027-28",
+     "source_text": "6 July 2027 | The results of Discretionary Place and Central Allocation will be released by EDB.",
+     "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2728_s1_dp_application_schedule_20261001_ver.pdf",
+     "confidence": "verified",
+     "event_id": "301-2027_28-result-002",
+     "extracted_at": "2026-11-13T17:05:00"
+    },
+    {
+     "type": "registration",
+     "date": "2027-07-08",
+     "date_end": "2027-07-09",
+     "label": "中一註冊（7 月 8–9 日）",
+     "academic_year": "2027-28",
+     "source_text": "8 to 9 July 2027 | Registration",
+     "evidence_url": "https://www.stlouis.edu.hk/sites/default/files/files/2728_s1_dp_application_schedule_20261001_ver.pdf",
+     "confidence": "verified",
+     "event_id": "301-2027_28-registration-001",
+     "extracted_at": "2026-11-13T17:05:00"
     }
    ],
    "self_healing_active": false
@@ -22870,6 +22954,30 @@
      "confidence": "high",
      "event_id": "183-2026_27-result-001",
      "extracted_at": "2026-07-19"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中一簡介會（第一場 10:00，本校禮堂；須預先報名留座）",
+     "source_text": "樂善堂梁植偉紀念中學《升中一簡介會》…兩場「升中一簡介會」…日期及時間：第一場 2026 年 11 月 28 日(星期六) 上午 10:00 第二場 2026 年 12 月1 2 日(星期六) 下午 03:00 地點： 本校禮堂 內容： 升中派位機制、本校課程及特色、收生現況及程序、校園導賞及攤位學習遊戲…報名辦法： 閣下如欲參加是次簡介會，請透過以下其中一項辦法報名，以便留座（雲端 2026-11-13 逐字核對校網 refid=802）",
+     "evidence_url": "https://www.lstlcw.edu.hk/it-school/php/webcms/public/index.php3?p=p&refid=802",
+     "confidence": "high",
+     "event_id": "183-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T16:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "升中一簡介會（第二場 15:00，本校禮堂；須預先報名留座）",
+     "source_text": "樂善堂梁植偉紀念中學《升中一簡介會》…兩場「升中一簡介會」…日期及時間：第一場 2026 年 11 月 28 日(星期六) 上午 10:00 第二場 2026 年 12 月1 2 日(星期六) 下午 03:00 地點： 本校禮堂 內容： 升中派位機制、本校課程及特色、收生現況及程序、校園導賞及攤位學習遊戲…報名辦法： 閣下如欲參加是次簡介會，請透過以下其中一項辦法報名，以便留座（雲端 2026-11-13 逐字核對校網 refid=802）",
+     "evidence_url": "https://www.lstlcw.edu.hk/it-school/php/webcms/public/index.php3?p=p&refid=802",
+     "confidence": "high",
+     "event_id": "183-2027_28-info_day-002",
+     "extracted_at": "2026-11-13T16:00:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -25934,6 +26042,66 @@
      "confidence": "high",
      "event_id": "235-2027_28-result-001",
      "extracted_at": "2026-10-26T05:41:30"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "初踏中學路（14:30–17:30，學校簡介及特色課堂體驗；須報名）",
+     "source_text": "初踏中學路 日期： 2026年11月21日 （六） 、2027年1月9日 （六） 時間：下午2:30-5:30 內容：學校簡介、特色課堂體驗活動等…由於名額有限，費用全免，請儘早報名（雲端 2026-11-13 逐字核對校網入學申請安排頁）",
+     "evidence_url": "https://www.lovefhmss.org/admission",
+     "confidence": "high",
+     "event_id": "235-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T16:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "開放日（14:00–17:00，學校簡介、攤位遊戲及參觀）",
+     "source_text": "開放日 日期：2026年12月12日 時間：下午2:00-5:00 內容：學校簡介、攤位遊戲、學生體驗活動及參觀等（雲端 2026-11-13 逐字核對校網入學申請安排頁）",
+     "evidence_url": "https://www.lovefhmss.org/admission",
+     "confidence": "high",
+     "event_id": "235-2027_28-info_day-002",
+     "extracted_at": "2026-11-13T16:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "info_day",
+     "date": "2027-01-09",
+     "date_end": null,
+     "label": "初踏中學路（14:30–17:30，學校簡介及特色課堂體驗；須報名）",
+     "source_text": "初踏中學路 日期： 2026年11月21日 （六） 、2027年1月9日 （六） 時間：下午2:30-5:30 內容：學校簡介、特色課堂體驗活動等…由於名額有限，費用全免，請儘早報名（雲端 2026-11-13 逐字核對校網入學申請安排頁）",
+     "evidence_url": "https://www.lovefhmss.org/admission",
+     "confidence": "high",
+     "event_id": "235-2027_28-info_day-003",
+     "extracted_at": "2026-11-13T16:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始（32 個學位；1月4日至18日）",
+     "source_text": "本校中一自行分配學位名額為三十二名。（二）申請時段…中一自行收生申請日期為2027年1月4至18日。…（四）面試安排 所有申請中一自行分配學位的學生均會獲安排面試。（雲端 2026-11-13 逐字核對校網入學申請安排頁）",
+     "evidence_url": "https://www.lovefhmss.org/admission",
+     "confidence": "high",
+     "event_id": "235-2027_28-application_open-001",
+     "extracted_at": "2026-11-13T16:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "source_text": "本校中一自行分配學位名額為三十二名。（二）申請時段…中一自行收生申請日期為2027年1月4至18日。…（四）面試安排 所有申請中一自行分配學位的學生均會獲安排面試。（雲端 2026-11-13 逐字核對校網入學申請安排頁）",
+     "evidence_url": "https://www.lovefhmss.org/admission",
+     "confidence": "high",
+     "event_id": "235-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-13T16:00:00"
     }
    ],
    "banding_tier": ""
@@ -26806,6 +26974,18 @@
      "confidence": "medium",
      "event_id": "113-2027_28-application_deadline-001",
      "extracted_at": "2026-09-29T14:00:00"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "info_day",
+     "date": "2026-12-19",
+     "date_end": null,
+     "label": "2027-2028 入學簡介會、校園導賞暨 25 周年校慶嘉年華（須報名）",
+     "source_text": "最新消息：孫方中書院 2027-2028入學簡介會、校園導賞暨25周年校慶嘉年華 2026.12.19 (六)報名表（雲端 2026-11-13 逐字核對校網最新消息列表，報名表連 Google Form）",
+     "evidence_url": "http://sunfc.edu.hk/zh_tw/news/index",
+     "confidence": "high",
+     "event_id": "113-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T16:00:00"
     }
    ]
   },
@@ -29737,6 +29917,73 @@
      "confidence": "medium",
      "event_id": "271-2024_25-result-002",
      "extracted_at": "2026-11-06T12:45:00"
+    }
+   ]
+  },
+  "216": {
+   "name": "棉紡會中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-14",
+     "date_end": null,
+     "label": "中一課堂體驗日（第一場）9:00–12:00",
+     "academic_year": "2027-28",
+     "source_text": "中一課堂體驗日 第一場：2026年11月14日 第二場：2026年11月28日 時間：9:00am - 12:00nn 備註：兩場體驗日將同步安排家長參與校園導賞團及學校簡介講座。",
+     "evidence_url": "https://www.csa.edu.hk/Cotton/tc/",
+     "confidence": "verified",
+     "event_id": "216-2027_28-info_day-001",
+     "extracted_at": "2026-11-13T17:10:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "校慶開放日（五十周年金禧）9:00–12:30",
+     "academic_year": "2027-28",
+     "source_text": "校慶開放日 日期：2026年11月21日 時間：9:00am - 12:30pm",
+     "evidence_url": "https://www.csa.edu.hk/Cotton/tc/",
+     "confidence": "verified",
+     "event_id": "216-2027_28-info_day-002",
+     "extracted_at": "2026-11-13T17:10:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "中一課堂體驗日（第二場）9:00–12:00",
+     "academic_year": "2027-28",
+     "source_text": "中一課堂體驗日 第一場：2026年11月14日 第二場：2026年11月28日 時間：9:00am - 12:00nn 備註：兩場體驗日將同步安排家長參與校園導賞團及學校簡介講座。",
+     "evidence_url": "https://www.csa.edu.hk/Cotton/tc/",
+     "confidence": "verified",
+     "event_id": "216-2027_28-info_day-003",
+     "extracted_at": "2026-11-13T17:10:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "自行分配學位階段 申請日期：2027年1月4日至1月18日 Application Period: 4 January 2027 to 18 January 2027",
+     "evidence_url": "https://www.csa.edu.hk/Cotton/tc/content.php?wid=71",
+     "confidence": "verified",
+     "event_id": "216-2027_28-application_open-001",
+     "extracted_at": "2026-11-13T17:10:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "自行分配學位階段 申請日期：2027年1月4日至1月18日 Application Period: 4 January 2027 to 18 January 2027",
+     "evidence_url": "https://www.csa.edu.hk/Cotton/tc/content.php?wid=71",
+     "confidence": "verified",
+     "event_id": "216-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-13T17:10:00"
     }
    ]
   }
