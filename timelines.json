@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-14T15:18:00Z",
+ "updated_at": "2026-11-14T15:42:32Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -4544,7 +4544,7 @@
      "type": "application_open",
      "date": "2026-11-14",
      "date_end": "2026-12-09",
-     "label": "申請開始",
+     "label": "申請開始（11月14日中午12:00至12月9日中午12:00；申請費 HK$75；首輪面試2027年1月、次輪2月）",
      "academic_year": "2027-28",
      "source_text": "Application Period: November 14, 2026 (Saturday) to December 9, 2026 (Wednesday) via our online platform.",
      "evidence_url": "https://www.hkbuas.edu.hk/admissions/admissions/g7-admission",
@@ -4568,7 +4568,7 @@
      "type": "application_deadline",
      "date": "2026-12-09",
      "date_end": null,
-     "label": "申請截止",
+     "label": "申請截止（12月9日中午12:00）",
      "academic_year": "2027-28",
      "source_text": "Application Period: November 14, 2026 (Saturday) to December 9, 2026 (Wednesday) via our online platform.",
      "evidence_url": "https://www.hkbuas.edu.hk/admissions/admissions/g7-admission",
@@ -14701,6 +14701,66 @@
      "confidence": "high",
      "event_id": "352-2027_28-info_day-001",
      "extracted_at": "2026-10-21T13:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位遞交申請表（1月4日至18日；40 個學位；申請表10月30日起可於校網下載）",
+     "academic_year": "2027-28",
+     "source_text": "遞交日期：2027年1月4日至2027年1月18日｜學校網頁下載：2026年10月30日至2027年1月18日｜可供申請的自行分配中一學額：40個（雲端 2026-11-14 逐字核對校網）",
+     "evidence_url": "https://www.plhks.edu.hk/tc/content.php?wid=335",
+     "confidence": "high",
+     "event_id": "352-2027_28-application_open-001",
+     "extracted_at": "2026-11-14T08:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "自行分配申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請表遞交日期：2027年1月4日至2027年1月18日（雲端 2026-11-14 逐字核對校網）",
+     "evidence_url": "https://www.plhks.edu.hk/tc/content.php?wid=335",
+     "confidence": "high",
+     "event_id": "352-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-14T08:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試（全部申請者；個別面見，中英文對答；收生準則：學業30%、教育局成績次第30%、面試20%、操行10%、課外10%）",
+     "academic_year": "2027-28",
+     "source_text": "本校將安排所有申請者面試。面試日期：2027年3月13日 (星期六)，各學生的面試時間將另函通知。面試形式：個別面見及以中、英文對答。（雲端 2026-11-14 逐字核對校網）",
+     "evidence_url": "https://www.plhks.edu.hk/tc/content.php?wid=335",
+     "confidence": "high",
+     "event_id": "352-2027_28-interview-001",
+     "extracted_at": "2026-11-14T08:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取學生書面（電郵）及電話通知",
+     "academic_year": "2027-28",
+     "source_text": "正取學生家長將於2027年3月31日收到書面（電郵）及電話通知（雲端 2026-11-14 逐字核對校網）",
+     "evidence_url": "https://www.plhks.edu.hk/tc/content.php?wid=335",
+     "confidence": "high",
+     "event_id": "352-2027_28-result-001",
+     "extracted_at": "2026-11-14T08:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "自行分配階段派位結果（與統一派位結果一併公布）",
+     "academic_year": "2027-28",
+     "source_text": "自行分配學位階段的派位結果將於2027年7月6日與統一派位結果一併公布（雲端 2026-11-14 逐字核對校網）",
+     "evidence_url": "https://www.plhks.edu.hk/tc/content.php?wid=335",
+     "confidence": "high",
+     "event_id": "352-2027_28-result-002",
+     "extracted_at": "2026-11-14T08:00:00"
     }
    ],
    "self_healing_active": false
