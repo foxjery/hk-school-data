@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-14T16:27:33Z",
+ "updated_at": "2026-11-15T02:14:38Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -2188,6 +2188,62 @@
      "confidence": "high",
      "event_id": "165-2027_28-info_day-001",
      "extracted_at": "2026-10-26T15:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行收生收表（1月4日至18日；直資學費每月$400，學額50）",
+     "source_text": "收表日期為 2027 年 1 月 4 日至 2027 年 1 月 18 日…本校在 2027-2028 年度中一自行分配學額數目為 50…2027–2028 年度中一每月學費為港幣 400 元",
+     "confidence": "high",
+     "evidence_url": "https://www.ksyss.edu.hk/CustomPage/11/中一自行分配學位申請表27-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "165-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行收生收表截止",
+     "source_text": "收表日期為 2027 年 1 月 4 日至 2027 年 1 月 18 日，申請表格須於指定日期內交回本校校務處",
+     "confidence": "high",
+     "evidence_url": "https://www.ksyss.edu.hk/CustomPage/11/中一自行分配學位申請表27-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "165-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-07",
+     "label": "中一自行收生面試（3月7日或14日，校方致函通知）",
+     "source_text": "面試日期︰2027 年 3 月 7 日(星期日) 或 3 月 14 日(星期日) (稍後校方致函通知詳情)。所有申請同學均獲面試機會",
+     "confidence": "high",
+     "evidence_url": "https://www.ksyss.edu.hk/CustomPage/11/中一自行分配學位申請表27-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "165-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日郵寄及電話）",
+     "source_text": "2027年3月31日本校透過郵寄通知書及電話通知所有獲本校納入自行分配學位正取學生名單之學生",
+     "confidence": "high",
+     "evidence_url": "https://www.ksyss.edu.hk/CustomPage/11/中一自行分配學位申請表27-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "165-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "中學學位分配派位結果（7月6日教育局通知）",
+     "source_text": "學生將於2027年7月6日獲教育局正式通知中學學位分配辦法下的派位結果",
+     "confidence": "high",
+     "evidence_url": "https://www.ksyss.edu.hk/CustomPage/11/中一自行分配學位申請表27-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "165-2027_28-result-002"
     }
    ],
    "data_gap_reason": "application_form_only_no_schedule",
@@ -3935,6 +3991,51 @@
      "confidence": "high",
      "event_id": "305-2027_28-info_day-001",
      "extracted_at": "2026-10-26T09:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位報名（1月4日至18日，學額40）",
+     "source_text": "報名日期：2027 年 1 月 04 日至 1 月 18 日…本校中一自行分配學額為 40 人",
+     "confidence": "high",
+     "evidence_url": "https://www.olr.edu.hk/images/olr_website_media/06_admission/01_Admission/27-28/Notes on application 1a chi _2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "305-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配報名截止",
+     "source_text": "報名日期：2027 年 1 月 04 日至 1 月 18 日",
+     "confidence": "high",
+     "evidence_url": "https://www.olr.edu.hk/images/olr_website_media/06_admission/01_Admission/27-28/Notes on application 1a chi _2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "305-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "label": "中一自行分配學位面試（3月13日，全體獲安排）",
+     "source_text": "面試日期為 2027 年 3 月 13 日…所有同學均獲安排面試",
+     "confidence": "high",
+     "evidence_url": "https://www.olr.edu.hk/images/olr_website_media/06_admission/01_Admission/27-28/Notes on application 1a chi _2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "305-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日書面及電話）",
+     "source_text": "本校將於 2027 年 3 月 31 日當天透過書面（信件或電郵）及電話通知正取學生的家長",
+     "confidence": "high",
+     "evidence_url": "https://www.olr.edu.hk/images/olr_website_media/06_admission/01_Admission/27-28/Notes on application 1a chi _2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "305-2027_28-result-001"
     }
    ],
    "self_healing_active": false
@@ -8194,6 +8295,73 @@
      "confidence": "medium",
      "event_id": "391-2027_28-info_day-001",
      "extracted_at": "2026-10-26T10:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-10-20",
+     "label": "索取中一自行分配學位申請表開始（10月20日起）",
+     "source_text": "可由 2026 年 10 月 20 日起，到本校索取或於本校網頁下載「申請表」",
+     "confidence": "high",
+     "evidence_url": "https://www.hkcwcc.edu.hk/sites/default/files/explan-notice-2728-c.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "391-2027_28-application_open-001"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日，學額40）",
+     "source_text": "填妥後於 2027 年 1 月 4 日至 1 月 18 日期間親交本校或經教育局「中一派位電子平台」遞交申請…提供 40* 個「中一自行分配學位」",
+     "confidence": "high",
+     "evidence_url": "https://www.hkcwcc.edu.hk/sites/default/files/explan-notice-2728-c.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "391-2027_28-application_open-002"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "填妥後於 2027 年 1 月 4 日至 1 月 18 日期間親交本校或經教育局「中一派位電子平台」遞交申請",
+     "confidence": "high",
+     "evidence_url": "https://www.hkcwcc.edu.hk/sites/default/files/explan-notice-2728-c.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "391-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "label": "中一自行分配學位面試（3月13日，不多於90%申請人）",
+     "source_text": "面試將會在 2027 年 3 月 13 日進行…本校只會接見不多於百分之九十的申請人",
+     "confidence": "high",
+     "evidence_url": "https://www.hkcwcc.edu.hk/sites/default/files/explan-notice-2728-c.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "391-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日致電及寄信）",
+     "source_text": "本校將於 2027 年 3 月 31 日致電及寄信通知正取學生家長其子女已獲學校納入其自行分配學位正取學生名單",
+     "confidence": "high",
+     "evidence_url": "https://www.hkcwcc.edu.hk/sites/default/files/explan-notice-2728-c.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "391-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "中學學位分配派位結果（7月6日與統一派位一併公布）",
+     "source_text": "自行分配學位派位結果將於 2027 年 7 月 6 日在學生原來就讀之小學，與統一派位結果一併公布",
+     "confidence": "high",
+     "evidence_url": "https://www.hkcwcc.edu.hk/sites/default/files/explan-notice-2728-c.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "391-2027_28-result-002"
     }
    ],
    "self_healing_active": false
@@ -9268,6 +9436,17 @@
      "confidence": "verified",
      "event_id": "304-2026_27-interview-001",
      "extracted_at": "2026-07-25T13:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2026-12-16",
+     "label": "中一入學申請截止（直資，12月16日星期三；學額57）",
+     "source_text": "申請截止日期及時間 日期： 二零二六年十二月十六日（星期三）…中一學位數目 五十七個",
+     "confidence": "high",
+     "evidence_url": "https://www.smcesps.edu.hk/file/doc/2627_261005_S1_Admission_2728_Notice_chi.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "304-2027_28-application_deadline-001"
     }
    ],
    "self_healing_active": false
@@ -13059,6 +13238,74 @@
      "confidence": "medium",
      "event_id": "263-2027_28-info_day-001",
      "extracted_at": "2026-09-08T22:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-11-21",
+     "date_end": "2027-01-18",
+     "label": "派發中一自行分配學位申請表（11月21日至1月18日）",
+     "source_text": "索取中一自行分配學位申請表格 21.11.2026 (Saturday) - 18.1.2027 (Monday)",
+     "confidence": "high",
+     "evidence_url": "https://www.stgss.edu.hk/wp-content/uploads/2026/10/S1-DP-Schedule-of-Application-2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "263-2027_28-application_open-001"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "遞交中一自行分配學位申請表（1月4日至18日）",
+     "source_text": "遞交中一自行分配學位申請表格 4.1.2027 (Monday) - 18.1.2027 (Monday)",
+     "confidence": "high",
+     "evidence_url": "https://www.stgss.edu.hk/wp-content/uploads/2026/10/S1-DP-Schedule-of-Application-2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "263-2027_28-application_open-002"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "遞交中一自行分配學位申請表格 4.1.2027 (Monday) - 18.1.2027 (Monday)",
+     "confidence": "high",
+     "evidence_url": "https://www.stgss.edu.hk/wp-content/uploads/2026/10/S1-DP-Schedule-of-Application-2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "263-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "label": "中一自行分配學位面試（3月13日星期六）",
+     "source_text": "中一自行分配學位面試日 13.3.2027 (Saturday)",
+     "confidence": "high",
+     "evidence_url": "https://www.stgss.edu.hk/wp-content/uploads/2026/10/S1-DP-Schedule-of-Application-2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "263-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日書面及電話）",
+     "source_text": "書面及電話通知正取學生的家長…31.3.2027 (Wednesday)",
+     "confidence": "high",
+     "evidence_url": "https://www.stgss.edu.hk/wp-content/uploads/2026/10/S1-DP-Schedule-of-Application-2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "263-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "中學學位分配派位結果（7月6日）",
+     "source_text": "所有參加派位學生獲通知中學學位分配辦法下的派位結果 6.7.2027 (Tuesday)",
+     "confidence": "high",
+     "evidence_url": "https://www.stgss.edu.hk/wp-content/uploads/2026/10/S1-DP-Schedule-of-Application-2027-2028.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "263-2027_28-result-002"
     }
    ],
    "self_healing_active": false
@@ -13211,6 +13458,73 @@
      "confidence": "verified",
      "event_id": "266-2026_27-result-002",
      "extracted_at": "2026-10-25T21:00:31"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-12-01",
+     "label": "派發本校申請表（2026年12月初）",
+     "source_text": "派發本校申請表 2026 年 12 月初",
+     "confidence": "high",
+     "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1 Admission/AAC_2627_Sept2027Admission_F.1DP_F.1_Application_Form_Chi_29-10-2026.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "266-2027_28-application_open-001"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "交回本校申請表及教育局申請表（1月4日至18日）",
+     "source_text": "交回本校申請表及教育局派發之「中一自行分配學位申請表」4/1/2027 – 18/1/2027",
+     "confidence": "high",
+     "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1 Admission/AAC_2627_Sept2027Admission_F.1DP_F.1_Application_Form_Chi_29-10-2026.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "266-2027_28-application_open-002"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "交回本校申請表及教育局派發之「中一自行分配學位申請表」4/1/2027 – 18/1/2027",
+     "confidence": "high",
+     "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1 Admission/AAC_2627_Sept2027Admission_F.1DP_F.1_Application_Form_Chi_29-10-2026.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "266-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-27",
+     "label": "中一自行分配學位面試（2月27日；惡劣天氣改3月13日）",
+     "source_text": "面試 27/2/2027…如面試當日教育局宣佈停課，則面試改於 13/3/2027 同時間舉行",
+     "confidence": "high",
+     "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1 Admission/AAC_2627_Sept2027Admission_F.1DP_F.1_Application_Form_Chi_29-10-2026.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "266-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取生名單公布（3月31日）",
+     "source_text": "公佈本校「自行分配學位正取學生名單」31/3/2027",
+     "confidence": "high",
+     "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1 Admission/AAC_2627_Sept2027Admission_F.1DP_F.1_Application_Form_Chi_29-10-2026.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "266-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "中學學位分配派位結果（7月6日）",
+     "source_text": "公佈派位結果 6/7/2027",
+     "confidence": "high",
+     "evidence_url": "https://www.stmc.edu.hk/attachment/upload/files/F.1 Admission/AAC_2627_Sept2027Admission_F.1DP_F.1_Application_Form_Chi_29-10-2026.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "266-2027_28-result-002"
     }
    ]
   },
@@ -18866,6 +19180,73 @@
      "confidence": "medium",
      "event_id": "202-2027_28-info_day-001",
      "extracted_at": "2026-09-07T13:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-10-17",
+     "label": "索取中一自行分配學位報名表開始（10月17日至次年1月18日）",
+     "source_text": "索取報名表(中一自行分配學位)方法﹕由 2026 年 10 月 17 日至 2027 年 1 月 18 日",
+     "confidence": "high",
+     "evidence_url": "https://www.lck.edu.hk/attachment/upload/files/School_Admission/2027-28/中一新生自行分配學位申請須知2027-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "202-2027_28-application_open-001"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位收表（1月4日至18日，學額40）",
+     "source_text": "收表日期﹕2027 年 1 月 4 日至 2027 年 1 月 18 日…自行分配學位數目﹕40",
+     "confidence": "high",
+     "evidence_url": "https://www.lck.edu.hk/attachment/upload/files/School_Admission/2027-28/中一新生自行分配學位申請須知2027-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "202-2027_28-application_open-002"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "收表日期﹕2027 年 1 月 4 日至 2027 年 1 月 18 日",
+     "confidence": "high",
+     "evidence_url": "https://www.lck.edu.hk/attachment/upload/files/School_Admission/2027-28/中一新生自行分配學位申請須知2027-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "202-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-27",
+     "label": "中一自行分配學位面試（2月27日星期六，全體獲面試）",
+     "source_text": "面試日期為 2027 年 2 月 27 日(星期六)…所有申請者均有面試機會",
+     "confidence": "high",
+     "evidence_url": "https://www.lck.edu.hk/attachment/upload/files/School_Admission/2027-28/中一新生自行分配學位申請須知2027-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "202-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日書面及電話）",
+     "source_text": "本校將於 2027 年 3 月 31 日以書面及電話通知正取學生的家長",
+     "confidence": "high",
+     "evidence_url": "https://www.lck.edu.hk/attachment/upload/files/School_Admission/2027-28/中一新生自行分配學位申請須知2027-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "202-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "中學學位分配派位結果（7月6日經小學公布）",
+     "source_text": "所有中一學位分配結果將於 2027 年 7 月 6 日經由申請者所屬小學公佈",
+     "confidence": "high",
+     "evidence_url": "https://www.lck.edu.hk/attachment/upload/files/School_Admission/2027-28/中一新生自行分配學位申請須知2027-28.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "202-2027_28-result-002"
     }
    ],
    "banding_tier": "Band 2"
@@ -21117,6 +21498,51 @@
      "confidence": "high",
      "event_id": "112-2027_28-info_day-001",
      "extracted_at": "2026-10-26T09:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日）",
+     "source_text": "接受申請日期：2027 年 1 月 4 日（星期一）至 2027 年 1 月 18 日（星期一）",
+     "confidence": "high",
+     "evidence_url": "https://www.ccpass.edu.hk/admission/2027-2028_中一自行分配學位申請須知_附件_英文版評分_v2.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "112-2027_28-application_open-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-27",
+     "label": "第一輪面試（2月27日星期六，全體獲面試）",
+     "source_text": "第一輪面試日期為 2027 年 2 月 27 日（星期六）每位申請學生皆獲面試機會",
+     "confidence": "high",
+     "evidence_url": "https://www.ccpass.edu.hk/admission/2027-2028_中一自行分配學位申請須知_附件_英文版評分_v2.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "112-2027_28-interview-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-20",
+     "label": "第二輪面試（3月20日星期六，首輪通過者）",
+     "source_text": "第二輪面試日期為 2027 年 3 月 20 日（星期六）通過第一輪面試者獲面試機會",
+     "confidence": "high",
+     "evidence_url": "https://www.ccpass.edu.hk/admission/2027-2028_中一自行分配學位申請須知_附件_英文版評分_v2.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "112-2027_28-interview-002"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日電話及書面）",
+     "source_text": "2027 年 3 月 31 日透過電話及書面通知正取學生的家長",
+     "confidence": "high",
+     "evidence_url": "https://www.ccpass.edu.hk/admission/2027-2028_中一自行分配學位申請須知_附件_英文版評分_v2.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "112-2027_28-result-001"
     }
    ],
    "banding_tier": "Band 2"
@@ -22986,6 +23412,51 @@
      "confidence": "medium",
      "event_id": "192-2027_28-info_day-001",
      "extracted_at": "2026-09-08T22:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日，學額40）",
+     "source_text": "派發及遞交申請表日期：2027 年 1 月 4 日（星期一）至 2027 年 1 月 18 日（星期一）…本校可供申請的自行分配中一學位數目為 40 個",
+     "confidence": "high",
+     "evidence_url": "https://www.hlmssst.edu.hk/CustomPage/36/2728 年度中一自行分配學位收生準則及程序.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "192-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "派發及遞交申請表日期：2027 年 1 月 4 日（星期一）至 2027 年 1 月 18 日（星期一）",
+     "confidence": "high",
+     "evidence_url": "https://www.hlmssst.edu.hk/CustomPage/36/2728 年度中一自行分配學位收生準則及程序.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "192-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "label": "中一自行分配學位面試（3月13日星期六，個人形式）",
+     "source_text": "面試日期：2027 年 3 月 13 日（星期六）…以個人形式進行面試",
+     "confidence": "high",
+     "evidence_url": "https://www.hlmssst.edu.hk/CustomPage/36/2728 年度中一自行分配學位收生準則及程序.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "192-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日電話及書面）",
+     "source_text": "獲本校取錄者，將於 2027 年 3 月 31 日當天接獲本校電話及書面通知",
+     "confidence": "high",
+     "evidence_url": "https://www.hlmssst.edu.hk/CustomPage/36/2728 年度中一自行分配學位收生準則及程序.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "192-2027_28-result-001"
     }
    ],
    "banding_tier": "Band 2"
@@ -23292,6 +23763,62 @@
      "confidence": "medium",
      "event_id": "75-2027_28-info_day-001",
      "extracted_at": "2026-09-07T15:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日遞交）",
+     "source_text": "遞交「中一自行分配學位」申請表及相關文件 2027年1月4日（星期一）至2027年1月18日（星期一）",
+     "confidence": "high",
+     "evidence_url": "https://www.twghscgms.edu.hk/article/813",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "75-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "遞交「中一自行分配學位」申請表及相關文件 2027年1月4日（星期一）至2027年1月18日（星期一）",
+     "confidence": "high",
+     "evidence_url": "https://www.twghscgms.edu.hk/article/813",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "75-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-11",
+     "label": "中一自行分配學位面試（3月11日及12日）",
+     "source_text": "面試 2027年3月11日（星期四）及12日（星期五）",
+     "confidence": "high",
+     "evidence_url": "https://www.twghscgms.edu.hk/article/813",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "75-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "自行分配學位正取通知（3月31日書面及電話）",
+     "source_text": "公布「自行分配學位」正取學生名單（透過書面及電話通知）2027年3月31日（星期三）",
+     "confidence": "high",
+     "evidence_url": "https://www.twghscgms.edu.hk/article/813",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "75-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "中學學位分配派位結果公布",
+     "source_text": "中央派位放榜日期 2027年7月6日（星期二）",
+     "confidence": "high",
+     "evidence_url": "https://www.twghscgms.edu.hk/article/813",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "75-2027_28-result-002"
     }
    ],
    "banding_tier": "Band 2"
@@ -24738,6 +25265,62 @@
      "confidence": "high",
      "event_id": "414-2026_27-result-001",
      "extracted_at": "2026-10-25T21:24:22"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位遞交（1月4日至18日，學額40）",
+     "source_text": "遞交表格日期及時間：日期：2027 年 1 月 4 日(星期一)至 1 月 18 日(星期一)…本校 2027-2028 年度自行分配學位數目：40 個",
+     "confidence": "high",
+     "evidence_url": "https://www.qts.edu.hk/CustomPage/73/2728_S1_application_form_Chi_Version_Web.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "414-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "遞交表格日期及時間：日期：2027 年 1 月 4 日(星期一)至 1 月 18 日(星期一)",
+     "confidence": "high",
+     "evidence_url": "https://www.qts.edu.hk/CustomPage/73/2728_S1_application_form_Chi_Version_Web.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "414-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "label": "中一自行分配學位面試（3月6日星期六）",
+     "source_text": "面試日期為 2027 年 3 月 6 日星期六。落選者將不獲通知",
+     "confidence": "high",
+     "evidence_url": "https://www.qts.edu.hk/CustomPage/73/2728_S1_application_form_Chi_Version_Web.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "414-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日書面及電話）",
+     "source_text": "學校將於 2027 年 3 月 31 日透過書面及電話通知正取學生家長其子女已獲學校納入其自行分配學位正取學生名單",
+     "confidence": "high",
+     "evidence_url": "https://www.qts.edu.hk/CustomPage/73/2728_S1_application_form_Chi_Version_Web.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "414-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "最終派位結果（7月6日與統一派位一併公布）",
+     "source_text": "學生的最終派位結果將於 2027 年 7 月 6 日與統一派位結果一併公佈",
+     "confidence": "high",
+     "evidence_url": "https://www.qts.edu.hk/CustomPage/73/2728_S1_application_form_Chi_Version_Web.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "414-2027_28-result-002"
     }
    ],
    "banding_tier": "Band 2"
@@ -25242,6 +25825,62 @@
      "confidence": "medium",
      "event_id": "358-2027_28-info_day-001",
      "extracted_at": "2026-09-08T22:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日，學額40）",
+     "source_text": "接受申請日期： 2027 年 1 月 4 日至 2027 年 1 月 18 日…學額：40 名",
+     "confidence": "high",
+     "evidence_url": "https://henrietta.edu.hk/wp-content/uploads/2026/10/2027自行收生章程-v1.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "358-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止（電子平台1月18日23:59截）",
+     "source_text": "中一派位電子平台(SSPA)：截止時間 2027 年 1 月 18 日(香港時間 23 時 59 分)",
+     "confidence": "high",
+     "evidence_url": "https://henrietta.edu.hk/wp-content/uploads/2026/10/2027自行收生章程-v1.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "358-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "label": "中一自行分配學位面試（3月6日或13日）",
+     "source_text": "本校會安排全部申請學生於 2027 年 3 月 6 日或 3 月 13 日進行面試",
+     "confidence": "high",
+     "evidence_url": "https://henrietta.edu.hk/wp-content/uploads/2026/10/2027自行收生章程-v1.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "358-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日郵寄及電話）",
+     "source_text": "學校將於 2027 年 3 月 31 日郵寄及電話通知正取學生獲納入自行分配學位正取學生名單",
+     "confidence": "high",
+     "evidence_url": "https://henrietta.edu.hk/wp-content/uploads/2026/10/2027自行收生章程-v1.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "358-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "最終派位結果（7月6日與統一派位同時公布）",
+     "source_text": "最終申請結果將於 2027 年 7 月 6 日與教育局統一派位結果同時公佈",
+     "confidence": "high",
+     "evidence_url": "https://henrietta.edu.hk/wp-content/uploads/2026/10/2027自行收生章程-v1.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "358-2027_28-result-002"
     }
    ],
    "banding_tier": "Band 2"
@@ -25368,6 +26007,51 @@
      "confidence": "verified",
      "event_id": "403-2026_27-application_deadline-001",
      "extracted_at": "2026-09-04T00:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行收生申請（1月4日至18日）",
+     "source_text": "家長可於 2027 年 1 月 4 日(一)至 2027 年 1 月 18 日(一)把申請表親身於辦工時間內交回本校校務處",
+     "confidence": "high",
+     "evidence_url": "https://www.cccss.edu.hk/uploads/pages/1/files/2027-2028入學/2027-2028中一入學申請表_填表須知2026DEC.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "403-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行收生申請截止（申請表索取亦至1月18日）",
+     "source_text": "申請表可由即日起至 2027 年 1 月 18 日於本校校務處索取",
+     "confidence": "high",
+     "evidence_url": "https://www.cccss.edu.hk/uploads/pages/1/files/2027-2028入學/2027-2028中一入學申請表_填表須知2026DEC.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "403-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "label": "中一自行收生面試（初步日期3月6日星期六，含家長訪談）",
+     "source_text": "面試日期初步為 2027 年 3 月 6 日(六)，面試包括學生面試及家長訪談",
+     "confidence": "medium",
+     "evidence_url": "https://www.cccss.edu.hk/uploads/pages/1/files/2027-2028入學/2027-2028中一入學申請表_填表須知2026DEC.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "403-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日書面電郵及電話）",
+     "source_text": "本校將於 2027 年 3 月 31 日(二)當天透過書面(電郵)及電話通知所有正取學生的家長",
+     "confidence": "medium",
+     "evidence_url": "https://www.cccss.edu.hk/uploads/pages/1/files/2027-2028入學/2027-2028中一入學申請表_填表須知2026DEC.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "403-2027_28-result-001"
     }
    ],
    "banding_tier": "Band 3"
@@ -27727,6 +28411,62 @@
      "confidence": "high",
      "event_id": "351-2027_28-info_day-001",
      "extracted_at": "2026-10-09T10:43:27"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日，名額40）",
+     "source_text": "申請日期：2027年1月4日(星期一)至1月18日(星期一)…名額 : 40",
+     "confidence": "high",
+     "evidence_url": "https://www.cognitiohk.edu.hk/res/common/s1admission.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "351-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "label": "自行分配申請截止",
+     "source_text": "申請日期：2027年1月4日(星期一)至1月18日(星期一)",
+     "confidence": "high",
+     "evidence_url": "https://www.cognitiohk.edu.hk/res/common/s1admission.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "351-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "label": "中一自行分配學位面試（3月6日星期六上午，家長陪同）",
+     "source_text": "本校面試將於 2027 年 3 月 6 日(星期六)上午舉行，申請者須由家長陪同到本校出席面試(家長亦需一起參與面試)",
+     "confidence": "high",
+     "evidence_url": "https://www.cognitiohk.edu.hk/res/common/s1admission.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "351-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "label": "正取通知（3月31日書面及電話）",
+     "source_text": "本校將於2027年3月31日(星期三)透過書面及電話通知已獲本校納入為自行分配學位正取名單的學生之家長",
+     "confidence": "high",
+     "evidence_url": "https://www.cognitiohk.edu.hk/res/common/s1admission.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "351-2027_28-result-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "label": "獲取錄名單公布（7月6日與統一派位結果一併）",
+     "source_text": "獲取錄學生名單將於2027年7月6日(星期二)與教育局統一派位結果一併公佈",
+     "confidence": "high",
+     "evidence_url": "https://www.cognitiohk.edu.hk/res/common/s1admission.pdf",
+     "academic_year": "2027-28",
+     "extracted_at": "2026-11-15",
+     "event_id": "351-2027_28-result-002"
     }
    ]
   },
