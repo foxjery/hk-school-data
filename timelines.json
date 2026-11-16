@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-16T01:14:03Z",
+ "updated_at": "2026-11-16T01:27:31Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -7384,6 +7384,54 @@
      "confidence": "high",
      "event_id": "161-2027_28-info_day-001",
      "extracted_at": "2026-10-26T14:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日遞交）",
+     "academic_year": "2027-28",
+     "source_text": "Date of submitting application： 4 Jan - 18 Jan 2027",
+     "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2026%2F27",
+     "confidence": "high",
+     "event_id": "161-2027_28-application_open-001",
+     "extracted_at": "2026-11-16T09:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "自行分配申請截止",
+     "academic_year": "2027-28",
+     "source_text": "Date of submitting application： 4 Jan - 18 Jan 2027",
+     "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2026%2F27",
+     "confidence": "high",
+     "event_id": "161-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16T09:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-20",
+     "date_end": null,
+     "label": "第一輪面試（2月20日；2月3日前電郵通知面試安排）",
+     "academic_year": "2027-28",
+     "source_text": "First Round Interview Arrangement Date: February 20, 2027 (Saturday) Applicants will be notified via email regarding the interview arrangements by February 3, 2027.",
+     "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2026%2F27",
+     "confidence": "high",
+     "event_id": "161-2027_28-interview-001",
+     "extracted_at": "2026-11-16T09:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "第二輪面試（3月13日；3月3日前電郵通知首輪結果及安排）",
+     "academic_year": "2027-28",
+     "source_text": "Second Round Interview Arrangement Date: March 13, 2027 (Saturday) Applicants will be notified via email about the results of the first round interview and the arrangements for the second round interview by March 03, 2027.",
+     "evidence_url": "https://www.blmcss.edu.hk/main/en/site/view?name=S1+Admission+2026%2F27",
+     "confidence": "high",
+     "event_id": "161-2027_28-interview-002",
+     "extracted_at": "2026-11-16T09:00:00"
     }
    ]
   },
