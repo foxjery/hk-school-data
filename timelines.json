@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-16T01:27:31Z",
+ "updated_at": "2026-11-16T01:54:32Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -846,13 +846,13 @@
      "type": "info_day",
      "date": "2026-12-05",
      "date_end": null,
-     "label": "2027-28中一入學資訊日（首頁公告，報名表連結）",
+     "label": "2027-28中一入學資訊日（兩場：10:00–11:30、14:00–15:30；須網上報名，11月23日下午5時前截止）",
      "academic_year": "2027-28",
-     "source_text": "2027-28中一入學資訊日（5/12/2026）報名表",
-     "evidence_url": "https://www.twghczm.edu.hk/",
+     "source_text": "日期︰2026年12月05日(星期六) 時間︰上午10:00 至 上午11:30 … 下午2:00至下午3:30 … 截止報名日期及時間︰ 2026年11月23日(下午5時正)",
+     "evidence_url": "https://www.twghczm.edu.hk/en/node/632",
      "confidence": "high",
      "event_id": "61-2027_28-info_day-001",
-     "extracted_at": "2026-10-27T08:47:05"
+     "extracted_at": "2026-11-16"
     }
    ],
    "self_healing_active": false
@@ -13573,6 +13573,18 @@
      "academic_year": "2027-28",
      "extracted_at": "2026-11-15",
      "event_id": "266-2027_28-result-002"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中選校家長講座及學習成果展2026（13:00–17:30；講座須預先取票，11月18日上午9:00起網上報名）",
+     "academic_year": "2027-28",
+     "source_text": "日期：2026年12月5日（星期六） 時間：下午1時正至5時30分 … 本校將於11月18日上午9:00開始接受網上報名，請屆時填寫簡單資料索取入場票。每個家庭限取4張入場票。",
+     "evidence_url": "https://stmc.edu.hk/content.php?wid=108",
+     "confidence": "high",
+     "event_id": "266-2027_28-info_day-001",
+     "extracted_at": "2026-11-16"
     }
    ]
   },
@@ -31544,6 +31556,73 @@
      "confidence": "verified",
      "event_id": "104-2027_28-info_day-001",
      "extracted_at": "2026-11-13T17:45:00"
+    }
+   ]
+  },
+  "229": {
+   "name": "明愛莊月明中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": "2026-11-22",
+     "label": "開放日「集・愛の旅」（11月21日及22日，上午9時至下午5時；掃碼報名，含中一家長日）",
+     "academic_year": "2027-28",
+     "source_text": "開放日 集・愛の旅 11月21及22日｜星期六及星期日 上午9時至下午5時；豐富活動：中一家長日、腦科學講座等；掃碼報名（校網首頁海報）",
+     "evidence_url": "https://www.ccym.edu.hk/",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "229-2027_28-info_day-001"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日交回；30個學位；亦可經中一派位電子平台）",
+     "academic_year": "2027-28",
+     "source_text": "申請日期為 2027 年 1 月 4 日(星期一)至 1 月 18 日(星期一)；本學年中一自行分配學位名額為 30 個。",
+     "evidence_url": "https://www.ccym.edu.hk/attachment/upload/files/admission/2026-2027/S1%20Discretionary%20Places%20Application/2027-2028_Form_1_Admission_Guidelines_Traditional_Chinese.pdf",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "229-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請日期為 2027 年 1 月 4 日(星期一)至 1 月 18 日(星期一)",
+     "evidence_url": "https://www.ccym.edu.hk/attachment/upload/files/admission/2026-2027/S1%20Discretionary%20Places%20Application/2027-2028_Form_1_Admission_Guidelines_Traditional_Chinese.pdf",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "229-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（暫定；收生準則：面試40%、校內成績30%、操行20%、課外活動10%；電話通知）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期： 2027 年 3 月 6 日(星期六) (暫定)；準則 1. 面試 40% 2. 校內成績 30% 3. 操行 20% 4. 課外活動 10%",
+     "evidence_url": "https://www.ccym.edu.hk/attachment/upload/files/admission/2026-2027/S1%20Discretionary%20Places%20Application/2027-2028_Form_1_Admission_Guidelines_Traditional_Chinese.pdf",
+     "confidence": "medium",
+     "extracted_at": "2026-11-16",
+     "event_id": "229-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取生通知（3月31日前以信函及電話通知）",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 31 日(星期三)前透過信函及電話通知各申請自行分配學位的正取學生。",
+     "evidence_url": "https://www.ccym.edu.hk/attachment/upload/files/admission/2026-2027/S1%20Discretionary%20Places%20Application/2027-2028_Form_1_Admission_Guidelines_Traditional_Chinese.pdf",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "229-2027_28-result-001"
     }
    ]
   }
