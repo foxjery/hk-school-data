@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-16T01:57:28Z",
+ "updated_at": "2026-11-16T02:28:34Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -776,6 +776,21 @@
    "school": "229",
    "url": "https://www.ccym.edu.hk/tc/content.php?wid=23",
    "label": "C-099 補掛：莊月明入學頁入 admission——內嵌 2728 章程（30 學額、申請 1-04~1-18、面試 3-06 暫定、正取 3-31）；Mac 港網 curl 200＋PDF sha256 複核一致"
+  },
+  {
+   "school": "64",
+   "url": "https://www.twghwflc.edu.hk/tc/content.php?wid=243",
+   "label": "C-101/T-026 補掛：黃鳳翎中一入學申請須知頁入 admission——content.php?wid=243 實為 2728 申請須知 PDF（申請 1-04~1-18／全體面試 3-13／30 學額）；Mac 港網 Firecrawl 全文提取核過"
+  },
+  {
+   "school": "251",
+   "url": "https://www.ych2ss.edu.hk/tc/news_detail.php?wid=245&id=139&cid=1",
+   "label": "C-101/T-026 補掛：仁濟二中升中資訊日帖入 admission——11-29（日）10:00-16:00 資訊日＋11:30 自行收生面試講座；Mac 港網 curl 200＋逐字"
+  },
+  {
+   "school": "411",
+   "url": "https://www.lwlc.edu.hk/CustomPage/paragraphGroup.aspx?webPageId=22&pageId=19&nnnid=174",
+   "label": "C-101/T-026 補掛：李惠利中一入學申請表頁入 admission——2728 自行分配派表 10-10 起、收表 1-04~1-18；Mac 港網 curl 200＋逐字"
   }
  ],
  "demotes": [
@@ -1168,6 +1183,34 @@
    "link": "https://www.ccym.edu.hk/tc/content.php?wid=23",
    "deadline": "2026-11-21",
    "note": "開放日只見於校網首頁輪播海報（圖片）；入學頁 wid=23 內嵌 PDF「招收2027-2028年度中一級新生章程」（30 個學位、1/4–1/18、面試3/6暫定、正取3/31）。雲端 2026-11-16 逐字核對；Owner 11-16 批寫入並推。海報無報名截止日，deadline 用開放日首日"
+  },
+  {
+   "school": "266",
+   "title": "沙田循道衞理中學 升中選校家長講座及學習成果展（12月5日；升中講座須網上取票，11月18日上午9時起報名）",
+   "link": "https://stmc.edu.hk/content.php?wid=108",
+   "deadline": "2026-11-18",
+   "note": "校網原文：本校將於11月18日上午9:00開始接受網上報名，請屆時填寫簡單資料索取入場票。每個家庭限取4張入場票。deadline 用取票開始日（提醒準時報名）。雲端 2026-11-16 逐字核對；Owner 11-16 批推。"
+  },
+  {
+   "school": "251",
+   "title": "仁濟醫院第二中學 升中資訊日（11月29日；部分項目需預先報名）",
+   "link": "https://www.ych2ss.edu.hk/tc/news_detail.php?wid=245&id=139&cid=1",
+   "deadline": "2026-11-29",
+   "note": "2026-10-16 帖：日期 2026年11月29日(星期日) 上午10:00至下午4:00；11:30「中學課程及本校自行收生面試」講座。校網未寫報名截止，deadline 用活動日。雲端 2026-11-16 逐字核對；Owner 11-16 批推。"
+  },
+  {
+   "school": "362",
+   "title": "青松中學 資訊日暨體藝跨科同樂日（12月12日；升中講座、模擬面試，須網上登記）",
+   "link": "https://www.ccss.edu.hk/tc/",
+   "deadline": "2026-12-12",
+   "note": "日期見校網首頁彈窗連結之 Google 登記表：2026年12月12日(星期六) 上午9:00至下午4:00。無報名截止，deadline 用活動日。雲端 2026-11-16 逐字核對；Owner 11-16 批推。"
+  },
+  {
+   "school": "290",
+   "title": "聖公會呂明才中學 中一資訊日（12月12日下午；設網上報名表）",
+   "link": "https://www.skhlmc.edu.hk/en/",
+   "deadline": "2026-12-12",
+   "note": "校網首頁通告「Information Day 26-27」（實為 2027-28 屆）：2026年12月12日(星期六) 下午2:00至4:15。無報名截止，deadline 用活動日。雲端 2026-11-16 逐字核對；Owner 11-16 批推。"
   }
  ]
 }
