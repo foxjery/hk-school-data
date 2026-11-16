@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-16T08:11:19Z",
+ "updated_at": "2026-11-16T09:11:24Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -32338,6 +32338,37 @@
      "confidence": "medium",
      "extracted_at": "2026-11-16",
      "event_id": "209-2027_28-info_day-001"
+    }
+   ]
+  },
+  "81": {
+   "name": "恩平工商會李琳明中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "學校資訊日（11月21日星期六，10:00–16:00；Google 表單報名；另一場 12月5日）",
+     "academic_year": "2027-28",
+     "source_text": "本校將於2026年11月21日（星期六）及12月5日（星期六）舉行「學校資訊日」……報名請按連結 https://forms.gle/hiFVom68PYtCDwQM7（校網首頁彈窗；海報「21 Nov & 5 Dec 2026 10 a.m.–4 p.m.」互證）",
+     "evidence_url": "https://www.ypicallmc.edu.hk/",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "81-2027_28-info_day-001"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "學校資訊日（12月5日星期六，10:00–16:00；Google 表單報名；另一場 11月21日）",
+     "academic_year": "2027-28",
+     "source_text": "本校將於2026年11月21日（星期六）及12月5日（星期六）舉行「學校資訊日」……報名請按連結 https://forms.gle/hiFVom68PYtCDwQM7（校網首頁彈窗；海報「21 Nov & 5 Dec 2026 10 a.m.–4 p.m.」互證）",
+     "evidence_url": "https://www.ypicallmc.edu.hk/",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "81-2027_28-info_day-002"
     }
    ]
   }
