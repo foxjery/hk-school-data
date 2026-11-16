@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-16T02:29:43Z",
+ "updated_at": "2026-11-16T08:11:19Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -499,6 +499,30 @@
      "evidence_url": "https://www.evangel.edu.hk/admission2627_annouce.html",
      "event_id": "28-2026-27-result-001",
      "confidence": "high"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2026-11-20",
+     "date_end": null,
+     "label": "2027-28中一入學網上申請截止（直資；10月27日下午2時起，11月20日下午4時截止；只接受網上申請）",
+     "academic_year": "2027-28",
+     "source_text": "網上申請 ： 2026年10月27日 （下午2時） - 2026年11月20日（下午4時）",
+     "evidence_url": "http://www.evangel.edu.hk/ecube/index.php/admission/admission-secondary-school/7301-7-notice-of-2027-2028-s-1-admission-application-2027-2028",
+     "confidence": "high",
+     "event_id": "28-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "interview",
+     "date": "2027-01-09",
+     "date_end": null,
+     "label": "中一入學面試（面試前一星期電郵通知，須網上繳交面試費$100）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期： 2 027 年 1 月 9 日 ( 星期六 )",
+     "evidence_url": "https://www.evangel.edu.hk/admission2728_s1_chi.html",
+     "confidence": "high",
+     "event_id": "28-2027_28-interview-001",
+     "extracted_at": "2026-11-16"
     }
    ],
    "self_healing_active": false
@@ -761,9 +785,20 @@
    "name": "地利亞修女紀念學校（協和二中）",
    "school_type": "直資",
    "banding_tier": "Band 3",
-   "events": [],
-   "data_gap_reason": "no_public_admission_info",
-   "data_gap_confirmed": "2026-04-29T10:32:03"
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "開放日「數碼學習賦能 智慧引領未來」（11月28日星期六，上午9時至下午1時；掃碼報名）",
+     "academic_year": "2027-28",
+     "source_text": "OPEN DAY 開放日 28 NOV (SAT) 11月28日(星期六) 9AM-1PM；REGISTER NOW! 立即報名!（校網首頁彈窗海報）",
+     "evidence_url": "https://deliahw2.edu.hk/",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "58-2027_28-info_day-001"
+    }
+   ]
   },
   "61": {
    "name": "東華三院陳兆民中學",
@@ -921,6 +956,18 @@
      "confidence": "high",
      "event_id": "evt_205ceb1d",
      "extracted_at": "2026-08-28T09:52:02"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中資訊日（9:00-13:00；本校校園；掃碼報名）",
+     "academic_year": "2027-28",
+     "source_text": "日期: 2026年12月5日(星期六) 時間: 9:00-13:00",
+     "evidence_url": "https://web.lktmc.edu.hk/sites/default/files/styles/freestyle/public/cover/26-27_Info%20Day_Poster_1.jpg",
+     "confidence": "high",
+     "event_id": "70-2027_28-info_day-001",
+     "extracted_at": "2026-11-16"
     }
    ]
   },
@@ -4100,7 +4147,56 @@
    "name": "天水圍香島中學",
    "school_type": "直資",
    "banding_tier": "Band 3",
-   "events": [],
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日；初步取錄49名；校網填表後交回校務處或經中一派位電子平台；毋須推薦信）",
+     "academic_year": "2027-28",
+     "source_text": "遞交申請表日期：2027年1月4日至1月18日(包括首尾兩日）；本校初步取錄小六學生49名。",
+     "evidence_url": "https://admission.heungto.net/event/3085",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "332-2027_28-application_open-001"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止（校網填表者須於當日或之前帶同文件交回校務處）",
+     "academic_year": "2027-28",
+     "source_text": "須於2027年1月18日（一）或之前帶同以下文件交回本校校務處",
+     "evidence_url": "https://admission.heungto.net/event/3085",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "332-2027_28-application_deadline-001"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試（3月13日或3月20日，上午；所有符合資格者獲邀；面試前約一週 WhatsApp/WeChat 通知；準則：中英數50%、面試25%、課外15%、與本校聯繫10%）",
+     "academic_year": "2027-28",
+     "source_text": "日 期： 2027年3月13日或3月20日(星期六) 時 間： 上午(時間另行通知)；所有符合申請資格的學生均獲邀參加面試。",
+     "evidence_url": "https://admission.heungto.net/event/3085",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "332-2027_28-interview-001"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取生通知（3月31日17:00前以書面及電話通知）",
+     "academic_year": "2027-28",
+     "source_text": "本校將於2027年3月31日17:00 前以書面及電話通知正取學生家長",
+     "evidence_url": "https://admission.heungto.net/event/3085",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "332-2027_28-result-001"
+    }
+   ],
    "self_healing_active": false
   },
   "334": {
@@ -11706,6 +11802,18 @@
      "confidence": "high",
      "event_id": "123-2026_27-interview-001",
      "extracted_at": "2026-10-25T12:33:24"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "65周年開放日暨學校資訊日（9:00-17:00；講座10:00-11:00，網上登記已於11月9日截止）",
+     "academic_year": "2027-28",
+     "source_text": "School Opening Hours on 5 th December 2026: 9:00 a.m. – 5:00 p.m.",
+     "evidence_url": "https://www.bhjs.edu.hk/en/site/view?name=Info+Day",
+     "confidence": "high",
+     "event_id": "123-2027_28-info_day-001",
+     "extracted_at": "2026-11-16"
     }
    ]
   },
@@ -23756,6 +23864,54 @@
      "confidence": "high",
      "event_id": "35-2026_27-application_deadline-001",
      "extracted_at": "2026-10-25T12:18:55"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位報名（1月4日至18日；30個學位；男校；只在報名時段接受）",
+     "academic_year": "2027-28",
+     "source_text": "2. 報名日期：2027 年 1 月 4 日至 18 日",
+     "evidence_url": "https://www.choihung.edu.hk/CustomPage/340/2027-28%E7%94%B3%E8%AB%8B%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E6%89%8B%E7%BA%8C.pdf",
+     "confidence": "high",
+     "event_id": "35-2027_28-application_open-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位報名截止",
+     "academic_year": "2027-28",
+     "source_text": "2. 報名日期：2027 年 1 月 4 日至 18 日",
+     "evidence_url": "https://www.choihung.edu.hk/CustomPage/340/2027-28%E7%94%B3%E8%AB%8B%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E6%89%8B%E7%BA%8C.pdf",
+     "confidence": "high",
+     "event_id": "35-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-20",
+     "date_end": null,
+     "label": "中一自行分配學位面試（全部報名者；1月18日後信件通知，1月27日仍未收到請聯絡學校；收生準則：面試30%、次第名單30%、學業10%、操行10%、課外活動10%、與辦學團體聯繫10%）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期為 2027 年 2 月 20 日",
+     "evidence_url": "https://www.choihung.edu.hk/CustomPage/340/2027-28%E7%94%B3%E8%AB%8B%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E6%89%8B%E7%BA%8C.pdf",
+     "confidence": "high",
+     "event_id": "35-2027_28-interview-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取學生書面及電話通知",
+     "academic_year": "2027-28",
+     "source_text": "學校將於 2027 年 3 月 31 日透過書面及電話通知中一自行分配學位的正取學生的家長",
+     "evidence_url": "https://www.choihung.edu.hk/CustomPage/340/2027-28%E7%94%B3%E8%AB%8B%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E6%89%8B%E7%BA%8C.pdf",
+     "confidence": "high",
+     "event_id": "35-2027_28-result-001",
+     "extracted_at": "2026-11-16"
     }
    ],
    "banding_tier": "Band 2"
@@ -29108,6 +29264,18 @@
      "confidence": "high",
      "event_id": "143-2026_27-result-001",
      "extracted_at": "2026-10-15T10:30:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "2026開放日（校園參觀09:30-13:00；家長講座；網上報名）",
+     "academic_year": "2027-28",
+     "source_text": "2026 開放日 OPEN DAY 21.11 校園參觀 Campus Tour: 09:30 – 13:00",
+     "evidence_url": "https://www.kachi.edu.hk/uploads/image/202611/new11.jpg",
+     "confidence": "high",
+     "event_id": "143-2027_28-info_day-001",
+     "extracted_at": "2026-11-16"
     }
    ]
   },
@@ -31317,6 +31485,18 @@
      "confidence": "verified",
      "event_id": "186-2026_27-application_open-002",
      "extracted_at": "2026-11-05T11:30:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中資訊日（10:15-17:30；須網上報名）",
+     "academic_year": "2027-28",
+     "source_text": "日期：2026年12月5日 (星期六) 時間：10:15-17:30",
+     "evidence_url": "https://www.ykh.edu.hk/latestnews",
+     "confidence": "high",
+     "event_id": "186-2027_28-info_day-001",
+     "extracted_at": "2026-11-16"
     }
    ]
   },
@@ -31766,6 +31946,398 @@
      "confidence": "high",
      "extracted_at": "2026-11-16",
      "event_id": "411-2027_28-application_deadline-001"
+    }
+   ]
+  },
+  "30": {
+   "name": "伯特利中學",
+   "school_type": "資助",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日；可經中一派位電子平台；不設筆試）",
+     "academic_year": "2027-28",
+     "source_text": "申請日期為 2027 年 1 月 4 日至 1 月 18日。",
+     "evidence_url": "https://www.bethel.edu.hk/uploads/files/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B/2027-28_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+     "confidence": "high",
+     "event_id": "30-2027_28-application_open-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請日期為 2027 年 1 月 4 日至 1 月 18日。",
+     "evidence_url": "https://www.bethel.edu.hk/uploads/files/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B/2027-28_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+     "confidence": "high",
+     "event_id": "30-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試（全部申請人；2月下旬電話通知安排）",
+     "academic_year": "2027-28",
+     "source_text": "面試將於 2027 年 3 月 13 日舉行，校方將於 2 月下旬以電 話形式通知學生有關面試安排。",
+     "evidence_url": "https://www.bethel.edu.hk/uploads/files/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B/2027-28_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+     "confidence": "high",
+     "event_id": "30-2027_28-interview-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取生書面及電話通知",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 31 日透過書面及電話通知所有正取生的家長",
+     "evidence_url": "https://www.bethel.edu.hk/uploads/files/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B/2027-28_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+     "confidence": "high",
+     "event_id": "30-2027_28-result-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "取錄結果與中央派位結果一併公布",
+     "academic_year": "2027-28",
+     "source_text": "取錄結果將於 2027 年 7 月 6 日連同中央派位結果公佈。",
+     "evidence_url": "https://www.bethel.edu.hk/uploads/files/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B/2027-28_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5.pdf",
+     "confidence": "high",
+     "event_id": "30-2027_28-result-002",
+     "extracted_at": "2026-11-16"
+    }
+   ]
+  },
+  "69": {
+   "name": "東華三院李潤田紀念中學",
+   "school_type": "資助",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日；30個學位；可經中一派位電子平台）",
+     "academic_year": "2027-28",
+     "source_text": "1. 申請日期 2027年1月4日 (星期一) 至1月18日 (星期一)",
+     "evidence_url": "https://www.lcdmc.edu.hk/zh_tw/site/view?name=%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D",
+     "confidence": "high",
+     "event_id": "69-2027_28-application_open-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "1. 申請日期 2027年1月4日 (星期一) 至1月18日 (星期一)",
+     "evidence_url": "https://www.lcdmc.edu.hk/zh_tw/site/view?name=%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D",
+     "confidence": "high",
+     "event_id": "69-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（全部申請人；中英語面談，不設筆試；收生準則：學業40%、品行20%、其他學習經歷10%、面試30%）",
+     "academic_year": "2027-28",
+     "source_text": "本校會於2027年3月6日 (星期六) 安排面試",
+     "evidence_url": "https://www.lcdmc.edu.hk/zh_tw/site/view?name=%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D",
+     "confidence": "high",
+     "event_id": "69-2027_28-interview-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取學生電話及書面通知",
+     "academic_year": "2027-28",
+     "source_text": "學校將於2027年3月31日(星期三)，以電話及書面通知正取學生家長",
+     "evidence_url": "https://www.lcdmc.edu.hk/zh_tw/site/view?name=%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D",
+     "confidence": "high",
+     "event_id": "69-2027_28-result-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中學學位分配結果發放",
+     "academic_year": "2027-28",
+     "source_text": "中學學位分配結果將於2027年7月6日(星期二)發放。",
+     "evidence_url": "https://www.lcdmc.edu.hk/zh_tw/site/view?name=%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D",
+     "confidence": "high",
+     "event_id": "69-2027_28-result-002",
+     "extracted_at": "2026-11-16"
+    }
+   ]
+  },
+  "95": {
+   "name": "佛教黃鳳翎中學",
+   "school_type": "資助",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日；41個學位；親身或經中一派位電子平台）",
+     "academic_year": "2027-28",
+     "source_text": "申請人須於 2027 年 1 月 4 日至 18 日期間",
+     "evidence_url": "https://www.bwflc.edu.hk/CustomPage/46/Application_Form_%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F_2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "95-2027_28-application_open-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請人須於 2027 年 1 月 4 日至 18 日期間",
+     "evidence_url": "https://www.bwflc.edu.hk/CustomPage/46/Application_Form_%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F_2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "95-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配學位面試（全部申請者；電話或信件通知；學業成績50%，操行、課外活動、服務、獎項及面試共50%）",
+     "academic_year": "2027-28",
+     "source_text": "面試安排於 2027 年 3 月 13 日舉行",
+     "evidence_url": "https://www.bwflc.edu.hk/CustomPage/46/Application_Form_%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F_2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "95-2027_28-interview-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取學生郵寄及電話通知",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 31 日以郵寄及電話通知正取學生家長",
+     "evidence_url": "https://www.bwflc.edu.hk/CustomPage/46/Application_Form_%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F_2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "95-2027_28-result-001",
+     "extracted_at": "2026-11-16"
+    }
+   ]
+  },
+  "101": {
+   "name": "佛教茂峰法師紀念中學",
+   "school_type": "資助",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位遞交申請表（1月4日至18日；30個學位；不處理郵寄或逾時申請）",
+     "academic_year": "2027-28",
+     "source_text": "遞交申請表日期 202 7 年 1 月 4 日 ( 星期一 ) 至 202 7 年 1 月 1 8 日 ( 星期一 )",
+     "evidence_url": "https://www.bmf.edu.hk/page/68/",
+     "confidence": "high",
+     "event_id": "101-2027_28-application_open-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "遞交申請表日期 202 7 年 1 月 4 日 ( 星期一 ) 至 202 7 年 1 月 1 8 日 ( 星期一 )",
+     "evidence_url": "https://www.bmf.edu.hk/page/68/",
+     "confidence": "high",
+     "event_id": "101-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-21",
+     "date_end": null,
+     "label": "中一自行分配學位面試（星期日；全部申請者；1月26日寄出面試通知；收生準則：學業40%、操行及態度20%、面試15%、服務活動及獎項25%）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期： 2027 年 2 月 21 日 (星期日)",
+     "evidence_url": "https://www.bmf.edu.hk/page/68/",
+     "confidence": "high",
+     "event_id": "101-2027_28-interview-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取學生書面及電話通知",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 202 7 年 3 月31日 (三)透過書面及電話通知所有正取學生的家長",
+     "evidence_url": "https://www.bmf.edu.hk/page/68/",
+     "confidence": "high",
+     "event_id": "101-2027_28-result-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "派位結果（自行分配及統一派位）",
+     "academic_year": "2027-28",
+     "source_text": "所有參加派位學生均會於 202 7 年 7 月 6 日( 二 ) 獲通知中學學位分配辦法下的派位結果",
+     "evidence_url": "https://www.bmf.edu.hk/page/68/",
+     "confidence": "high",
+     "event_id": "101-2027_28-result-002",
+     "extracted_at": "2026-11-16"
+    }
+   ]
+  },
+  "198": {
+   "name": "嶺南中學",
+   "school_type": "資助",
+   "events": [
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請（1月4日至18日；40個學位；親身或經中一派位電子平台）",
+     "academic_year": "2027-28",
+     "source_text": "日期：2027 年 1 月 4 日至 1 月 18 日",
+     "evidence_url": "https://www.lingnan.edu.hk/it-school/info/site/uploader/2526/%E5%B6%BA%E5%8D%97%E4%B8%AD%E5%AD%B8_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E5%8F%8A%E9%A0%88%E7%9F%A5_2027-28%E5%AD%B8%E5%B9%B4%E5%85%A5%E5%AD%B8.pdf",
+     "confidence": "high",
+     "event_id": "198-2027_28-application_open-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "日期：2027 年 1 月 4 日至 1 月 18 日",
+     "evidence_url": "https://www.lingnan.edu.hk/it-school/info/site/uploader/2526/%E5%B6%BA%E5%8D%97%E4%B8%AD%E5%AD%B8_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E5%8F%8A%E9%A0%88%E7%9F%A5_2027-28%E5%AD%B8%E5%B9%B4%E5%85%A5%E5%AD%B8.pdf",
+     "confidence": "high",
+     "event_id": "198-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（全部申請者；須英語一分鐘自我介紹；收生準則：學業30%、面試30%、品德操行20%、課外活動10%、獎項10%）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期：2027 年 3 月 6 日（星期六）",
+     "evidence_url": "https://www.lingnan.edu.hk/it-school/info/site/uploader/2526/%E5%B6%BA%E5%8D%97%E4%B8%AD%E5%AD%B8_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E5%8F%8A%E9%A0%88%E7%9F%A5_2027-28%E5%AD%B8%E5%B9%B4%E5%85%A5%E5%AD%B8.pdf",
+     "confidence": "high",
+     "event_id": "198-2027_28-interview-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "正取學生書面及電話通知",
+     "academic_year": "2027-28",
+     "source_text": "本校會於 2027 年 3 月 31 日，以書面及電話通知正取學生家長",
+     "evidence_url": "https://www.lingnan.edu.hk/it-school/info/site/uploader/2526/%E5%B6%BA%E5%8D%97%E4%B8%AD%E5%AD%B8_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E5%8F%8A%E9%A0%88%E7%9F%A5_2027-28%E5%AD%B8%E5%B9%B4%E5%85%A5%E5%AD%B8.pdf",
+     "confidence": "high",
+     "event_id": "198-2027_28-result-001",
+     "extracted_at": "2026-11-16"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "派位結果公布（自行分配及統一派位）",
+     "academic_year": "2027-28",
+     "source_text": "will be released on 6th July 2027.",
+     "evidence_url": "https://www.lingnan.edu.hk/it-school/info/site/uploader/2526/%E5%B6%BA%E5%8D%97%E4%B8%AD%E5%AD%B8_%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B%E5%8F%8A%E9%A0%88%E7%9F%A5_2027-28%E5%AD%B8%E5%B9%B4%E5%85%A5%E5%AD%B8.pdf",
+     "confidence": "high",
+     "event_id": "198-2027_28-result-002",
+     "extracted_at": "2026-11-16"
+    }
+   ]
+  },
+  "74": {
+   "name": "東華三院邱子田紀念中學",
+   "school_type": "資助",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "資訊日 Information Day（2:30-5:00 p.m.；掃碼報名）",
+     "academic_year": "2027-28",
+     "source_text": "11月21日(星期六) 21 November(Saturday) 2:30-5:00 p.m.",
+     "evidence_url": "https://www.ytt.edu.hk/sites/default/files/styles/slide_show/public/slide_show/info_day_2026_web_banner.png",
+     "confidence": "high",
+     "event_id": "74-2027_28-info_day-001",
+     "extracted_at": "2026-11-16"
+    }
+   ]
+  },
+  "182": {
+   "name": "樂善堂梁銶琚書院",
+   "school_type": "資助",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "35周年校慶開放日（09:00-16:00）",
+     "academic_year": "2027-28",
+     "source_text": "35周年校慶 開放日 12.5 六 09:00 16:00",
+     "evidence_url": "https://www.lstlkkc.edu.hk/attachment/news/17937766994pCn4.jpg",
+     "confidence": "high",
+     "event_id": "182-2027_28-info_day-001",
+     "extracted_at": "2026-11-16"
+    }
+   ]
+  },
+  "146": {
+   "name": "迦密聖道中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "中一資訊日暨同樂日2026（11月21日星期六；資訊講座11:30–12:30、小六體驗課10:30/14:00兩節須電子報名（11月13日已截止）；科展、攤位及校園參觀10:00–16:00；如停課改期至11月28日）",
+     "academic_year": "2027-28",
+     "source_text": "日期：2026年11月21日(星期六)；*資訊講座：11:30-12:30；*小六體驗課：上午時段 10:30-11:10 下午時段 14:00-14:40；科展、攤位遊戲及校園參觀：10:00-16:00；截止報名日期：11月13日(星期五)；如教育局宣佈當天停課…將改期於11月28日(星期六)（校網首頁輪播海報）",
+     "evidence_url": "https://www.chw.edu.hk/",
+     "confidence": "high",
+     "extracted_at": "2026-11-16",
+     "event_id": "146-2027_28-info_day-001"
+    }
+   ]
+  },
+  "209": {
+   "name": "馬錦明慈善基金馬陳端喜紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "STEAM x 特色活動體驗日（11月28日星期六，上午10:00–13:15；掃碼電子報名；對象未註明）",
+     "academic_year": "2027-28",
+     "source_text": "STEAM x 特色活動 體驗日 將軍澳運隆路2號 (港鐵寶琳站旁) 2026年11月28日 (星期六) 早上10:00 - 13:15 電子報名表（校網首頁輪播橫幅）",
+     "evidence_url": "https://www.mcdhmc.edu.hk/sites/default/files/slide_show/op-steam_2026_1128_banner_page-0001_wh_1000x1000px.jpg",
+     "confidence": "medium",
+     "extracted_at": "2026-11-16",
+     "event_id": "209-2027_28-info_day-001"
     }
    ]
   }
