@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-16T01:23:05Z",
+ "updated_at": "2026-11-16T01:57:28Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -756,6 +756,26 @@
    "school": "361",
    "url": "https://www.tanghin.edu.hk/",
    "label": "C-096/T-023 紅線 C 孤兒收口補掛：鄧顯紀念中學首頁入 admission——首頁安全網；Mac 港網 curl 200"
+  },
+  {
+   "school": "61",
+   "url": "https://www.twghczm.edu.hk/en/node/632",
+   "label": "C-098/C-099 補掛：陳兆民 2728 中一入學資訊日報名頁入 admission——node/596 已被校方 Access denied 下架；node/632＝12-05 兩場資訊日、11-23 17:00 截止（Mac 港網 curl 200＋逐字）"
+  },
+  {
+   "school": "266",
+   "url": "https://www.stmc.edu.hk/content.php?wid=108",
+   "label": "C-098/C-099 補掛：沙田循道衞理 12-05 講座詳情頁入 admission——首頁 urgent popup 單點發布盲區（同 216/243/104 前例）；Mac 港網 curl 200＋逐字"
+  },
+  {
+   "school": "229",
+   "url": "https://www.ccym.edu.hk/",
+   "label": "C-099 補掛：莊月明首頁入 admission——11-21/22 開放日只掛首頁輪播海報（掃碼報名盲區）；9-22 故障已自愈 https 200；Mac 港網 curl 200"
+  },
+  {
+   "school": "229",
+   "url": "https://www.ccym.edu.hk/tc/content.php?wid=23",
+   "label": "C-099 補掛：莊月明入學頁入 admission——內嵌 2728 章程（30 學額、申請 1-04~1-18、面試 3-06 暫定、正取 3-31）；Mac 港網 curl 200＋PDF sha256 複核一致"
   }
  ],
  "demotes": [
@@ -1141,6 +1161,13 @@
    "link": "https://www.plhks.edu.hk/tc/content.php?wid=335",
    "deadline": "2027-01-18",
    "note": "申請表 10-30 起校網下載、1-04 至 1-18 遞交（40 個學位）；面試 3-13、正取通知 3-31。學校只改入學頁正文、無新連結，手機監控不出動態。雲端 2026-11-14 逐字核對 wid=335；Owner 11-14 拍板寫入。deadline 用遞交截止日"
+  },
+  {
+   "school": "229",
+   "title": "明愛莊月明中學 開放日「集・愛の旅」（11月21日及22日，須掃碼報名；2027-28 自行分配 1月4日至18日遞交）",
+   "link": "https://www.ccym.edu.hk/tc/content.php?wid=23",
+   "deadline": "2026-11-21",
+   "note": "開放日只見於校網首頁輪播海報（圖片）；入學頁 wid=23 內嵌 PDF「招收2027-2028年度中一級新生章程」（30 個學位、1/4–1/18、面試3/6暫定、正取3/31）。雲端 2026-11-16 逐字核對；Owner 11-16 批寫入並推。海報無報名截止日，deadline 用開放日首日"
   }
  ]
 }
