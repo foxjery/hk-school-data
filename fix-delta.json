@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-14T15:42:32Z",
+ "updated_at": "2026-11-16T01:23:05Z",
  "note": "F13 遠端修正增量（3.12）。corrections=存量連結修正(原 LinkCorrection)；backfills=老用戶補掛(原 MonitorURLBackfill)；demotes=URL 替換/退役。updated_at 用 UTC ISO8601，推送紀律見 docs/監控三層自動化設計書.md §3.1。",
  "corrections": [
   {
@@ -736,6 +736,26 @@
    "school": "104",
    "url": "https://www.ykn.edu.hk/",
    "label": "C-084 葵青盲區批補掛：首頁入 admission——開放日 11-21 只掛首頁 banner 圖（10-16 上傳 OCR 取日期），港網 curl 200＋星期自洽"
+  },
+  {
+   "school": "109",
+   "url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
+   "label": "C-096/T-023 紅線 C 孤兒收口補掛：港大同學會書院資訊日總頁入 admission——seminars 舊頁 deprecated 後的現行頁；Mac 港網 curl 200＋26-27 四個日期原文命中"
+  },
+  {
+   "school": "129",
+   "url": "https://www.wkc.edu.hk/page/926/?mid=9&m=5524878076470&s=5522965210295",
+   "label": "C-096/T-023 紅線 C 孤兒收口補掛：惠僑英文中學中一自行分配學位申請表及備忘頁入 admission；Mac 港網 curl 200＋本屆中一內容核過"
+  },
+  {
+   "school": "135",
+   "url": "https://www.holmglad.edu.hk/Content/08_others/01_what_is_new/index.aspx?ct=latestNews&styleId=1&newsType=eventHighlights",
+   "label": "C-096/T-023 紅線 C 孤兒收口補掛：堅樂中學最新消息 eventHighlights 列表頁入 admission；Mac 港網 curl 200"
+  },
+  {
+   "school": "361",
+   "url": "https://www.tanghin.edu.hk/",
+   "label": "C-096/T-023 紅線 C 孤兒收口補掛：鄧顯紀念中學首頁入 admission——首頁安全網；Mac 港網 curl 200"
   }
  ],
  "demotes": [
