@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-15T02:14:38Z",
+ "updated_at": "2026-11-16T01:14:03Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -6599,7 +6599,7 @@
      "label": "Registration for Admission Seminars begins",
      "academic_year": "2027-28",
      "source_text": "Registration is required and will begin on **2nd November 2026**. Allocation of tickets will be made through computer randomisation. The closing for registration is **4 p.m. 16th November 2026**.",
-     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
+     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
      "confidence": "high",
      "event_id": "109-2027_28-application_open-001",
      "extracted_at": "2026-10-25T11:36:11"
@@ -6611,7 +6611,7 @@
      "label": "Registration for Admission Seminars closes",
      "academic_year": "2027-28",
      "source_text": "Registration is required and will begin on **2nd November 2026**. Allocation of tickets will be made through computer randomisation. The closing for registration is **4 p.m. 16th November 2026**.",
-     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
+     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
      "confidence": "high",
      "event_id": "109-2027_28-application_deadline-001",
      "extracted_at": "2026-10-25T11:36:11"
@@ -6623,7 +6623,7 @@
      "label": "Confirmation email for seminar registration sent",
      "academic_year": "2027-28",
      "source_text": "A confirmation email indicating successful registrations will be sent on **23rd November 2026** via email.",
-     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
+     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
      "confidence": "high",
      "event_id": "109-2027_28-result-001",
      "extracted_at": "2026-10-25T11:36:11"
@@ -6635,7 +6635,7 @@
      "label": "Admission Info Day",
      "academic_year": "2027-28",
      "source_text": "###### 2027-2028 S1 Admission Info Day\nDate: 5th December 2026 (Sat)\nTime: 8:30 a.m. – 12:30 p.m.\nVenue: HKUGA College, 9 Nam Fung Road, Wong Chuk Hang",
-     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-seminars",
+     "evidence_url": "https://www.hkugac.edu.hk/engage/as-a-student/admission-info-day",
      "confidence": "high",
      "event_id": "109-2027_28-info_day-001",
      "extracted_at": "2026-10-25T11:36:11"
@@ -11364,7 +11364,7 @@
      "label": "中一學位 (2027 年 9 月入學) 正式接受申請",
      "academic_year": "2027-28",
      "source_text": "12/10/2026 (一) (9:00 a.m.) | 中一學位 (2027 年 9 月入學) 正式接受申請 |",
-     "evidence_url": "https://www.fms.edu.hk/p/37584",
+     "evidence_url": "https://www.fms.edu.hk/sites/default/files/4ca1f705-ef64-496c-8c64-56cd313ac3e2.pdf",
      "confidence": "high",
      "event_id": "106-2027_28-application_open-001",
      "extracted_at": "2026-10-25T11:35:32"
@@ -11376,7 +11376,7 @@
      "label": "開放日暨中一入學簡介會",
      "academic_year": "2027-28",
      "source_text": "14/11/2026 (六) | 開放日暨中一入學簡介會 開放日：9:30 a.m. - 5:30 p.m. 中一入學簡介會：2:00 p.m. - 3:30 p.m.* *活動需事前報名 |",
-     "evidence_url": "https://www.fms.edu.hk/p/37584",
+     "evidence_url": "https://www.fms.edu.hk/sites/default/files/4ca1f705-ef64-496c-8c64-56cd313ac3e2.pdf",
      "confidence": "high",
      "event_id": "106-2027_28-info_day-001",
      "extracted_at": "2026-10-25T11:35:32"
@@ -11388,7 +11388,7 @@
      "label": "截止報名",
      "academic_year": "2027-28",
      "source_text": "22/11/2026 (日) (11:59 p.m.) | 截止報名 |",
-     "evidence_url": "https://www.fms.edu.hk/p/37584",
+     "evidence_url": "https://www.fms.edu.hk/sites/default/files/4ca1f705-ef64-496c-8c64-56cd313ac3e2.pdf",
      "confidence": "high",
      "event_id": "106-2027_28-application_deadline-001",
      "extracted_at": "2026-10-25T11:35:32"
@@ -11400,7 +11400,7 @@
      "label": "第一輪入學面試",
      "academic_year": "2027-28",
      "source_text": "28/11/2026 (六) | 第一輪入學面試 |",
-     "evidence_url": "https://www.fms.edu.hk/p/37584",
+     "evidence_url": "https://www.fms.edu.hk/sites/default/files/4ca1f705-ef64-496c-8c64-56cd313ac3e2.pdf",
      "confidence": "high",
      "event_id": "106-2027_28-interview-001",
      "extracted_at": "2026-10-25T11:35:32"
@@ -11412,7 +11412,7 @@
      "label": "公佈入選 「第二輪入學面試」名單",
      "academic_year": "2027-28",
      "source_text": "4/12/2026 (五) (6:00 p.m.) | 公佈入選 「第二輪入學面試」名單 | 公佈入選 「第二輪入學申請評估」名單 |",
-     "evidence_url": "https://www.fms.edu.hk/p/37584",
+     "evidence_url": "https://www.fms.edu.hk/sites/default/files/4ca1f705-ef64-496c-8c64-56cd313ac3e2.pdf",
      "confidence": "high",
      "event_id": "106-2027_28-result-001",
      "extracted_at": "2026-10-25T11:35:32"
@@ -11424,7 +11424,7 @@
      "label": "第二輪入學面試",
      "academic_year": "2027-28",
      "source_text": "12/12/2026 (六) | 第二輪入學面試 |",
-     "evidence_url": "https://www.fms.edu.hk/p/37584",
+     "evidence_url": "https://www.fms.edu.hk/sites/default/files/4ca1f705-ef64-496c-8c64-56cd313ac3e2.pdf",
      "confidence": "high",
      "event_id": "106-2027_28-interview-002",
      "extracted_at": "2026-10-25T11:35:32"
@@ -11436,7 +11436,7 @@
      "label": "公佈入學申請結果",
      "academic_year": "2027-28",
      "source_text": "21/12/2026 (一) | 公佈入學申請結果 |",
-     "evidence_url": "https://www.fms.edu.hk/p/37584",
+     "evidence_url": "https://www.fms.edu.hk/sites/default/files/4ca1f705-ef64-496c-8c64-56cd313ac3e2.pdf",
      "confidence": "high",
      "event_id": "106-2027_28-result-002",
      "extracted_at": "2026-10-25T11:35:32"
@@ -20437,7 +20437,7 @@
      "label": "中一自行分配學位申請開始",
      "academic_year": "2026-27",
      "source_text": "遞交申請及相關文件日期：2026 年 1 月 2 日（星期五）至 2026 年 1 月 16 日（星期五）（包括首尾兩日）",
-     "evidence_url": "https://www.pentecostalschool.edu.hk/void(0);",
+     "evidence_url": "https://www.pentecostalschool.edu.hk/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
      "confidence": "verified",
      "event_id": "354-2026_27-application_open-001",
      "extracted_at": "2026-10-25T21:12:35"
@@ -20449,7 +20449,7 @@
      "label": "中一自行分配學位申請截止",
      "academic_year": "2026-27",
      "source_text": "遞交申請及相關文件日期：2026 年 1 月 2 日（星期五）至 2026 年 1 月 16 日（星期五）（包括首尾兩日）",
-     "evidence_url": "https://www.pentecostalschool.edu.hk/void(0);",
+     "evidence_url": "https://www.pentecostalschool.edu.hk/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
      "confidence": "single_source",
      "event_id": "354-2026_27-application_deadline-001",
      "extracted_at": "2026-10-25T21:12:35"
@@ -20461,7 +20461,7 @@
      "label": "筆試（中、英、數）",
      "academic_year": "2026-27",
      "source_text": "初步入選者將於2026年6月上旬獲通知參加筆試，筆試內容涵蓋中、英、數三科，並暫定於2026年6月20日(星期六)上午舉行，未能出席者當棄權論處理。",
-     "evidence_url": "https://www.pentecostalschool.edu.hk/void(0);",
+     "evidence_url": "https://www.pentecostalschool.edu.hk/%E5%85%A5%E5%AD%B8%E7%94%B3%E8%AB%8B",
      "confidence": "single_source",
      "event_id": "354-2026_27-interview-001",
      "extracted_at": "2026-10-25T21:12:35"
