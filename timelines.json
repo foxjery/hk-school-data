@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-16T09:11:24Z",
+ "updated_at": "2026-11-17T06:32:22Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -3515,9 +3515,9 @@
      "type": "info_day",
      "date": "2026-11-28",
      "date_end": null,
-     "label": "Information Day for Admission to Secondary One",
+     "label": "中一入學資訊日（兩場：10:00–12:00／14:00–16:00，內容相同；入學講座已無位，只剩校園參觀名額 10:15–12:00／14:15–16:00；每家庭限登記一次，不設即場入場；須網上報名）",
      "academic_year": "2027-28",
-     "source_text": "海報圖片（RapidOCR＋目視核對）：28 November 2026 (Saturday)；星期與日期自洽",
+     "source_text": "海報圖片（RapidOCR＋目視核對）：28 November 2026 (Saturday)；星期與日期自洽。2026-11-17 港網複核（Tools/runs/2026-11-17/c111_264_pyc/）：校網首頁彈窗海報（www2.pyc.edu.hk/news/pop_signup_e.jpg，#popup-content）連到報名表 mail.pyc.edu.hk/pycnet/registration/p6/form.php?lang=eng；海報原文「第一場：上午10時至中午12時；第二場：下午2時至下午4時；*兩場內容相同」；報名表頁原文「Each family can register ONCE only.」「Walk-in visitors will not be admitted.」，場次僅開「Sign-up for Campus Tour only」10:15 a.m.–12:00 n.n.／2:15–4:00 p.m.（講座已滿、只剩校園參觀佐證）",
      "evidence_url": "https://www2.pyc.edu.hk/news/pop_signup_e.jpg",
      "confidence": "high",
      "event_id": "264-2027_28-info_day-001",
