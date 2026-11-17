@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-17T12:03:29Z",
+ "updated_at": "2026-11-17T13:00:55Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -2830,6 +2830,54 @@
      "confidence": "verified",
      "event_id": "232-2026_27-result-002",
      "extracted_at": "2026-10-25T20:54:52"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "中一入學資訊日（27-28年度）：入學簡介會第一場 14:00–15:00、第二場 15:30–16:30；校園參觀 15:00–17:30；須於校網報名",
+     "academic_year": "2027-28",
+     "source_text": "中一入學資訊日(27-28年度) 2026年12月5日(星期六) 中一入學簡介會(為家長而設) 第一場: 2:00 p.m. – 3:00 p.m. 第二場: 3:30 p.m. – 4:30 p.m. 校園參觀 3:00 p.m. – 5:30 p.m. 11/13(星期五)上午9時開始於校網報名參加",
+     "evidence_url": "http://www.ilc.edu.hk/Activities/infoDay.pdf",
+     "confidence": "high",
+     "event_id": "232-2027_28-info_day-001",
+     "extracted_at": "2026-11-17T22:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-12-02",
+     "date_end": null,
+     "label": "索取／下載中一自行分配學位申請表開始",
+     "academic_year": "2027-28",
+     "source_text": "於2026年12月2日至2027年1月18日於本校網頁下載(www.ilc.edu.hk)或於2026年12月8日至2027年1月18日到本校校務處索取；亦於2026年12月5日資訊講座派發",
+     "evidence_url": "http://www.ilc.edu.hk/Activities/infoDay.pdf",
+     "confidence": "high",
+     "event_id": "232-2027_28-application_open-001",
+     "extracted_at": "2026-11-17T22:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始（本校名額 40 個）",
+     "academic_year": "2027-28",
+     "source_text": "本校名額：40個 申請日期：2027年1月4日至2027年1月18日",
+     "evidence_url": "http://www.ilc.edu.hk/Activities/infoDay.pdf",
+     "confidence": "high",
+     "event_id": "232-2027_28-application_open-002",
+     "extracted_at": "2026-11-17T22:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：2027年1月4日至2027年1月18日",
+     "evidence_url": "http://www.ilc.edu.hk/Activities/infoDay.pdf",
+     "confidence": "high",
+     "event_id": "232-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-17T22:00:00"
     }
    ],
    "self_healing_active": false
@@ -9826,6 +9874,18 @@
      "confidence": "verified",
      "event_id": "315-2026_27-application_open-001",
      "extracted_at": "2026-08-28T09:52:02"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "中一入學資訊日 14:00–17:00（13:00 入場；講座後校園參觀）",
+     "academic_year": "2027-28",
+     "source_text": "聖言中學中一資訊日 日期： 5/12/2026 (六) 時間： 14:00 - 17:00 [13:00 開始入場] 地點： 學校禮堂；講座結束後將設有校園參觀環節。（校網入學申請頁連出之 sites.singyin.edu.hk/f1-info-day 報名表，雲端逐字核對）",
+     "evidence_url": "https://sites.singyin.edu.hk/f1-info-day",
+     "confidence": "high",
+     "event_id": "315-2027_28-info_day-001",
+     "extracted_at": "2026-11-17T21:00:00"
     }
    ],
    "self_healing_active": false
@@ -10495,6 +10555,30 @@
      "confidence": "high",
      "event_id": "14-2027_28-interview-001",
      "extracted_at": "2026-11-17T20:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-27",
+     "date_end": null,
+     "label": "第二次中一入學面試（備用日 2027-02-28）",
+     "academic_year": "2027-28",
+     "source_text": "Selected applicants will be invited to attend the 2nd admission interview which will be held on 27 February 2027（2nd admission interview fallback date: 28 February 2027）（Mac M-098 渲染逐字）",
+     "evidence_url": "https://www.plklfc.edu.hk/en/application-form-1-admission-academic-year-202728",
+     "confidence": "high",
+     "event_id": "14-2027_28-interview-002",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-07",
+     "date_end": null,
+     "label": "家長面試（備用日 2027-03-14）",
+     "academic_year": "2027-28",
+     "source_text": "the school will invite parents of selected applicants to attend a parent interview, which will be held on 7 March 2027（Parent interview fallback date: 14 March 2027）（Mac M-098 渲染逐字）",
+     "evidence_url": "https://www.plklfc.edu.hk/en/application-form-1-admission-academic-year-202728",
+     "confidence": "high",
+     "event_id": "14-2027_28-interview-003",
+     "extracted_at": "2026-11-17T21:00:00"
     }
    ],
    "self_healing_active": false
@@ -18981,6 +19065,18 @@
      "confidence": "single_source",
      "event_id": "173-2026_27-application_deadline-001",
      "extracted_at": "2026-07-18T20:33:26"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "小六升中一資訊日 09:00–13:00（入學講座 10:00–11:00）",
+     "academic_year": "2027-28",
+     "source_text": "本校將於2026年12月5日(星期六)舉辦學校資訊日；校園參觀及學習體驗活動 上午09:00至下午01:00；中一入學講座 上午 10:00 至 上午 11:00（校網 2026-11-05 發佈，雲端逐字核對）",
+     "evidence_url": "https://www.ctshkpcc.edu.hk/tc/latest_new/2026-%E5%B0%8F%E5%85%AD%E5%8D%87%E4%B8%AD%E4%B8%80%E8%B3%87%E8%A8%8A%E6%97%A5-%E7%8F%BE%E5%9C%A8%E6%8E%A5%E5%8F%97%E5%A0%B1%E5%90%8D",
+     "confidence": "high",
+     "event_id": "173-2027_28-info_day-001",
+     "extracted_at": "2026-11-17T21:00:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -20830,6 +20926,54 @@
      "confidence": "verified",
      "event_id": "355-2026_27-result-001",
      "extracted_at": "2026-07-18T20:33:26"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "遞交申請表格日期：二零二七年一月四日至一月十八日（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.szetoho.edu.hk/zh_tw/news/view?id=73",
+     "confidence": "high",
+     "event_id": "355-2027_28-application_open-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "遞交申請表格日期：二零二七年一月四日至一月十八日（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.szetoho.edu.hk/zh_tw/news/view?id=73",
+     "confidence": "high",
+     "event_id": "355-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配面試（全員）",
+     "academic_year": "2027-28",
+     "source_text": "第二階段 二零二七年三月六日（星期六）面試（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.szetoho.edu.hk/zh_tw/news/view?id=73",
+     "confidence": "high",
+     "event_id": "355-2027_28-interview-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "自行分配正取結果通知",
+     "academic_year": "2027-28",
+     "source_text": "本校會於二零二七年三月三十一日透過書面及電話向家長通知「自行分配學位」正取結果（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.szetoho.edu.hk/zh_tw/news/view?id=73",
+     "confidence": "high",
+     "event_id": "355-2027_28-result-001",
+     "extracted_at": "2026-11-17T21:00:00"
     }
    ],
    "banding_tier": "Band 3"
@@ -22088,6 +22232,54 @@
      "confidence": "verified",
      "event_id": "168-2026_27-info_day-001",
      "extracted_at": "2026-10-25T20:42:13"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "交表日期： 2027 年 1 月 4 日至 2027 年 1 月 18 日（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.kyc.edu.hk/en/news_detail.php?id=181",
+     "confidence": "high",
+     "event_id": "168-2027_28-application_open-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "交表日期： 2027 年 1 月 4 日至 2027 年 1 月 18 日（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.kyc.edu.hk/en/news_detail.php?id=181",
+     "confidence": "high",
+     "event_id": "168-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配面試（全員）",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 6 日(六)進行中一自行分配學位申請人面試，所有申請學生均獲面試機會（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.kyc.edu.hk/en/news_detail.php?id=181",
+     "confidence": "high",
+     "event_id": "168-2027_28-interview-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "自行分配正取結果通知",
+     "academic_year": "2027-28",
+     "source_text": "本校將於 2027 年 3 月 31 日透過書面及電話通知自行分配學位中所有正取學生（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.kyc.edu.hk/en/news_detail.php?id=181",
+     "confidence": "high",
+     "event_id": "168-2027_28-result-001",
+     "extracted_at": "2026-11-17T21:00:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -22442,6 +22634,54 @@
      "confidence": "verified",
      "event_id": "256-2026_27-application_deadline-001",
      "extracted_at": "2026-07-25T19:34:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：2027年1月4日至1月18日（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ychwwsss.edu.hk/attachment/upload/files/documents/application-form/Application-for-S1-Places-2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "256-2027_28-application_open-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "申請日期：2027年1月4日至1月18日（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ychwwsss.edu.hk/attachment/upload/files/documents/application-form/Application-for-S1-Places-2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "256-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配面試（全員）",
+     "academic_year": "2027-28",
+     "source_text": "所有申請者及其家長將被邀請參加面試，日期為2027年3月13日（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ychwwsss.edu.hk/attachment/upload/files/documents/application-form/Application-for-S1-Places-2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "256-2027_28-interview-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "自行分配正取結果通知",
+     "academic_year": "2027-28",
+     "source_text": "學校於2027年3月31日會透過書面及電話通知所有正取學生的家長（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ychwwsss.edu.hk/attachment/upload/files/documents/application-form/Application-for-S1-Places-2027-2028.pdf",
+     "confidence": "high",
+     "event_id": "256-2027_28-result-001",
+     "extracted_at": "2026-11-17T21:00:00"
     }
    ],
    "banding_tier": "Band 2"
@@ -26891,6 +27131,66 @@
      "confidence": "high",
      "event_id": "340-2026_27-interview-010",
      "extracted_at": "2026-09-11T15:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2026-12-02",
+     "date_end": null,
+     "label": "索取申請表格開始",
+     "academic_year": "2027-28",
+     "source_text": "索取日期：2026 年 12 月 2 日（星期三）至 2027 年 1 月 18 日（星期一）（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://puishing.edu.hk/2027-2028-%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F",
+     "confidence": "high",
+     "event_id": "340-2027_28-application_open-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "遞交日期：2027 年 1 月 4 日（星期一）至 2027 年 1 月 18 日（星期一）（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://puishing.edu.hk/2027-2028-%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F",
+     "confidence": "high",
+     "event_id": "340-2027_28-application_open-002",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "遞交日期：2027 年 1 月 4 日（星期一）至 2027 年 1 月 18 日（星期一）（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://puishing.edu.hk/2027-2028-%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F",
+     "confidence": "high",
+     "event_id": "340-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-01-23",
+     "date_end": null,
+     "label": "中一自行分配面試（全員）",
+     "academic_year": "2027-28",
+     "source_text": "面試日期為 2027 年 1 月 23 日（星期六）；如停課將順延至 2027 年 1 月 30 日（星期六）（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://puishing.edu.hk/2027-2028-%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F",
+     "confidence": "high",
+     "event_id": "340-2027_28-interview-001",
+     "extracted_at": "2026-11-17T21:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "自行分配正取結果通知",
+     "academic_year": "2027-28",
+     "source_text": "正取收錄生將於 2027 年 3 月 31 日（星期三）收到學校書面及電話通知（Mac R-003 港網取得，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://puishing.edu.hk/2027-2028-%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E6%94%B6%E7%94%9F",
+     "confidence": "high",
+     "event_id": "340-2027_28-result-001",
+     "extracted_at": "2026-11-17T21:00:00"
     }
    ],
    "self_healing_active": false
