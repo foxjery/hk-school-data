@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-17T06:32:22Z",
+ "updated_at": "2026-11-17T12:03:29Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -296,6 +296,54 @@
      "confidence": "medium",
      "event_id": "21-2027_28-info_day-001",
      "extracted_at": "2026-09-08T18:30:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "報名日期：2027 年 1 月 4 日至 2027 年 1 月 18 日；自行分配學額共 40 名（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ppaulvi.edu.hk/en/s1-admission",
+     "confidence": "high",
+     "event_id": "21-2027_28-application_open-001",
+     "extracted_at": "2026-11-17T20:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "報名日期：2027 年 1 月 4 日至 2027 年 1 月 18 日（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ppaulvi.edu.hk/en/s1-admission",
+     "confidence": "high",
+     "event_id": "21-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-17T20:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配面試（全員）",
+     "academic_year": "2027-28",
+     "source_text": "所有申請人將獲安排於 2027 年 3 月 13 日（星期六）面試，面試通知書將於 2027 年 2 月下旬寄予申請人（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ppaulvi.edu.hk/en/s1-admission",
+     "confidence": "high",
+     "event_id": "21-2027_28-interview-001",
+     "extracted_at": "2026-11-17T20:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "自行分配正取結果通知",
+     "academic_year": "2027-28",
+     "source_text": "獲取錄成為正取學生者將於 2027 年 3 月 31 日收到電話通知及本校郵寄的取錄結果通知（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.ppaulvi.edu.hk/en/s1-admission",
+     "confidence": "high",
+     "event_id": "21-2027_28-result-001",
+     "extracted_at": "2026-11-17T20:00:00"
     }
    ],
    "data_gap_reason": "image_only_no_text_content",
@@ -2814,6 +2862,54 @@
      "confidence": "high",
      "event_id": "234-2027_28-info_day-002",
      "extracted_at": "2026-10-26T10:00:00"
+    },
+    {
+     "type": "application_open",
+     "date": "2027-01-04",
+     "date_end": null,
+     "label": "中一自行分配學位申請開始",
+     "academic_year": "2027-28",
+     "source_text": "本校 40 個中一自行分配學位將於 2027 年 1 月 4 日至 1 月 18 日接受申請（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.npc.edu.hk/tc/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "234-2027_28-application_open-001",
+     "extracted_at": "2026-11-17T20:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-18",
+     "date_end": null,
+     "label": "中一自行分配學位申請截止",
+     "academic_year": "2027-28",
+     "source_text": "本校 40 個中一自行分配學位將於 2027 年 1 月 4 日至 1 月 18 日接受申請（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.npc.edu.hk/tc/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "234-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-17T20:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一自行分配面試（全員）",
+     "academic_year": "2027-28",
+     "source_text": "本校將面試全部申請人…面試將於 2027 年 3 月 13 日舉行（3 月初發信通知）（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.npc.edu.hk/tc/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "234-2027_28-interview-001",
+     "extracted_at": "2026-11-17T20:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "自行分配正取結果通知",
+     "academic_year": "2027-28",
+     "source_text": "申請自行分配學位的結果，將於 2027 年 3 月 31 日當天透過電郵及電話通知正取學生（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.npc.edu.hk/tc/%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "234-2027_28-result-001",
+     "extracted_at": "2026-11-17T20:00:00"
     }
    ],
    "data_gap_reason": "no_public_admission_info",
@@ -10387,6 +10483,18 @@
      "confidence": "high",
      "event_id": "14-2027_28-application_deadline-001",
      "extracted_at": "2026-10-26T13:00:00"
+    },
+    {
+     "type": "interview",
+     "date": "2027-01-09",
+     "date_end": "2027-01-10",
+     "label": "第一輪中一入學面試",
+     "academic_year": "2027-28",
+     "source_text": "Mac M-097 港網核對校網頁：一輪面試 2027-01-09/10（六、日）；二輪 02-27、家長面試 03-07，待雲端另行取得原文（Mac M-097 港網取得之 PDF，雲端逐字核對；星期自洽）",
+     "evidence_url": "https://www.plklfc.edu.hk/en/application-form-1-admission-academic-year-202728",
+     "confidence": "high",
+     "event_id": "14-2027_28-interview-001",
+     "extracted_at": "2026-11-17T20:00:00"
     }
    ],
    "self_healing_active": false
