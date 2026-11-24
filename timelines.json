@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-24T13:44:21Z",
+ "updated_at": "2026-11-24T14:03:27Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -29830,6 +29830,42 @@
      "confidence": "verified",
      "event_id": "20-2026_27-result-002",
      "extracted_at": "2026-10-29T12:30:00"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": "2026-11-29",
+     "label": "學校資訊日暨中小學聯校藝術展（10:00–17:00；校長升學講座須掃碼報名）",
+     "academic_year": "2027-28",
+     "source_text": "最新消息（校網文字，2026-11-23）：活動一｜保良局朱敬文中學學校資訊日暨中小學聯校藝術展 日期：2026年11月28日（星期六）及11月29日（星期日） 時間：上午10:00至下午5:00 地點：保良局朱敬文中學（新界沙田大圍田心街1號）。參加「校長升學講座」，請掃描海報上的二維碼報名。報名連結：https://forms.gle/LJyDT38SkpYbRBwb7 查詢：2699 1031",
+     "evidence_url": "https://www.plkcwc.edu.hk/it-school/php/webcms/public/mainpage/component/popup_news.php?type=&id=1273&lang=zh",
+     "confidence": "high",
+     "event_id": "20-2027_28-info_day-001",
+     "extracted_at": "2026-11-24T14:03:27Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-08",
+     "date_end": null,
+     "label": "校長見面會（第一場 11:00–13:00；小五、小六家長；須報名）",
+     "academic_year": "2027-28",
+     "source_text": "最新消息（校網文字，2026-11-23）：活動二｜校長見面會 日期：2026年12月8日、12月15日（星期二） 時間：上午11:00至下午1:00 內容：學校簡介、與趙文浩校長對話及校園參觀 對象：小五、小六家長。報名連結：https://forms.gle/ZRJbKSFXdJt6z1oi8 查詢：2699 1031（本條為 12 月 8 日場）",
+     "evidence_url": "https://www.plkcwc.edu.hk/it-school/php/webcms/public/mainpage/component/popup_news.php?type=&id=1273&lang=zh",
+     "confidence": "high",
+     "event_id": "20-2027_28-info_day-002",
+     "extracted_at": "2026-11-24T14:03:27Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-15",
+     "date_end": null,
+     "label": "校長見面會（第二場 11:00–13:00；小五、小六家長；須報名）",
+     "academic_year": "2027-28",
+     "source_text": "最新消息（校網文字，2026-11-23）：活動二｜校長見面會 日期：2026年12月8日、12月15日（星期二） 時間：上午11:00至下午1:00 內容：學校簡介、與趙文浩校長對話及校園參觀 對象：小五、小六家長。報名連結：https://forms.gle/ZRJbKSFXdJt6z1oi8 查詢：2699 1031（本條為 12 月 15 日場）",
+     "evidence_url": "https://www.plkcwc.edu.hk/it-school/php/webcms/public/mainpage/component/popup_news.php?type=&id=1273&lang=zh",
+     "confidence": "high",
+     "event_id": "20-2027_28-info_day-003",
+     "extracted_at": "2026-11-24T14:03:27Z"
     }
    ]
   },
@@ -32988,6 +33024,38 @@
      "extracted_at": "2026-11-24T12:47:44Z"
     }
    ]
+  },
+  "90": {
+   "name": "佛教大光慈航中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "最新消息 AJAX modal 內文字（Mac 2026-11-24 真瀏覽器讀出，發布日期 2026-11-19）：2027/2028年度「中一自行分配學位」申請事宜（本地生及跨境生均適用） 收表日期及時間 申請日期：2027年1月4日（星期一）至 2027年1月18日（星期一）；辦公時間：星期一至五 8:30–17:00、星期六 9:00–12:30；可親身遞交或經「中一派位電子平台」遞交",
+     "evidence_url": "https://www.btkchc.edu.hk/",
+     "confidence": "high",
+     "event_id": "90-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-24T14:03:27Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "校園資訊日（09:00–13:00；掃碼報名）",
+     "academic_year": "2027-28",
+     "source_text": "最新消息 AJAX modal 內文字（Mac 2026-11-24 真瀏覽器讀出，發布日期 2026-11-19）：「校園資訊日 2026」現正接受報名 日期：2026年12月12日（星期六） 時間：上午 9:00 至 下午 1:00 地點：新界大埔翠怡街4號（佛教大光慈航中學）；活動：釋慈祥校長紀念盃 STEAM 比賽、親子烹飪、升中英文面試班、3x3 籃球比賽、校園導賞、多元校園攤位；須掃描海報二維碼報名，名額有限",
+     "evidence_url": "https://www.btkchc.edu.hk/",
+     "confidence": "high",
+     "event_id": "90-2027_28-info_day-001",
+     "extracted_at": "2026-11-24T14:03:27Z"
+    }
+   ],
+   "self_healing_active": false
   }
  }
 }
