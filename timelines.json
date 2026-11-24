@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-24T14:26:01Z",
+ "updated_at": "2026-11-24T15:49:38Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -33106,6 +33106,18 @@
      "confidence": "high",
      "event_id": "364-2027_28-application_deadline-001",
      "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一自行分配學位及統一派位結果公佈",
+     "academic_year": "2027-28",
+     "source_text": "校網申請指引 PDF（Application_Guidelines_2027-2028.pdf）原文：「七. 面試後取錄與否，將按教育局規定，於二零二七年七月六日中學學位分配放榜時公佈。」（C-23 校網文字已批）",
+     "evidence_url": "https://www.hktayy3.edu.hk/CustomPage/97/S1Reg.html",
+     "confidence": "high",
+     "event_id": "364-2027_28-result-001",
+     "extracted_at": "2026-11-24T15:49:38Z"
     }
    ]
   },
@@ -33252,6 +33264,62 @@
      "extracted_at": "2026-11-24T14:26:01Z"
     }
    ]
+  },
+  "402": {
+   "name": "新界喇沙中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "開放日（09:45–12:15；中一 AI 輔助學習模式講座及親身體驗、校園遊覽、各科組攤位；校巴 9:30／10:00 由上水港鐵站開出，須 QR 登記）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁輪播海報，Mac 2026-11-24 港網下載並目視核對，Owner 11-24 指出並批准：「開放日 12月12日（六）9:45am–12:15pm」；活動：中一 AI 輔助學習模式講座及親身體驗＋校園遊覽＋各科組攤位活動；參觀人士可乘搭本校校巴：上水港鐵站（彩蒲苑彩碧閣巴士站）9:30am／10:00am 開出，本校返上水港鐵站 12:05pm／12:25pm；須掃描校巴登記 QR Code",
+     "evidence_url": "https://www.delasalle.edu.hk/",
+     "confidence": "high",
+     "event_id": "402-2027_28-info_day-001",
+     "extracted_at": "2026-11-24T15:49:38Z"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "校網 wid=13 內嵌通知圖（page-0001／page-0002），Mac 2026-11-24 港網下載並目視核對，Owner 11-24 指出並批准：A. Application period 4th January 2027 (Monday) to 18th January 2027 (Monday)；可親身遞交或經 SSPA 電子平台；校務處辦公時間 一至五 9:00–17:00、六 9:00–13:00；E. Number of Discretionary places 31（to be confirmed by EDB）；D. 評分比重：面試表現 40%／學術評估 30%／課外活動 30%",
+     "evidence_url": "https://www.delasalle.edu.hk/tc/content.php?wid=13",
+     "confidence": "high",
+     "event_id": "402-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-24T15:49:38Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-27",
+     "date_end": null,
+     "label": "中一面試（09:00–17:00；全部申請人）",
+     "academic_year": "2027-28",
+     "source_text": "校網 wid=13 內嵌通知圖（page-0001／page-0002），Mac 2026-11-24 港網下載並目視核對，Owner 11-24 指出並批准：C. Interviews：Date and Time of Interviews: 27th February 2027 (Saturday), 9:00a.m. to 5:00p.m.；Notice of Interviews: Applicants will be notified by post and by phone of the time of the interviews before 12th February 2027 (Friday)；All applicants will be invited to attend an interview.",
+     "evidence_url": "https://www.delasalle.edu.hk/tc/content.php?wid=13",
+     "confidence": "high",
+     "event_id": "402-2027_28-interview-001",
+     "extracted_at": "2026-11-24T15:49:38Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位取錄通知（正取學生；電話及郵寄／電郵）",
+     "academic_year": "2027-28",
+     "source_text": "校網 wid=13 內嵌通知圖（page-0001／page-0002），Mac 2026-11-24 港網下載並目視核對，Owner 11-24 指出並批准：F. 5) Parents of successful applicants will be notified of their children's inclusion in the Successful Lists for Discretionary Places through telephone and mail/an email on 31st March 2027 (Wednesday).",
+     "evidence_url": "https://www.delasalle.edu.hk/tc/content.php?wid=13",
+     "confidence": "high",
+     "event_id": "402-2027_28-result-001",
+     "extracted_at": "2026-11-24T15:49:38Z"
+    }
+   ],
+   "self_healing_active": false
   }
  }
 }
