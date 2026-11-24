@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-18T08:10:03Z",
+ "updated_at": "2026-11-24T11:14:03Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -15859,12 +15859,12 @@
      "date": "2026-12-31",
      "date_end": null,
      "label": "中一入學錄取結果公佈",
-     "academic_year": "2026-27",
-     "source_text": "| [Apply Now](https://admission.logos.edu.hk/#/parent/) | 2728 P1 (FS1) new students | 1 Sep 2027 | 10:00 a.m.<br>4 May 2026 to  <br>9:00 a.m.<br>30 Jun 2026 | 1st Interview: Early Oct 2026<br>2nd Interview <br>(If shortlisted): <br>Mid to late Nov 2026 | Late Dec 2026 |",
-     "evidence_url": "https://www.logos.edu.hk/en/admission_information",
-     "confidence": "verified",
-     "event_id": "371-2026_27-result-001",
-     "extracted_at": "2026-05-08T10:04:13"
+     "academic_year": "2027-28",
+     "source_text": "2728 S1 (DS4) new students | 1 Sep 2027 | 9:00 a.m. 13 Oct 2026 to 9:00 a.m. 12 Nov 2026 | Interview (If shortlisted): 21 or 28 Nov 2026 | Late Dec 2026",
+     "evidence_url": "https://www.logosacademy.edu.hk/en/admission_information",
+     "confidence": "high",
+     "event_id": "371-2027_28-result-001",
+     "extracted_at": "2026-11-24T11:14:03Z"
     }
    ],
    "self_healing_active": false
