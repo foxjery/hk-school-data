@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-24T14:15:47Z",
+ "updated_at": "2026-11-24T14:26:01Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -33086,6 +33086,170 @@
      "confidence": "high",
      "event_id": "84-2027_28-info_day-001",
      "extracted_at": "2026-11-24T14:15:47Z"
+    }
+   ]
+  },
+  "364": {
+   "name": "香港道教聯合會圓玄學院第三中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "self_healing_active": false,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "校網 2027-2028 中一自行分配學位頁原文：「申請者需於二零二七年一月四日至十八日期間，把填妥的表格交回本校校務處，或透過「中一派位電子平台」遞交申請」；同頁申請指引 PDF「一、申請日期：二零二七年一月四日至十八日」",
+     "evidence_url": "https://www.hktayy3.edu.hk/CustomPage/97/S1Reg.html",
+     "confidence": "high",
+     "event_id": "364-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    }
+   ]
+  },
+  "341": {
+   "name": "天主教普照中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "self_healing_active": false,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "校網新聞（12/11/2026）附「中一自行分配學位須知 (2027年9月入學)」PDF 原文：「申請日期： 2027 年 1 月 4 日(星期一)至 2027 年 1 月 18 日(星期一)」",
+     "evidence_url": "https://www.pochiu.edu.hk/sites/default/files/files/zhong_yi_zi_xing_fen_pei_xue_wei_xu_zhi_2027nian_9yue_ru_xue_.pdf",
+     "confidence": "high",
+     "event_id": "341-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-20",
+     "date_end": null,
+     "label": "中一面試（暫定 2027-02-20 或 02-27；確實日期稍後公佈）",
+     "academic_year": "2027-28",
+     "source_text": "須知 PDF 原文：「4. 面試日期：暫定 2027 年 2 月 20 日(星期六) 或 2 月 27 日(星期六) [確實日期稍後公佈]」；「5. 入選面試的申請人將於二月上旬收到信函及電話通知面試詳情」",
+     "evidence_url": "https://www.pochiu.edu.hk/sites/default/files/files/zhong_yi_zi_xing_fen_pei_xue_wei_xu_zhi_2027nian_9yue_ru_xue_.pdf",
+     "confidence": "high",
+     "event_id": "341-2027_28-interview-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位取錄通知（正取學生）",
+     "academic_year": "2027-28",
+     "source_text": "須知 PDF 原文：「7. 面試後獲取錄為「正取生」的申請人將於 2027 年 3 月 31 日(星期三)收到學校電話及信件通知」",
+     "evidence_url": "https://www.pochiu.edu.hk/sites/default/files/files/zhong_yi_zi_xing_fen_pei_xue_wei_xu_zhi_2027nian_9yue_ru_xue_.pdf",
+     "confidence": "high",
+     "event_id": "341-2027_28-result-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    }
+   ]
+  },
+  "451": {
+   "name": "中華基督教會譚李麗芬紀念中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "self_healing_active": false,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "報名表 PDF（入口頁 /page/820/）原文：「4.4 2027 年 1 月 4 日至 2027 年 1 月 18 日」（索取表格 2026 年 11 月 23 日至 2027 年 1 月 18 日）",
+     "evidence_url": "https://www.tllf.edu.hk/upload/2026/09/6e4defda6f0cac031a145bdc2533c980.pdf",
+     "confidence": "high",
+     "event_id": "451-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-02-20",
+     "date_end": "2027-02-27",
+     "label": "中一面試（2027-02-20 或 02-27；確實日期於遞交申請表時通知）",
+     "academic_year": "2027-28",
+     "source_text": "報名表 PDF 原文：「4.6 面試安排：所有申請人均獲面試機會，本校之面試日期分別為 2027 年 2 月 20 日(星期六)及 2 月 27 日(星期六)，確實面試日期及時間將於遞交申請表格時通知」",
+     "evidence_url": "https://www.tllf.edu.hk/upload/2026/09/6e4defda6f0cac031a145bdc2533c980.pdf",
+     "confidence": "high",
+     "event_id": "451-2027_28-interview-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位取錄通知（正取學生）",
+     "academic_year": "2027-28",
+     "source_text": "報名表 PDF 原文：「4.7 2027 年 3 月 31 日通過書面及電話通知所有正取學生家長」",
+     "evidence_url": "https://www.tllf.edu.hk/upload/2026/09/6e4defda6f0cac031a145bdc2533c980.pdf",
+     "confidence": "high",
+     "event_id": "451-2027_28-result-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一自行分配學位及統一派位結果公佈",
+     "academic_year": "2027-28",
+     "source_text": "報名表 PDF 原文：「4.8 未獲正取的申請人(無論有否參加面試)均需等候至 2027 年 7 月 6 日(星期二)由貴子弟就讀的小學通知」",
+     "evidence_url": "https://www.tllf.edu.hk/upload/2026/09/6e4defda6f0cac031a145bdc2533c980.pdf",
+     "confidence": "high",
+     "event_id": "451-2027_28-result-002",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    }
+   ]
+  },
+  "453": {
+   "name": "中華基督教會燕京書院",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "self_healing_active": false,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "校網新聞 18-11-2026（標題誤寫「2025/2027年度」，內容為 2027-28）原文：「2025/2027年度中學學位分配，中一自行分配學位申請將於2027年1月4日至2027年1月18日期間接受申請」；可親身遞交或經「中一派位電子平台」",
+     "evidence_url": "https://www.yenching.edu.hk/web/news_detail.php?news_id=285",
+     "confidence": "high",
+     "event_id": "453-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-13",
+     "date_end": null,
+     "label": "中一面試（全部申請人）",
+     "academic_year": "2027-28",
+     "source_text": "校網新聞 18-11-2026 原文：「所有申請人均獲安排個人面試。日期為2027年3月13日(星期六)。親身遞交的申請人可即時選擇面試時段，每時段設有限名額」",
+     "evidence_url": "https://www.yenching.edu.hk/web/news_detail.php?news_id=285",
+     "confidence": "high",
+     "event_id": "453-2027_28-interview-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中講座暨燕京體驗日（14:00–16:30；二樓禮堂；須經 Google 表單報名）",
+     "academic_year": "2027-28",
+     "source_text": "校網新聞 16-11-2026「升中講座暨燕京體驗日2026」原文：日期 2026年11月28日（星期六） 時間 下午2:00-4:30 地點 二樓禮堂 對象 小學學生及家長；2:00-3:15 學校簡介（家長）及校園遊（學生）、3:15-4:30 開放校園參觀／體驗課／家長觀課；報名表格 https://docs.google.com/forms/d/e/1FAIpQLScnUxHfH4GDIeqxpZknJMhXM8A_DA6244jlLMVeUSuJTm31PQ/viewform",
+     "evidence_url": "https://www.yenching.edu.hk/web/news_detail.php?news_id=282",
+     "confidence": "high",
+     "event_id": "453-2027_28-info_day-001",
+     "extracted_at": "2026-11-24T14:26:01Z"
     }
    ]
   }
