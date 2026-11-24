@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-24T13:24:04Z",
+ "updated_at": "2026-11-24T13:44:21Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -32027,6 +32027,54 @@
      "confidence": "medium",
      "event_id": "271-2024_25-result-002",
      "extracted_at": "2026-11-06T12:45:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "首頁彈窗文字（Mac 11-24 真瀏覽器讀出；popup-modal 需 JS；另附申請表 PDF 直鏈互證）：2027-2028年度中一自行分配學位申請／APPLICATION FOR FORM ONE DISCRETIONARY PLACES；學額 40；Application Period: 4 January 2027 to 18 January 2027／申請日期：2027年1月4日 至 2027年1月18日",
+     "evidence_url": "https://www.hebron.edu.hk/",
+     "confidence": "high",
+     "event_id": "271-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-24T13:44:21Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一面試（如教育局宣布停課順延至 2027-03-13）",
+     "academic_year": "2027-28",
+     "source_text": "首頁彈窗文字（Mac 11-24 真瀏覽器讀出；popup-modal 需 JS；另附申請表 PDF 直鏈互證）：面試日期：2027年3月6日(六)；如教育局宣佈當天停課，有關面試將順延至2027年3月13日(六)；每位申請學生均獲面試機會，詳情將於2027年2月19日(五)或以前另函通知",
+     "evidence_url": "https://www.hebron.edu.hk/",
+     "confidence": "high",
+     "event_id": "271-2027_28-interview-001",
+     "extracted_at": "2026-11-24T13:44:21Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位取錄通知（正取學生）",
+     "academic_year": "2027-28",
+     "source_text": "首頁彈窗文字（Mac 11-24 真瀏覽器讀出；popup-modal 需 JS；另附申請表 PDF 直鏈互證）：本校將於2027年3月31日(三)以書面及電話通知獲本校納入自行分配學位正取學生之家長",
+     "evidence_url": "https://www.hebron.edu.hk/",
+     "confidence": "high",
+     "event_id": "271-2027_28-result-001",
+     "extracted_at": "2026-11-24T13:44:21Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一自行分配學位及統一派位結果公佈",
+     "academic_year": "2027-28",
+     "source_text": "首頁彈窗文字（Mac 11-24 真瀏覽器讀出；popup-modal 需 JS；另附申請表 PDF 直鏈互證）：2027年7月6日(二)公布自行分配學位及統一派位結果",
+     "evidence_url": "https://www.hebron.edu.hk/",
+     "confidence": "high",
+     "event_id": "271-2027_28-result-002",
+     "extracted_at": "2026-11-24T13:44:21Z"
     }
    ]
   },
