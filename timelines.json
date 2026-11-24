@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-24T14:03:27Z",
+ "updated_at": "2026-11-24T14:15:47Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -3099,6 +3099,18 @@
      "confidence": "verified",
      "event_id": "236-2026_27-result-001",
      "extracted_at": "2026-10-25T11:45:32"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "academic_year": "2027-28",
+     "label": "2027-2028 中學招生簡介會（學科展覽及體驗日 14:00–17:30 毋須報名；入學簡介會 15:00–17:00 須登記，11-23 至 12-11 13:00）",
+     "source_text": "校方 iEvent 招生簡介會頁（校網文字）：「2027-2028 中學招生簡介會」日期：2026年12月12日(星期六) 學科展覽及體驗日時段：下午2時至5時30分(毋須報名) 入學簡介會：下午3時至5時(須透過系統預留座位) 地點：培僑書院（新界沙田大圍大圍新村路1號）報名方法：2026年11月23日(星期一)開始接受登記，並於2026年12月11日(星期五)下午1時截止，額滿即止；每個登記電郵地址只可預留1個座位",
+     "evidence_url": "https://event.puikiucollege.edu.hk/event/3055",
+     "confidence": "high",
+     "event_id": "236-2027_28-info_day-001",
+     "extracted_at": "2026-11-24T14:15:47Z"
     }
    ],
    "self_healing_active": false
@@ -33056,6 +33068,26 @@
     }
    ],
    "self_healing_active": false
+  },
+  "84": {
+   "name": "粉嶺官立中學",
+   "school_type": "官立",
+   "banding_tier": "Band 3",
+   "self_healing_active": false,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "academic_year": "2027-28",
+     "label": "升中導航：北區中學聯校展覽（2026/2027）（本校設攤位；9:30–16:00，上水龍琛路體育館，免費入場毋須報名）",
+     "source_text": "校網最新消息（30/09/26）內嵌海報：主辦 北區中學校長會「升中導航：北區中學聯校展覽（2026/2027）」日期：2026年11月28日（星期六） 開幕典禮：上午9時正至9時半 展覽時間：上午9時半至下午4時正 地點：新界上水龍琛路體育館 免費入場，毋須報名，毋須門票（請於下午3時30分前進場）；84 粉嶺官立中學在攤位圖內。來源＝84 自己校網最新消息內嵌海報，Mac OCR 加目視核對，Owner 11-24 看圖批准",
+     "evidence_url": "https://www.fgss.edu.hk/it-school/php/webcms/public/mainpage/component/popup_news.php?type=&id=16152&lang=zh",
+     "confidence": "high",
+     "event_id": "84-2027_28-info_day-001",
+     "extracted_at": "2026-11-24T14:15:47Z"
+    }
+   ]
   }
  }
 }
