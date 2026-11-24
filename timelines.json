@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-24T11:14:03Z",
+ "updated_at": "2026-11-24T11:32:12Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -22722,8 +22722,8 @@
     },
     {
      "type": "application_deadline",
-     "date": "2027-01-18",
-     "date_end": "2027-01-04",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
      "label": "申請期",
      "academic_year": "2027-28",
      "source_text": "Application Period\n4th – 18th January, 2027",
