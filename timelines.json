@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-24T15:49:38Z",
+ "updated_at": "2026-11-25T01:44:52Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -33317,6 +33317,106 @@
      "confidence": "high",
      "event_id": "402-2027_28-result-001",
      "extracted_at": "2026-11-24T15:49:38Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "348": {
+   "name": "威靈頓教育機構張沛松紀念中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁橫幅圖片（https://www.cpc.edu.hk/img/upload/gallery/l_23096_uG2.jpg），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「2027/28 中一自行分配學位申請 遞表日期：2027年1月4-18日 遞表時間：星期一至五 上午9時至下午5時 星期六 上午9時至下午1時」",
+     "evidence_url": "https://www.cpc.edu.hk/",
+     "confidence": "high",
+     "event_id": "348-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T01:44:52Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "261": {
+   "name": "嗇色園主辦可譽中學暨可譽小學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "開放日暨譽藥園開幕典禮（09:00–16:00；校園導賞、創意攤位、暢遊譽藥園、親子工作坊、漢服拍照體驗）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁海報（https://ss.hoyu.edu.hk/wp-content/uploads/2026/11/OpenDay26-web-scaled.jpg），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「Ho Yu College 2627 Open Day 可譽中學開放日暨譽藥園開幕典禮 28.11.2026（六 SAT）9:00am to 4:00pm」；內容：校園導賞、創意攤位、暢遊譽藥園、親子工作坊、漢服拍照體驗；開放日詳情及工作坊報名方法可瀏覽學校網頁及社交媒體",
+     "evidence_url": "https://ss.hoyu.edu.hk/",
+     "confidence": "high",
+     "event_id": "261-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T01:44:52Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "267": {
+   "name": "上水官立中學",
+   "school_type": "官立",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "升中導航：北區中學聯校展覽（2026/2027）（本校設 3 號攤位；9:30–16:00，開幕 9:00–9:30，上水龍琛路體育館，免費入場毋須報名）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁彈窗海報（/attachment/upload/files/559a3083772240caf45d405b5af1015bxDuWrrkLKuTvFYMf-0(1).jpg 及 -1.jpg），Mac 2026-11-25 港網渲染讀取並目視核對，Owner 11-25 批准：「升中導航：北區中學聯校展覽（2026/2027） 日期：2026年11月28日（星期六） 開幕典禮：上午9時正至9時半 展覽時間：上午9時半至下午4時正 地點：新界上水龍琛路體育館 免費入場，毋須報名，毋須門票」；攤位位置圖顯示上水官立中學在 3 號攤位",
+     "evidence_url": "https://www.ssgss.edu.hk/tc/",
+     "confidence": "high",
+     "event_id": "267-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T01:44:52Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "456": {
+   "name": "中華聖潔會靈風中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期（截止交表 1-18 16:00）",
+     "academic_year": "2027-28",
+     "source_text": "校網頁面 https://www.lsc.edu.hk/school-overview/application-procedures/（頁面標題「2027-2028年度中一自行分配學位」，Mac 2026-11-25 港網讀取原文核對）：1. 申請日期：2027年1月4日（星期一）至2027年1月18日（星期一） 3. 截止交表日期：2027年1月18日（星期五）下午四時（校網原文誤寫「星期五」，2027-01-18 實為星期一，日期照原文保留） 4. 所需遞交文件包括小六上學期成績表（副本）【如未派發，請於2027年2月19日（星期五）或以前交回】",
+     "evidence_url": "https://www.lsc.edu.hk/school-overview/application-procedures/",
+     "confidence": "high",
+     "event_id": "456-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T01:44:52Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "436": {
+   "name": "中華基督教會馮梁結紀念中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "中一資訊日及學生成果展（14:00–17:00；升中導航講座、學長姐分享、互動體驗；須掃碼報名）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁彈窗（HTML 文字，Mac 2026-11-25 真瀏覽器渲染讀取）：「【誠邀蒞臨】中華基督教會馮梁結紀念中學 —— 12月5日中一資訊日及學生成果展 2026 … 本校將於 2026年12月5日（星期六） 舉辦『中一資訊日及學生成果展』… 歡迎透過以下連結或掃描海報的QR Code報名：https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JJdAobgt102fjo4hbLkx9D-tYBoJ3OJDkyObvYlgyrBUODIzNkVHRklSVzZTNTQ4VlRFWFNRT0FHTi4u」；彈窗海報（/upload/2026/10/f1108ecce1287b0361519cdb984d5790.png）標明：「中一資訊日及學生成果展 日期：2026年12月5日（六） 時間：14:00-17:00 地點：本校（新界大埔寶湖道22號） 活動詳情：升中導航｜體藝表演｜學生分享｜生命教育（貓、守宮、變色龍、陸龜）｜拉花與甜品體驗｜STEAM（數字教育）·人文·文學·藝能成果展｜馮梁結盃·陀螺爭霸戰」",
+     "evidence_url": "https://www.flk.edu.hk/",
+     "confidence": "high",
+     "event_id": "436-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T01:44:52Z"
     }
    ],
    "self_healing_active": false
