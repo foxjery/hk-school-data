@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-25T05:24:06Z",
+ "updated_at": "2026-11-25T05:42:45Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -33813,6 +33813,190 @@
      "confidence": "high",
      "event_id": "53-2027_28-info_day-002",
      "extracted_at": "2026-11-25T05:24:06Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "370": {
+   "name": "香港紅卍字會大埔卍慈中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期（學額 40 個）",
+     "academic_year": "2027-28",
+     "source_text": "校網中一入學申請頁 PDF《2027/28 中一自行分配學位須知》（https://www.hkrsstpss.edu.hk/upload/page/7/self/6ae040f48b02a.pdf，Mac 2026-11-25 港網下載原文核對）：「申請日期 2027年1月4日（星期一）至2027年1月18日（星期一），包括首尾兩日接受中一自行分配學位申請」；「可供申請的自行分配學位數目為 40（四班）」；可交回校務處或經中一派位電子平台遞交",
+     "evidence_url": "https://www.hkrsstpss.edu.hk/upload/page/7/self/6ae040f48b02a.pdf",
+     "confidence": "high",
+     "event_id": "370-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（星期六；所有申請人）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《2027/28 中一自行分配學位須知》（Mac 2026-11-25 港網下載原文核對）：「本校將約見全部申請學生，所有申請人需出席面試」；「通知日期：2027年1月底。面試日期：2027年3月6日(星期六)」",
+     "evidence_url": "https://www.hkrsstpss.edu.hk/upload/page/7/self/6ae040f48b02a.pdf",
+     "confidence": "high",
+     "event_id": "370-2027_28-interview-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位正取學生通知（書面及電話）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《2027/28 中一自行分配學位須知》（Mac 2026-11-25 港網下載原文核對）：「學校將於2027年3月31日(星期三)透過書面及電話通知所有正取學生的家長」",
+     "evidence_url": "https://www.hkrsstpss.edu.hk/upload/page/7/self/6ae040f48b02a.pdf",
+     "confidence": "high",
+     "event_id": "370-2027_28-result-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中家長講座「工具求快，學習求遠：AI時代的「卍跑者」精神」",
+     "academic_year": "2027-28",
+     "source_text": "校網中一入學申請頁（https://www.hkrsstpss.edu.hk/admission/，Mac 2026-11-25 港網讀取原文）：頁面列「2026年12月5日舉行：『工具求快，學習求遠：AI時代的「卍跑者」精神』升中家長講座」；同頁講者為施家祺校長；屬升中資訊類活動",
+     "evidence_url": "https://www.hkrsstpss.edu.hk/admission/",
+     "confidence": "high",
+     "event_id": "370-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "63": {
+   "name": "東華三院郭一葦中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中資訊及學習體驗活動日（09:30–11:30；QR 報名）",
+     "academic_year": "2027-28",
+     "source_text": "校網最新消息（11/11/2026，Mac 2026-11-25 港網真瀏覽器渲染讀取）：「東華三院郭一葦中學將於12月5日（星期六）上午9時30分至11時30分舉行『升中資訊及學習體驗活動日』。現誠邀各小學家長及學生參與…」；活動後設「爆旋陀螺親子比賽」；請點擊海報或掃描二維碼報名",
+     "evidence_url": "https://www.twghkywc.edu.hk/latest_new/「升中資訊及學習體驗活動日」",
+     "confidence": "high",
+     "event_id": "63-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "169": {
+   "name": "救世軍卜維廉中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-12",
+     "date_end": null,
+     "label": "升中資訊日暨體驗活動（09:00–13:00；運動攀登、飛索、甜品製作、STEAM、無人機、室內賽艇等）",
+     "academic_year": "2027-28",
+     "source_text": "校網海報（https://www.wbss.edu.hk/CustomPage/75/20261212.jpg），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「救世軍卜維廉中學 升中資訊日暨體驗活動 2026年12月12日（星期六）上午9:00至下午1:00 九龍慈雲山毓華街100號」；網上報名；體驗活動：運動攀登、飛索體驗、甜品製作、STEAM 拆彈專家、油優兔樂藝坊、無人機、室內賽艇、電子飛鏢、太陽能車、音樂盒 DIY、步操樂團表演、舞獅表演",
+     "evidence_url": "https://www.wbss.edu.hk/CustomPage/75/20261212.jpg",
+     "confidence": "high",
+     "event_id": "169-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-21",
+     "date_end": null,
+     "label": "校園參觀（09:00–13:00）",
+     "academic_year": "2027-28",
+     "source_text": "校網海報（同上，Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准）：海報列「21/11（六）校園參觀 上午9:00至下午1:00」",
+     "evidence_url": "https://www.wbss.edu.hk/CustomPage/75/20261212.jpg",
+     "confidence": "high",
+     "event_id": "169-2027_28-info_day-002",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-11-28",
+     "date_end": null,
+     "label": "校園參觀（09:00–13:00）",
+     "academic_year": "2027-28",
+     "source_text": "校網海報（同上，Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准）：海報列「28/11（六）校園參觀 上午9:00至下午1:00」",
+     "evidence_url": "https://www.wbss.edu.hk/CustomPage/75/20261212.jpg",
+     "confidence": "high",
+     "event_id": "169-2027_28-info_day-003",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "96": {
+   "name": "佛教黃允畋中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-11",
+     "date_end": null,
+     "label": "升中資訊日（18:00–20:30；升中資訊講座、權威專家講座、特色校園體驗、模擬雙語面試；掃碼報名）",
+     "academic_year": "2027-28",
+     "source_text": "校網最新消息（2026/11/11）海報（https://bwwtc.edu.hk/attachment/upload/files/資訊日9-01_s(1).png），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「佛教黃允畋中學 升中資訊日 2026年12月11日（星期五）下午六時正至下午八時三十分 新界沙田大圍美林邨」；活動：升中資訊講座、權威專家講座、特色校園體驗、模擬雙語面試；網上報名 https://forms.gle/sDimputPGmDm7eUf6；電話 2605 2876",
+     "evidence_url": "https://bwwtc.edu.hk/tc/news_detail.php?wid=151&cid=1&id=699",
+     "confidence": "high",
+     "event_id": "96-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-11",
+     "date_end": "2026-12-12",
+     "label": "第四屆（大灣區）香港學校教育展（G22／G24 攤位）",
+     "academic_year": "2027-28",
+     "source_text": "校網同一海報（Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准）：「第四屆（大灣區）香港學校教育展（GBA）HONG KONG SCHOOLS EXPO 2026年12月11日-12日 亞洲國際博覽館 早上十時至下午五時半 G22、G24號攤位 佛教黃允畋中學」",
+     "evidence_url": "https://bwwtc.edu.hk/tc/news_detail.php?wid=151&cid=1&id=699",
+     "confidence": "high",
+     "event_id": "96-2027_28-info_day-002",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "360": {
+   "name": "香港布廠商會朱石麟中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-04",
+     "date_end": null,
+     "label": "2026 繽紛學習日（13:00–17:00；含中一入學資訊講座、升中模擬面試班、互動體驗課程、學科攤位）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁輪播 banner（https://www.hkwmacsl.edu.hk/it-school/php/webcms/public/data/top_banner/268.png），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「香港布廠商會朱石麟中學 2026 繽紛學習日 活動時間及日期 4/12（五）13:00–17:00 5/12（六）09:00–17:00」；精彩活動：中一入學資訊講座、升中模擬面試班、各類互動體驗課程、學科攤位；查詢 2796 8323 關玉麟老師",
+     "evidence_url": "https://www.hkwmacsl.edu.hk/it-school/php/webcms/public/data/top_banner/268.png",
+     "confidence": "high",
+     "event_id": "360-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T05:42:45Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "2026 繽紛學習日（09:00–17:00；含中一入學資訊講座、升中模擬面試班、互動體驗課程、學科攤位）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁輪播 banner（同上，Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准）：5/12（六）09:00–17:00",
+     "evidence_url": "https://www.hkwmacsl.edu.hk/it-school/php/webcms/public/data/top_banner/268.png",
+     "confidence": "high",
+     "event_id": "360-2027_28-info_day-002",
+     "extracted_at": "2026-11-25T05:42:45Z"
     }
    ],
    "self_healing_active": false
