@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-25T01:44:52Z",
+ "updated_at": "2026-11-25T01:57:55Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -31863,6 +31863,30 @@
      "confidence": "verified",
      "event_id": "244-2026_27-result-001",
      "extracted_at": "2026-11-04T12:00:00"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期",
+     "academic_year": "2027-28",
+     "source_text": "校網中一自行分配學位申請頁（https://www.jcctm.edu.hk/web/admission/，Mac 2026-11-25 港網讀取原文核對）：「中一自行分配學位申請注意事項（適用於2027年9月升讀中一） 公開招生日期：2027年1月4日(一)至2027年1月18日(一)」；「申請人或家長可於即日起至2027年1月18日(一)於本校網頁下載『中一自行分配學位申請表』或到校務處索取」。頁內 PDF 檔名仍寫 Application-Form-for-Secondary-One-Discretionary-Places__2026_2027_v5_20251126，但正文標題是 2027-28，按正文記錄",
+     "evidence_url": "https://www.jcctm.edu.hk/web/admission/",
+     "confidence": "high",
+     "event_id": "244-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（所有申請人；校方個別電話通知時間）",
+     "academic_year": "2027-28",
+     "source_text": "校網中一自行分配學位申請頁（Mac 2026-11-25 港網讀取原文核對）：「面試日期：2027年3月6日（六）」「本校將個別以電話通知面試時間」",
+     "evidence_url": "https://www.jcctm.edu.hk/web/admission/",
+     "confidence": "high",
+     "event_id": "244-2027_28-interview-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
     }
    ]
   },
@@ -33397,6 +33421,18 @@
      "confidence": "high",
      "event_id": "456-2027_28-application_deadline-001",
      "extracted_at": "2026-11-25T01:44:52Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中體驗在靈風2026（時段一 09:30–12:00、時段二 13:30–16:00；校本體驗課、家長升中講座、校園導賞及學生表演；掃 QR 報名）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁輪播海報（https://www.lsc.edu.hk/wp-content/uploads/2026/11/升中體驗在靈風2627_rolling-banner_update.jpg），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「中華聖潔會靈風中學 升中體驗在靈風2026 日期：2026年12月5日（星期六） 時段一：上午09:30至12:00 時段二：下午13:30至16:00」；活動內容：校本特色課堂學習體驗課（中文、英文、數學、科學）、家長升中講座及選校策略、本校簡介及報讀本校須知、校園導賞及學生表演；掃此報名；查詢 2958 9694 董副校",
+     "evidence_url": "https://www.lsc.edu.hk/",
+     "confidence": "high",
+     "event_id": "456-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
     }
    ],
    "self_healing_active": false
@@ -33417,6 +33453,122 @@
      "confidence": "high",
      "event_id": "436-2027_28-info_day-001",
      "extracted_at": "2026-11-25T01:44:52Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "308": {
+   "name": "獻主會聖母院書院",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期（自行分配學額 30 個）",
+     "academic_year": "2027-28",
+     "source_text": "校網「2027-2028 年度中一學位申請」頁（https://www.ndc.edu.hk/2027-2028-年度中一學位申請，Mac 2026-11-25 港網讀取原文核對）：「2027年1月4日(星期一)至1月18日(星期一)」；親自遞交 星期一至五上午九時至下午五時、星期六上午九時至中午十二時；經「中一派位電子平台」遞交截止時間 2027年1月18日 23時59分；「2027-2028 年度可供申請的自行分配中一學額共 30 個」",
+     "evidence_url": "https://www.ndc.edu.hk/2027-2028-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "308-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行分配學位面試（星期六）",
+     "academic_year": "2027-28",
+     "source_text": "校網「2027-2028 年度中一學位申請」頁（Mac 2026-11-25 港網讀取原文核對）：「面試日期：2027年3月6日(星期六)」；面試通知日期約為 2027年2月下旬（無確切日期，不另立條目）",
+     "evidence_url": "https://www.ndc.edu.hk/2027-2028-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "308-2027_28-interview-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位正取學生通知",
+     "academic_year": "2027-28",
+     "source_text": "校網「2027-2028 年度中一學位申請」頁（Mac 2026-11-25 港網讀取原文核對）：第 5 點「2027 年度的指定日期為 2027年3月31日」；同頁另一處寫「2026年3月31日（星期二）」與 2026 年實際星期相符，屬年份筆誤，以第 5 點的 2027-03-31 為準",
+     "evidence_url": "https://www.ndc.edu.hk/2027-2028-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "308-2027_28-result-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一自行分配學位及統一派位結果公佈（7-08／7-09 註冊）",
+     "academic_year": "2027-28",
+     "source_text": "校網「2027-2028 年度中一學位申請」頁（Mac 2026-11-25 港網讀取原文核對）：「2027年7月6日公布自行分配學位及統一派位結果」「2027年7月8日及9日辦理中一註冊」",
+     "evidence_url": "https://www.ndc.edu.hk/2027-2028-%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E5%AD%B8%E4%BD%8D%E7%94%B3%E8%AB%8B",
+     "confidence": "high",
+     "event_id": "308-2027_28-result-002",
+     "extracted_at": "2026-11-25T01:57:55Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "401": {
+   "name": "新會商會中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "「會中資訊日」升中資訊日暨創藝體驗日（09:30–16:30；升中講座、校園導賞、學科體驗、綜合表演、爆旋陀螺體驗競賽、AI 與 STEAM 工作坊；掃 QR 報名）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁海報（https://www.swcs.edu.hk/attachment/banner/1794632368PvlMh.jpeg），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「會中資訊日 2026年12月5日（星期六） 升中資訊日暨創藝體驗日『智啟同行・夢想舞台』 9:30am–4:30pm」；內容：升中講座、校園導賞及學科體驗活動、綜合表演、爆旋陀螺體驗競賽、AI 人工智能與 STEAM 創科工作坊、學生視藝作品展及工作坊；報名表格請掃描 QR Code",
+     "evidence_url": "https://www.swcs.edu.hk/",
+     "confidence": "high",
+     "event_id": "401-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "270": {
+   "name": "深培中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中資訊日2026（09:00–12:30、13:30–16:30；工作坊＋校園導賞；小六學生報名優先）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁彈窗海報（https://www.semple.edu.hk/Files/popup/6c559877c44245f3915d2a1d11b712d2.jpg），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「升中資訊日2026 12月5日（六）上午9:00–下午12:30、下午13:30–下午16:30」；活動：工作坊及校園導賞（一）10:00–11:00／（二）14:30–15:30，工作坊四選一（Jelly Cat 陶瓷掛飾、科探實驗、DIY 爬山車、DIY 藏書票／聖誕杯子蛋糕、伽利略式望遠鏡、LEGO 由我創、AI 有聲書 DIY）；地點：本校（新界屯門兆麟街18號）；#工作坊小六學生報名優先；掃描二維碼報名",
+     "evidence_url": "https://www.semple.edu.hk/",
+     "confidence": "high",
+     "event_id": "270-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "222": {
+   "name": "明愛粉嶺陳震夏中學",
+   "school_type": "資助",
+   "banding_tier": null,
+   "events": [
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中資訊日（09:00–12:00、14:30–17:30；報名截止 2026-12-02）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁「升中導航」欄目連到的 Microsoft 報名表（https://forms.cloud.microsoft/r/t5MDCt8F2M，Mac 2026-11-25 港網真瀏覽器渲染讀取，Owner 11-25 批准）：「[公眾報名] 2026–2027學年 明愛粉嶺陳震夏中學升中資訊日 [截止：2026年12月2日（星期三）] 1️⃣ 活動日期：2026年12月5日（星期六） 2️⃣ 時段選擇：時段一：上午9:00至中午12:00 或 時段二：下午2:30至下午5:30 3️⃣ 活動亮點（學生和家長活動同步進行）：學生專屬體驗—中英雙語模擬面試實戰演練、STEAM 創新探索活動、AI 素養挑戰比賽；家長專屬環節—升中選校策略講座、STEAM 及「我要做半天中學生」體驗活動」",
+     "evidence_url": "https://forms.cloud.microsoft/r/t5MDCt8F2M",
+     "confidence": "high",
+     "event_id": "222-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T01:57:55Z"
     }
    ],
    "self_healing_active": false
