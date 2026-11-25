@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-25T05:42:45Z",
+ "updated_at": "2026-11-25T07:41:22Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -22395,6 +22395,18 @@
      "confidence": "high",
      "event_id": "207-2027_28-result-001",
      "extracted_at": "2026-11-17T23:00:00"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一派位結果公佈（自行分配學位及統一派位）",
+     "academic_year": "2027-28",
+     "source_text": "校網 S1 頁連到的日程 PDF《2027-2028 中一自行分配學位申請日程》（Google Drive 12dJ9hu3u4McEt5R8wYBQiyKmGtUM6lVb，Mac 2026-11-25 港網下載原文核對）：「所有參加派位學生獲通知中學學位分配辦法下的派位結果（包括自行分配學位及統一派位的結果）6/7/2027」",
+     "evidence_url": "https://www.mosttss.edu.hk/tc/content.php?wid=78",
+     "confidence": "high",
+     "event_id": "207-2027_28-result-002",
+     "extracted_at": "2026-11-25T07:41:22Z"
     }
    ],
    "banding_tier": "Band 2"
@@ -33997,6 +34009,62 @@
      "confidence": "high",
      "event_id": "360-2027_28-info_day-002",
      "extracted_at": "2026-11-25T05:42:45Z"
+    }
+   ],
+   "self_healing_active": false
+  },
+  "241": {
+   "name": "青松侯寶垣中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期（學額 30 個）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《二零二五/二零二七 中一自行分配學位》（https://www.cchpwss.edu.hk/admin-str/academic/admision/s1_admission_form2527.pdf，Mac 2026-11-25 港網下載原文核對）：「遞交表格日期：二零二七年一月四日(星期一)至一月十八日(星期一)」；時間：星期一至五 上午八時至下午六時、星期六 上午九時至下午四時；「本校自行收生學額為30個」；可親身交回校務處或經「中一派位電子平台」遞交",
+     "evidence_url": "https://www.cchpwss.edu.hk/admin-str/academic/admision/s1_admission_form2527.pdf",
+     "confidence": "high",
+     "event_id": "241-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T07:41:22Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位正取學生通知（電話及書面）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《二零二五/二零二七 中一自行分配學位》（Mac 2026-11-25 港網下載原文核對）：「家長將於二零二七年三月三十一日（星期三）收到電話通知」及「家長亦會收到獲納入本校的『自行分配學位正取學生名單』的書面通知」",
+     "evidence_url": "https://www.cchpwss.edu.hk/admin-str/academic/admision/s1_admission_form2527.pdf",
+     "confidence": "high",
+     "event_id": "241-2027_28-result-001",
+     "extracted_at": "2026-11-25T07:41:22Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一派位結果公佈（與統一派位一併公布）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《二零二五/二零二七 中一自行分配學位》（Mac 2026-11-25 港網下載原文核對）：「學生最終獲派的學校將於二零二七年七月六日（星期二）與統一派位結果一併公布」",
+     "evidence_url": "https://www.cchpwss.edu.hk/admin-str/academic/admision/s1_admission_form2527.pdf",
+     "confidence": "high",
+     "event_id": "241-2027_28-result-002",
+     "extracted_at": "2026-11-25T07:41:22Z"
+    },
+    {
+     "type": "info_day",
+     "date": "2026-12-05",
+     "date_end": null,
+     "label": "升中資訊日（09:30–16:30；校園導賞團同日，報名截止 12-01）",
+     "academic_year": "2027-28",
+     "source_text": "校網首頁「升中資訊日」頁海報（https://www.cchpwss.edu.hk/infoday/index.htm，圖片 /infoday/image/1.jpg），Mac 2026-11-25 港網下載原圖並目視核對，Owner 11-25 批准：「青松侯寶垣中學 升中資訊日 05/12/2026 屯門恆富街21號 0930 TO 1630」；導賞團 05/12/2026，報名截止 01/12/2026，查詢 2457 7154；頁面文字仍寫舊日期 20/3/2026，以海報為準",
+     "evidence_url": "https://www.cchpwss.edu.hk/infoday/index.htm",
+     "confidence": "high",
+     "event_id": "241-2027_28-info_day-001",
+     "extracted_at": "2026-11-25T07:41:22Z"
     }
    ],
    "self_healing_active": false
