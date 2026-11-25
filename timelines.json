@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-25T07:41:22Z",
+ "updated_at": "2026-11-25T12:16:00Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -27562,6 +27562,54 @@
      "confidence": "high",
      "event_id": "395-2027_28-info_day-001",
      "extracted_at": "2026-11-24T13:24:04Z"
+    },
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期（學額 40 個）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《02A中一自行收生章程26-27》（https://www.ablmcc.edu.hk/sites/default/files/download/02azhong_yi_zi_xing_shou_sheng_zhang_cheng_26-27.pdf，Mac 2026-11-25 港網重新下載原文逐字核對；PDF 標題寫「中一自行收生 (2026-2027)」，但內文為 2027 年 9 月入學招生，標題與內文不符，以內文為準）：「本校現提供中一自行分配學位共 40 名，供小六學生申請 2027 年 9 月入讀本校中一。」「報名日期： 2027 年 1 月 4 日至 18 日」；電子平台截止「截至日期及時間為 2027 年 1 月 18 日 23 時 59 分」",
+     "evidence_url": "https://www.ablmcc.edu.hk/sites/default/files/download/02azhong_yi_zi_xing_shou_sheng_zhang_cheng_26-27.pdf",
+     "confidence": "high",
+     "event_id": "395-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T12:16:00Z"
+    },
+    {
+     "type": "interview",
+     "date": "2027-03-06",
+     "date_end": null,
+     "label": "中一自行收生面試（下午）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《02A中一自行收生章程26-27》（Mac 2026-11-25 港網重新下載原文逐字核對）：「所有申請者於 2027 年 3 月 6 日下午安排面試。(Interview date : 6th March, 2027)」（標題寫 2026-2027，內文為 2027 年 9 月入學招生，標題與內文不符）",
+     "evidence_url": "https://www.ablmcc.edu.hk/sites/default/files/download/02azhong_yi_zi_xing_shou_sheng_zhang_cheng_26-27.pdf",
+     "confidence": "high",
+     "event_id": "395-2027_28-interview-001",
+     "extracted_at": "2026-11-25T12:16:00Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位正取學生通知（書面及電話）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《02A中一自行收生章程26-27》（Mac 2026-11-25 港網重新下載原文逐字核對）：「面試後而獲取錄的正取學生，學校將於 2027 年 3 月 31 日透過書面及電話通知家長。」",
+     "evidence_url": "https://www.ablmcc.edu.hk/sites/default/files/download/02azhong_yi_zi_xing_shou_sheng_zhang_cheng_26-27.pdf",
+     "confidence": "high",
+     "event_id": "395-2027_28-result-001",
+     "extracted_at": "2026-11-25T12:16:00Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一派位結果公佈（自行分配學位及統一派位）",
+     "academic_year": "2027-28",
+     "source_text": "校網 PDF《02A中一自行收生章程26-27》（Mac 2026-11-25 港網重新下載原文逐字核對）：「申請結果將於 2027 年 7 月 6 日由教育局公布。」",
+     "evidence_url": "https://www.ablmcc.edu.hk/sites/default/files/download/02azhong_yi_zi_xing_shou_sheng_zhang_cheng_26-27.pdf",
+     "confidence": "high",
+     "event_id": "395-2027_28-result-002",
+     "extracted_at": "2026-11-25T12:16:00Z"
     }
    ],
    "banding_tier": "Band 3"
@@ -34068,6 +34116,49 @@
     }
    ],
    "self_healing_active": false
+  },
+  "337": {
+   "name": "天主教鳴遠中學",
+   "school_type": "資助",
+   "banding_tier": "Band 3",
+   "events": [
+    {
+     "type": "application_deadline",
+     "date": "2027-01-04",
+     "date_end": "2027-01-18",
+     "label": "中一自行分配學位申請期（學額 20 個）",
+     "academic_year": "2027-28",
+     "source_text": "校網招生頁 PDF《2728年度中一自行分配學位_申請須知》（https://www.mingyuen.edu.hk/attachment/upload/Web%20Info/NEWS2/2L/2728%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D_%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_%E7%B6%AE%E9%AB%94.pdf，由 https://www.mingyuen.edu.hk/titletwo.php?cid=68 取得，Mac 2026-11-25 港網重新下載原文逐字核對）：「申請日期：2027 年 1 月 4 日（星期一）至 1 月 18 日（星期一）（包括首尾兩天）」；「本校自行分配學額為 20 個。」",
+     "evidence_url": "https://www.mingyuen.edu.hk/attachment/upload/Web%20Info/NEWS2/2L/2728%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D_%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_%E7%B6%AE%E9%AB%94.pdf",
+     "confidence": "high",
+     "event_id": "337-2027_28-application_deadline-001",
+     "extracted_at": "2026-11-25T12:16:00Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-03-31",
+     "date_end": null,
+     "label": "中一自行分配學位正取學生通知（書面及電話）",
+     "academic_year": "2027-28",
+     "source_text": "校網招生頁 PDF《2728年度中一自行分配學位_申請須知》（Mac 2026-11-25 港網重新下載原文逐字核對）：「本校須於 2027 年 3 月 31 日（星期三） 當天透過書面（例如信件或電郵）及電話通知正取學生的家長其子女已獲學校納入其自行分配學位正取學生名單。」",
+     "evidence_url": "https://www.mingyuen.edu.hk/attachment/upload/Web%20Info/NEWS2/2L/2728%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D_%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_%E7%B6%AE%E9%AB%94.pdf",
+     "confidence": "high",
+     "event_id": "337-2027_28-result-001",
+     "extracted_at": "2026-11-25T12:16:00Z"
+    },
+    {
+     "type": "result",
+     "date": "2027-07-06",
+     "date_end": null,
+     "label": "中一派位結果公佈（自行分配學位及統一派位）",
+     "academic_year": "2027-28",
+     "source_text": "校網招生頁 PDF《2728年度中一自行分配學位_申請須知》（Mac 2026-11-25 港網重新下載原文逐字核對）：「最終的自行分配學位結果會與統一派位結果一併於 2027 年 7 月 6 日（星期二） 公佈。」面試日期「由學校另行致電通知」，無確切日期，未入庫。",
+     "evidence_url": "https://www.mingyuen.edu.hk/attachment/upload/Web%20Info/NEWS2/2L/2728%E5%B9%B4%E5%BA%A6%E4%B8%AD%E4%B8%80%E8%87%AA%E8%A1%8C%E5%88%86%E9%85%8D%E5%AD%B8%E4%BD%8D_%E7%94%B3%E8%AB%8B%E9%A0%88%E7%9F%A5_%E7%B6%AE%E9%AB%94.pdf",
+     "confidence": "high",
+     "event_id": "337-2027_28-result-002",
+     "extracted_at": "2026-11-25T12:16:00Z"
+    }
+   ]
   }
  }
 }
