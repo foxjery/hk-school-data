@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-25T12:16:00Z",
+ "updated_at": "2026-11-27T10:11:57Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -17505,13 +17505,13 @@
      "type": "info_day",
      "date": "2026-12-05",
      "date_end": null,
-     "label": "校曆預告：升中資訊日",
+     "label": "升中資訊日（家長講座 9:00–10:00／10:45–11:45；校園參觀 9:30–13:15）",
      "academic_year": "2027-28",
-     "source_text": "05/12 升中資訊日（04/12 教師發展日(上午)及升中資訊日準備(下午)）",
-     "evidence_url": "https://drive.google.com/file/d/1oG-BkEvPGDknmLoBR_sGYzqSbpJoGsQ_/view?usp=drive_link",
-     "confidence": "medium",
+     "source_text": "2026年12月5日（星期六）\n1. 升中家長講座\n(第一場) 上午 9:00-10:00\n(第二場) 上午 10:45-11:45\n2. 校園參觀\n時間：上午 9:30 - 下午 1:15",
+     "evidence_url": "https://www.plkwcc.edu.hk/f1admission-chi",
+     "confidence": "high",
      "event_id": "10-2027_28-info_day-001",
-     "extracted_at": "2026-10-25T12:12:42"
+     "extracted_at": "2026-11-27T05:52:31Z"
     },
     {
      "type": "application_open",
@@ -17541,13 +17541,13 @@
      "type": "interview",
      "date": "2027-03-13",
      "date_end": null,
-     "label": "全方位面試",
+     "label": "全方位面試（學額40；操行B級／乙等或以上；全部申請人獲安排面試；英語活動、中文活動、科學實驗、個人或小組面談比重均等；遴選：面試名次30%＋教育局名次70%；特別才華或獎項最多加面試總分10%）",
      "academic_year": "2027-28",
-     "source_text": "面試日期：2027 年 3 月 13 日（星期六）上、下午。面試只設一天，面試時間將由校方編排。",
+     "source_text": "本校中一級自行分配學位名額： 40 名。\n申請資格：操行良好 （B 級 / 乙等或以上 ）。\n面試人數：本校會安排所有申請同學參與面試。\n面試日期：2027 年 3 月 13 日（星期六）上、下午。\n面試只設一天，面試時間將由校方編排。\n英語活動；\n中文活動；\n科學實驗；\n個人或小組面談。\n以上四項各項活動佔面試比重均等。\n申請同學若有特別才華或優異的校際獎項（如取得香港或國際公開賽個人獎項或代表香港比賽），可獲得不多於面試總分 10%  之額外分數。\n遴選標準：本校依面試總分、結合教育局《成績次第名單》， 決定錄取結果。面試名次比重佔 30%，教育局名次比重佔 70%。",
      "evidence_url": "https://www.plkwcc.edu.hk/f1admission-chi",
      "confidence": "high",
      "event_id": "10-2027_28-interview-001",
-     "extracted_at": "2026-10-25T12:12:42"
+     "extracted_at": "2026-11-27T05:52:31Z"
     },
     {
      "type": "result",
@@ -22340,13 +22340,13 @@
      "type": "info_day",
      "date": "2026-12-12",
      "date_end": null,
-     "label": "本校資訊日",
+     "label": "中一入學講座暨資訊日（上午9:30–12:30／下午2:00–5:00；毋須報名；講座門券即場派發，先到先得）",
      "academic_year": "2027-28",
-     "source_text": "2027-2028 中一自行分配學位申請日程：12/12/2026 本校資訊日 School Information Day",
-     "evidence_url": "https://www.mosttss.edu.hk/tc/content.php?wid=78",
+     "source_text": "本校將於2026年12月12日（星期六）\n毋須報名，歡迎參加。\n上午時段 9:30 - 12:30\n下午時段 2:00 - 5:00\n講座時段：上午 9:30-10:30｜下午 2:00-3:00\n*講座座位有限，門券即場派發，先到先得。未能入座的來賓將獲安排到其他課室觀看直播。",
+     "evidence_url": "https://mosttss.edu.hk/tc/content.php?wid=108",
      "confidence": "high",
      "event_id": "207-2027_28-info_day-001",
-     "extracted_at": "2026-11-17T23:00:00"
+     "extracted_at": "2026-11-27T05:52:31Z"
     },
     {
      "type": "application_open",
