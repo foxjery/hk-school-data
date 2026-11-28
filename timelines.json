@@ -1,6 +1,6 @@
 {
  "version": "2.0",
- "updated_at": "2026-11-27T10:11:57Z",
+ "updated_at": "2026-11-28T07:54:49Z",
  "data_years": [
   "2023-24",
   "2024-25",
@@ -2485,7 +2485,92 @@
    "name": "孔聖堂禮仁書院",
    "school_type": "直資",
    "banding_tier": "Band 2",
-   "events": [],
+   "events": [
+    {
+     "academic_year": "2024-25",
+     "type": "registration",
+     "date": "2024-07-11",
+     "date_end": "2024-07-12",
+     "label": "中一新生註冊",
+     "source_text": "11 ~ 12 Jul 2024 中一新生註冊",
+     "evidence_url": "https://www.aich.edu.hk/upload/files/1/file/6527c1b9ce840.pdf",
+     "confidence": "verified",
+     "event_id": "174-2024_25-registration-001",
+     "extracted_at": "2026-11-28T07:54:49"
+    },
+    {
+     "academic_year": "2025-26",
+     "type": "orientation",
+     "date": "2025-07-10",
+     "date_end": null,
+     "label": "中一新生分班試",
+     "source_text": "7 月 10 日 中一新生分班試",
+     "evidence_url": "https://www.aich.edu.hk/upload/subpage3/3/self/684b8d78688af.pdf",
+     "confidence": "verified",
+     "event_id": "174-2025_26-orientation-001",
+     "extracted_at": "2026-11-28T07:54:49"
+    },
+    {
+     "academic_year": "2025-26",
+     "type": "registration",
+     "date": "2025-07-10",
+     "date_end": "2025-07-11",
+     "label": "中一新生註冊日",
+     "source_text": "7 月 10 日至 7 月 11 日 中一新生註冊日",
+     "evidence_url": "https://www.aich.edu.hk/upload/subpage3/3/self/684b8d78688af.pdf",
+     "confidence": "verified",
+     "event_id": "174-2025_26-registration-001",
+     "extracted_at": "2026-11-28T07:54:49"
+    },
+    {
+     "academic_year": "2026-27",
+     "type": "registration",
+     "date": "2026-07-09",
+     "date_end": "2026-07-10",
+     "label": "中一新生註冊",
+     "source_text": "9/7–10/7 中一新生註冊 Registration (New S1 Students)",
+     "evidence_url": "https://www.aich.edu.hk/upload/subpage1/2/self/69a4e5efa79a9.pdf",
+     "confidence": "verified",
+     "event_id": "174-2026_27-registration-001",
+     "extracted_at": "2026-11-28T07:54:49"
+    },
+    {
+     "academic_year": "2026-27",
+     "type": "orientation",
+     "date": "2026-07-14",
+     "date_end": null,
+     "label": "中一入學前學科測驗（新生）",
+     "source_text": "14/7 中一入學前學科測驗(新生) Pre-S1 Test (New Admission)",
+     "evidence_url": "https://www.aich.edu.hk/upload/subpage1/2/self/69a4e5efa79a9.pdf",
+     "confidence": "verified",
+     "event_id": "174-2026_27-orientation-001",
+     "extracted_at": "2026-11-28T07:54:49"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "registration",
+     "date": "2027-07-08",
+     "date_end": "2027-07-09",
+     "label": "中一新生註冊",
+     "source_text": "8/7–9/7 中一新生註冊 Registration (New S1 Students)",
+     "evidence_url": "https://www.aich.edu.hk/upload/subpage1/2/self/6a964a1b6cdc7.pdf",
+     "confidence": "verified",
+     "event_id": "174-2027_28-registration-001",
+     "extracted_at": "2026-11-28T07:43:26"
+    },
+    {
+     "academic_year": "2027-28",
+     "type": "orientation",
+     "date": "2027-07-13",
+     "date_end": null,
+     "label": "中一入學前學科測驗（新生）",
+     "source_text": "13/7 中一入學前學科測驗(新生) Pre-S1 Test (New Admission)",
+     "evidence_url": "https://www.aich.edu.hk/upload/subpage1/2/self/6a964a1b6cdc7.pdf",
+     "confidence": "verified",
+     "event_id": "174-2027_28-orientation-001",
+     "extracted_at": "2026-11-28T07:43:26"
+    }
+   ],
    "data_gap_reason": "no_public_admission_info",
    "data_gap_confirmed": "2026-04-29T10:32:03"
   },
